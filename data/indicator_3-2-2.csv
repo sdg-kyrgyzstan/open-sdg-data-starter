@@ -119,7 +119,7 @@ Year,AGE,Observation status,Unit measure,Unit multiplier,Value
 2016,under 1 month old,Normal value,"Per 1,000 live births",Units,50.222162
 2017,under 1 month old,Normal value,"Per 1,000 live births",Units,46.864858
 2018,under 1 month old,Normal value,"Per 1,000 live births",Units,16
-Year,Age,Observation status,Area,Unit measure,Unit multiplier,Value
+Year,Age,Observation status,Unit measure,Unit multiplier,Value
 2007,under 1 month old,Normal value,"Per 1,000 live births",Units,21.062709
 2008,under 1 month old,Normal value,"Per 1,000 live births",Units,19.633713
 2009,under 1 month old,Normal value,"Per 1,000 live births",Units,18.141025

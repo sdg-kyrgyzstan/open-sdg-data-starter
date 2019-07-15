@@ -330,7 +330,7 @@ Year,Observation status,Sex,Unit measure,Unit multiplier,Value
 2016,Normal value,Female,Percent,Units,23.187149
 2017,Normal value,Female,Percent,Units,30.9
 =======
-Year,Observation status,Area,Sex,Unit measure,Unit multiplier,Value
+Year,Observation status,Sex,Unit measure,Unit multiplier,Value
 2007,Normal value,Percent,Units,35.0
 2008,Normal value,Percent,Units,31.7
 2009,Normal value,Percent,Units,31.7
