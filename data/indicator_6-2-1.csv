@@ -1,7 +1,23 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Education level,Observation status,Area,Unit measure,Unit multiplier,Urbanisation,Value
+2018,,Normal value,,Percent,Units,,96.3
+2018,,Normal value,Batken,Percent,Units,,99.6
+2018,,Normal value,Jalal-Abad,Percent,Units,,93.4
+2018,,Normal value,Issyk-Kul,Percent,Units,,99.1
+2018,,Normal value,Naryn,Percent,Units,,99.4
+2018,,Normal value,Osh,Percent,Units,,99.1
+2018,,Normal value,Talas,Percent,Units,,99.8
+2018,,Normal value,Chui,Percent,Units,,91.6
+2018,,Normal value,Bishkek (city),Percent,Units,,95.7
+2018,,Normal value,Osh (city),Percent,Units,,96.8
+2018,,Normal value,,Percent,Units,Urban,96.1
+2018,,Normal value,,Percent,Units,Rural,96.5
+2018,,Normal value,,Percent,Units,,97.2
+2018,,Normal value,,Percent,Units,,95.9
+2018,,Normal value,,Percent,Units,,96.5
+2018,,Normal value,,Percent,Units,,96.4
+2018,,Normal value,,Percent,Units,,95.7
+2018,Pre-primary education,Normal value,,Percent,Units,,92.1
+2018,Primary education,Normal value,,Percent,Units,,94.7
+2018,Lower secondary education,Normal value,,Percent,Units,,97.4
+2018,Upper secondary education,Normal value,,Percent,Units,,96.6
+2018,Post-secondary non-tertiary education,Normal value,,Percent,Units,,95.1
