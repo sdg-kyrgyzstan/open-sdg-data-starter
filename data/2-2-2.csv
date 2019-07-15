@@ -1,7 +1,41 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,Observation status,Area,Unit measure,Unit multiplier,Value
+2014,under 5 years old,Normal value,,Percent,Units,28.0
+2018,under 5 years old,Normal value,,Percent,Units,20.0
+2014,under 5 years old,Normal value,Batken,Percent,Units,22.0
+2018,under 5 years old,Normal value,Batken,Percent,Units,23.0
+2014,under 5 years old,Normal value,Jalal-Abad,Percent,Units,79.0
+2018,under 5 years old,Normal value,Jalal-Abad,Percent,Units,38.0
+2014,under 5 years old,Normal value,Issyk-Kul,Percent,Units,17.0
+2018,under 5 years old,Normal value,Issyk-Kul,Percent,Units,21.0
+2014,under 5 years old,Normal value,Naryn,Percent,Units,5.0
+2018,under 5 years old,Normal value,Naryn,Percent,Units,11.0
+2014,under 5 years old,Normal value,Osh,Percent,Units,11.0
+2018,under 5 years old,Normal value,Osh,Percent,Units,16.0
+2014,under 5 years old,Normal value,Talas,Percent,Units,10.0
+2018,under 5 years old,Normal value,Talas,Percent,Units,29.0
+2014,under 5 years old,Normal value,Chui,Percent,Units,15.0
+2018,under 5 years old,Normal value,Chui,Percent,Units,15.0
+2014,under 5 years old,Normal value,Bishkek (city),Percent,Units,21.0
+2018,under 5 years old,Normal value,Bishkek (city),Percent,Units,6.0
+2014,under 5 years old,Normal value,Osh (city),Percent,Units,24.0
+2018,under 5 years old,Normal value,Osh (city),Percent,Units,18.0
+2014,under 5 years old,Normal value,,Percent,Units,70.0
+2018,under 5 years old,Normal value,,Percent,Units,69.0
+2014,under 5 years old,Normal value,Batken,Percent,Units,34.0
+2018,under 5 years old,Normal value,Batken,Percent,Units,69.0
+2014,under 5 years old,Normal value,Jalal-Abad,Percent,Units,87.0
+2018,under 5 years old,Normal value,Jalal-Abad,Percent,Units,89.0
+2014,under 5 years old,Normal value,Issyk-Kul,Percent,Units,78.0
+2018,under 5 years old,Normal value,Issyk-Kul,Percent,Units,46.0
+2014,under 5 years old,Normal value,Naryn,Percent,Units,62.0
+2018,under 5 years old,Normal value,Naryn,Percent,Units,44.0
+2014,under 5 years old,Normal value,Osh,Percent,Units,47.0
+2018,under 5 years old,Normal value,Osh,Percent,Units,53.0
+2014,under 5 years old,Normal value,Talas,Percent,Units,73.0
+2018,under 5 years old,Normal value,Talas,Percent,Units,29.0
+2014,under 5 years old,Normal value,Chui,Percent,Units,90.0
+2018,under 5 years old,Normal value,Chui,Percent,Units,117.0
+2014,under 5 years old,Normal value,Bishkek (city),Percent,Units,95.0
+2018,under 5 years old,Normal value,Bishkek (city),Percent,Units,74.0
+2014,under 5 years old,Normal value,Osh (city),Percent,Units,43.0
+2018,under 5 years old,Normal value,Osh (city),Percent,Units,33.0
