@@ -1,0 +1,1 @@
+{"data":{"Year":[2018,2018],"AGE":["20 to 24 years old","20 to 24 years old"],"Observation status":["Normal value","Normal value"],"Sex":["Female","Female"],"Unit measure":["Percent","Percent"],"Unit multiplier":["Units","Units"],"Value":[0.3,12.9]},"edges":{"From":["AGE"],"To":["Sex"]}}

@@ -1,0 +1,1 @@
+{"data":{"Year":[2018],"AGE":["15 to 19 years old"],"Observation status":["Normal value"],"Sex":["Female"],"Unit measure":["Per 1,000 population"],"Unit multiplier":["Units"],"Value":[50]},"edges":{"From":["AGE"],"To":["Sex"]}}
