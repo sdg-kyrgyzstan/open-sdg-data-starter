@@ -67,7 +67,7 @@ jobs:
           command: bash scripts/deploy/circleci/deploy_staging.sh
       - run: 
            name: Waiting for staging data deployment
-           command: sleep(60)
+           command: sleep(300) && echo 1
       - run:
           name: Trigger staging site deployment
           command: |
@@ -95,7 +95,7 @@ jobs:
           command: bash scripts/deploy/circleci/deploy_prod.sh
       - run: 
            name: Waiting for live data deployment
-           command: sleep(60)
+           command: sleep(300) && echo 1
       - run:
           name: Trigger live site deployment
           command: |
