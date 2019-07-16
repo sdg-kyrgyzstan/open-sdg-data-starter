@@ -51,6 +51,17 @@ jobs:
           root: ~/repo
           paths:
             - _site
+      - run:
+          name: Trigger the Build Job
+          command: |
+            printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
+
+            curl -u ${CIRCLE_TOKEN}: \
+                 -d build_parameters[CIRCLE_JOB]=deploy_staging \
+                 https://circleci.com/api/v1/project/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH
+
+            printf "\n\nBuild triggered\n\n"
+            printf "Follow the progress of the build on \nhttps://circleci.com/gh/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH"
   deploy_staging:
     docker:
       - image: circleci/python:3.6.1
