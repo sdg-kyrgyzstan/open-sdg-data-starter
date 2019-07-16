@@ -56,7 +56,7 @@ jobs:
           command: |
             printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
 
-            BUILD_INFO=$(curl -X POST -H -d \ build_parameters[CIRCLE_JOB]=deploy_staging
+            BUILD_INFO=$(curl -X POST -H -d build_parameters[CIRCLE_JOB]=deploy_staging \
                 "{}" \
                 "https://circleci.com/api/v1/project/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH?circle-token=$CIRCLE_TOKEN")
 
