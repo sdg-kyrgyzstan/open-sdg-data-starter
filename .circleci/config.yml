@@ -1,9 +1,4 @@
 # Python CircleCI 2.0 configuration file
-ORGANIZATION=sdg-kyrgyzstan
-PROJECT=open-sdg-data-starter
-BRANCH=develop
-CIRCLE_TOKEN=8d55880f1d1b3474fee86efa753c104814cfebb1
-
 version: 2
 jobs:
   test:
