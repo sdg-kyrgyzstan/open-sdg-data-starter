@@ -65,8 +65,11 @@ jobs:
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_staging.sh
+      - run: 
+           name: Waiting for staging data deployment
+           command: sleep(60)
       - run:
-          name: Trigger the Build Job
+          name: Trigger staging site deployment
           command: |
             printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
 
@@ -90,8 +93,11 @@ jobs:
       - run:
           name: Deploy to production Github
           command: bash scripts/deploy/circleci/deploy_prod.sh
+      - run: 
+           name: Waiting for live data deployment
+           command: sleep(60)
       - run:
-          name: Trigger the Build Job
+          name: Trigger live site deployment
           command: |
             printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
 
