@@ -66,8 +66,10 @@ jobs:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_staging.sh
       - run: 
-           name: Waiting for staging data deployment
-           command: sleep 300
+          name: Waiting for staging data deployment
+          command: |
+            printf "Waiting 5 minutes for the data to finish deploying to the staging site"
+            sleep 300
       - run:
           name: Trigger staging site deployment
           command: |
@@ -94,8 +96,10 @@ jobs:
           name: Deploy to production Github
           command: bash scripts/deploy/circleci/deploy_prod.sh
       - run: 
-           name: Waiting for live data deployment
-           command: sleep 300
+          name: Waiting for staging data deployment
+          command: |
+            printf "Waiting 5 minutes for the data to finish deploying to the staging site"
+            sleep 300
       - run:
           name: Trigger live site deployment
           command: |
