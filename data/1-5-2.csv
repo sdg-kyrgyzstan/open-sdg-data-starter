@@ -1,7 +1,209 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Area,Unit measure,Unit multiplier,Value
+2007,Normal value,,Percent,Units,0.102468
+2008,Normal value,,Percent,Units,0.6574220000000001
+2009,Normal value,,Percent,Units,0.037073
+2010,Normal value,,Percent,Units,0.23456100000000002
+2011,Normal value,,Percent,Units,0.32864899999999997
+2012,Normal value,,Percent,Units,0.297902
+2013,Normal value,,Percent,Units,0.062089
+2014,Normal value,,Percent,Units,0.113728
+2015,Normal value,,Percent,Units,0.532092
+2016,Normal value,,Percent,Units,0.21124
+2017,Normal value,,Percent,Units,0.193675
+2018,Normal value,,Percent,Units,0.21801700000000002
+2007,Normal value,,Local currency,Units,145.4
+2008,Normal value,,Local currency,Units,1235.9
+2009,Normal value,,Local currency,Units,74.6
+2010,Normal value,,Local currency,Units,516.9
+2011,Normal value,,Local currency,Units,939.9
+2012,Normal value,,Local currency,Units,924.9
+2013,Normal value,,Local currency,Units,220.6
+2014,Normal value,,Local currency,Units,455.7
+2015,Normal value,,Local currency,Units,2290.6
+2016,Normal value,,Local currency,Units,1006.2
+2017,Normal value,,Local currency,Units,1027.4
+2018,Normal value,,Local currency,Units,1214.6
+2007,Normal value,Batken,Percent,Units,0.358951
+2008,Normal value,Batken,Percent,Units,2.126272
+2009,Normal value,Batken,Percent,Units,0.40389899999999995
+2010,Normal value,Batken,Percent,Units,0.333138
+2011,Normal value,Batken,Percent,Units,4.307812
+2012,Normal value,Batken,Percent,Units,1.9565740000000003
+2013,Normal value,Batken,Percent,Units,0.029689999999999998
+2014,Normal value,Batken,Percent,Units,0.25113
+2015,Normal value,Batken,Percent,Units,3.438047
+2016,Normal value,Batken,Percent,Units,2.2105
+2017,Normal value,Batken,Percent,Units,0.753563
+2007,Normal value,Batken,Local currency,Units,17.8
+2008,Normal value,Batken,Local currency,Units,130.4
+2009,Normal value,Batken,Local currency,Units,25.4
+2010,Normal value,Batken,Local currency,Units,26.2
+2011,Normal value,Batken,Local currency,Units,551.4
+2012,Normal value,Batken,Local currency,Units,267.9
+2013,Normal value,Batken,Local currency,Units,4.5
+2014,Normal value,Batken,Local currency,Units,41.6
+2015,Normal value,Batken,Local currency,Units,588.8
+2016,Normal value,Batken,Local currency,Units,376.3
+2017,Normal value,Batken,Local currency,Units,135.0
+2018,Normal value,Batken,Local currency,Units,189.8
+2007,Normal value,Jalal-Abad,Percent,Units,0.41211800000000004
+2008,Normal value,Jalal-Abad,Percent,Units,0.136994
+2009,Normal value,Jalal-Abad,Percent,Units,0.015857
+2010,Normal value,Jalal-Abad,Percent,Units,1.154719
+2011,Normal value,Jalal-Abad,Percent,Units,0.45326400000000006
+2012,Normal value,Jalal-Abad,Percent,Units,1.016425
+2013,Normal value,Jalal-Abad,Percent,Units,0.101309
+2014,Normal value,Jalal-Abad,Percent,Units,0.072479
+2015,Normal value,Jalal-Abad,Percent,Units,0.172868
+2016,Normal value,Jalal-Abad,Percent,Units,0.441517
+2017,Normal value,Jalal-Abad,Percent,Units,0.196222
+2007,Normal value,Jalal-Abad,Local currency,Units,66.7
+2008,Normal value,Jalal-Abad,Local currency,Units,31.0
+2009,Normal value,Jalal-Abad,Local currency,Units,3.7
+2010,Normal value,Jalal-Abad,Local currency,Units,305.9
+2011,Normal value,Jalal-Abad,Local currency,Units,148.6
+2012,Normal value,Jalal-Abad,Local currency,Units,375.2
+2013,Normal value,Jalal-Abad,Local currency,Units,38.0
+2014,Normal value,Jalal-Abad,Local currency,Units,31.2
+2015,Normal value,Jalal-Abad,Local currency,Units,85.1
+2016,Normal value,Jalal-Abad,Local currency,Units,232.3
+2017,Normal value,Jalal-Abad,Local currency,Units,120.1
+2018,Normal value,Jalal-Abad,Local currency,Units,72.9
+2007,Normal value,Issyk-Kul,Percent,Units,0.003239
+2008,Normal value,Issyk-Kul,Percent,Units,0.003293
+2009,Normal value,Issyk-Kul,Percent,Units,0.034457
+2010,Normal value,Issyk-Kul,Percent,Units,0.0016920000000000001
+2011,Normal value,Issyk-Kul,Percent,Units,0.012270999999999999
+2012,Normal value,Issyk-Kul,Percent,Units,0.112102
+2013,Normal value,Issyk-Kul,Percent,Units,0.148306
+2014,Normal value,Issyk-Kul,Percent,Units,0.685858
+2015,Normal value,Issyk-Kul,Percent,Units,0.015296
+2016,Normal value,Issyk-Kul,Percent,Units,0.169567
+2017,Normal value,Issyk-Kul,Percent,Units,0.130728
+2007,Normal value,Issyk-Kul,Local currency,Units,0.5
+2008,Normal value,Issyk-Kul,Local currency,Units,0.7
+2009,Normal value,Issyk-Kul,Local currency,Units,9.5
+2010,Normal value,Issyk-Kul,Local currency,Units,0.6
+2011,Normal value,Issyk-Kul,Local currency,Units,5.3
+2012,Normal value,Issyk-Kul,Local currency,Units,40.4
+2013,Normal value,Issyk-Kul,Local currency,Units,75.2
+2014,Normal value,Issyk-Kul,Local currency,Units,356.3
+2015,Normal value,Issyk-Kul,Local currency,Units,7.7
+2016,Normal value,Issyk-Kul,Local currency,Units,102.7
+2017,Normal value,Issyk-Kul,Local currency,Units,84.2
+2018,Normal value,Issyk-Kul,Local currency,Units,74.2
+2007,Normal value,Naryn,Percent,Units,0.009569
+2008,Normal value,Naryn,Percent,Units,0.035207
+2009,Normal value,Naryn,Percent,Units,0.008456
+2010,Normal value,Naryn,Percent,Units,1.65095
+2011,Normal value,Naryn,Percent,Units,1.5924610000000001
+2012,Normal value,Naryn,Percent,Units,1.562362
+2013,Normal value,Naryn,Percent,Units,0.741692
+2014,Normal value,Naryn,Percent,Units,0.037975999999999996
+2015,Normal value,Naryn,Percent,Units,0.21439499999999997
+2016,Normal value,Naryn,Percent,Units,0.157299
+2017,Normal value,Naryn,Percent,Units,0.09170199999999999
+2007,Normal value,Naryn,Local currency,Units,0.6
+2008,Normal value,Naryn,Local currency,Units,2.8
+2009,Normal value,Naryn,Local currency,Units,0.6
+2010,Normal value,Naryn,Local currency,Units,120.1
+2011,Normal value,Naryn,Local currency,Units,121.0
+2012,Normal value,Naryn,Local currency,Units,141.3
+2013,Normal value,Naryn,Local currency,Units,72.2
+2014,Normal value,Naryn,Local currency,Units,4.3
+2015,Normal value,Naryn,Local currency,Units,27.8
+2016,Normal value,Naryn,Local currency,Units,22.3
+2017,Normal value,Naryn,Local currency,Units,12.8
+2018,Normal value,Naryn,Local currency,Units,1.4
+2007,Normal value,Osh,Percent,Units,0.042933
+2008,Normal value,Osh,Percent,Units,5.639406
+2009,Normal value,Osh,Percent,Units,0.05725499999999999
+2010,Normal value,Osh,Percent,Units,0.198522
+2011,Normal value,Osh,Percent,Units,0.369869
+2012,Normal value,Osh,Percent,Units,0.17834
+2013,Normal value,Osh,Percent,Units,0.010609
+2014,Normal value,Osh,Percent,Units,0.0035700000000000003
+2015,Normal value,Osh,Percent,Units,4.302561
+2016,Normal value,Osh,Percent,Units,0.049422
+2017,Normal value,Osh,Percent,Units,0.702855
+2007,Normal value,Osh,Local currency,Units,6.3
+2008,Normal value,Osh,Local currency,Units,1024.9
+2009,Normal value,Osh,Local currency,Units,10.9
+2010,Normal value,Osh,Local currency,Units,40.5
+2011,Normal value,Osh,Local currency,Units,105.0
+2012,Normal value,Osh,Local currency,Units,48.1
+2013,Normal value,Osh,Local currency,Units,2.9
+2014,Normal value,Osh,Local currency,Units,1.1
+2015,Normal value,Osh,Local currency,Units,1364.2
+2016,Normal value,Osh,Local currency,Units,16.2
+2017,Normal value,Osh,Local currency,Units,261.8
+2018,Normal value,Osh,Local currency,Units,12.4
+2007,Normal value,Talas,Percent,Units,0.21097800000000003
+2008,Normal value,Talas,Percent,Units,0.051951
+2009,Normal value,Talas,Percent,Units,0.405354
+2010,Normal value,Talas,Percent,Units,0.29974
+2011,Normal value,Talas,Percent,Units,0.045176999999999995
+2012,Normal value,Talas,Percent,Units,0.518047
+2013,Normal value,Talas,Percent,Units,0.059489999999999994
+2014,Normal value,Talas,Percent,Units,0.008098000000000001
+2015,Normal value,Talas,Percent,Units,0.061364999999999996
+2016,Normal value,Talas,Percent,Units,0.5173180000000001
+2017,Normal value,Talas,Percent,Units,0.092032
+2007,Normal value,Talas,Local currency,Units,12.3
+2008,Normal value,Talas,Local currency,Units,4.4
+2009,Normal value,Talas,Local currency,Units,24.5
+2010,Normal value,Talas,Local currency,Units,22.0
+2011,Normal value,Talas,Local currency,Units,3.0
+2012,Normal value,Talas,Local currency,Units,49.0
+2013,Normal value,Talas,Local currency,Units,6.6
+2014,Normal value,Talas,Local currency,Units,1.1
+2015,Normal value,Talas,Local currency,Units,8.9
+2016,Normal value,Talas,Local currency,Units,76.1
+2017,Normal value,Talas,Local currency,Units,14.7
+2018,Normal value,Talas,Local currency,Units,0.7
+2007,Normal value,Chui,Percent,Units,0.035582
+2010,Normal value,Chui,Percent,Units,0.0057009999999999995
+2011,Normal value,Chui,Percent,Units,0.01326
+2012,Normal value,Chui,Percent,Units,0.004035
+2013,Normal value,Chui,Percent,Units,0.029168
+2014,Normal value,Chui,Percent,Units,0.033948
+2015,Normal value,Chui,Percent,Units,0.033197000000000004
+2016,Normal value,Chui,Percent,Units,0.118862
+2017,Normal value,Chui,Percent,Units,0.23467800000000003
+2007,Normal value,Chui,Local currency,Units,8.4
+2010,Normal value,Chui,Local currency,Units,1.7
+2011,Normal value,Chui,Local currency,Units,5.6
+2012,Normal value,Chui,Local currency,Units,1.7
+2013,Normal value,Chui,Local currency,Units,14.1
+2014,Normal value,Chui,Local currency,Units,20.0
+2015,Normal value,Chui,Local currency,Units,24.4
+2016,Normal value,Chui,Local currency,Units,93.2
+2017,Normal value,Chui,Local currency,Units,207.5
+2018,Normal value,Chui,Local currency,Units,6.1
+2007,Normal value,Bishkek (city),Percent,Units,0.063779
+2008,Normal value,Bishkek (city),Percent,Units,0.060758000000000006
+2013,Normal value,Bishkek (city),Percent,Units,0.0005099999999999999
+2015,Normal value,Bishkek (city),Percent,Units,0.028177999999999998
+2016,Normal value,Bishkek (city),Percent,Units,0.047988
+2017,Normal value,Bishkek (city),Percent,Units,0.006461
+2007,Normal value,Bishkek (city),Local currency,Units,32.2
+2008,Normal value,Bishkek (city),Local currency,Units,41.5
+2013,Normal value,Bishkek (city),Local currency,Units,0.7
+2015,Normal value,Bishkek (city),Local currency,Units,44.7
+2016,Normal value,Bishkek (city),Local currency,Units,86.8
+2017,Normal value,Bishkek (city),Local currency,Units,129.8
+2018,Normal value,Bishkek (city),Local currency,Units,856.9
+2007,Normal value,Osh (city),Percent,Units,0.01574
+2008,Normal value,Osh (city),Percent,Units,0.0033710000000000003
+2012,Normal value,Osh (city),Percent,Units,0.006958
+2013,Normal value,Osh (city),Percent,Units,0.034602
+2015,Normal value,Osh (city),Percent,Units,0.6187199999999999
+2016,Normal value,Osh (city),Percent,Units,0.001192
+2017,Normal value,Osh (city),Percent,Units,0.202023
+2007,Normal value,Osh (city),Local currency,Units,0.7
+2008,Normal value,Osh (city),Local currency,Units,0.2
+2012,Normal value,Osh (city),Local currency,Units,1.1
+2013,Normal value,Osh (city),Local currency,Units,6.3
+2015,Normal value,Osh (city),Local currency,Units,139.1
+2016,Normal value,Osh (city),Local currency,Units,0.3
+2017,Normal value,Osh (city),Local currency,Units,61.5
