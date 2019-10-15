@@ -1,25 +1,25 @@
-Year,Age,Observation status,Area,Unit measure,Unit multiplier,Value
-2007,16 years old and over,Normal value,,"Per 100,000 population",Units,6.107469
-2008,16 years old and over,Normal value,,"Per 100,000 population",Units,6.545429
-2009,16 years old and over,Normal value,,"Per 100,000 population",Units,6.616596
-2010,16 years old and over,Normal value,,"Per 100,000 population",Units,5.693048999999999
-2011,16 years old and over,Normal value,,"Per 100,000 population",Units,6.799081
-2012,16 years old and over,Normal value,,"Per 100,000 population",Units,7.28108
-2013,16 years old and over,Normal value,,"Per 100,000 population",Units,7.394386
-2014,16 years old and over,Normal value,,"Per 100,000 population",Units,7.425508
-2015,16 years old and over,Normal value,,"Per 100,000 population",Units,7.827334
-2016,16 years old and over,Normal value,,"Per 100,000 population",Units,7.948410000000001
-2017,16 years old and over,Normal value,,"Per 100,000 population",Units,7.710477
-2018,16 years old and over,Normal value,,"Per 100,000 population",Units,7.640969
-2007,16 years old and over,Normal value,,"Per 100,000 population",Units,2.471394
-2008,16 years old and over,Normal value,,"Per 100,000 population",Units,4.888003
-2009,16 years old and over,Normal value,,"Per 100,000 population",Units,8.720619000000001
-2010,16 years old and over,Normal value,,"Per 100,000 population",Units,7.554757
-2011,16 years old and over,Normal value,,"Per 100,000 population",Units,12.265008
-2012,16 years old and over,Normal value,,"Per 100,000 population",Units,15.97647
-2013,16 years old and over,Normal value,,"Per 100,000 population",Units,21.075288
-2014,16 years old and over,Normal value,,"Per 100,000 population",Units,25.292345
-2015,16 years old and over,Normal value,,"Per 100,000 population",Units,30.810779999999998
-2016,16 years old and over,Normal value,,"Per 100,000 population",Units,31.891768
-2017,16 years old and over,Normal value,,"Per 100,000 population",Units,34.153303
-2018,16 years old and over,Normal value,,"Per 100,000 population",Units,37.681164
+Year,Value
+2007,6.107469
+2008,6.545429
+2009,6.616596
+2010,5.693049
+2011,6.799081
+2012,7.28108
+2013,7.394386
+2014,7.425508
+2015,7.827334
+2016,7.94841
+2017,7.710477
+2018,7.640969
+2007,2.471394
+2008,4.888003
+2009,8.720619
+2010,7.554757
+2011,12.265008
+2012,15.97647
+2013,21.075288
+2014,25.292345
+2015,30.81078
+2016,31.891768
+2017,34.153303
+2018,37.681164

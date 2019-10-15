@@ -1,10 +1,9 @@
-Year,Observation status,Unit measure,Unit multiplier,Value
-2010,Normal value,Per million population,Hundreds,3.6037550000000005
-2011,Normal value,Per million population,Hundreds,4.005844000000001
-2012,Normal value,Per million population,Hundreds,4.147881
-2013,Normal value,Per million population,Hundreds,5.302455
-2014,Normal value,Per million population,Hundreds,5.111057
-2015,Normal value,Per million population,Hundreds,5.7164410000000005
-2016,Normal value,Per million population,Hundreds,5.625224
-2017,Normal value,Per million population,Hundreds,5.2
-2018,Normal value,Per million population,Hundreds,5.6
+Year,Value
+2010,360
+2011,401
+2012,415
+2013,530
+2014,511
+2015,572
+2016,563
+2017,524

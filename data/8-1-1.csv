@@ -1,9 +1,9 @@
-Year,Observation status,Area,Unit measure,Unit multiplier,Value
-2010,Normal value,,Percent,Units,-0.5
-2011,Normal value,,Percent,Units,6.0
-2012,Normal value,,Percent,Units,-0.1
-2013,Normal value,,Percent,Units,10.9
-2014,Normal value,,Percent,Units,4.0
-2015,Normal value,,Percent,Units,3.9
-2016,Normal value,,Percent,Units,4.3
-2017,Normal value,,Percent,Units,4.7
+Year,Value
+2010,-0.5
+2011,6
+2012,-0.1
+2013,10.9
+2014,4
+2015,3.9
+2016,4.3
+2017,4.7

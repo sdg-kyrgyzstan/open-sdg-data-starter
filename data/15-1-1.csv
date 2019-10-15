@@ -1,9 +1,9 @@
-Year,Observation status,Area,Unit measure,Unit multiplier,Value
-2011,Normal value,,Percent,Units,5.6
-2011,Normal value,Batken,Percent,Units,9.8
-2011,Normal value,Jalal-Abad,Percent,Units,4.1
-2011,Normal value,Issyk-Kul,Percent,Units,3.2
-2011,Normal value,Naryn,Percent,Units,3.1
-2011,Normal value,Osh,Percent,Units,6.4
-2011,Normal value,Talas,Percent,Units,4.5
-2011,Normal value,Chui,Percent,Units,2.2
+Year,Reference area,Value
+2011,,5.6
+2011,Batken,9.8
+2011,Jalal-Abad,4.1
+2011,Issyk-Kul,3.2
+2011,Naryn,3.1
+2011,Osh,6.4
+2011,Talas,4.5
+2011,Chui,2.2
