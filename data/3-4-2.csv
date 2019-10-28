@@ -1,121 +1,18 @@
-Year,Reference area,Value
-2007,,98.436866
-2008,,98.483992
-2009,,98.495642
-2010,,98.309687
-2011,,98.622407
-2012,,98.838817
-2013,,98.985022
-2014,,99.176724
-2015,,99.230049
-2016,,99.185581
-2017,,99.3
-2018,,99.3
-2007,Batken,97.74409
-2008,Batken,97.474925
-2009,Batken,98.874508
-2010,Batken,96.861772
-2011,Batken,97.13801
-2012,Batken,98.465778
-2013,Batken,99.080933
-2014,Batken,99.356181
-2015,Batken,99.261631
-2016,Batken,98.979592
-2017,Batken,99.2
-2018,Batken,99.4
-2007,Jalal-Abad,98.959241
-2008,Jalal-Abad,98.575021
-2009,Jalal-Abad,98.923445
-2010,Jalal-Abad,98.940709
-2011,Jalal-Abad,99.115744
-2012,Jalal-Abad,99.045346
-2013,Jalal-Abad,99.080837
-2014,Jalal-Abad,99.16137
-2015,Jalal-Abad,99.299119
-2016,Jalal-Abad,99.265036
-2017,Jalal-Abad,99.4
-2018,Jalal-Abad,99.4
-2007,Issyk-Kul,99.294245
-2008,Issyk-Kul,99.008513
-2009,Issyk-Kul,99.274602
-2010,Issyk-Kul,99.414531
-2011,Issyk-Kul,99.463221
-2012,Issyk-Kul,99.435996
-2013,Issyk-Kul,99.427262
-2014,Issyk-Kul,99.451005
-2015,Issyk-Kul,99.391542
-2016,Issyk-Kul,99.422551
-2017,Issyk-Kul,99.5
-2018,Issyk-Kul,99.5
-2007,Naryn,97.720601
-2008,Naryn,98.116039
-2009,Naryn,98.275296
-2010,Naryn,97.822417
-2011,Naryn,98.680426
-2012,Naryn,98.696845
-2013,Naryn,98.717291
-2014,Naryn,98.817416
-2015,Naryn,98.774112
-2016,Naryn,98.787433
-2017,Naryn,99
-2018,Naryn,99.2
-2007,Osh,96.877363
-2008,Osh,97.394325
-2009,Osh,96.451545
-2010,Osh,96.52909
-2011,Osh,97.299639
-2012,Osh,97.817694
-2013,Osh,98.222659
-2014,Osh,98.874035
-2015,Osh,99.087129
-2016,Osh,99.070282
-2017,Osh,99.1
-2018,Osh,99.1
-2007,Talas,99.285714
-2008,Talas,99.252883
-2009,Talas,99.270189
-2010,Talas,99.485821
-2011,Talas,99.688576
-2012,Talas,99.660672
-2013,Talas,99.694501
-2014,Talas,99.680296
-2015,Talas,99.729775
-2016,Talas,99.713877
-2017,Talas,99.5
-2018,Talas,99.7
-2007,Chui,99.023641
-2008,Chui,99.18247
-2009,Chui,99.161879
-2010,Chui,99.199707
-2011,Chui,99.107284
-2012,Chui,99.152542
-2013,Chui,99.134263
-2014,Chui,99.23354
-2015,Chui,99.163311
-2016,Chui,99.176269
-2017,Chui,99.2
-2018,Chui,99.2
-2007,Bishkek (city),99.435435
-2008,Bishkek (city),99.586624
-2009,Bishkek (city),99.621193
-2010,Bishkek (city),99.598067
-2011,Bishkek (city),99.46062
-2012,Bishkek (city),99.614421
-2013,Bishkek (city),99.611183
-2014,Bishkek (city),99.609444
-2015,Bishkek (city),99.494367
-2016,Bishkek (city),99.479551
-2017,Bishkek (city),99.5
-2018,Bishkek (city),99.6
-2007,Osh (city),98.916283
-2008,Osh (city),98.982971
-2009,Osh (city),98.918685
-2010,Osh (city),97.390903
-2011,Osh (city),99.342208
-2012,Osh (city),98.973247
-2013,Osh (city),99.300699
-2014,Osh (city),99.388163
-2015,Osh (city),99.258076
-2016,Osh (city),99.319952
-2017,Osh (city),99.5
-2018,Osh (city),99.7
+Year,Reference area,Age,Value
+2014,,15 to 49 years old,42.0
+2014,Batken,15 to 49 years old,45.0
+2014,Jalal-Abad,15 to 49 years old,31.4
+2014,Issyk-Kul,15 to 49 years old,46.0
+2014,Naryn,15 to 49 years old,58.9
+2014,Osh,15 to 49 years old,38.4
+2014,Talas,15 to 49 years old,43.4
+2014,Chui,15 to 49 years old,47.8
+2014,Bishkek (city),15 to 49 years old,47.0
+2014,Osh (city),15 to 49 years old,38.3
+2014,,15 to 19 years old,17.4
+2014,,20 to 24 years old,28.9
+2014,,25 to 29 years old,39.2
+2014,,30 to 34 years old,50.4
+2014,,35 to 39 years old,57.2
+2014,,40 to 44 years old,52.2
+2014,,45 to 49 years old,29.3
