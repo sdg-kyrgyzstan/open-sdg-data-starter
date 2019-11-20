@@ -1,26 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on 2017-10-04
+import output
 
-@author: dougashton
-"""
-
-# %% setup
-
-import sdg
-
-def main():
-    """Run csv checks on all indicator csvs in the data directory"""
-    status = True
-    
-    status = status & sdg.check_all_csv()
-    status = status & sdg.check_all_meta()
-
-    return status
-
-if __name__ == '__main__':
-    status = main()
-    if(not status):
-        raise RuntimeError("Failed checks")
-    else:
-        print("Success")
+valid = output.opensdg_output.validate()
+if not valid:
+  raise Exception('There were validation errors. See output above.')
