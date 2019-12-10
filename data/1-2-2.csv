@@ -1,6 +1,6 @@
 Year,Sex,Age,Value
-2015,,18 to 25 years old,6.79069
-2016,,18 to 25 years old,8.50387
+2015,,Y18T25,6.79069
+2016,,Y18T25,8.50387
 2015,,26 to 34 years old,26.758356
 2016,,26 to 34 years old,17.28565
 2015,,35 to 45 years old,31.71024
@@ -11,8 +11,8 @@ Year,Sex,Age,Value
 2016,,55 to 59 years old,15.315743
 2015,,60 years old and over,20.935462
 2016,,60 years old and over,18.405718
-2015,Male,18 to 25 years old,10.259909
-2016,Male,18 to 25 years old,15.15952
+2015,Male,Y18T25,10.259909
+2016,Male,Y18T25,15.15952
 2015,Male,26 to 34 years old,31.510788
 2016,Male,26 to 34 years old,18.446172
 2015,Male,35 to 45 years old,37.783253
@@ -23,8 +23,8 @@ Year,Sex,Age,Value
 2016,Male,55 to 59 years old,14.583348
 2015,Male,60 years old and over,22.535099
 2016,Male,60 years old and over,22.207182
-2015,Female,18 to 25 years old,4.052113
-2016,Female,18 to 25 years old,3.023204
+2015,Female,Y18T25,4.052113
+2016,Female,Y18T25,3.023204
 2015,Female,26 to 34 years old,11.711487
 2016,Female,26 to 34 years old,14.565238
 2015,Female,35 to 45 years old,12.380541
