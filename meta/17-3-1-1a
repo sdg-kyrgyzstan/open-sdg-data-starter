@@ -1,0 +1,17 @@
+---
+data_non_statistical: false
+graph_type: line
+indicator: 17.3.1.1a
+target: global_targets.17-3-title
+indicator_name: 17.3.1.1a Foreign direct investment by economic activity
+graph_title: Foreign direct investment by economic activity
+indicator_sort_order: 17-03-01-1a
+layout: indicator
+published: true
+reporting_status: complete
+sdg_goal: '17'
+target_id: '17.3'
+national_geographical_coverage: Кыргызская Республика
+tags:
+- custom.national
+---
