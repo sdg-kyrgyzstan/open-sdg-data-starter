@@ -14614,13 +14614,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en"> Water loss at transportation</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">Потери воды при транспортировке по территории</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation (volume)</common:Name>
-          <common:Name xml:lang="ru">Потери воды при транспортировке по территории (объем)</common:Name>
           <common:Description xml:lang="en">Water loss at transportation (volume)</common:Description>
-          <common:Description xml:lang="ru">Потери воды при транспортировке по территории (объем)</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_060401_2B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_060401_2B">
           <common:Annotations>
@@ -14638,12 +14635,9 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">Water loss at transportation</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">Потери воды при транспортировке по территории</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation as proportion of total water withdrawal</common:Name>
-          <common:Name xml:lang="ru">Потери воды при транспортировке по территории (в процентах к общему объему забора воды)</common:Name>
-          <common:Description xml:lang="en">Water loss at transportation as proportion of total water withdrawal</common:Description>
           <common:Description xml:lang="ru">Потери воды при транспортировке по территории (в процентах к общему объему забора воды)</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_060402_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_060402_1">
