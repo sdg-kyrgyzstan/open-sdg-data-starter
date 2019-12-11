@@ -14613,7 +14613,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en"> Water loss at transportation</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">6.4.1.2  Water loss at transportation</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation (volume)</common:Name>
@@ -14634,11 +14634,11 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Water loss at transportation</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">6.4.1.2  Water loss at transportation</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation as proportion of total water withdrawal</common:Name>
-          <common:Description xml:lang="ru">Потери воды при транспортировке по территории (в процентах к общему объему забора воды)</common:Description>
+          <common:Description xml:lang="en">Water loss at transportation as proportion of total water withdrawal</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_060402_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_060402_1">
           <common:Annotations>
@@ -14656,13 +14656,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">6.4.2.1  Total freshwater withdrawal</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">6.4.2.1 Общий объем забора пресной воды</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Freshwater withdrawal</common:Name>
-          <common:Name xml:lang="ru">Общий объем забора пресной воды</common:Name>
           <common:Description xml:lang="en">Freshwater withdrawal</common:Description>
-          <common:Description xml:lang="ru">Общий объем забора пресной воды</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_070301_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_070301_1">
           <common:Annotations>
@@ -14680,13 +14677,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">7.3.1.1  Energy intensity</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">7.3.1.1 Энергоемкость</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Energy intensity of GDP by industry</common:Name>
-          <common:Name xml:lang="ru">Энергоемкость ВВП по отраслям</common:Name>
           <common:Description xml:lang="en">Energy intensity of GDP by industry</common:Description>
-          <common:Description xml:lang="ru">Энергоемкость ВВП по отраслям</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_070301_2A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_070301_2A">
           <common:Annotations>
@@ -14704,13 +14698,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">7.3.1.2  Power intensity</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">7.3.1.2 Электроемкость</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Power intensity of GDP by indusry</common:Name>
-          <common:Name xml:lang="ru">Электроемкость ВВП по отраслям</common:Name>
           <common:Description xml:lang="en">Power intensity of GDP by indusry</common:Description>
-          <common:Description xml:lang="ru">Электроемкость ВВП по отраслям</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_070301_2B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_070301_2B">
           <common:Annotations>
@@ -14728,13 +14719,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">7.3.1.2  Power intensity</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">7.3.1.2 Электроемкость</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Power generation at small hydroelecric plant</common:Name>
-          <common:Name xml:lang="ru">Производство электроэнергии на малых ГЭС</common:Name>
           <common:Description xml:lang="en">Power generation at small hydroelecric plant</common:Description>
-          <common:Description xml:lang="ru">Производство электроэнергии на малых ГЭС</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_081002_2A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_081002_2A">
           <common:Annotations>
@@ -14752,13 +14740,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">8.10.2.2  Financial indicators of insurance companies</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">8.10.2.2  Финансовые показатели страховых компаний</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of insurance companies reporting</common:Name>
-          <common:Name xml:lang="ru">Количество отчитавшихся страховых компаний</common:Name>
           <common:Description xml:lang="en">Number of insurance companies reporting</common:Description>
-          <common:Description xml:lang="ru">Количество отчитавшихся страховых компаний</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_081002_2B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_081002_2B">
           <common:Annotations>
@@ -14776,13 +14761,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">8.10.2.2  Financial indicators of insurance companies</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">8.10.2.2  Финансовые показатели страховых компаний</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Insurance premiums collected</common:Name>
-          <common:Name xml:lang="ru">Поступление страховых взносов</common:Name>
           <common:Description xml:lang="en">Insurance premiums collected</common:Description>
-          <common:Description xml:lang="ru">Поступление страховых взносов</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_090401_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_090401_1">
           <common:Annotations>
@@ -14800,13 +14782,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">9.4.1.1  Pollutants emitted by stationary sources</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">9.4.1.1 Объем загрязняющих веществ, отходящих от стационарных источников на 1 кв.км и по территории</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Pollutants emitted by stationary sources per km2</common:Name>
-          <common:Name xml:lang="ru">Объем загрязняющих веществ, отходящих от стационарных источников на 1 кв.км</common:Name>
           <common:Description xml:lang="en">Pollutants emitted by stationary sources per km2</common:Description>
-          <common:Description xml:lang="ru">Объем загрязняющих веществ, отходящих от стационарных источников на 1 кв.км</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_150102_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_150102_1">
           <common:Annotations>
@@ -14824,13 +14803,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">15.1.2.1  Protected areas as a share of the country's surface</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">15.1.2.1 Площадь ООПТ от всей площади</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Protected areas as a share of the country's surface</common:Name>
-          <common:Name xml:lang="ru">Площадь ООПТ от всей площади</common:Name>
           <common:Description xml:lang="en">Protected areas as a share of the country's surface</common:Description>
-          <common:Description xml:lang="ru">Площадь ООПТ от всей площади</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_150B01_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_150B01_1">
           <common:Annotations>
@@ -14848,13 +14824,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">15.b.1.1  Public expenditure on environment preservation (forest)</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">15.b.1 Объем государственных средств, выделяемых на охрану окружающей среды (леса)</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Public expenditure on environment preservation (forest)</common:Name>
-          <common:Name xml:lang="ru">Объем государственных средств, выделяемых на охрану окружающей среды (леса)</common:Name>
           <common:Description xml:lang="en">Public expenditure on environment preservation (forest)</common:Description>
-          <common:Description xml:lang="ru">Объем государственных средств, выделяемых на охрану окружающей среды (леса)</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_160602_1A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_160602_1A">
           <common:Annotations>
@@ -14872,13 +14845,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">16.6.2.1a  Executive branch of the government satisfaction index</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">16.6.2.1a  Индекс оценки деятельности к государственным органам исполнительной власти</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Executive branch of the government satisfaction index</common:Name>
-          <common:Name xml:lang="ru">Индекс оценки деятельности к государственным органам исполнительной власти</common:Name>
           <common:Description xml:lang="en">Executive branch of the government satisfaction index</common:Description>
-          <common:Description xml:lang="ru">Индекс оценки деятельности к государственным органам исполнительной власти</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_170301_1A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_170301_1A">
           <common:Annotations>
@@ -14896,13 +14866,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">17.3.1.1a  Foreign direct investment by economic activity</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">17.3.1.1a Поступление прямых иностранных инвестиций по  видам экономической деятельности (ГКЭД, версия 3)</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Foreign direct investment by economic activity</common:Name>
-          <common:Name xml:lang="ru">Поступление прямых иностранных инвестиций по  видам экономической деятельности</common:Name>
           <common:Description xml:lang="en">Foreign direct investment by economic activity</common:Description>
-          <common:Description xml:lang="ru">Поступление прямых иностранных инвестиций по  видам экономической деятельности</common:Description>
         </structure:Code>
         <structure:Code id="N_KG_170301_1B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=KG_NSC:CL_SERIES(1.1).N_KG_170301_1B">
           <common:Annotations>
@@ -14920,13 +14887,10 @@
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
               <common:AnnotationText xml:lang="en">17.3.1.1b  Foreign direct investment by country of origin</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">17.3.1.1b  Поступление прямых иностранных инвестиций по странам</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Foreign direct investment by country of origin</common:Name>
-          <common:Name xml:lang="ru">Поступление прямых иностранных инвестиций по странам</common:Name>
           <common:Description xml:lang="en">Foreign direct investment by country of origin</common:Description>
-          <common:Description xml:lang="ru">Поступление прямых иностранных инвестиций по странам</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=KG_NSC:CL_UNIT_MEASURE(1.1)" agencyID="KG_NSC" version="1.1" isFinal="true">
