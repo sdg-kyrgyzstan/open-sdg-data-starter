@@ -14613,8 +14613,8 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">6.4.1.2  Water loss at transportation</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">6.4.1.2  Потери воды при транспортировке по территории</common:AnnotationText>
+              <common:AnnotationText xml:lang="en"> Water loss at transportation</common:AnnotationText>
+              <common:AnnotationText xml:lang="ru">Потери воды при транспортировке по территории</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation (volume)</common:Name>
@@ -14637,8 +14637,8 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">6.4.1.2  Water loss at transportation</common:AnnotationText>
-              <common:AnnotationText xml:lang="ru">6.4.1.2  Потери воды при транспортировке по территории</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Water loss at transportation</common:AnnotationText>
+              <common:AnnotationText xml:lang="ru">Потери воды при транспортировке по территории</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Water loss at transportation as proportion of total water withdrawal</common:Name>
