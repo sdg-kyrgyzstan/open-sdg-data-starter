@@ -1,5 +1,8 @@
-import output
+from sdg.open_sdg import open_sdg_check
 
-valid = output.opensdg_output.validate()
-if not valid:
-  raise Exception('There were validation errors. See output above.')
+# Validate the indicators.
+validation_successful = open_sdg_check(config='config_data.yml')
+
+# If everything was valid, perform the build.
+if not validation_successful:
+    raise Exception('There were validation errors. See output above.')
