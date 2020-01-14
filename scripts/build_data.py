@@ -1,3 +1,3 @@
-import output
+from sdg.open_sdg import open_sdg_build
 
-output.opensdg_output.execute()
+open_sdg_build(config='config_data.yml')
