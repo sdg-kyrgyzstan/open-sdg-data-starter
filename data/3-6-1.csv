@@ -13,13 +13,13 @@ Year,Reference area,Value
 2007,Batken,8.3
 2008,Batken,13.7
 2009,Batken,15.8
-2010,Batken,13
+2010,Batken,13.0
 2011,Batken,12.6
 2012,Batken,12.8
 2013,Batken,14.6
-2014,Batken,12
+2014,Batken,12.0
 2015,Batken,15.8
-2016,Batken,11
+2016,Batken,11.0
 2017,Batken,13.6
 2007,Jalal-Abad,13.2
 2008,Jalal-Abad,16.7
@@ -48,7 +48,7 @@ Year,Reference area,Value
 2009,Naryn,28.3
 2010,Naryn,27.6
 2011,Naryn,26.9
-2012,Naryn,27
+2012,Naryn,27.0
 2013,Naryn,24.8
 2014,Naryn,28.9
 2015,Naryn,30.8
@@ -59,7 +59,7 @@ Year,Reference area,Value
 2009,Osh,14.5
 2010,Osh,14.7
 2011,Osh,14.7
-2012,Osh,15
+2012,Osh,15.0
 2013,Osh,14.3
 2014,Osh,15.5
 2015,Osh,12.4
@@ -73,23 +73,23 @@ Year,Reference area,Value
 2012,Talas,25.3
 2013,Talas,23.2
 2014,Talas,21.6
-2015,Talas,16
+2015,Talas,16.0
 2016,Talas,17.4
 2017,Talas,15.6
-2007,Chui,31
+2007,Chui,31.0
 2008,Chui,28.1
 2009,Chui,23.2
 2010,Chui,19.7
-2011,Chui,20
+2011,Chui,20.0
 2012,Chui,18.9
 2013,Chui,24.5
-2014,Chui,20
+2014,Chui,20.0
 2015,Chui,20.5
 2016,Chui,18.2
 2017,Chui,19.9
 2007,Bishkek (city),14.4
 2008,Bishkek (city),15.6
-2009,Bishkek (city),13
+2009,Bishkek (city),13.0
 2010,Bishkek (city),10.1
 2011,Bishkek (city),9.2
 2012,Bishkek (city),8.4
@@ -107,5 +107,5 @@ Year,Reference area,Value
 2013,Osh (city),12.2
 2014,Osh (city),10.5
 2015,Osh (city),12.5
-2016,Osh (city),10
+2016,Osh (city),10.0
 2017,Osh (city),7.7

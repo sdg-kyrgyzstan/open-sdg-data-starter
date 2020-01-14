@@ -1,10 +1,10 @@
 Year,Reference area,Sex,Value
 2011,,,9.955113
 2012,,,10.075772
-2013,,,8
+2013,,,8.0
 2014,,,7.5
 2015,,,5.9
-2016,,,6
+2016,,,6.0
 2017,,,5.3
 2018,,,5.139872
 2011,,Female,7.700463
@@ -14,9 +14,9 @@ Year,Reference area,Sex,Value
 2015,,Female,4.2
 2016,,Female,4.5
 2017,,Female,4.3
-2018,,Female,3.54522
+2018,,Female,3.5452199999999996
 2011,,Male,12.267172
-2012,,Male,13.139518
+2012,,Male,13.139517999999999
 2013,,Male,9.5
 2014,,Male,9.5
 2015,,Male,7.5
@@ -33,14 +33,14 @@ Year,Reference area,Sex,Value
 2018,Batken,,3.080721
 2011,Batken,Female,8.215202
 2012,Batken,Female,6.264963
-2013,Batken,Female,7
+2013,Batken,Female,7.0
 2014,Batken,Female,5.1
 2015,Batken,Female,4.2
-2016,Batken,Female,9
+2016,Batken,Female,9.0
 2017,Batken,Female,2.8
-2018,Batken,Female,2.746401
-2011,Batken,Male,15.052973
-2012,Batken,Male,10.850459
+2018,Batken,Female,2.7464009999999996
+2011,Batken,Male,15.052973000000001
+2012,Batken,Male,10.850458999999999
 2013,Batken,Male,7.2
 2014,Batken,Male,6.2
 2015,Batken,Male,5.7
@@ -79,19 +79,19 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,,4.4
 2017,Issyk-Kul,,4.6
 2018,Issyk-Kul,,6.168093
-2011,Issyk-Kul,Female,7.995523
+2011,Issyk-Kul,Female,7.9955229999999995
 2012,Issyk-Kul,Female,7.042811
 2013,Issyk-Kul,Female,6.5
 2014,Issyk-Kul,Female,5.2
 2015,Issyk-Kul,Female,4.7
 2016,Issyk-Kul,Female,2.5
 2017,Issyk-Kul,Female,5.4
-2018,Issyk-Kul,Female,2.86608
-2011,Issyk-Kul,Male,14.018523
+2018,Issyk-Kul,Female,2.8660799999999997
+2011,Issyk-Kul,Male,14.018523000000002
 2012,Issyk-Kul,Male,9.395469
 2013,Issyk-Kul,Male,13.3
 2014,Issyk-Kul,Male,8.7
-2015,Issyk-Kul,Male,6
+2015,Issyk-Kul,Male,6.0
 2016,Issyk-Kul,Male,6.4
 2017,Issyk-Kul,Male,3.8
 2018,Issyk-Kul,Male,9.498716
@@ -118,7 +118,7 @@ Year,Reference area,Sex,Value
 2015,Naryn,Male,2.9
 2016,Naryn,Male,7.1
 2017,Naryn,Male,2.1
-2018,Naryn,Male,3.442033
+2018,Naryn,Male,3.4420330000000003
 2011,Osh,,6.407336
 2012,Osh,,4.222387
 2013,Osh,,5.1
@@ -128,22 +128,22 @@ Year,Reference area,Sex,Value
 2017,Osh,,5.9
 2018,Osh,,4.442955
 2011,Osh,Female,5.833243
-2012,Osh,Female,3.298262
+2012,Osh,Female,3.2982620000000002
 2013,Osh,Female,4.6
-2014,Osh,Female,5
+2014,Osh,Female,5.0
 2015,Osh,Female,2.6
 2016,Osh,Female,2.4
 2017,Osh,Female,5.3
 2018,Osh,Female,3.043862
 2011,Osh,Male,6.973549
-2012,Osh,Male,5.133295
+2012,Osh,Male,5.1332949999999995
 2013,Osh,Male,5.5
 2014,Osh,Male,7.7
 2015,Osh,Male,4.5
 2016,Osh,Male,6.8
 2017,Osh,Male,6.5
 2018,Osh,Male,5.813217
-2011,Talas,,8.134502
+2011,Talas,,8.134502000000001
 2012,Talas,,8.424032
 2013,Talas,,7.9
 2014,Talas,,6.5
@@ -152,8 +152,8 @@ Year,Reference area,Sex,Value
 2017,Talas,,3.9
 2018,Talas,,2.679877
 2011,Talas,Female,6.020884
-2012,Talas,Female,6.779718
-2013,Talas,Female,5
+2012,Talas,Female,6.779717999999999
+2013,Talas,Female,5.0
 2014,Talas,Female,5.8
 2015,Talas,Female,2.4
 2016,Talas,Female,5.6
@@ -163,8 +163,8 @@ Year,Reference area,Sex,Value
 2012,Talas,Male,10.048821
 2013,Talas,Male,10.7
 2014,Talas,Male,7.3
-2015,Talas,Male,8
-2016,Talas,Male,7
+2015,Talas,Male,8.0
+2016,Talas,Male,7.0
 2017,Talas,Male,6.2
 2018,Talas,Male,2.272417
 2011,Chui,,10.259855
@@ -175,7 +175,7 @@ Year,Reference area,Sex,Value
 2016,Chui,,5.4
 2017,Chui,,4.8
 2018,Chui,,6.334346
-2011,Chui,Female,8.891004
+2011,Chui,Female,8.891003999999999
 2012,Chui,Female,7.112005
 2013,Chui,Female,6.3
 2014,Chui,Female,3.9
@@ -185,7 +185,7 @@ Year,Reference area,Sex,Value
 2018,Chui,Female,4.864719
 2011,Chui,Male,11.674872
 2012,Chui,Male,10.522735
-2013,Chui,Male,7
+2013,Chui,Male,7.0
 2014,Chui,Male,9.2
 2015,Chui,Male,6.9
 2016,Chui,Male,6.6
@@ -200,14 +200,14 @@ Year,Reference area,Sex,Value
 2017,Bishkek (city),,10.1
 2018,Bishkek (city),,8.968212
 2011,Bishkek (city),Female,10.76723
-2012,Bishkek (city),Female,7.817766
+2012,Bishkek (city),Female,7.817766000000001
 2013,Bishkek (city),Female,7.4
 2014,Bishkek (city),Female,7.1
 2015,Bishkek (city),Female,4.6
-2016,Bishkek (city),Female,7
+2016,Bishkek (city),Female,7.0
 2017,Bishkek (city),Female,7.6
 2018,Bishkek (city),Female,5.929539
-2011,Bishkek (city),Male,23.342207
+2011,Bishkek (city),Male,23.342207000000002
 2012,Bishkek (city),Male,29.427859
 2013,Bishkek (city),Male,13.1
 2014,Bishkek (city),Male,12.3
@@ -216,11 +216,11 @@ Year,Reference area,Sex,Value
 2017,Bishkek (city),Male,12.9
 2018,Bishkek (city),Male,12.420425
 2011,Osh (city),,19.152071
-2012,Osh (city),,29.440248
+2012,Osh (city),,29.440247999999997
 2013,Osh (city),,21.3
 2014,Osh (city),,24.7
 2015,Osh (city),,22.3
-2016,Osh (city),,14
+2016,Osh (city),,14.0
 2017,Osh (city),,4.9
 2018,Osh (city),,7.479508
 2011,Osh (city),Female,11.255262
@@ -232,10 +232,10 @@ Year,Reference area,Sex,Value
 2017,Osh (city),Female,4.1
 2018,Osh (city),Female,3.953533
 2011,Osh (city),Male,27.737893
-2012,Osh (city),Male,38.780044
+2012,Osh (city),Male,38.780044000000004
 2013,Osh (city),Male,30.9
 2014,Osh (city),Male,28.7
 2015,Osh (city),Male,30.4
 2016,Osh (city),Male,15.6
 2017,Osh (city),Male,5.8
-2018,Osh (city),Male,11.238007
+2018,Osh (city),Male,11.238007000000001

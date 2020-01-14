@@ -53,7 +53,7 @@ Year,Reference area,Value
 2014,Naryn,135.7
 2015,Naryn,30.6
 2016,Naryn,43.7
-2017,Naryn,-
+2017,Naryn,
 2007,Osh,26.0
 2008,Osh,54.4
 2009,Osh,93.2
@@ -74,8 +74,8 @@ Year,Reference area,Value
 2013,Talas,14.8
 2014,Talas,44.6
 2015,Talas,15.1
-2016,Talas,-
-2017,Talas,-
+2016,Talas,
+2017,Talas,
 2007,Chui,78.3
 2008,Chui,34.4
 2009,Chui,61.1
@@ -101,11 +101,11 @@ Year,Reference area,Value
 2007,Osh (city),100.6
 2008,Osh (city),38.6
 2009,Osh (city),168.4
-2010,Osh (city), -
+2010,Osh (city),
 2011,Osh (city),35.7
 2012,Osh (city),60.3
 2013,Osh (city),15.0
-2014,Osh (city),-
+2014,Osh (city),
 2015,Osh (city),40.9
 2016,Osh (city),13.5
 2017,Osh (city),64.9

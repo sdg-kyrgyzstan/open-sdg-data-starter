@@ -9,7 +9,7 @@ Year,Reference area,Sex,Value
 2014,,,30.6
 2015,,,32.080288
 2016,,,25.4
-2017,,,25.584762
+2017,,,25.584761999999998
 2007,,Male,35.374918
 2008,,Male,32.058715
 2009,,Male,32.904188
@@ -17,21 +17,21 @@ Year,Reference area,Sex,Value
 2011,,Male,37.61955
 2012,,Male,38.98483
 2013,,Male,37.486498
-2014,,Male,31.500477
-2015,,Male,32.677721
+2014,,Male,31.500477000000004
+2015,,Male,32.677721000000005
 2016,,Male,25.738782
 2017,,Male,26.3
 2007,,Female,34.682506
-2008,,Female,31.380603
-2009,,Female,30.665005
-2010,,Female,32.719646
-2011,,Female,36.085103
+2008,,Female,31.380603000000004
+2009,,Female,30.665004999999997
+2010,,Female,32.719646000000004
+2011,,Female,36.085103000000004
 2012,,Female,37.172576
 2013,,Female,36.510495
-2014,,Female,29.685091
+2014,,Female,29.685090999999996
 2015,,Female,31.53335
 2016,,Female,25.012555
-2017,,Female,25
+2017,,Female,25.0
 2007,Batken,,40.4
 2008,Batken,,20.7
 2009,Batken,,31.5
@@ -41,27 +41,27 @@ Year,Reference area,Sex,Value
 2013,Batken,,53.9
 2014,Batken,,40.7
 2015,Batken,,41.156483
-2016,Batken,,37
+2016,Batken,,37.0
 2017,Batken,,40.51893
 2007,Batken,Male,39.381264
 2008,Batken,Male,18.757343
-2009,Batken,Male,31.703885
+2009,Batken,Male,31.703884999999996
 2010,Batken,Male,35.557934
 2011,Batken,Male,37.347648
 2012,Batken,Male,33.764476
 2013,Batken,Male,54.087839
-2014,Batken,Male,42.448702
+2014,Batken,Male,42.448702000000004
 2015,Batken,Male,41.395882
 2016,Batken,Male,38.033369
 2017,Batken,Male,41.5
 2007,Batken,Female,40.40248
 2008,Batken,Female,20.74156
-2009,Batken,Female,31.472533
+2009,Batken,Female,31.472533000000002
 2010,Batken,Female,31.9
 2011,Batken,Female,35.637925
-2012,Batken,Female,34.23528
+2012,Batken,Female,34.235279999999996
 2013,Batken,Female,53.6
-2014,Batken,Female,39
+2014,Batken,Female,39.0
 2015,Batken,Female,40.9
 2016,Batken,Female,36.1
 2017,Batken,Female,39.6
@@ -77,15 +77,15 @@ Year,Reference area,Sex,Value
 2016,Jalal-Abad,,32.2
 2017,Jalal-Abad,,32.58065
 2007,Jalal-Abad,Male,54.569086
-2008,Jalal-Abad,Male,42.427936
+2008,Jalal-Abad,Male,42.427935999999995
 2009,Jalal-Abad,Male,40.528056
-2010,Jalal-Abad,Male,45.762936
+2010,Jalal-Abad,Male,45.762935999999996
 2011,Jalal-Abad,Male,46.925946
 2012,Jalal-Abad,Male,56.050613
 2013,Jalal-Abad,Male,45.459524
 2014,Jalal-Abad,Male,45.842338
 2015,Jalal-Abad,Male,44.933484
-2016,Jalal-Abad,Male,31.382458
+2016,Jalal-Abad,Male,31.382458000000003
 2017,Jalal-Abad,Male,31.1
 2007,Jalal-Abad,Female,51.6
 2008,Jalal-Abad,Female,37.9
@@ -94,10 +94,10 @@ Year,Reference area,Sex,Value
 2011,Jalal-Abad,Female,43.7
 2012,Jalal-Abad,Female,55.3
 2013,Jalal-Abad,Female,47.4
-2014,Jalal-Abad,Female,47
+2014,Jalal-Abad,Female,47.0
 2015,Jalal-Abad,Female,45.2
 2016,Jalal-Abad,Female,33.1
-2017,Jalal-Abad,Female,34
+2017,Jalal-Abad,Female,34.0
 2007,Issyk-Kul,,38.6
 2008,Issyk-Kul,,52.2
 2009,Issyk-Kul,,46.1
@@ -108,7 +108,7 @@ Year,Reference area,Sex,Value
 2014,Issyk-Kul,,26.0
 2015,Issyk-Kul,,28.892638
 2016,Issyk-Kul,,24.7
-2017,Issyk-Kul,,24.170329
+2017,Issyk-Kul,,24.170329000000002
 2007,Issyk-Kul,Male,38.684594
 2008,Issyk-Kul,Male,52.152947
 2009,Issyk-Kul,Male,47.889059
@@ -124,11 +124,11 @@ Year,Reference area,Sex,Value
 2008,Issyk-Kul,Female,52.32036
 2009,Issyk-Kul,Female,44.51291
 2010,Issyk-Kul,Female,39.006289
-2011,Issyk-Kul,Female,28.112247
+2011,Issyk-Kul,Female,28.112246999999996
 2012,Issyk-Kul,Female,28.242618
-2013,Issyk-Kul,Female,40.42619
+2013,Issyk-Kul,Female,40.426190000000005
 2014,Issyk-Kul,Female,26.354813
-2015,Issyk-Kul,Female,29.07856
+2015,Issyk-Kul,Female,29.078559999999996
 2016,Issyk-Kul,Female,24.749642
 2017,Issyk-Kul,Female,24.3
 2007,Naryn,,45.2
@@ -139,13 +139,13 @@ Year,Reference area,Sex,Value
 2012,Naryn,,39.9
 2013,Naryn,,43.8
 2014,Naryn,,30.6
-2015,Naryn,,38.007029
+2015,Naryn,,38.007028999999996
 2016,Naryn,,37.8
 2017,Naryn,,29.21834
-2007,Naryn,Male,46.868159
-2008,Naryn,Male,42.698866
+2007,Naryn,Male,46.868159000000006
+2008,Naryn,Male,42.698865999999995
 2009,Naryn,Male,44.838863
-2010,Naryn,Male,53.676668
+2010,Naryn,Male,53.67666800000001
 2011,Naryn,Male,51.728537
 2012,Naryn,Male,42.395906
 2013,Naryn,Male,42.671843
@@ -162,7 +162,7 @@ Year,Reference area,Sex,Value
 2013,Naryn,Female,44.781415
 2014,Naryn,Female,32.369301
 2015,Naryn,Female,39.504744
-2016,Naryn,Female,39.601891
+2016,Naryn,Female,39.601890999999995
 2017,Naryn,Female,31.2
 2007,Osh,,46.6
 2008,Osh,,37.5
@@ -173,10 +173,10 @@ Year,Reference area,Sex,Value
 2013,Osh,,43.4
 2014,Osh,,31.7
 2015,Osh,,28.944511
-2016,Osh,,22
-2017,Osh,,14.267617
+2016,Osh,,22.0
+2017,Osh,,14.267617000000001
 2007,Osh,Male,44.295394
-2008,Osh,Male,36.91306
+2008,Osh,Male,36.913059999999994
 2009,Osh,Male,38.245332
 2010,Osh,Male,43.246261
 2011,Osh,Male,45.24075
@@ -188,13 +188,13 @@ Year,Reference area,Sex,Value
 2017,Osh,Male,15.7
 2007,Osh,Female,48.708186
 2008,Osh,Female,37.931554
-2009,Osh,Female,38.334636
-2010,Osh,Female,40.639754
-2011,Osh,Female,44.169695
+2009,Osh,Female,38.334635999999996
+2010,Osh,Female,40.639753999999996
+2011,Osh,Female,44.169695000000004
 2012,Osh,Female,50.553916
-2013,Osh,Female,42.660819
+2013,Osh,Female,42.660819000000004
 2014,Osh,Female,30.494417
-2015,Osh,Female,28.438703
+2015,Osh,Female,28.438703000000004
 2016,Osh,Female,21.810872
 2017,Osh,Female,12.9
 2007,Talas,,35.3
@@ -208,44 +208,44 @@ Year,Reference area,Sex,Value
 2015,Talas,,21.481514
 2016,Talas,,18.1
 2017,Talas,,20.679703
-2007,Talas,Male,34.937966
-2008,Talas,Male,40.025342
-2009,Talas,Male,29.757565
-2010,Talas,Male,40.090318
+2007,Talas,Male,34.937965999999996
+2008,Talas,Male,40.025341999999995
+2009,Talas,Male,29.757565000000003
+2010,Talas,Male,40.090317999999996
 2011,Talas,Male,48.834977
-2012,Talas,Male,36.737399
+2012,Talas,Male,36.737398999999996
 2013,Talas,Male,22.797196
 2014,Talas,Male,18.38895
 2015,Talas,Male,20.402521
 2016,Talas,Male,17.094741
 2017,Talas,Male,19.9
 2007,Talas,Female,35.524401
-2008,Talas,Female,45.40342
+2008,Talas,Female,45.403420000000004
 2009,Talas,Female,35.673722
 2010,Talas,Female,44.324841
-2011,Talas,Female,51.365667
+2011,Talas,Female,51.365666999999995
 2012,Talas,Female,42.155403
 2013,Talas,Female,23.320678
-2014,Talas,Female,19.717988
+2014,Talas,Female,19.717988000000002
 2015,Talas,Female,22.565255
-2016,Talas,Female,19.131642
+2016,Talas,Female,19.131642000000003
 2017,Talas,Female,21.4
 2007,Chui,,14.980994
 2008,Chui,,15.782631
-2009,Chui,,21.239381
+2009,Chui,,21.239380999999998
 2010,Chui,,21.868453
 2011,Chui,,28.620908
 2012,Chui,,16.571766
 2013,Chui,,23.615399
-2014,Chui,,21.576154
+2014,Chui,,21.576154000000002
 2015,Chui,,24.813851
 2016,Chui,,30.3
-2017,Chui,,33.318029
-2007,Chui,Male,16.816017
+2017,Chui,,33.318028999999996
+2007,Chui,Male,16.816017000000002
 2008,Chui,Male,16.656433
 2009,Chui,Male,21.936014
 2010,Chui,Male,21.932251
-2011,Chui,Male,25.292386
+2011,Chui,Male,25.292385999999997
 2012,Chui,Male,16.835987
 2013,Chui,Male,23.697958
 2014,Chui,Male,22.438097
@@ -264,7 +264,7 @@ Year,Reference area,Sex,Value
 2016,Chui,Female,29.8
 2017,Chui,Female,32.3
 2007,Bishkek (city),,5.005041
-2008,Bishkek (city),,15.199877
+2008,Bishkek (city),,15.199876999999999
 2009,Bishkek (city),,13.244359
 2010,Bishkek (city),,7.89363
 2011,Bishkek (city),,18.412319
@@ -273,27 +273,27 @@ Year,Reference area,Sex,Value
 2014,Bishkek (city),,17.559795
 2015,Bishkek (city),,23.541813
 2016,Bishkek (city),,9.8
-2017,Bishkek (city),,15.895977
+2017,Bishkek (city),,15.895976999999998
 2007,Bishkek (city),Male,5.022346
 2008,Bishkek (city),Male,15.989713
-2009,Bishkek (city),Male,13.950363
-2010,Bishkek (city),Male,8.654215
+2009,Bishkek (city),Male,13.950363000000001
+2010,Bishkek (city),Male,8.654214999999999
 2011,Bishkek (city),Male,20.038087
-2012,Bishkek (city),Male,23.294374
+2012,Bishkek (city),Male,23.294373999999998
 2013,Bishkek (city),Male,22.845597
 2014,Bishkek (city),Male,19.854368
 2015,Bishkek (city),Male,25.206391
 2016,Bishkek (city),Male,10.893361
 2017,Bishkek (city),Male,17.9
 2007,Bishkek (city),Female,4.99107
-2008,Bishkek (city),Female,14.580408
+2008,Bishkek (city),Female,14.580407999999998
 2009,Bishkek (city),Female,12.694536
 2010,Bishkek (city),Female,7.30227
 2011,Bishkek (city),Female,17.126273
 2012,Bishkek (city),Female,19.902241
 2013,Bishkek (city),Female,18.389802
 2014,Bishkek (city),Female,15.756847
-2015,Bishkek (city),Female,22.249204
+2015,Bishkek (city),Female,22.249204000000002
 2016,Bishkek (city),Female,8.899379
 2017,Bishkek (city),Female,14.3
 2007,Osh (city),,0.0
@@ -307,25 +307,25 @@ Year,Reference area,Sex,Value
 2015,Osh (city),,38.3
 2016,Osh (city),,24.6
 2017,Osh (city),,33.489021
-2007,Osh (city),Male,0
-2008,Osh (city),Male,0
-2009,Osh (city),Male,0
-2010,Osh (city),Male,0
-2011,Osh (city),Male,0
-2012,Osh (city),Male,0
+2007,Osh (city),Male,0.0
+2008,Osh (city),Male,0.0
+2009,Osh (city),Male,0.0
+2010,Osh (city),Male,0.0
+2011,Osh (city),Male,0.0
+2012,Osh (city),Male,0.0
 2013,Osh (city),Male,41.620642
 2014,Osh (city),Male,35.041318
 2015,Osh (city),Male,41.029123
 2016,Osh (city),Male,26.170219
 2017,Osh (city),Male,36.4
-2007,Osh (city),Female,0
-2008,Osh (city),Female,0
-2009,Osh (city),Female,0
-2010,Osh (city),Female,0
-2011,Osh (city),Female,0
-2012,Osh (city),Female,0
-2013,Osh (city),Female,40.214977
+2007,Osh (city),Female,0.0
+2008,Osh (city),Female,0.0
+2009,Osh (city),Female,0.0
+2010,Osh (city),Female,0.0
+2011,Osh (city),Female,0.0
+2012,Osh (city),Female,0.0
+2013,Osh (city),Female,40.214977000000005
 2014,Osh (city),Female,31.961883
 2015,Osh (city),Female,35.847234
-2016,Osh (city),Female,23.187149
+2016,Osh (city),Female,23.187148999999998
 2017,Osh (city),Female,30.9

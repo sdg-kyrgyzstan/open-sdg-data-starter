@@ -8,16 +8,16 @@ Year,Composite breakdown,Value
 2015,Pollutants: Solid,121.8
 2016,Pollutants: Solid,101.3
 2017,Pollutants: Solid,126.1
-2018,Pollutants: Solid,91
+2018,Pollutants: Solid,91.0
 2014,Pollutants: Gaseous and liquid,189.9
 2015,Pollutants: Gaseous and liquid,183.1
-2016,Pollutants: Gaseous and liquid,163
+2016,Pollutants: Gaseous and liquid,163.0
 2017,Pollutants: Gaseous and liquid,122.1
 2018,Pollutants: Gaseous and liquid,192.6
 2014,Pollutants: Sulphur dioxide,92.3
 2015,Pollutants: Sulphur dioxide,95.4
 2016,Pollutants: Sulphur dioxide,80.6
-2017,Pollutants: Sulphur dioxide,39
+2017,Pollutants: Sulphur dioxide,39.0
 2018,Pollutants: Sulphur dioxide,90.3
 2014,Pollutants: Carbon monoxide,61.5
 2015,Pollutants: Carbon monoxide,49.9
@@ -25,7 +25,7 @@ Year,Composite breakdown,Value
 2017,Pollutants: Carbon monoxide,47.1
 2018,Pollutants: Carbon monoxide,60.7
 2014,Pollutants: Nitrogen oxide,21.2
-2015,Pollutants: Nitrogen oxide,20
+2015,Pollutants: Nitrogen oxide,20.0
 2016,Pollutants: Nitrogen oxide,21.8
 2017,Pollutants: Nitrogen oxide,19.5
 2018,Pollutants: Nitrogen oxide,22.8

@@ -9,7 +9,7 @@ Year,Reference area,Units,Value
 2016,Batken,Million of cubic metres per annum,114.5
 2017,Batken,Million of cubic metres per annum,105.8
 2018,Batken,Million of cubic metres per annum,101.1
-2014,Jalal-Abad,Million of cubic metres per annum,350
+2014,Jalal-Abad,Million of cubic metres per annum,350.0
 2015,Jalal-Abad,Million of cubic metres per annum,208.1
 2016,Jalal-Abad,Million of cubic metres per annum,200.6
 2017,Jalal-Abad,Million of cubic metres per annum,214.7
@@ -21,7 +21,7 @@ Year,Reference area,Units,Value
 2018,Issyk-Kul,Million of cubic metres per annum,193.6
 2014,Naryn,Million of cubic metres per annum,197.1
 2015,Naryn,Million of cubic metres per annum,189.2
-2016,Naryn,Million of cubic metres per annum,182
+2016,Naryn,Million of cubic metres per annum,182.0
 2017,Naryn,Million of cubic metres per annum,186.8
 2018,Naryn,Million of cubic metres per annum,194.3
 2014,Osh,Million of cubic metres per annum,232.6
@@ -31,7 +31,7 @@ Year,Reference area,Units,Value
 2018,Osh,Million of cubic metres per annum,292.4
 2014,Talas,Million of cubic metres per annum,257.8
 2015,Talas,Million of cubic metres per annum,309.7
-2016,Talas,Million of cubic metres per annum,294
+2016,Talas,Million of cubic metres per annum,294.0
 2017,Talas,Million of cubic metres per annum,300.7
 2018,Talas,Million of cubic metres per annum,299.1
 2014,Chui,Million of cubic metres per annum,764.2
@@ -81,15 +81,15 @@ Year,Reference area,Units,Value
 2016,Talas,Percent,31.1
 2017,Talas,Percent,30.3
 2018,Talas,Percent,31.1
-2014,Chui,Percent,27
+2014,Chui,Percent,27.0
 2015,Chui,Percent,36.2
-2016,Chui,Percent,26
+2016,Chui,Percent,26.0
 2017,Chui,Percent,32.2
 2018,Chui,Percent,29.9
-2014,Bishkek (city),Percent,21
-2015,Bishkek (city),Percent,21
-2016,Bishkek (city),Percent,21
+2014,Bishkek (city),Percent,21.0
+2015,Bishkek (city),Percent,21.0
+2016,Bishkek (city),Percent,21.0
 2017,Bishkek (city),Percent,20.9
 2018,Bishkek (city),Percent,20.8
-2017,Osh (city),Percent,12
-2018,Osh (city),Percent,12
+2017,Osh (city),Percent,12.0
+2018,Osh (city),Percent,12.0
