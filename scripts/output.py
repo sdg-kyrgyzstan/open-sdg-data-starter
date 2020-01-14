@@ -79,7 +79,7 @@ for sdmx_file in sdmx_files:
         )
     data_input.add_data_alteration(fix_data)
     inputs.append(data_input)
-    
+
 # Use .md files for metadata
 meta_pattern = os.path.join('meta', '*-*.md')
 meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
@@ -93,10 +93,3 @@ schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
 opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site')
-
-# Validate the indicators.
-validation_successful = opensdg_output.validate()
-
-# If everything was valid, perform the build.
-if validation_successful:
-    opensdg_output.execute()
