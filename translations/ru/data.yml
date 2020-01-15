@@ -1,13 +1,99 @@
 Sex: Пол
-Reference area: Справочная зона
-Female: женщина
-Male: мужчина
-Batken: Баткенская
-Bishkek (city): Город Бишкек
-Chui: Чуйская
-Issyk-Kul: Иссык-Кульская
-Jalal-Abad: Джалал-Абадская
-Naryn: Нарынская
-Osh: Ошская
-Osh (city): Город Ош
-Talas: Таласская
+Female: женский
+Male: мужской
+
+Reference area: Справочная зона (условная зона)
+Batken: Баткенская область
+Bishkek (city): г.Бишкек
+Chui: Чуйская область
+Issyk-Kul: Иссык-Кульская область
+Jalal-Abad: Жалал-Абад область
+Naryn: Нарынская область
+Osh: Ошская область
+Osh (city): г. Ош
+Talas: Таласская область
+
+Local currency: Местная валюта
+Percent: Процент
+
+Age: Возраст
+0 to 5 months old: возраст от 0-5 месяцев
+12 to 17 months old: возраст от 12-17 месяцев
+18 to 23 months old: возраст от 18-23 месяцев
+24 to 35 months old: возраст от 24-35 месяцев
+36 to 47 months old: возраст от 36-47 месяцев
+48 to 59 months old: возраст от 48-58 месяцев
+3 to 4 years old: 3-4 года
+under 5 years old: до 5 лет
+15 to 19 years old: 15-19 лет
+20 to 24 years old: 20-24 лет
+25 to 29 years old: 25-29 лет
+30 to 34 years old: 30-34 лет
+35 to 39 years old: 35-39 лет
+40 to 44 years old: 40-44 лет
+45 to 49 years old: 45-49 лет
+18 to 25 years old: 18-25 лет
+26 to 34 years old: 26-34 лет
+35 to 45 years old: 35-45 лет
+46 to 54 years old: 46-54 лет
+55 to 59 years old: 55-59 лет
+60 years old and over: 60 лет и старше
+7 to 14 years old: 7-14 лет
+8 to 9 years old: 8-9 лет
+12 to 14 years old: 12-14 лет
+15 to 17 years old: 15-17 лет
+5 to 11 years old: 5-11 лет
+5 to 17 years old: 5-17 лет
+1 to 2 years old: 1-2 лет
+1 year old:  в возрасте 1 года 
+10 to 14 years old: 10-14 лет
+2 years old: 2 года и старше
+1 to 14 years old: 1-14 лет
+5 to 6 years old: 5-6 лет
+3 years old: 3
+4 years old: 4
+under 1 year old: возрасте до 1 года
+
+Degree of urbanisation: Степень урбанизации
+Rural: сельская местность
+Urban: городская местность
+
+Income or wealth quantile: Доход или квинтиль благосостояния
+Quintile 1 (poorest): квинтиль 1 (самые бедные)
+Quintile 2: квинтиль 2
+Quintile 3: квинтиль 3
+Quintile 4: квинтиль 4
+Quintile 5 (richest): квинтиль 5 (самые богатые)
+
+Education level: Уровень образования
+Post-secondary non-tertiary education: Послесреднее нетретичное образование
+Pre-primary education: Дошкольное образование
+Primary education: Начальное образование (1-4 классы)
+Lower secondary education: 1- этап среднего образования
+Upper secondary education: 2- этап среднего образования
+Some primary education, grades 2 or 3: Неполное начальное образование
+
+Occupation: Род занятий (Профессия)
+Medical doctors: Врачи
+Nursing and midwifery professionals: Медсестры и акушеры
+
+Time series-level footnotes: Сноски для временных рядов
+At the time of departure cargo.: В момент отправления груза.
+Since 2014 excluding deparmental transport.: С 2014 года исключая департационный транспорт.
+Until 2013 - including Osh.: До 2013 года - включая Ош.
+
+Composite breakdown: Композитная разбивка
+"Non-communicable disease: Cancer": Неинфекционные заболевания: рак
+"Non-communicable disease: Cardiovascular disease": Неинфекционные заболевания: сердечно-сосудистые заболевания
+"Non-communicable disease: Chronic respiratory disease": Неинфекционные заболевания: хронические респираторные заболевания
+"Non-communicable disease: Diabetes": Неинфекционные заболевания: диабет
+"Skill: Functional literacy": Навыки: Функциональная грамотность
+"Skill: Functional numeracy": Навыки: Функциональное счисление
+"Mode of Transport: Air": Вид транспорта: воздушный
+"Mode of Transport: Pipeline": Вид транспорта: трубопроводный
+"Mode of Transport: Rail": Вид транспорта: железнодорожный
+"Mode of Transport: Road": Вид транспорта: дорожный
+"Mode of Transport: Water": Вид транспорта: водный
+"Internet speed: 10 Mbit/s or above": Скорость интернета: 10 Мбит /с  или выше
+"Internet speed: 2 Mbit/s to less than 10 Mbit/s": Скорость интернета: от 2 Мбит /с  до менее 10 Мбит / с
+"Internet speed: 256 kbit/s to less than 2 Mbit/s": Скорость интернета: от 256 кбит /с  до менее 2 Мбит / с
