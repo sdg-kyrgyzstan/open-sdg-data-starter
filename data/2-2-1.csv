@@ -1,0 +1,62 @@
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2014,,,,,,,12.9
+2018,,,,,,,11.8
+2014,Batken,,,,,,13.6
+2018,Batken,,,,,,11.9
+2014,Jalal-Abad,,,,,,21.3
+2018,Jalal-Abad,,,,,,15.5
+2014,Issyk-Kul,,,,,,14.1
+2018,Issyk-Kul,,,,,,14.2
+2014,Naryn,,,,,,16.4
+2018,Naryn,,,,,,6.5
+2014,Osh,,,,,,10.6
+2018,Osh,,,,,,13.7
+2014,Talas,,,,,,11.0
+2018,Talas,,,,,,10.0
+2014,Chui,,,,,,7.6
+2018,Chui,,,,,,10.1
+2014,Bishkek (city),,,,,,7.6
+2018,Bishkek (city),,,,,,5.9
+2014,Osh (city),,,,,,12.1
+2018,Osh (city),,,,,,10.9
+2014,,Male,,,,,13.8
+2018,,Male,,,,,12.5
+2014,,Female,,,,,12.0
+2018,,Female,,,,,10.9
+2014,,,,Urban,,,11.8
+2018,,,,Urban,,,8.8
+2014,,,,Rural,,,13.4
+2018,,,,Rural,,,13.1
+2014,,,0 to 5 months old,,,,5.3
+2018,,,0 to 5 months old,,,,5.4
+2014,,,6 to 11 months old,,,,7.2
+2018,,,6 to 11 months old,,,,9.3
+2014,,,12 to 17 months old,,,,11.2
+2018,,,12 to 17 months old,,,,12.1
+2014,,,18 to 23 months old,,,,18.2
+2018,,,18 to 23 months old,,,,17.2
+2014,,,24 to 35 months old,,,,18.6
+2018,,,24 to 35 months old,,,,13.2
+2014,,,3 to 4 years old,,,,14.6
+2018,,,3 to 4 years old,,,,11.2
+2014,,,48 to 59 months old,,,,10.5
+2018,,,48 to 59 months old,,,,12.7
+2014,,Female,,,,Educación preescolar,26.5
+2014,,Female,,,,Educación primaria,17.1
+2018,,Female,,,,Educación primaria,14.8
+2014,,Female,,,,Educación secundaria baja,13.5
+2018,,Female,,,,Educación secundaria baja,12.0
+2014,,Female,,,,Educación secundaria alta,11.8
+2018,,Female,,,,Educación secundaria alta,12.2
+2014,,Female,,,,Educación post-secundaria no terciaria,9.8
+2018,,Female,,,,Educación post-secundaria no terciaria,10.0
+2014,,,,,Quintile 1 (poorest),,17.7
+2018,,,,,Quintile 1 (poorest),,14.0
+2014,,,,,Quintile 2,,14.2
+2018,,,,,Quintile 2,,13.8
+2014,,,,,Quintile 3,,10.1
+2018,,,,,Quintile 3,,12.0
+2014,,,,,Quintile 4,,10.7
+2018,,,,,Quintile 4,,8.2
+2014,,,,,Quintile 5 (richest),,10.7
+2018,,,,,Quintile 5 (richest),,9.2
