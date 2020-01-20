@@ -97,8 +97,10 @@ translations = [
     sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-open-sdg.git', tag='1.0.0-rc2'),
     sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1'),
     # Also pull in translations from the 'translations' folder in this repo.
-    sdg.translations.TranslationInputYaml(source='translations')
+    sdg.translations.TranslationInputYaml(source='translations'),
+    sdg.translations.TranslationInputCsv(source='translations')
 ]
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
 opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
+
