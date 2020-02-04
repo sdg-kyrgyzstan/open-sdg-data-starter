@@ -31,11 +31,11 @@ jobs:
         FOLDER: _site
         CLEAN: true
     - name: Waiting 5 minutes for staging data deployment
-        run: |
-          sleep 300
+      run: |
+        sleep 300
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/LucyGwilliamAdmin/sdg-site-quick-start/dispatches \
+        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.PAT_TOKEN}}" \
         --data '{"event_type": "rebuild-site"}'
