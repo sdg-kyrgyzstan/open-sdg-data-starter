@@ -63,9 +63,9 @@ for sdmx_file in sdmx_files:
             source=sdmx_file,
             dimension_map=dimension_map,
             dsd=dsd,
-            indicator_id_map=indicator_id_map,
-            indicator_id_xpath=indicator_id_xpath,
-            indicator_name_xpath=indicator_name_xpath
+            #indicator_id_map=indicator_id_map,
+            #indicator_id_xpath=indicator_id_xpath,
+            #indicator_name_xpath=indicator_name_xpath
         )
     elif get_file_type(sdmx_file) == 'GenericData':
         data_input = sdg.inputs.InputSdmxMl_Structure(
@@ -82,7 +82,7 @@ for sdmx_file in sdmx_files:
 
 # Use .md files for metadata
 meta_pattern = os.path.join('meta', '*-*.md')
-meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
+meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
 inputs.append(meta_input)
