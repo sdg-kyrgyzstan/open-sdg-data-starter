@@ -1,13 +1,121 @@
-Year,Value
-2007,9.3
-2008,7.9
-2009,8.0
-2010,7.8
-2011,8.1
-2012,7.7
-2013,7.1
-2014,6.6
-2015,6.4
-2016,5.9
-2017,6.1
-2018,5.9
+Year,Reference area,Value
+2007,,19.5
+2008,,18.6
+2009,,18.6
+2010,,18.5
+2011,,19.0
+2012,,18.5
+2013,,17.9
+2014,,17.3
+2015,,17.1
+2016,,16.6
+2017,,16.8
+2018,,16.6
+2007,Batken,21.0
+2008,Batken,19.0
+2009,Batken,19.0
+2010,Batken,19.0
+2011,Batken,19.0
+2012,Batken,18.0
+2013,Batken,18.0
+2014,Batken,18.0
+2015,Batken,17.0
+2016,Batken,15.0
+2017,Batken,15.0
+2018,Batken,15.0
+2007,Jalal-Abad,46.0
+2008,Jalal-Abad,42.0
+2009,Jalal-Abad,41.0
+2010,Jalal-Abad,41.0
+2011,Jalal-Abad,43.0
+2012,Jalal-Abad,41.0
+2013,Jalal-Abad,41.0
+2014,Jalal-Abad,40.0
+2015,Jalal-Abad,39.0
+2016,Jalal-Abad,37.0
+2017,Jalal-Abad,38.0
+2018,Jalal-Abad,38.0
+2007,Issyk-Kul,15.0
+2008,Issyk-Kul,14.0
+2009,Issyk-Kul,14.0
+2010,Issyk-Kul,14.0
+2011,Issyk-Kul,15.0
+2012,Issyk-Kul,15.0
+2013,Issyk-Kul,14.0
+2014,Issyk-Kul,14.0
+2015,Issyk-Kul,14.0
+2016,Issyk-Kul,14.0
+2017,Issyk-Kul,14.0
+2018,Issyk-Kul,14.0
+2007,Naryn,17.0
+2008,Naryn,15.0
+2009,Naryn,14.0
+2010,Naryn,15.0
+2011,Naryn,16.0
+2012,Naryn,15.0
+2013,Naryn,14.0
+2014,Naryn,14.0
+2015,Naryn,13.0
+2016,Naryn,13.0
+2017,Naryn,13.0
+2018,Naryn,12.0
+2007,Osh,49.0
+2008,Osh,47.0
+2009,Osh,48.0
+2010,Osh,47.0
+2011,Osh,47.0
+2012,Osh,45.0
+2013,Osh,43.0
+2014,Osh,40.0
+2015,Osh,40.0
+2016,Osh,38.0
+2017,Osh,39.0
+2018,Osh,36.0
+2007,Talas,7.0
+2008,Talas,8.0
+2009,Talas,8.0
+2010,Talas,8.0
+2011,Talas,8.0
+2012,Talas,8.0
+2013,Talas,8.0
+2014,Talas,8.0
+2015,Talas,8.0
+2016,Talas,8.0
+2017,Talas,9.0
+2018,Talas,8.0
+2007,Chui,20.0
+2008,Chui,20.0
+2009,Chui,19.0
+2010,Chui,19.0
+2011,Chui,19.0
+2012,Chui,20.0
+2013,Chui,19.0
+2014,Chui,19.0
+2015,Chui,19.0
+2016,Chui,19.0
+2017,Chui,19.0
+2018,Chui,19.0
+2007,Bishkek (city),15.0
+2008,Bishkek (city),18.0
+2009,Bishkek (city),18.0
+2010,Bishkek (city),18.0
+2011,Bishkek (city),18.0
+2012,Bishkek (city),18.0
+2013,Bishkek (city),18.0
+2014,Bishkek (city),17.0
+2015,Bishkek (city),17.0
+2016,Bishkek (city),17.0
+2017,Bishkek (city),18.0
+2018,Bishkek (city),18.0
+2007,Osh (city),5.0
+2008,Osh (city),5.0
+2009,Osh (city),5.0
+2010,Osh (city),5.0
+2011,Osh (city),5.0
+2012,Osh (city),5.0
+2013,Osh (city),5.0
+2014,Osh (city),5.0
+2015,Osh (city),5.0
+2016,Osh (city),4.0
+2017,Osh (city),4.0
+2018,Osh (city),5.0
