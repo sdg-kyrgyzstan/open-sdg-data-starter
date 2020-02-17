@@ -1,361 +1,241 @@
 Year,Reference area,Sex,Value
-2007,,,121.0
-2008,,,106.0
-2009,,,109.0
-2010,,,92.0
-2011,,,100.0
-2012,,,101.0
-2013,,,80.0
-2014,,,75.0
-2015,,,59.0
-2016,,,60.0
+2011,,,9.955113
+2012,,,10.075772
+2013,,,8.0
+2014,,,7.5
+2015,,,5.9
+2016,,,6.0
 2017,,,5.3
-2018,,,51.0
-2007,,Female,103.0
-2008,,Female,81.0
-2009,,Female,72.0
-2010,,Female,66.0
-2011,,Female,77.0
-2012,,Female,71.0
-2013,,Female,64.0
-2014,,Female,55.0
-2015,,Female,42.0
-2016,,Female,45.0
+2018,,,5.139872
+2011,,Female,7.700463
+2012,,Female,7.084345
+2013,,Female,6.4
+2014,,Female,5.5
+2015,,Female,4.2
+2016,,Female,4.5
 2017,,Female,4.3
-2018,,Female,35.0
-2007,,Male,140.0
-2008,,Male,131.0
-2009,,Male,146.0
-2010,,Male,118.0
-2011,,Male,123.0
-2012,,Male,131.0
-2013,,Male,95.0
-2014,,Male,95.0
-2015,,Male,75.0
-2016,,Male,75.0
+2018,,Female,3.5452199999999996
+2011,,Male,12.267172
+2012,,Male,13.139517999999999
+2013,,Male,9.5
+2014,,Male,9.5
+2015,,Male,7.5
+2016,,Male,7.5
 2017,,Male,6.2
-2018,,Male,68.0
-2007,Batken,,202.0
-2008,Batken,,200.0
-2009,Batken,,116.0
-2010,Batken,,46.0
-2011,Batken,,117.0
-2012,Batken,,86.0
-2013,Batken,,71.0
-2014,Batken,,57.0
-2015,Batken,,49.0
-2016,Batken,,86.0
+2018,,Male,6.760797
+2011,Batken,,11.68605
+2012,Batken,,8.592769
+2013,Batken,,7.1
+2014,Batken,,5.7
+2015,Batken,,4.9
+2016,Batken,,8.6
 2017,Batken,,2.6
-2018,Batken,,31.0
-2007,Batken,Female,183.0
-2008,Batken,Female,172.0
-2009,Batken,Female,95.0
-2010,Batken,Female,33.0
-2011,Batken,Female,82.0
-2012,Batken,Female,63.0
-2013,Batken,Female,70.0
-2014,Batken,Female,51.0
-2015,Batken,Female,42.0
-2016,Batken,Female,90.0
+2018,Batken,,3.080721
+2011,Batken,Female,8.215202
+2012,Batken,Female,6.264963
+2013,Batken,Female,7.0
+2014,Batken,Female,5.1
+2015,Batken,Female,4.2
+2016,Batken,Female,9.0
 2017,Batken,Female,2.8
-2018,Batken,Female,27.0
-2007,Batken,Male,220.0
-2008,Batken,Male,227.0
-2009,Batken,Male,137.0
-2010,Batken,Male,58.0
-2011,Batken,Male,151.0
-2012,Batken,Male,109.0
-2013,Batken,Male,72.0
-2014,Batken,Male,62.0
-2015,Batken,Male,57.0
-2016,Batken,Male,83.0
+2018,Batken,Female,2.7464009999999996
+2011,Batken,Male,15.052973000000001
+2012,Batken,Male,10.850458999999999
+2013,Batken,Male,7.2
+2014,Batken,Male,6.2
+2015,Batken,Male,5.7
+2016,Batken,Male,8.3
 2017,Batken,Male,2.3
-2018,Batken,Male,34.0
-2007,Jalal-Abad,,59.0
-2008,Jalal-Abad,,64.0
-2009,Jalal-Abad,,63.0
-2010,Jalal-Abad,,59.0
-2011,Jalal-Abad,,48.0
-2012,Jalal-Abad,,89.0
-2013,Jalal-Abad,,72.0
-2014,Jalal-Abad,,58.0
-2015,Jalal-Abad,,44.0
-2016,Jalal-Abad,,26.0
+2018,Batken,Male,3.402904
+2011,Jalal-Abad,,4.782698
+2012,Jalal-Abad,,8.916337
+2013,Jalal-Abad,,7.2
+2014,Jalal-Abad,,5.8
+2015,Jalal-Abad,,4.4
+2016,Jalal-Abad,,2.6
 2017,Jalal-Abad,,3.3
-2018,Jalal-Abad,,27.0
-2007,Jalal-Abad,Female,47.0
-2008,Jalal-Abad,Female,46.0
-2009,Jalal-Abad,Female,57.0
-2010,Jalal-Abad,Female,41.0
-2011,Jalal-Abad,Female,48.0
-2012,Jalal-Abad,Female,79.0
-2013,Jalal-Abad,Female,66.0
-2014,Jalal-Abad,Female,33.0
-2015,Jalal-Abad,Female,35.0
-2016,Jalal-Abad,Female,24.0
+2018,Jalal-Abad,,2.661109
+2011,Jalal-Abad,Female,4.788933
+2012,Jalal-Abad,Female,7.898627
+2013,Jalal-Abad,Female,6.6
+2014,Jalal-Abad,Female,3.3
+2015,Jalal-Abad,Female,3.5
+2016,Jalal-Abad,Female,2.4
 2017,Jalal-Abad,Female,2.7
-2018,Jalal-Abad,Female,17.0
-2007,Jalal-Abad,Male,71.0
-2008,Jalal-Abad,Male,82.0
-2009,Jalal-Abad,Male,69.0
-2010,Jalal-Abad,Male,78.0
-2011,Jalal-Abad,Male,48.0
-2012,Jalal-Abad,Male,99.0
-2013,Jalal-Abad,Male,77.0
-2014,Jalal-Abad,Male,83.0
-2015,Jalal-Abad,Male,53.0
-2016,Jalal-Abad,Male,28.0
+2018,Jalal-Abad,Female,1.673357
+2011,Jalal-Abad,Male,4.77648
+2012,Jalal-Abad,Male,9.930263
+2013,Jalal-Abad,Male,7.7
+2014,Jalal-Abad,Male,8.3
+2015,Jalal-Abad,Male,5.3
+2016,Jalal-Abad,Male,2.8
 2017,Jalal-Abad,Male,3.9
-2018,Jalal-Abad,Male,36.0
-2007,Issyk-Kul,,101.0
-2008,Issyk-Kul,,73.0
-2009,Issyk-Kul,,91.0
-2010,Issyk-Kul,,93.0
-2011,Issyk-Kul,,110.0
-2012,Issyk-Kul,,82.0
-2013,Issyk-Kul,,99.0
-2014,Issyk-Kul,,69.0
-2015,Issyk-Kul,,54.0
-2016,Issyk-Kul,,44.0
+2018,Jalal-Abad,Male,3.636935
+2011,Issyk-Kul,,10.980097
+2012,Issyk-Kul,,8.209561
+2013,Issyk-Kul,,9.9
+2014,Issyk-Kul,,6.9
+2015,Issyk-Kul,,5.4
+2016,Issyk-Kul,,4.4
 2017,Issyk-Kul,,4.6
-2018,Issyk-Kul,,62.0
-2007,Issyk-Kul,Female,68.0
-2008,Issyk-Kul,Female,59.0
-2009,Issyk-Kul,Female,58.0
-2010,Issyk-Kul,Female,49.0
-2011,Issyk-Kul,Female,80.0
-2012,Issyk-Kul,Female,70.0
-2013,Issyk-Kul,Female,65.0
-2014,Issyk-Kul,Female,52.0
-2015,Issyk-Kul,Female,47.0
-2016,Issyk-Kul,Female,25.0
+2018,Issyk-Kul,,6.168093
+2011,Issyk-Kul,Female,7.9955229999999995
+2012,Issyk-Kul,Female,7.042811
+2013,Issyk-Kul,Female,6.5
+2014,Issyk-Kul,Female,5.2
+2015,Issyk-Kul,Female,4.7
+2016,Issyk-Kul,Female,2.5
 2017,Issyk-Kul,Female,5.4
-2018,Issyk-Kul,Female,29.0
-2007,Issyk-Kul,Male,136.0
-2008,Issyk-Kul,Male,88.0
-2009,Issyk-Kul,Male,124.0
-2010,Issyk-Kul,Male,137.0
-2011,Issyk-Kul,Male,140.0
-2012,Issyk-Kul,Male,94.0
-2013,Issyk-Kul,Male,133.0
-2014,Issyk-Kul,Male,87.0
-2015,Issyk-Kul,Male,60.0
-2016,Issyk-Kul,Male,64.0
+2018,Issyk-Kul,Female,2.8660799999999997
+2011,Issyk-Kul,Male,14.018523000000002
+2012,Issyk-Kul,Male,9.395469
+2013,Issyk-Kul,Male,13.3
+2014,Issyk-Kul,Male,8.7
+2015,Issyk-Kul,Male,6.0
+2016,Issyk-Kul,Male,6.4
 2017,Issyk-Kul,Male,3.8
-2018,Issyk-Kul,Male,95.0
-2007,Naryn,,121.0
-2008,Naryn,,70.0
-2009,Naryn,,116.0
-2010,Naryn,,77.0
-2011,Naryn,,110.0
-2012,Naryn,,68.0
-2013,Naryn,,67.0
-2014,Naryn,,44.0
-2015,Naryn,,22.0
-2016,Naryn,,43.0
+2018,Issyk-Kul,Male,9.498716
+2011,Naryn,,11.003939
+2012,Naryn,,6.753639
+2013,Naryn,,6.7
+2014,Naryn,,4.4
+2015,Naryn,,2.2
+2016,Naryn,,4.3
 2017,Naryn,,2.8
-2018,Naryn,,32.0
-2007,Naryn,Female,110.0
-2008,Naryn,Female,71.0
-2009,Naryn,Female,39.0
-2010,Naryn,Female,47.0
-2011,Naryn,Female,92.0
-2012,Naryn,Female,53.0
-2013,Naryn,Female,45.0
-2014,Naryn,Female,22.0
-2015,Naryn,Female,15.0
-2016,Naryn,Female,15.0
+2018,Naryn,,3.152773
+2011,Naryn,Female,9.231337
+2012,Naryn,Female,5.330531
+2013,Naryn,Female,4.5
+2014,Naryn,Female,2.2
+2015,Naryn,Female,1.5
+2016,Naryn,Female,1.5
 2017,Naryn,Female,3.6
-2018,Naryn,Female,29.0
-2007,Naryn,Male,131.0
-2008,Naryn,Male,69.0
-2009,Naryn,Male,191.0
-2010,Naryn,Male,106.0
-2011,Naryn,Male,127.0
-2012,Naryn,Male,81.0
-2013,Naryn,Male,88.0
-2014,Naryn,Male,65.0
-2015,Naryn,Male,29.0
-2016,Naryn,Male,71.0
+2018,Naryn,Female,2.853067
+2011,Naryn,Male,12.729315
+2012,Naryn,Male,8.135854
+2013,Naryn,Male,8.8
+2014,Naryn,Male,6.5
+2015,Naryn,Male,2.9
+2016,Naryn,Male,7.1
 2017,Naryn,Male,2.1
-2018,Naryn,Male,34.0
-2007,Osh,,38.0
-2008,Osh,,41.0
-2009,Osh,,75.0
-2010,Osh,,84.0
-2011,Osh,,64.0
-2012,Osh,,42.0
-2013,Osh,,51.0
-2014,Osh,,63.0
-2015,Osh,,35.0
-2016,Osh,,46.0
+2018,Naryn,Male,3.4420330000000003
+2011,Osh,,6.407336
+2012,Osh,,4.222387
+2013,Osh,,5.1
+2014,Osh,,6.3
+2015,Osh,,3.5
+2016,Osh,,4.6
 2017,Osh,,5.9
-2018,Osh,,44.0
-2007,Osh,Female,39.0
-2008,Osh,Female,35.0
-2009,Osh,Female,53.0
-2010,Osh,Female,65.0
-2011,Osh,Female,58.0
-2012,Osh,Female,33.0
-2013,Osh,Female,46.0
-2014,Osh,Female,50.0
-2015,Osh,Female,26.0
-2016,Osh,Female,24.0
+2018,Osh,,4.442955
+2011,Osh,Female,5.833243
+2012,Osh,Female,3.2982620000000002
+2013,Osh,Female,4.6
+2014,Osh,Female,5.0
+2015,Osh,Female,2.6
+2016,Osh,Female,2.4
 2017,Osh,Female,5.3
-2018,Osh,Female,30.0
-2007,Osh,Male,37.0
-2008,Osh,Male,47.0
-2009,Osh,Male,97.0
-2010,Osh,Male,102.0
-2011,Osh,Male,70.0
-2012,Osh,Male,51.0
-2013,Osh,Male,55.0
-2014,Osh,Male,77.0
-2015,Osh,Male,45.0
-2016,Osh,Male,68.0
+2018,Osh,Female,3.043862
+2011,Osh,Male,6.973549
+2012,Osh,Male,5.1332949999999995
+2013,Osh,Male,5.5
+2014,Osh,Male,7.7
+2015,Osh,Male,4.5
+2016,Osh,Male,6.8
 2017,Osh,Male,6.5
-2018,Osh,Male,58.0
-2007,Talas,,76.0
-2008,Talas,,58.0
-2009,Talas,,48.0
-2010,Talas,,113.0
-2011,Talas,,81.0
-2012,Talas,,84.0
-2013,Talas,,79.0
-2014,Talas,,65.0
-2015,Talas,,52.0
-2016,Talas,,63.0
+2018,Osh,Male,5.813217
+2011,Talas,,8.134502000000001
+2012,Talas,,8.424032
+2013,Talas,,7.9
+2014,Talas,,6.5
+2015,Talas,,5.2
+2016,Talas,,6.3
 2017,Talas,,3.9
-2018,Talas,,27.0
-2007,Talas,Female,108.0
-2008,Talas,Female,71.0
-2009,Talas,Female,35.0
-2010,Talas,Female,131.0
-2011,Talas,Female,60.0
-2012,Talas,Female,68.0
-2013,Talas,Female,50.0
-2014,Talas,Female,58.0
-2015,Talas,Female,24.0
-2016,Talas,Female,56.0
+2018,Talas,,2.679877
+2011,Talas,Female,6.020884
+2012,Talas,Female,6.779717999999999
+2013,Talas,Female,5.0
+2014,Talas,Female,5.8
+2015,Talas,Female,2.4
+2016,Talas,Female,5.6
 2017,Talas,Female,1.6
-2018,Talas,Female,31.0
-2007,Talas,Male,45.0
-2008,Talas,Male,44.0
-2009,Talas,Male,61.0
-2010,Talas,Male,95.0
-2011,Talas,Male,102.0
-2012,Talas,Male,100.0
-2013,Talas,Male,107.0
-2014,Talas,Male,73.0
-2015,Talas,Male,80.0
-2016,Talas,Male,70.0
+2018,Talas,Female,3.096263
+2011,Talas,Male,10.22922
+2012,Talas,Male,10.048821
+2013,Talas,Male,10.7
+2014,Talas,Male,7.3
+2015,Talas,Male,8.0
+2016,Talas,Male,7.0
 2017,Talas,Male,6.2
-2018,Talas,Male,23.0
-2007,Chui,,123.0
-2008,Chui,,132.0
-2009,Chui,,112.0
-2010,Chui,,65.0
-2011,Chui,,103.0
-2012,Chui,,88.0
-2013,Chui,,66.0
-2014,Chui,,65.0
-2015,Chui,,58.0
-2016,Chui,,54.0
+2018,Talas,Male,2.272417
+2011,Chui,,10.259855
+2012,Chui,,8.790298
+2013,Chui,,6.6
+2014,Chui,,6.5
+2015,Chui,,5.8
+2016,Chui,,5.4
 2017,Chui,,4.8
-2018,Chui,,63.0
-2007,Chui,Female,92.0
-2008,Chui,Female,86.0
-2009,Chui,Female,71.0
-2010,Chui,Female,61.0
-2011,Chui,Female,89.0
-2012,Chui,Female,71.0
-2013,Chui,Female,63.0
-2014,Chui,Female,39.0
-2015,Chui,Female,47.0
-2016,Chui,Female,42.0
+2018,Chui,,6.334346
+2011,Chui,Female,8.891003999999999
+2012,Chui,Female,7.112005
+2013,Chui,Female,6.3
+2014,Chui,Female,3.9
+2015,Chui,Female,4.7
+2016,Chui,Female,4.2
 2017,Chui,Female,2.6
-2018,Chui,Female,49.0
-2007,Chui,Male,154.0
-2008,Chui,Male,179.0
-2009,Chui,Male,154.0
-2010,Chui,Male,70.0
-2011,Chui,Male,117.0
-2012,Chui,Male,105.0
-2013,Chui,Male,70.0
-2014,Chui,Male,92.0
-2015,Chui,Male,69.0
-2016,Chui,Male,66.0
+2018,Chui,Female,4.864719
+2011,Chui,Male,11.674872
+2012,Chui,Male,10.522735
+2013,Chui,Male,7.0
+2014,Chui,Male,9.2
+2015,Chui,Male,6.9
+2016,Chui,Male,6.6
 2017,Chui,Male,7.1
-2018,Chui,Male,78.0
-2007,Bishkek (city),,194.0
-2008,Bishkek (city),,166.0
-2009,Bishkek (city),,186.0
-2010,Bishkek (city),,175.0
-2011,Bishkek (city),,166.0
-2012,Bishkek (city),,179.0
-2013,Bishkek (city),,101.0
-2014,Bishkek (city),,95.0
-2015,Bishkek (city),,79.0
-2016,Bishkek (city),,101.0
+2018,Chui,Male,7.849328
+2011,Bishkek (city),,16.607541
+2012,Bishkek (city),,17.864088
+2013,Bishkek (city),,10.1
+2014,Bishkek (city),,9.5
+2015,Bishkek (city),,7.9
+2016,Bishkek (city),,10.1
 2017,Bishkek (city),,10.1
-2018,Bishkek (city),,90.0
-2007,Bishkek (city),Female,153.0
-2008,Bishkek (city),Female,110.0
-2009,Bishkek (city),Female,109.0
-2010,Bishkek (city),Female,98.0
-2011,Bishkek (city),Female,108.0
-2012,Bishkek (city),Female,78.0
-2013,Bishkek (city),Female,74.0
-2014,Bishkek (city),Female,71.0
-2015,Bishkek (city),Female,46.0
-2016,Bishkek (city),Female,70.0
+2018,Bishkek (city),,8.968212
+2011,Bishkek (city),Female,10.76723
+2012,Bishkek (city),Female,7.817766000000001
+2013,Bishkek (city),Female,7.4
+2014,Bishkek (city),Female,7.1
+2015,Bishkek (city),Female,4.6
+2016,Bishkek (city),Female,7.0
 2017,Bishkek (city),Female,7.6
-2018,Bishkek (city),Female,59.0
-2007,Bishkek (city),Male,242.0
-2008,Bishkek (city),Male,229.0
-2009,Bishkek (city),Male,275.0
-2010,Bishkek (city),Male,263.0
-2011,Bishkek (city),Male,233.0
-2012,Bishkek (city),Male,294.0
-2013,Bishkek (city),Male,131.0
-2014,Bishkek (city),Male,123.0
-2015,Bishkek (city),Male,118.0
-2016,Bishkek (city),Male,137.0
+2018,Bishkek (city),Female,5.929539
+2011,Bishkek (city),Male,23.342207000000002
+2012,Bishkek (city),Male,29.427859
+2013,Bishkek (city),Male,13.1
+2014,Bishkek (city),Male,12.3
+2015,Bishkek (city),Male,11.8
+2016,Bishkek (city),Male,13.7
 2017,Bishkek (city),Male,12.9
-2018,Bishkek (city),Male,124.0
-2007,Osh (city),,410.0
-2008,Osh (city),,249.0
-2009,Osh (city),,236.0
-2010,Osh (city),,136.0
-2011,Osh (city),,192.0
-2012,Osh (city),,294.0
+2018,Bishkek (city),Male,12.420425
+2011,Osh (city),,19.152071
+2012,Osh (city),,29.440247999999997
 2013,Osh (city),,21.3
 2014,Osh (city),,24.7
 2015,Osh (city),,22.3
-2016,Osh (city),,140.0
+2016,Osh (city),,14.0
 2017,Osh (city),,4.9
-2018,Osh (city),,75.0
-2007,Osh (city),Female,352.0
-2008,Osh (city),Female,194.0
-2009,Osh (city),Female,141.0
-2010,Osh (city),Female,119.0
-2011,Osh (city),Female,113.0
-2012,Osh (city),Female,208.0
+2018,Osh (city),,7.479508
+2011,Osh (city),Female,11.255262
+2012,Osh (city),Female,20.837209
 2013,Osh (city),Female,12.4
 2014,Osh (city),Female,20.9
 2015,Osh (city),Female,14.9
 2016,Osh (city),Female,12.5
 2017,Osh (city),Female,4.1
-2018,Osh (city),Female,40.0
-2007,Osh (city),Male,472.0
-2008,Osh (city),Male,308.0
-2009,Osh (city),Male,338.0
-2010,Osh (city),Male,154.0
-2011,Osh (city),Male,277.0
-2012,Osh (city),Male,388.0
+2018,Osh (city),Female,3.953533
+2011,Osh (city),Male,27.737893
+2012,Osh (city),Male,38.780044000000004
 2013,Osh (city),Male,30.9
 2014,Osh (city),Male,28.7
 2015,Osh (city),Male,30.4
 2016,Osh (city),Male,15.6
 2017,Osh (city),Male,5.8
-2018,Osh (city),Male,112.0
+2018,Osh (city),Male,11.238007000000001
