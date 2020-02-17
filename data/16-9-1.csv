@@ -1,7 +1,7 @@
-Year,concept.AGE,Value
-2018,code.Y0T4,98.9
-2018,code.Y0,96.9
-2018,code.Y1,98.8
-2018,code.Y2,99.2
-2018,code.Y3,99.9
-2018,code.Y4,99.8
+Year,Age,Value
+2018,under 5 years old,98.9
+2018,under 1 year old,96.9
+2018,1 year old,98.8
+2018,2 years old,99.2
+2018,3 years old,99.9
+2018,4 years old,99.8

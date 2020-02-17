@@ -1,5 +1,5 @@
 From,To
-concept.AGE,concept.REF_AREA
-concept.AGE,concept.SEX
-concept.AGE,concept.URBANISATION
-concept.AGE,concept.EDUCATION_LEV
+Age,Reference area
+Age,Sex
+Age,Degree of urbanisation
+Age,Education level

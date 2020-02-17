@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,Value
+Year,Reference area,Value
 2007,,184.0
 2008,,192.0
 2009,,176.0
@@ -11,111 +11,111 @@ Year,concept.REF_AREA,Value
 2016,,134.0
 2017,,13.7
 2018,,110.0
-2007,code.KG05,83.0
-2008,code.KG05,137.0
-2009,code.KG05,158.0
-2010,code.KG05,130.0
-2011,code.KG05,126.0
-2012,code.KG05,128.0
-2013,code.KG05,146.0
-2014,code.KG05,120.0
-2015,code.KG05,158.0
-2016,code.KG05,110.0
-2017,code.KG05,13.6
-2018,code.KG05,90.0
-2007,code.KG03,132.0
-2008,code.KG03,167.0
-2009,code.KG03,165.0
-2010,code.KG03,129.0
-2011,code.KG03,152.0
-2012,code.KG03,175.0
-2013,code.KG03,146.0
-2014,code.KG03,118.0
-2015,code.KG03,127.0
-2016,code.KG03,111.0
-2017,code.KG03,8.6
-2018,code.KG03,79.0
-2007,code.KG02,325.0
-2008,code.KG02,293.0
-2009,code.KG02,232.0
-2010,code.KG02,273.0
-2011,code.KG02,325.0
-2012,code.KG02,266.0
-2013,code.KG02,353.0
-2014,code.KG02,239.0
-2015,code.KG02,278.0
-2016,code.KG02,228.0
-2017,code.KG02,25.8
-2018,code.KG02,185.0
-2007,code.KG04,292.0
-2008,code.KG04,264.0
-2009,code.KG04,283.0
-2010,code.KG04,276.0
-2011,code.KG04,269.0
-2012,code.KG04,270.0
-2013,code.KG04,248.0
-2014,code.KG04,289.0
-2015,code.KG04,308.0
-2016,code.KG04,197.0
-2017,code.KG04,26.5
-2018,code.KG04,249.0
-2007,code.KG06,135.0
-2008,code.KG06,153.0
-2009,code.KG06,145.0
-2010,code.KG06,147.0
-2011,code.KG06,147.0
-2012,code.KG06,150.0
-2013,code.KG06,143.0
-2014,code.KG06,155.0
-2015,code.KG06,124.0
-2016,code.KG06,117.0
-2017,code.KG06,11.8
-2018,code.KG06,96.0
-2007,code.KG07,153.0
-2008,code.KG07,173.0
-2009,code.KG07,167.0
-2010,code.KG07,191.0
-2011,code.KG07,244.0
-2012,code.KG07,253.0
-2013,code.KG07,232.0
-2014,code.KG07,216.0
-2015,code.KG07,160.0
-2016,code.KG07,174.0
-2017,code.KG07,15.6
-2018,code.KG07,203.0
-2007,code.KG08,310.0
-2008,code.KG08,281.0
-2009,code.KG08,232.0
-2010,code.KG08,197.0
-2011,code.KG08,200.0
-2012,code.KG08,189.0
-2013,code.KG08,245.0
-2014,code.KG08,200.0
-2015,code.KG08,205.0
-2016,code.KG08,182.0
-2017,code.KG08,19.9
-2018,code.KG08,148.0
-2007,code.KG11,144.0
-2008,code.KG11,156.0
-2009,code.KG11,130.0
-2010,code.KG11,101.0
-2011,code.KG11,92.0
-2012,code.KG11,84.0
-2013,code.KG11,115.0
-2014,code.KG11,78.0
-2015,code.KG11,91.0
-2016,code.KG11,85.0
-2017,code.KG11,8.6
-2018,code.KG11,54.0
-2007,code.KG21,172.0
-2008,code.KG21,167.0
-2009,code.KG21,155.0
-2010,code.KG21,144.0
-2011,code.KG21,129.0
-2012,code.KG21,97.0
-2013,code.KG21,122.0
-2014,code.KG21,105.0
-2015,code.KG21,125.0
-2016,code.KG21,100.0
-2017,code.KG21,7.7
-2018,code.KG21,61.0
+2007,Batken,83.0
+2008,Batken,137.0
+2009,Batken,158.0
+2010,Batken,130.0
+2011,Batken,126.0
+2012,Batken,128.0
+2013,Batken,146.0
+2014,Batken,120.0
+2015,Batken,158.0
+2016,Batken,110.0
+2017,Batken,13.6
+2018,Batken,90.0
+2007,Jalal-Abad,132.0
+2008,Jalal-Abad,167.0
+2009,Jalal-Abad,165.0
+2010,Jalal-Abad,129.0
+2011,Jalal-Abad,152.0
+2012,Jalal-Abad,175.0
+2013,Jalal-Abad,146.0
+2014,Jalal-Abad,118.0
+2015,Jalal-Abad,127.0
+2016,Jalal-Abad,111.0
+2017,Jalal-Abad,8.6
+2018,Jalal-Abad,79.0
+2007,Issyk-Kul,325.0
+2008,Issyk-Kul,293.0
+2009,Issyk-Kul,232.0
+2010,Issyk-Kul,273.0
+2011,Issyk-Kul,325.0
+2012,Issyk-Kul,266.0
+2013,Issyk-Kul,353.0
+2014,Issyk-Kul,239.0
+2015,Issyk-Kul,278.0
+2016,Issyk-Kul,228.0
+2017,Issyk-Kul,25.8
+2018,Issyk-Kul,185.0
+2007,Naryn,292.0
+2008,Naryn,264.0
+2009,Naryn,283.0
+2010,Naryn,276.0
+2011,Naryn,269.0
+2012,Naryn,270.0
+2013,Naryn,248.0
+2014,Naryn,289.0
+2015,Naryn,308.0
+2016,Naryn,197.0
+2017,Naryn,26.5
+2018,Naryn,249.0
+2007,Osh,135.0
+2008,Osh,153.0
+2009,Osh,145.0
+2010,Osh,147.0
+2011,Osh,147.0
+2012,Osh,150.0
+2013,Osh,143.0
+2014,Osh,155.0
+2015,Osh,124.0
+2016,Osh,117.0
+2017,Osh,11.8
+2018,Osh,96.0
+2007,Talas,153.0
+2008,Talas,173.0
+2009,Talas,167.0
+2010,Talas,191.0
+2011,Talas,244.0
+2012,Talas,253.0
+2013,Talas,232.0
+2014,Talas,216.0
+2015,Talas,160.0
+2016,Talas,174.0
+2017,Talas,15.6
+2018,Talas,203.0
+2007,Chui,310.0
+2008,Chui,281.0
+2009,Chui,232.0
+2010,Chui,197.0
+2011,Chui,200.0
+2012,Chui,189.0
+2013,Chui,245.0
+2014,Chui,200.0
+2015,Chui,205.0
+2016,Chui,182.0
+2017,Chui,19.9
+2018,Chui,148.0
+2007,Bishkek (city),144.0
+2008,Bishkek (city),156.0
+2009,Bishkek (city),130.0
+2010,Bishkek (city),101.0
+2011,Bishkek (city),92.0
+2012,Bishkek (city),84.0
+2013,Bishkek (city),115.0
+2014,Bishkek (city),78.0
+2015,Bishkek (city),91.0
+2016,Bishkek (city),85.0
+2017,Bishkek (city),8.6
+2018,Bishkek (city),54.0
+2007,Osh (city),172.0
+2008,Osh (city),167.0
+2009,Osh (city),155.0
+2010,Osh (city),144.0
+2011,Osh (city),129.0
+2012,Osh (city),97.0
+2013,Osh (city),122.0
+2014,Osh (city),105.0
+2015,Osh (city),125.0
+2016,Osh (city),100.0
+2017,Osh (city),7.7
+2018,Osh (city),61.0

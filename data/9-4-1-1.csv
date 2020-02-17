@@ -1,31 +1,31 @@
-Year,concept.COMPOSITE_BREAKDOWN,Value
+Year,Composite breakdown,Value
 2014,,302.6
 2015,,304.9
 2016,,264.3
 2017,,248.2
 2018,,283.6
-2014,code.POL_SOLID,112.7
-2015,code.POL_SOLID,121.8
-2016,code.POL_SOLID,101.3
-2017,code.POL_SOLID,126.1
-2018,code.POL_SOLID,91.0
-2014,code.POL_GASLIQ,189.9
-2015,code.POL_GASLIQ,183.1
-2016,code.POL_GASLIQ,163.0
-2017,code.POL_GASLIQ,122.1
-2018,code.POL_GASLIQ,192.6
-2014,code.POL_S02,92.3
-2015,code.POL_S02,95.4
-2016,code.POL_S02,80.6
-2017,code.POL_S02,39.0
-2018,code.POL_S02,90.3
-2014,code.POL_CO,61.5
-2015,code.POL_CO,49.9
-2016,code.POL_CO,47.1
-2017,code.POL_CO,47.1
-2018,code.POL_CO,60.7
-2014,code.POL_NOX,21.2
-2015,code.POL_NOX,20.0
-2016,code.POL_NOX,21.8
-2017,code.POL_NOX,19.5
-2018,code.POL_NOX,22.8
+2014,Pollutants: Solid,112.7
+2015,Pollutants: Solid,121.8
+2016,Pollutants: Solid,101.3
+2017,Pollutants: Solid,126.1
+2018,Pollutants: Solid,91.0
+2014,Pollutants: Gaseous and liquid,189.9
+2015,Pollutants: Gaseous and liquid,183.1
+2016,Pollutants: Gaseous and liquid,163.0
+2017,Pollutants: Gaseous and liquid,122.1
+2018,Pollutants: Gaseous and liquid,192.6
+2014,Pollutants: Sulphur dioxide,92.3
+2015,Pollutants: Sulphur dioxide,95.4
+2016,Pollutants: Sulphur dioxide,80.6
+2017,Pollutants: Sulphur dioxide,39.0
+2018,Pollutants: Sulphur dioxide,90.3
+2014,Pollutants: Carbon monoxide,61.5
+2015,Pollutants: Carbon monoxide,49.9
+2016,Pollutants: Carbon monoxide,47.1
+2017,Pollutants: Carbon monoxide,47.1
+2018,Pollutants: Carbon monoxide,60.7
+2014,Pollutants: Nitrogen oxide,21.2
+2015,Pollutants: Nitrogen oxide,20.0
+2016,Pollutants: Nitrogen oxide,21.8
+2017,Pollutants: Nitrogen oxide,19.5
+2018,Pollutants: Nitrogen oxide,22.8

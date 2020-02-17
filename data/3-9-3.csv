@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,Value
+Year,Reference area,Value
 2007,,105.0
 2008,,108.0
 2009,,91.0
@@ -11,111 +11,111 @@ Year,concept.REF_AREA,Value
 2016,,60.0
 2017,,5.9
 2018,,6.3
-2007,code.KG05,14.0
-2008,code.KG05,28.0
-2009,code.KG05,35.0
-2010,code.KG05,30.0
-2011,code.KG05,13.0
-2012,code.KG05,35.0
-2013,code.KG05,39.0
-2014,code.KG05,21.0
-2015,code.KG05,14.0
-2016,code.KG05,12.0
-2017,code.KG05,3.3
-2018,code.KG05,1.2
-2007,code.KG03,23.0
-2008,code.KG03,14.0
-2009,code.KG03,15.0
-2010,code.KG03,24.0
-2011,code.KG03,22.0
-2012,code.KG03,24.0
-2013,code.KG03,22.0
-2014,code.KG03,21.0
-2015,code.KG03,29.0
-2016,code.KG03,19.0
-2017,code.KG03,2.5
-2018,code.KG03,2.4
-2007,code.KG02,341.0
-2008,code.KG02,351.0
-2009,code.KG02,262.0
-2010,code.KG02,330.0
-2011,code.KG02,314.0
-2012,code.KG02,266.0
-2013,code.KG02,248.0
-2014,code.KG02,306.0
-2015,code.KG02,313.0
-2016,code.KG02,194.0
-2017,code.KG02,23.5
-2018,code.KG02,26.7
-2007,code.KG04,124.0
-2008,code.KG04,93.0
-2009,code.KG04,97.0
-2010,code.KG04,115.0
-2011,code.KG04,99.0
-2012,code.KG04,83.0
-2013,code.KG04,63.0
-2014,code.KG04,55.0
-2015,code.KG04,72.0
-2016,code.KG04,72.0
-2017,code.KG04,8.1
-2018,code.KG04,10.9
-2007,code.KG06,10.0
-2008,code.KG06,24.0
-2009,code.KG06,27.0
-2010,code.KG06,25.0
-2011,code.KG06,24.0
-2012,code.KG06,37.0
-2013,code.KG06,16.0
-2014,code.KG06,27.0
-2015,code.KG06,40.0
-2016,code.KG06,34.0
-2017,code.KG06,2.3
-2018,code.KG06,3.4
-2007,code.KG07,36.0
-2008,code.KG07,44.0
-2009,code.KG07,44.0
-2010,code.KG07,35.0
-2011,code.KG07,26.0
-2012,code.KG07,55.0
-2013,code.KG07,37.0
-2014,code.KG07,41.0
-2015,code.KG07,68.0
-2016,code.KG07,63.0
-2017,code.KG07,2.3
-2018,code.KG07,5.7
-2007,code.KG08,158.0
-2008,code.KG08,160.0
-2009,code.KG08,119.0
-2010,code.KG08,111.0
-2011,code.KG08,77.0
-2012,code.KG08,94.0
-2013,code.KG08,74.0
-2014,code.KG08,79.0
-2015,code.KG08,63.0
-2016,code.KG08,79.0
-2017,code.KG08,7.9
-2018,code.KG08,7.1
-2007,code.KG11,241.0
-2008,code.KG11,243.0
-2009,code.KG11,210.0
-2010,code.KG11,163.0
-2011,code.KG11,160.0
-2012,code.KG11,122.0
-2013,code.KG11,99.0
-2014,code.KG11,100.0
-2015,code.KG11,81.0
-2016,code.KG11,81.0
-2017,code.KG11,6.6
-2018,code.KG11,6.5
-2007,code.KG21,16.0
-2008,code.KG21,35.0
-2009,code.KG21,31.0
-2010,code.KG21,39.0
-2011,code.KG21,35.0
-2012,code.KG21,58.0
-2013,code.KG21,49.0
-2014,code.KG21,19.0
-2015,code.KG21,44.0
-2016,code.KG21,61.0
-2017,code.KG21,3.5
-2018,code.KG21,2.7
+2007,Batken,14.0
+2008,Batken,28.0
+2009,Batken,35.0
+2010,Batken,30.0
+2011,Batken,13.0
+2012,Batken,35.0
+2013,Batken,39.0
+2014,Batken,21.0
+2015,Batken,14.0
+2016,Batken,12.0
+2017,Batken,3.3
+2018,Batken,1.2
+2007,Jalal-Abad,23.0
+2008,Jalal-Abad,14.0
+2009,Jalal-Abad,15.0
+2010,Jalal-Abad,24.0
+2011,Jalal-Abad,22.0
+2012,Jalal-Abad,24.0
+2013,Jalal-Abad,22.0
+2014,Jalal-Abad,21.0
+2015,Jalal-Abad,29.0
+2016,Jalal-Abad,19.0
+2017,Jalal-Abad,2.5
+2018,Jalal-Abad,2.4
+2007,Issyk-Kul,341.0
+2008,Issyk-Kul,351.0
+2009,Issyk-Kul,262.0
+2010,Issyk-Kul,330.0
+2011,Issyk-Kul,314.0
+2012,Issyk-Kul,266.0
+2013,Issyk-Kul,248.0
+2014,Issyk-Kul,306.0
+2015,Issyk-Kul,313.0
+2016,Issyk-Kul,194.0
+2017,Issyk-Kul,23.5
+2018,Issyk-Kul,26.7
+2007,Naryn,124.0
+2008,Naryn,93.0
+2009,Naryn,97.0
+2010,Naryn,115.0
+2011,Naryn,99.0
+2012,Naryn,83.0
+2013,Naryn,63.0
+2014,Naryn,55.0
+2015,Naryn,72.0
+2016,Naryn,72.0
+2017,Naryn,8.1
+2018,Naryn,10.9
+2007,Osh,10.0
+2008,Osh,24.0
+2009,Osh,27.0
+2010,Osh,25.0
+2011,Osh,24.0
+2012,Osh,37.0
+2013,Osh,16.0
+2014,Osh,27.0
+2015,Osh,40.0
+2016,Osh,34.0
+2017,Osh,2.3
+2018,Osh,3.4
+2007,Talas,36.0
+2008,Talas,44.0
+2009,Talas,44.0
+2010,Talas,35.0
+2011,Talas,26.0
+2012,Talas,55.0
+2013,Talas,37.0
+2014,Talas,41.0
+2015,Talas,68.0
+2016,Talas,63.0
+2017,Talas,2.3
+2018,Talas,5.7
+2007,Chui,158.0
+2008,Chui,160.0
+2009,Chui,119.0
+2010,Chui,111.0
+2011,Chui,77.0
+2012,Chui,94.0
+2013,Chui,74.0
+2014,Chui,79.0
+2015,Chui,63.0
+2016,Chui,79.0
+2017,Chui,7.9
+2018,Chui,7.1
+2007,Bishkek (city),241.0
+2008,Bishkek (city),243.0
+2009,Bishkek (city),210.0
+2010,Bishkek (city),163.0
+2011,Bishkek (city),160.0
+2012,Bishkek (city),122.0
+2013,Bishkek (city),99.0
+2014,Bishkek (city),100.0
+2015,Bishkek (city),81.0
+2016,Bishkek (city),81.0
+2017,Bishkek (city),6.6
+2018,Bishkek (city),6.5
+2007,Osh (city),16.0
+2008,Osh (city),35.0
+2009,Osh (city),31.0
+2010,Osh (city),39.0
+2011,Osh (city),35.0
+2012,Osh (city),58.0
+2013,Osh (city),49.0
+2014,Osh (city),19.0
+2015,Osh (city),44.0
+2016,Osh (city),61.0
+2017,Osh (city),3.5
+2018,Osh (city),2.7
