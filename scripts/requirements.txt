@@ -1,10 +1,10 @@
-# Updated 1/17/2020
 pyyaml
 pandas
 gitpython
 lxml
 numpy
+xlrd
 ruamel.yaml>=0.15
 git+git://github.com/dougmet/yamlmd
-git+git://github.com/brockfanning/sdg-build-1@sdmx-input-indicator-name-bugfix
+git+git://github.com/open-sdg/sdg-build@xlsx-metadata-input
 jsonschema
