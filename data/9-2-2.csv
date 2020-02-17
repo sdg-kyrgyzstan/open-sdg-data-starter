@@ -1,73 +1,106 @@
-Year,Reference area,Sex,Time series-level footnotes,Value
-2010,,,,7.8
-2013,,,,6.9
-2014,,,,6.9
-2015,,,,7.4
-2016,,,,7.6
-2017,,,,10.1
-2010,Batken,,,6.4
-2013,Batken,,,3.1
-2014,Batken,,,3.0
-2015,Batken,,,2.3
-2016,Batken,,,2.4
-2017,Batken,,,4.5
-2010,Jalal-Abad,,,3.1
-2013,Jalal-Abad,,,5.1
-2014,Jalal-Abad,,,5.3
-2015,Jalal-Abad,,,5.5
-2016,Jalal-Abad,,,5.4
-2017,Jalal-Abad,,,8.9
-2010,Issyk-Kul,,,3.2
-2013,Issyk-Kul,,,4.1
-2014,Issyk-Kul,,,4.2
-2015,Issyk-Kul,,,4.7
-2016,Issyk-Kul,,,5.3
-2017,Issyk-Kul,,,6.4
-2010,Naryn,,,2.4
-2013,Naryn,,,1.4
-2014,Naryn,,,0.9
-2015,Naryn,,,1.1
-2016,Naryn,,,1.4
-2017,Naryn,,,2.3
-2010,Osh,,Until 2013 - including Osh.,6.3
-2013,Osh,,Until 2013 - including Osh.,2.7
-2014,Osh,,Until 2013 - including Osh.,2.8
-2015,Osh,,Until 2013 - including Osh.,3.4
-2016,Osh,,Until 2013 - including Osh.,3.3
-2017,Osh,,Until 2013 - including Osh.,4.7
-2010,Talas,,,2.6
-2013,Talas,,,3.0
-2014,Talas,,,2.2
-2015,Talas,,,1.9
-2016,Talas,,,2.1
-2017,Talas,,,3.6
-2010,Chui,,,14.3
-2013,Chui,,,13.7
-2014,Chui,,,13.7
-2015,Chui,,,15.1
-2016,Chui,,,16.0
-2017,Chui,,,21.6
-2010,Bishkek (city),,,14.5
-2013,Bishkek (city),,,13.5
-2014,Bishkek (city),,,13.5
-2015,Bishkek (city),,,14.8
-2016,Bishkek (city),,,15.4
-2017,Bishkek (city),,,16.1
-2010,Osh (city),,,
-2013,Osh (city),,,7.5
-2014,Osh (city),,,7.8
-2015,Osh (city),,,5.1
-2016,Osh (city),,,5.1
-2017,Osh (city),,,7.6
-2010,,Female,,9.3
-2013,,Female,,8.8
-2014,,Female,,8.9
-2015,,Female,,8.4
-2016,,Female,,9.1
-2017,,Female,,11.3
-2010,,Male,,6.7
-2013,,Male,,5.7
-2014,,Male,,5.6
-2015,,Male,,6.7
-2016,,Male,,6.7
-2017,,Male,,9.3
+Year,Reference area,Sex,Value
+2010,,,7.8
+2011,,,7.6
+2012,,,7.6
+2013,,,6.9
+2014,,,6.9
+2015,,,7.4
+2016,,,7.6
+2017,,,10.1
+2018,,,120.0
+2010,Batken,,6.4
+2011,Batken,,6.4
+2012,Batken,,5.7
+2013,Batken,,3.1
+2014,Batken,,3.0
+2015,Batken,,2.3
+2016,Batken,,2.4
+2017,Batken,,4.5
+2018,Batken,,6.9
+2010,Jalal-Abad,,3.1
+2011,Jalal-Abad,,3.3
+2012,Jalal-Abad,,4.3
+2013,Jalal-Abad,,5.1
+2014,Jalal-Abad,,5.3
+2015,Jalal-Abad,,5.5
+2016,Jalal-Abad,,5.4
+2017,Jalal-Abad,,8.9
+2018,Jalal-Abad,,15.3
+2010,Issyk-Kul,,3.2
+2011,Issyk-Kul,,3.7
+2012,Issyk-Kul,,4.1
+2013,Issyk-Kul,,4.1
+2014,Issyk-Kul,,4.2
+2015,Issyk-Kul,,4.7
+2016,Issyk-Kul,,5.3
+2017,Issyk-Kul,,6.4
+2018,Issyk-Kul,,8.2
+2010,Naryn,,2.4
+2011,Naryn,,1.6
+2012,Naryn,,1.6
+2013,Naryn,,1.4
+2014,Naryn,,0.9
+2015,Naryn,,1.1
+2016,Naryn,,1.4
+2017,Naryn,,2.3
+2018,Naryn,,3.9
+2010,Osh,,63.0
+2011,Osh,,5.9
+2012,Osh,,5.4
+2013,Osh,,2.7
+2014,Osh,,2.8
+2015,Osh,,3.4
+2016,Osh,,3.3
+2017,Osh,,4.7
+2018,Osh,,6.7
+2010,Talas,,2.6
+2011,Talas,,30.0
+2012,Talas,,3.1
+2013,Talas,,3.0
+2014,Talas,,2.2
+2015,Talas,,1.9
+2016,Talas,,2.1
+2017,Talas,,3.6
+2018,Talas,,3.8
+2010,Chui,,14.3
+2011,Chui,,14.3
+2012,Chui,,14.8
+2013,Chui,,13.7
+2014,Chui,,13.7
+2015,Chui,,15.1
+2016,Chui,,16.0
+2017,Chui,,21.6
+2018,Chui,,21.4
+2010,Bishkek (city),,14.5
+2011,Bishkek (city),,13.6
+2012,Bishkek (city),,12.8
+2013,Bishkek (city),,13.5
+2014,Bishkek (city),,13.5
+2015,Bishkek (city),,14.8
+2016,Bishkek (city),,15.4
+2017,Bishkek (city),,16.1
+2018,Bishkek (city),,16.4
+2013,Osh (city),,7.5
+2014,Osh (city),,7.8
+2015,Osh (city),,5.1
+2016,Osh (city),,5.1
+2017,Osh (city),,7.6
+2018,Osh (city),,8.5
+2010,,Female,9.3
+2011,,Female,88.0
+2012,,Female,90.0
+2013,,Female,8.8
+2014,,Female,8.9
+2015,,Female,8.4
+2016,,Female,9.1
+2017,,Female,11.3
+2018,,Female,12.5
+2010,,Male,6.7
+2011,,Male,68.0
+2012,,Male,66.0
+2013,,Male,5.7
+2014,,Male,5.6
+2015,,Male,6.7
+2016,,Male,6.7
+2017,,Male,9.3
+2018,,Male,11.7
