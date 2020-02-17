@@ -1,111 +1,115 @@
 Year,Reference area,Value
-2007,,51.9
-2008,,55.0
-2009,,63.5
-2010,,51.3
-2011,,54.8
-2012,,49.1
-2013,,36.0
-2014,,50.1
-2015,,38.5
-2016,,30.3
-2017,,31.9
-2007,Batken,74.8
-2008,Batken,66.6
-2009,Batken,41.7
-2010,Batken,59.7
-2011,Batken,66.9
-2012,Batken,43.5
-2013,Batken,42.0
-2014,Batken,108.7
-2015,Batken,26.1
-2016,Batken,41.9
-2017,Batken,51.9
-2007,Jalal-Abad,32.8
-2008,Jalal-Abad,66.6
-2009,Jalal-Abad,40.3
-2010,Jalal-Abad,31.1
-2011,Jalal-Abad,36.5
-2012,Jalal-Abad,55.9
-2013,Jalal-Abad,33.0
-2014,Jalal-Abad,53.7
-2015,Jalal-Abad,53.3
-2016,Jalal-Abad,33.5
-2017,Jalal-Abad,53.6
-2007,Issyk-Kul,89.7
-2008,Issyk-Kul,122.9
-2009,Issyk-Kul,72.0
-2010,Issyk-Kul,70.4
-2011,Issyk-Kul,62.6
-2012,Issyk-Kul,97.2
-2013,Issyk-Kul,37.2
-2014,Issyk-Kul,55.3
-2015,Issyk-Kul,26.7
-2016,Issyk-Kul,34.7
-2017,Issyk-Kul,37.0
-2007,Naryn,62.3
-2008,Naryn,46.2
-2009,Naryn,105.5
-2010,Naryn,69.6
-2011,Naryn,83.3
-2012,Naryn,56.2
-2013,Naryn,29.0
-2014,Naryn,135.7
-2015,Naryn,30.6
-2016,Naryn,43.7
-2017,Naryn,
-2007,Osh,26.0
-2008,Osh,54.4
-2009,Osh,93.2
-2010,Osh,78.6
-2011,Osh,62.5
-2012,Osh,58.1
-2013,Osh,42.8
-2014,Osh,43.4
-2015,Osh,43.4
-2016,Osh,24.9
-2017,Osh,25.6
-2007,Talas,120.3
-2008,Talas,51.1
-2009,Talas,61.3
-2010,Talas,87.0
-2011,Talas,40.9
-2012,Talas,14.1
-2013,Talas,14.8
-2014,Talas,44.6
-2015,Talas,15.1
-2016,Talas,
-2017,Talas,
-2007,Chui,78.3
-2008,Chui,34.4
-2009,Chui,61.1
-2010,Chui,49.5
-2011,Chui,69.0
-2012,Chui,41.2
-2013,Chui,50.4
-2014,Chui,44.4
-2015,Chui,40.3
-2016,Chui,47.9
-2017,Chui,22.9
-2007,Bishkek (city),17.3
-2008,Bishkek (city),22.0
-2009,Bishkek (city),20.4
-2010,Bishkek (city),19.4
-2011,Bishkek (city),43.3
-2012,Bishkek (city),18.0
-2013,Bishkek (city),26.1
-2014,Bishkek (city),16.4
-2015,Bishkek (city),30.5
-2016,Bishkek (city),17.6
-2017,Bishkek (city),13.4
-2007,Osh (city),100.6
-2008,Osh (city),38.6
-2009,Osh (city),168.4
-2010,Osh (city),
-2011,Osh (city),35.7
-2012,Osh (city),60.3
-2013,Osh (city),15.0
-2014,Osh (city),
-2015,Osh (city),40.9
-2016,Osh (city),13.5
-2017,Osh (city),64.9
+2007,,519
+2008,,550
+2009,,635
+2010,,513
+2011,,548
+2012,,491
+2013,,360
+2014,,501
+2015,,385
+2016,,303
+2017,,319
+2018,,286
+2007,Batken,748
+2008,Batken,666
+2009,Batken,417
+2010,Batken,597
+2011,Batken,669
+2012,Batken,435
+2013,Batken,420
+2014,Batken,1087
+2015,Batken,261
+2016,Batken,419
+2017,Batken,519
+2018,Batken,336
+2007,Jalal-Abad,328
+2008,Jalal-Abad,666
+2009,Jalal-Abad,403
+2010,Jalal-Abad,311
+2011,Jalal-Abad,365
+2012,Jalal-Abad,559
+2013,Jalal-Abad,330
+2014,Jalal-Abad,537
+2015,Jalal-Abad,533
+2016,Jalal-Abad,335
+2017,Jalal-Abad,536
+2018,Jalal-Abad,382
+2007,Issyk-Kul,897
+2008,Issyk-Kul,1229
+2009,Issyk-Kul,720
+2010,Issyk-Kul,704
+2011,Issyk-Kul,626
+2012,Issyk-Kul,972
+2013,Issyk-Kul,372
+2014,Issyk-Kul,553
+2015,Issyk-Kul,267
+2016,Issyk-Kul,347
+2017,Issyk-Kul,370
+2018,Issyk-Kul,712
+2007,Naryn,623
+2008,Naryn,462
+2009,Naryn,1055
+2010,Naryn,696
+2011,Naryn,833
+2012,Naryn,562
+2013,Naryn,290
+2014,Naryn,1357
+2015,Naryn,306
+2016,Naryn,437
+2018,Naryn,1057
+2007,Osh,260
+2008,Osh,544
+2009,Osh,932
+2010,Osh,786
+2011,Osh,625
+2012,Osh,581
+2013,Osh,428
+2014,Osh,434
+2015,Osh,434
+2016,Osh,249
+2017,Osh,256
+2018,Osh,195
+2007,Talas,1203
+2008,Talas,511
+2009,Talas,613
+2010,Talas,870
+2011,Talas,409
+2012,Talas,141
+2013,Talas,148
+2014,Talas,446
+2015,Talas,151
+2007,Chui,783
+2008,Chui,344
+2009,Chui,611
+2010,Chui,495
+2011,Chui,690
+2012,Chui,412
+2013,Chui,504
+2014,Chui,444
+2015,Chui,403
+2016,Chui,479
+2017,Chui,229
+2018,Chui,161
+2007,Bishkek (city),173
+2008,Bishkek (city),220
+2009,Bishkek (city),204
+2010,Bishkek (city),194
+2011,Bishkek (city),433
+2012,Bishkek (city),180
+2013,Bishkek (city),261
+2014,Bishkek (city),164
+2015,Bishkek (city),305
+2016,Bishkek (city),176
+2017,Bishkek (city),134
+2018,Bishkek (city),180
+2007,Osh (city),1006
+2008,Osh (city),386
+2009,Osh (city),1684
+2011,Osh (city),357
+2012,Osh (city),603
+2013,Osh (city),150
+2015,Osh (city),409
+2016,Osh (city),135
+2017,Osh (city),649
+2018,Osh (city),83
