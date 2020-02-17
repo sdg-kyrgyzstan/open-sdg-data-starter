@@ -1,2 +1,23 @@
-Year,Value
-2018,93.3
+Year,Reference area,Sex,Age,Degree of urbanisation,Education level,Value
+2018,,,15 years old and over,,,91.8
+2018,,,15 years old and over,Urban,,94.9
+2018,,,15 years old and over,Rural,,89.9
+2018,,Male,15 years old and over,,,92.8
+2018,,Female,15 years old and over,,,910.0
+2018,Batken,,15 years old and over,,,911.0
+2018,Jalal-Abad,,15 years old and over,,,906.0
+2018,Issyk-Kul,,15 years old and over,,,921.0
+2018,Naryn,,15 years old and over,,,894.0
+2018,Osh,,15 years old and over,,,876.0
+2018,Talas,,15 years old and over,,,915.0
+2018,Chui,,15 years old and over,,,946.0
+2018,Bishkek (city),,15 years old and over,,,970.0
+2018,Osh (city),,15 years old and over,,,883.0
+2018,,,18 to 19 years old,,,909.0
+2018,,,20 to 24 years old,,,959.0
+2018,,,20 to 29 years old,,,788.0
+2018,,,15 years old and over,,Educación primaria,581.0
+2018,,,15 years old and over,,Educación secundaria baja,840.0
+2018,,,15 years old and over,,Educación secundaria alta,928.0
+2018,,,15 years old and over,,Educación post-secundaria no terciaria,964.0
+2018,,,15 years old and over,,Educación terciaria de ciclo corto,981.0
