@@ -18,3 +18,7 @@ contact_person: Contact person(s)/focal point
 contact_person_email: Contact person's email
 contact_person_phone: Contact person's phone
 organization_website: Organization website
+indicator_information: Indicator information
+indicator_information_blurb: This table provides information about the indicator
+data_reporter: Data reporter
+data_reporter_blurb: This table provides information about the data reporter
