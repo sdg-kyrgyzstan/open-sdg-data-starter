@@ -1,30 +1,60 @@
-Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,,,,,,674.0
-2018,Batken,,,,,486.0
-2018,Jalal-Abad,,,,,562.0
-2018,Issyk-Kul,,,,,651.0
-2018,Naryn,,,,,798.0
-2018,Osh,,,,,711.0
-2018,Talas,,,,,791.0
-2018,Chui,,,,,707.0
-2018,Bishkek (city),,,,,696.0
-2018,Osh (city),,,,,713.0
-2018,,,Urban,,,686.0
-2018,,,Rural,,,667.0
-2018,,15 to 19 years old,,,,317.0
-2018,,20 to 24 years old,,,,538.0
-2018,,25 to 29 years old,,,,599.0
-2018,,30 to 34 years old,,,,762.0
-2018,,35 to 39 years old,,,,745.0
-2018,,40 to 44 years old,,,,687.0
-2018,,45 to 49 years old,,,,660.0
-2018,,,,,Educación preescolar,
-2018,,,,,Educación primaria,678.0
-2018,,,,,Educación secundaria baja,629.0
-2018,,,,,Educación secundaria alta,662.0
-2018,,,,,Educación post-secundaria no terciaria,743.0
-2018,,,,Quintile 1 (poorest),,665.0
-2018,,,,Quintile 2,,607.0
-2018,,,,Quintile 3,,692.0
-2018,,,,Quintile 4,,693.0
-2018,,,,Quintile 5 (richest),,714.0
+Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
+2014,,15 to 49 years old,,,,,420.0
+2018,,15 to 49 years old,,,,,674.0
+2014,Batken,15 to 49 years old,,,,,450.0
+2018,Batken,15 to 49 years old,,,,,486.0
+2014,Jalal-Abad,15 to 49 years old,,,,,314.0
+2018,Jalal-Abad,15 to 49 years old,,,,,562.0
+2014,Issyk-Kul,15 to 49 years old,,,,,460.0
+2018,Issyk-Kul,15 to 49 years old,,,,,651.0
+2014,Naryn,15 to 49 years old,,,,,589.0
+2018,Naryn,15 to 49 years old,,,,,798.0
+2014,Osh,15 to 49 years old,,,,,384.0
+2018,Osh,15 to 49 years old,,,,,711.0
+2014,Talas,15 to 49 years old,,,,,434.0
+2018,Talas,15 to 49 years old,,,,,791.0
+2014,Chui,15 to 49 years old,,,,,478.0
+2018,Chui,15 to 49 years old,,,,,707.0
+2014,Bishkek (city),15 to 49 years old,,,,,470.0
+2018,Bishkek (city),15 to 49 years old,,,,,696.0
+2014,Osh (city),15 to 49 years old,,,,,383.0
+2018,Osh (city),15 to 49 years old,,,,,713.0
+2014,,15 to 49 years old,Urban,,,,431.0
+2018,,15 to 49 years old,Urban,,,,686.0
+2014,,15 to 49 years old,Rural,,,,414.0
+2018,,15 to 49 years old,Rural,,,,667.0
+2014,,15 to 19 years old,,,,,174.0
+2018,,15 to 19 years old,,,,,317.0
+2014,,20 to 24 years old,,,,,289.0
+2018,,20 to 24 years old,,,,,538.0
+2014,,25 to 29 years old,,,,,392.0
+2018,,25 to 29 years old,,,,,599.0
+2014,,30 to 34 years old,,,,,504.0
+2018,,30 to 34 years old,,,,,762.0
+2014,,35 to 39 years old,,,,,572.0
+2018,,35 to 39 years old,,,,,745.0
+2014,,40 to 44 years old,,,,,522.0
+2018,,40 to 44 years old,,,,,687.0
+2014,,45 to 49 years old,,,,,293.0
+2018,,45 to 49 years old,,,,,660.0
+2014,,15 to 49 years old,,,Educación primaria,,20.4
+2014,,15 to 49 years old,,,Educación secundaria baja,,365.0
+2018,,15 to 49 years old,,,Educación secundaria baja,,678.0
+2014,,15 to 49 years old,,,Educación secundaria alta,,421.0
+2018,,15 to 49 years old,,,Educación secundaria alta,,629.0
+2014,,15 to 49 years old,,,Educación post-secundaria no terciaria,,433.0
+2018,,15 to 49 years old,,,Educación post-secundaria no terciaria,,662.0
+2014,,15 to 49 years old,,,Educación terciaria de ciclo corto,,437.0
+2018,,15 to 49 years old,,,Educación terciaria de ciclo corto,,743.0
+2018,,15 to 49 years old,,,,Persons with disability,816.0
+2018,,15 to 49 years old,,,,Persons without disability,671.0
+2014,,15 to 49 years old,,Quintile 1 (poorest),,,425.0
+2018,,15 to 49 years old,,Quintile 1 (poorest),,,665.0
+2014,,15 to 49 years old,,Quintile 2,,,378.0
+2018,,15 to 49 years old,,Quintile 2,,,607.0
+2014,,15 to 49 years old,,Quintile 3,,,391.0
+2018,,15 to 49 years old,,Quintile 3,,,692.0
+2014,,15 to 49 years old,,Quintile 4,,,451.0
+2018,,15 to 49 years old,,Quintile 4,,,693.0
+2014,,15 to 49 years old,,Quintile 5 (richest),,,453.0
+2018,,15 to 49 years old,,Quintile 5 (richest),,,714.0
