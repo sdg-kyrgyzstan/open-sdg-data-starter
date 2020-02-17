@@ -1,22 +1,22 @@
-Year,Composite breakdown,Value
-2012,Internet speed: 256 kbit/s to less than 2 Mbit/s,22233
-2013,Internet speed: 256 kbit/s to less than 2 Mbit/s,77877
-2014,Internet speed: 256 kbit/s to less than 2 Mbit/s,105680
-2015,Internet speed: 256 kbit/s to less than 2 Mbit/s,46408
-2016,Internet speed: 256 kbit/s to less than 2 Mbit/s,27317
-2017,Internet speed: 256 kbit/s to less than 2 Mbit/s,27428
-2018,Internet speed: 256 kbit/s to less than 2 Mbit/s,12521
-2012,Internet speed: 2 Mbit/s to less than 10 Mbit/s,6530
-2013,Internet speed: 2 Mbit/s to less than 10 Mbit/s,43943
-2014,Internet speed: 2 Mbit/s to less than 10 Mbit/s,65345
-2015,Internet speed: 2 Mbit/s to less than 10 Mbit/s,59374
-2016,Internet speed: 2 Mbit/s to less than 10 Mbit/s,91834
-2017,Internet speed: 2 Mbit/s to less than 10 Mbit/s,101786
-2018,Internet speed: 2 Mbit/s to less than 10 Mbit/s,73099
-2012,Internet speed: 10 Mbit/s or above,19351
-2013,Internet speed: 10 Mbit/s or above,14065
-2014,Internet speed: 10 Mbit/s or above,14032
-2015,Internet speed: 10 Mbit/s or above,105739
-2016,Internet speed: 10 Mbit/s or above,117068
-2017,Internet speed: 10 Mbit/s or above,128799
-2018,Internet speed: 10 Mbit/s or above,154572
+Year,concept.COMPOSITE_BREAKDOWN,Value
+2012,code.IS_256KT2M,22233
+2013,code.IS_256KT2M,77877
+2014,code.IS_256KT2M,105680
+2015,code.IS_256KT2M,46408
+2016,code.IS_256KT2M,27317
+2017,code.IS_256KT2M,27428
+2018,code.IS_256KT2M,12521
+2012,code.IS_2MT10M,6530
+2013,code.IS_2MT10M,43943
+2014,code.IS_2MT10M,65345
+2015,code.IS_2MT10M,59374
+2016,code.IS_2MT10M,91834
+2017,code.IS_2MT10M,101786
+2018,code.IS_2MT10M,73099
+2012,code.IS_GE10M,19351
+2013,code.IS_GE10M,14065
+2014,code.IS_GE10M,14032
+2015,code.IS_GE10M,105739
+2016,code.IS_GE10M,117068
+2017,code.IS_GE10M,128799
+2018,code.IS_GE10M,154572

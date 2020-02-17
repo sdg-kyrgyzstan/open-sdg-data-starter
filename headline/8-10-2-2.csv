@@ -1,19 +1,19 @@
 Year,Units,Value
-2010,Number,18
-2011,Number,18
-2012,Number,19
-2013,Number,19
-2014,Number,21
-2015,Number,22
-2016,Number,24
-2017,Number,23
-2018,Number,22
-2010,Local currency,4772
-2011,Local currency,2929
-2012,Local currency,3378
-2013,Local currency,4054
-2014,Local currency,10032
-2015,Local currency,9670
-2016,Local currency,9213
-2017,Local currency,10044
-2018,Local currency,10927
+2010,code.NUMBER,18
+2011,code.NUMBER,18
+2012,code.NUMBER,19
+2013,code.NUMBER,19
+2014,code.NUMBER,21
+2015,code.NUMBER,22
+2016,code.NUMBER,24
+2017,code.NUMBER,23
+2018,code.NUMBER,22
+2010,code.CUR_LCU,4772
+2011,code.CUR_LCU,2929
+2012,code.CUR_LCU,3378
+2013,code.CUR_LCU,4054
+2014,code.CUR_LCU,10032
+2015,code.CUR_LCU,9670
+2016,code.CUR_LCU,9213
+2017,code.CUR_LCU,10044
+2018,code.CUR_LCU,10927

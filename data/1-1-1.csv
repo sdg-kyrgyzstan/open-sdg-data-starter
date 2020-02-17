@@ -1,4 +1,4 @@
-Year,Reference area,Value
+Year,concept.REF_AREA,Value
 2007,,0.13
 2008,,0.09
 2009,,0.29
@@ -11,106 +11,106 @@ Year,Reference area,Value
 2016,,0.21
 2017,,0.31
 2018,,0.28
-2007,Batken,0.0
-2008,Batken,0.27
-2009,Batken,0.0
-2010,Batken,0.21
-2011,Batken,0.0
-2012,Batken,0.0
-2013,Batken,0.0
-2014,Batken,0.0
-2015,Batken,0.34
-2016,Batken,0.32
-2017,Batken,1.08
-2018,Batken,0.45
-2007,Jalal-Abad,0.2
-2008,Jalal-Abad,0.0
-2009,Jalal-Abad,0.0
-2010,Jalal-Abad,0.22
-2011,Jalal-Abad,0.0
-2012,Jalal-Abad,0.61
-2013,Jalal-Abad,0.0
-2014,Jalal-Abad,0.0
-2015,Jalal-Abad,0.0
-2016,Jalal-Abad,0.0
-2017,Jalal-Abad,0.0
-2018,Jalal-Abad,0.0
-2007,Issyk-Kul,0.05
-2008,Issyk-Kul,0.34
-2009,Issyk-Kul,0.58
-2010,Issyk-Kul,0.11
-2011,Issyk-Kul,0.0
-2012,Issyk-Kul,0.0
-2013,Issyk-Kul,0.0
-2014,Issyk-Kul,0.0
-2015,Issyk-Kul,0.0
-2016,Issyk-Kul,0.0
-2017,Issyk-Kul,0.0
-2018,Issyk-Kul,0.89
-2007,Naryn,0.13
-2008,Naryn,0.63
-2009,Naryn,0.03
-2010,Naryn,3.46
-2011,Naryn,0.31
-2012,Naryn,0.0
-2013,Naryn,0.84
-2014,Naryn,0.2
-2015,Naryn,0.74
-2016,Naryn,0.7
-2017,Naryn,0.66
-2018,Naryn,1.7
-2007,Osh,0.33
-2008,Osh,0.03
-2009,Osh,0.0
-2010,Osh,0.09
-2011,Osh,0.0
-2012,Osh,0.0
-2013,Osh,0.0
-2014,Osh,0.0
-2015,Osh,0.0
-2016,Osh,0.0
-2017,Osh,0.0
-2018,Osh,0.0
-2007,Talas,0.0
-2008,Talas,0.0
-2009,Talas,0.0
-2010,Talas,0.0
-2011,Talas,0.0
-2012,Talas,0.0
-2013,Talas,0.0
-2014,Talas,0.0
-2015,Talas,0.0
-2016,Talas,0.0
-2017,Talas,0.0
-2018,Talas,0.0
-2007,Chui,0.0
-2008,Chui,0.0
-2009,Chui,1.35
-2010,Chui,0.16
-2011,Chui,0.0
-2012,Chui,1.09
-2013,Chui,0.36
-2014,Chui,0.42
-2015,Chui,0.0
-2016,Chui,1.01
-2017,Chui,1.27
-2018,Chui,0.32
-2007,Bishkek (city),0.0
-2008,Bishkek (city),0.02
-2009,Bishkek (city),0.27
-2010,Bishkek (city),0.0
-2011,Bishkek (city),0.0
-2012,Bishkek (city),0.03
-2013,Bishkek (city),1.55
-2014,Bishkek (city),0.0
-2015,Bishkek (city),0.0
-2016,Bishkek (city),0.0
-2017,Bishkek (city),0.0
-2018,Bishkek (city),0.33
-2012,Osh (city),0.0
-2013,Osh (city),0.0
-2014,Osh (city),0.0
-2015,Osh (city),0.0
-2016,Osh (city),0.0
-2017,Osh (city),0.0
-2018,Osh (city),0.0
+2007,code.KG05,0.0
+2008,code.KG05,0.27
+2009,code.KG05,0.0
+2010,code.KG05,0.21
+2011,code.KG05,0.0
+2012,code.KG05,0.0
+2013,code.KG05,0.0
+2014,code.KG05,0.0
+2015,code.KG05,0.34
+2016,code.KG05,0.32
+2017,code.KG05,1.08
+2018,code.KG05,0.45
+2007,code.KG03,0.2
+2008,code.KG03,0.0
+2009,code.KG03,0.0
+2010,code.KG03,0.22
+2011,code.KG03,0.0
+2012,code.KG03,0.61
+2013,code.KG03,0.0
+2014,code.KG03,0.0
+2015,code.KG03,0.0
+2016,code.KG03,0.0
+2017,code.KG03,0.0
+2018,code.KG03,0.0
+2007,code.KG02,0.05
+2008,code.KG02,0.34
+2009,code.KG02,0.58
+2010,code.KG02,0.11
+2011,code.KG02,0.0
+2012,code.KG02,0.0
+2013,code.KG02,0.0
+2014,code.KG02,0.0
+2015,code.KG02,0.0
+2016,code.KG02,0.0
+2017,code.KG02,0.0
+2018,code.KG02,0.89
+2007,code.KG04,0.13
+2008,code.KG04,0.63
+2009,code.KG04,0.03
+2010,code.KG04,3.46
+2011,code.KG04,0.31
+2012,code.KG04,0.0
+2013,code.KG04,0.84
+2014,code.KG04,0.2
+2015,code.KG04,0.74
+2016,code.KG04,0.7
+2017,code.KG04,0.66
+2018,code.KG04,1.7
+2007,code.KG06,0.33
+2008,code.KG06,0.03
+2009,code.KG06,0.0
+2010,code.KG06,0.09
+2011,code.KG06,0.0
+2012,code.KG06,0.0
+2013,code.KG06,0.0
+2014,code.KG06,0.0
+2015,code.KG06,0.0
+2016,code.KG06,0.0
+2017,code.KG06,0.0
+2018,code.KG06,0.0
+2007,code.KG07,0.0
+2008,code.KG07,0.0
+2009,code.KG07,0.0
+2010,code.KG07,0.0
+2011,code.KG07,0.0
+2012,code.KG07,0.0
+2013,code.KG07,0.0
+2014,code.KG07,0.0
+2015,code.KG07,0.0
+2016,code.KG07,0.0
+2017,code.KG07,0.0
+2018,code.KG07,0.0
+2007,code.KG08,0.0
+2008,code.KG08,0.0
+2009,code.KG08,1.35
+2010,code.KG08,0.16
+2011,code.KG08,0.0
+2012,code.KG08,1.09
+2013,code.KG08,0.36
+2014,code.KG08,0.42
+2015,code.KG08,0.0
+2016,code.KG08,1.01
+2017,code.KG08,1.27
+2018,code.KG08,0.32
+2007,code.KG11,0.0
+2008,code.KG11,0.02
+2009,code.KG11,0.27
+2010,code.KG11,0.0
+2011,code.KG11,0.0
+2012,code.KG11,0.03
+2013,code.KG11,1.55
+2014,code.KG11,0.0
+2015,code.KG11,0.0
+2016,code.KG11,0.0
+2017,code.KG11,0.0
+2018,code.KG11,0.33
+2012,code.KG21,0.0
+2013,code.KG21,0.0
+2014,code.KG21,0.0
+2015,code.KG21,0.0
+2016,code.KG21,0.0
+2017,code.KG21,0.0
+2018,code.KG21,0.0

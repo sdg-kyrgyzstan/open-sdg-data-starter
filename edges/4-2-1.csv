@@ -1,5 +1,5 @@
 From,To
-Age,Reference area
-Age,Sex
-Age,Income or wealth quantile
-Age,Education level
+concept.AGE,concept.REF_AREA
+concept.AGE,concept.SEX
+concept.AGE,concept.INCOME_WEALTH_QUANTILE
+concept.AGE,concept.EDUCATION_LEV

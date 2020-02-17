@@ -1,4 +1,4 @@
-Year,Reference area,Value
+Year,concept.REF_AREA,Value
 2007,,211
 2008,,196
 2009,,181
@@ -11,111 +11,111 @@ Year,Reference area,Value
 2016,,127
 2017,,118
 2018,,120
-2007,Batken,200
-2008,Batken,204
-2009,Batken,178
-2010,Batken,179
-2011,Batken,159
-2012,Batken,133
-2013,Batken,133
-2014,Batken,125
-2015,Batken,112
-2016,Batken,106
-2017,Batken,106
-2018,Batken,93
-2007,Jalal-Abad,175
-2008,Jalal-Abad,138
-2009,Jalal-Abad,131
-2010,Jalal-Abad,114
-2011,Jalal-Abad,116
-2012,Jalal-Abad,115
-2013,Jalal-Abad,132
-2014,Jalal-Abad,144
-2015,Jalal-Abad,127
-2016,Jalal-Abad,115
-2017,Jalal-Abad,99
-2018,Jalal-Abad,102
-2007,Issyk-Kul,174
-2008,Issyk-Kul,184
-2009,Issyk-Kul,164
-2010,Issyk-Kul,159
-2011,Issyk-Kul,163
-2012,Issyk-Kul,148
-2013,Issyk-Kul,113
-2014,Issyk-Kul,93
-2015,Issyk-Kul,122
-2016,Issyk-Kul,84
-2017,Issyk-Kul,94
-2018,Issyk-Kul,85
-2007,Naryn,179
-2008,Naryn,169
-2009,Naryn,145
-2010,Naryn,123
-2011,Naryn,103
-2012,Naryn,124
-2013,Naryn,116
-2014,Naryn,122
-2015,Naryn,87
-2016,Naryn,112
-2017,Naryn,100
-2018,Naryn,82
-2007,Osh,126
-2008,Osh,134
-2009,Osh,106
-2010,Osh,107
-2011,Osh,82
-2012,Osh,64
-2013,Osh,51
-2014,Osh,50
-2015,Osh,43
-2016,Osh,35
-2017,Osh,31
-2018,Osh,34
-2007,Talas,289
-2008,Talas,245
-2009,Talas,256
-2010,Talas,191
-2011,Talas,169
-2012,Talas,153
-2013,Talas,199
-2014,Talas,167
-2015,Talas,127
-2016,Talas,123
-2017,Talas,123
-2018,Talas,167
-2007,Chui,219
-2008,Chui,200
-2009,Chui,185
-2010,Chui,161
-2011,Chui,154
-2012,Chui,143
-2013,Chui,145
-2014,Chui,134
-2015,Chui,126
-2016,Chui,104
-2017,Chui,67
-2018,Chui,68
-2007,Bishkek (city),315
-2008,Bishkek (city),299
-2009,Bishkek (city),273
-2010,Bishkek (city),251
-2011,Bishkek (city),241
-2012,Bishkek (city),214
-2013,Bishkek (city),229
-2014,Bishkek (city),260
-2015,Bishkek (city),230
-2016,Bishkek (city),228
-2017,Bishkek (city),232
-2018,Bishkek (city),229
-2007,Osh (city),495
-2008,Osh (city),430
-2009,Osh (city),498
-2010,Osh (city),421
-2011,Osh (city),466
-2012,Osh (city),538
-2013,Osh (city),556
-2014,Osh (city),640
-2015,Osh (city),620
-2016,Osh (city),502
-2017,Osh (city),469
-2018,Osh (city),342
+2007,code.KG05,200
+2008,code.KG05,204
+2009,code.KG05,178
+2010,code.KG05,179
+2011,code.KG05,159
+2012,code.KG05,133
+2013,code.KG05,133
+2014,code.KG05,125
+2015,code.KG05,112
+2016,code.KG05,106
+2017,code.KG05,106
+2018,code.KG05,93
+2007,code.KG03,175
+2008,code.KG03,138
+2009,code.KG03,131
+2010,code.KG03,114
+2011,code.KG03,116
+2012,code.KG03,115
+2013,code.KG03,132
+2014,code.KG03,144
+2015,code.KG03,127
+2016,code.KG03,115
+2017,code.KG03,99
+2018,code.KG03,102
+2007,code.KG02,174
+2008,code.KG02,184
+2009,code.KG02,164
+2010,code.KG02,159
+2011,code.KG02,163
+2012,code.KG02,148
+2013,code.KG02,113
+2014,code.KG02,93
+2015,code.KG02,122
+2016,code.KG02,84
+2017,code.KG02,94
+2018,code.KG02,85
+2007,code.KG04,179
+2008,code.KG04,169
+2009,code.KG04,145
+2010,code.KG04,123
+2011,code.KG04,103
+2012,code.KG04,124
+2013,code.KG04,116
+2014,code.KG04,122
+2015,code.KG04,87
+2016,code.KG04,112
+2017,code.KG04,100
+2018,code.KG04,82
+2007,code.KG06,126
+2008,code.KG06,134
+2009,code.KG06,106
+2010,code.KG06,107
+2011,code.KG06,82
+2012,code.KG06,64
+2013,code.KG06,51
+2014,code.KG06,50
+2015,code.KG06,43
+2016,code.KG06,35
+2017,code.KG06,31
+2018,code.KG06,34
+2007,code.KG07,289
+2008,code.KG07,245
+2009,code.KG07,256
+2010,code.KG07,191
+2011,code.KG07,169
+2012,code.KG07,153
+2013,code.KG07,199
+2014,code.KG07,167
+2015,code.KG07,127
+2016,code.KG07,123
+2017,code.KG07,123
+2018,code.KG07,167
+2007,code.KG08,219
+2008,code.KG08,200
+2009,code.KG08,185
+2010,code.KG08,161
+2011,code.KG08,154
+2012,code.KG08,143
+2013,code.KG08,145
+2014,code.KG08,134
+2015,code.KG08,126
+2016,code.KG08,104
+2017,code.KG08,67
+2018,code.KG08,68
+2007,code.KG11,315
+2008,code.KG11,299
+2009,code.KG11,273
+2010,code.KG11,251
+2011,code.KG11,241
+2012,code.KG11,214
+2013,code.KG11,229
+2014,code.KG11,260
+2015,code.KG11,230
+2016,code.KG11,228
+2017,code.KG11,232
+2018,code.KG11,229
+2007,code.KG21,495
+2008,code.KG21,430
+2009,code.KG21,498
+2010,code.KG21,421
+2011,code.KG21,466
+2012,code.KG21,538
+2013,code.KG21,556
+2014,code.KG21,640
+2015,code.KG21,620
+2016,code.KG21,502
+2017,code.KG21,469
+2018,code.KG21,342
