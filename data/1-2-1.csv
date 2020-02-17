@@ -1,4 +1,4 @@
-Year,Reference area,Sex,Value
+Year,concept.REF_AREA,concept.SEX,Value
 2007,,,35.0
 2008,,,31.7
 2009,,,31.7
@@ -11,351 +11,351 @@ Year,Reference area,Sex,Value
 2016,,,25.4
 2017,,,25.6
 2018,,,22.4
-2007,,Male,34.7
-2008,,Male,31.4
-2009,,Male,30.7
-2010,,Male,32.7
-2011,,Male,36.1
-2012,,Male,37.2
-2013,,Male,36.5
-2014,,Male,29.7
-2015,,Male,31.5
-2016,,Male,25.0
-2017,,Male,25.0
-2018,,Male,22.5
-2007,,Female,35.4
-2008,,Female,32.1
-2009,,Female,32.9
-2010,,Female,34.8
-2011,,Female,37.6
-2012,,Female,39.0
-2013,,Female,37.5
-2014,,Female,31.5
-2015,,Female,32.7
-2016,,Female,25.7
-2017,,Female,26.3
-2018,,Female,22.2
-2007,Batken,,40.4
-2008,Batken,,20.7
-2009,Batken,,31.5
-2010,Batken,,33.6
-2011,Batken,,35.6
-2012,Batken,,34.2
-2013,Batken,,53.9
-2014,Batken,,40.7
-2015,Batken,,41.2
-2016,Batken,,37.0
-2017,Batken,,40.5
-2018,Batken,,33.8
-2007,Batken,Male,41.3
-2008,Batken,Male,22.4
-2009,Batken,Male,31.3
-2010,Batken,Male,31.9
-2011,Batken,Male,34.2
-2012,Batken,Male,34.6
-2013,Batken,Male,53.6
-2014,Batken,Male,39.0
-2015,Batken,Male,40.9
-2016,Batken,Male,36.1
-2017,Batken,Male,39.6
-2018,Batken,Male,33.7
-2007,Batken,Female,39.4
-2008,Batken,Female,18.8
-2009,Batken,Female,31.7
-2010,Batken,Female,35.6
-2011,Batken,Female,37.3
-2012,Batken,Female,33.8
-2013,Batken,Female,54.1
-2014,Batken,Female,42.4
-2015,Batken,Female,41.4
-2016,Batken,Female,38.0
-2017,Batken,Female,41.5
-2018,Batken,Female,33.9
-2007,Jalal-Abad,,53.0
-2008,Jalal-Abad,,40.1
-2009,Jalal-Abad,,36.9
-2010,Jalal-Abad,,44.7
-2011,Jalal-Abad,,45.3
-2012,Jalal-Abad,,55.7
-2013,Jalal-Abad,,46.4
-2014,Jalal-Abad,,46.4
-2015,Jalal-Abad,,45.1
-2016,Jalal-Abad,,32.2
-2017,Jalal-Abad,,32.6
-2018,Jalal-Abad,,32.2
-2007,Jalal-Abad,Male,51.6
-2008,Jalal-Abad,Male,37.9
-2009,Jalal-Abad,Male,33.5
-2010,Jalal-Abad,Male,43.7
-2011,Jalal-Abad,Male,43.7
-2012,Jalal-Abad,Male,55.3
-2013,Jalal-Abad,Male,47.4
-2014,Jalal-Abad,Male,47.0
-2015,Jalal-Abad,Male,45.2
-2016,Jalal-Abad,Male,33.1
-2017,Jalal-Abad,Male,34.0
-2018,Jalal-Abad,Male,33.4
-2007,Jalal-Abad,Female,54.6
-2008,Jalal-Abad,Female,42.4
-2009,Jalal-Abad,Female,40.5
-2010,Jalal-Abad,Female,45.8
-2011,Jalal-Abad,Female,46.9
-2012,Jalal-Abad,Female,56.1
-2013,Jalal-Abad,Female,45.5
-2014,Jalal-Abad,Female,45.8
-2015,Jalal-Abad,Female,44.9
-2016,Jalal-Abad,Female,31.4
-2017,Jalal-Abad,Female,31.1
-2018,Jalal-Abad,Female,30.9
-2007,Issyk-Kul,,38.6
-2008,Issyk-Kul,,52.2
-2009,Issyk-Kul,,46.1
-2010,Issyk-Kul,,38.0
-2011,Issyk-Kul,,29.5
-2012,Issyk-Kul,,28.1
-2013,Issyk-Kul,,39.5
-2014,Issyk-Kul,,26.0
-2015,Issyk-Kul,,28.9
-2016,Issyk-Kul,,24.7
-2017,Issyk-Kul,,24.2
-2018,Issyk-Kul,,21.5
-2007,Issyk-Kul,Male,38.7
-2008,Issyk-Kul,Male,52.2
-2009,Issyk-Kul,Male,47.9
-2010,Issyk-Kul,Male,36.9
-2011,Issyk-Kul,Male,31.1
-2012,Issyk-Kul,Male,28.2
-2013,Issyk-Kul,Male,40.4
-2014,Issyk-Kul,Male,26.4
-2015,Issyk-Kul,Male,29.1
-2016,Issyk-Kul,Male,24.7
-2017,Issyk-Kul,Male,24.3
-2018,Issyk-Kul,Male,21.5
-2007,Issyk-Kul,Female,38.5
-2008,Issyk-Kul,Female,52.3
-2009,Issyk-Kul,Female,44.5
-2010,Issyk-Kul,Female,39.0
-2011,Issyk-Kul,Female,28.1
-2012,Issyk-Kul,Female,28.0
-2013,Issyk-Kul,Female,38.5
-2014,Issyk-Kul,Female,25.7
-2015,Issyk-Kul,Female,28.7
-2016,Issyk-Kul,Female,24.7
-2017,Issyk-Kul,Female,24.1
-2018,Issyk-Kul,Female,21.6
-2007,Naryn,,45.2
-2008,Naryn,,42.7
-2009,Naryn,,44.1
-2010,Naryn,,53.5
-2011,Naryn,,49.9
-2012,Naryn,,39.9
-2013,Naryn,,43.8
-2014,Naryn,,30.6
-2015,Naryn,,38.0
-2016,Naryn,,37.8
-2017,Naryn,,29.2
-2018,Naryn,,30.6
-2007,Naryn,Male,46.9
-2008,Naryn,Male,42.7
-2009,Naryn,Male,44.8
-2010,Naryn,Male,53.4
-2011,Naryn,Male,48.3
-2012,Naryn,Male,37.7
-2013,Naryn,Male,44.8
-2014,Naryn,Male,32.4
-2015,Naryn,Male,39.5
-2016,Naryn,Male,39.6
-2017,Naryn,Male,31.2
-2018,Naryn,Male,31.6
-2007,Naryn,Female,43.7
-2008,Naryn,Female,42.8
-2009,Naryn,Female,43.5
-2010,Naryn,Female,53.7
-2011,Naryn,Female,51.7
-2012,Naryn,Female,42.4
-2013,Naryn,Female,42.7
-2014,Naryn,Female,28.6
-2015,Naryn,Female,36.4
-2016,Naryn,Female,35.9
-2017,Naryn,Female,27.1
-2018,Naryn,Female,29.5
-2007,Osh,,46.6
-2008,Osh,,37.5
-2009,Osh,,38.3
-2010,Osh,,41.9
-2011,Osh,,44.7
-2012,Osh,,51.4
-2013,Osh,,43.4
-2014,Osh,,31.7
-2015,Osh,,28.9
-2016,Osh,,22.0
-2017,Osh,,14.3
-2018,Osh,,14.8
-2007,Osh,Male,48.7
-2008,Osh,Male,37.9
-2009,Osh,Male,38.3
-2010,Osh,Male,40.6
-2011,Osh,Male,44.2
-2012,Osh,Male,50.6
-2013,Osh,Male,42.7
-2014,Osh,Male,30.5
-2015,Osh,Male,28.4
-2016,Osh,Male,21.8
-2017,Osh,Male,12.9
-2018,Osh,Male,15.3
-2007,Osh,Female,44.3
-2008,Osh,Female,36.9
-2009,Osh,Female,38.2
-2010,Osh,Female,43.2
-2011,Osh,Female,45.2
-2012,Osh,Female,52.4
-2013,Osh,Female,44.2
-2014,Osh,Female,33.1
-2015,Osh,Female,29.5
-2016,Osh,Female,22.3
-2017,Osh,Female,15.7
-2018,Osh,Female,14.3
-2007,Talas,,35.3
-2008,Talas,,43.0
-2009,Talas,,33.0
-2010,Talas,,42.3
-2011,Talas,,50.2
-2012,Talas,,39.6
-2013,Talas,,23.1
-2014,Talas,,19.0
-2015,Talas,,21.5
-2016,Talas,,18.1
-2017,Talas,,20.7
-2018,Talas,,22.1
-2007,Talas,Male,35.5
-2008,Talas,Male,45.4
-2009,Talas,Male,35.7
-2010,Talas,Male,44.3
-2011,Talas,Male,51.4
-2012,Talas,Male,42.2
-2013,Talas,Male,23.3
-2014,Talas,Male,19.7
-2015,Talas,Male,22.6
-2016,Talas,Male,19.1
-2017,Talas,Male,21.4
-2018,Talas,Male,23.8
-2007,Talas,Female,34.9
-2008,Talas,Female,40.0
-2009,Talas,Female,29.8
-2010,Talas,Female,40.1
-2011,Talas,Female,48.8
-2012,Talas,Female,36.7
-2013,Talas,Female,22.8
-2014,Talas,Female,18.4
-2015,Talas,Female,20.4
-2016,Talas,Female,17.1
-2017,Talas,Female,19.9
-2018,Talas,Female,20.3
-2007,Chui,,15.0
-2008,Chui,,15.8
-2009,Chui,,21.2
-2010,Chui,,21.9
-2011,Chui,,28.6
-2012,Chui,,16.6
-2013,Chui,,23.6
-2014,Chui,,21.6
-2015,Chui,,24.8
-2016,Chui,,30.3
-2017,Chui,,33.3
-2018,Chui,,15.6
-2007,Chui,Male,13.3
-2008,Chui,Male,14.9
-2009,Chui,Male,20.6
-2010,Chui,Male,21.8
-2011,Chui,Male,31.6
-2012,Chui,Male,16.3
-2013,Chui,Male,23.5
-2014,Chui,Male,20.8
-2015,Chui,Male,24.2
-2016,Chui,Male,29.8
-2017,Chui,Male,32.3
-2018,Chui,Male,15.5
-2007,Chui,Female,16.8
-2008,Chui,Female,16.7
-2009,Chui,Female,21.9
-2010,Chui,Female,21.9
-2011,Chui,Female,25.3
-2012,Chui,Female,16.8
-2013,Chui,Female,23.7
-2014,Chui,Female,22.4
-2015,Chui,Female,25.4
-2016,Chui,Female,30.9
-2017,Chui,Female,34.4
-2018,Chui,Female,15.7
-2007,Bishkek (city),,5.0
-2008,Bishkek (city),,15.2
-2009,Bishkek (city),,13.2
-2010,Bishkek (city),,7.9
-2011,Bishkek (city),,18.4
-2012,Bishkek (city),,21.4
-2013,Bishkek (city),,20.4
-2014,Bishkek (city),,17.6
-2015,Bishkek (city),,23.5
-2016,Bishkek (city),,9.8
-2017,Bishkek (city),,15.9
-2018,Bishkek (city),,15.4
-2007,Bishkek (city),Male,5.0
-2008,Bishkek (city),Male,14.6
-2009,Bishkek (city),Male,12.7
-2010,Bishkek (city),Male,7.3
-2011,Bishkek (city),Male,17.1
-2012,Bishkek (city),Male,19.9
-2013,Bishkek (city),Male,18.4
-2014,Bishkek (city),Male,15.8
-2015,Bishkek (city),Male,22.2
-2016,Bishkek (city),Male,8.9
-2017,Bishkek (city),Male,14.3
-2018,Bishkek (city),Male,14.7
-2007,Bishkek (city),Female,5.0
-2008,Bishkek (city),Female,16.0
-2009,Bishkek (city),Female,14.0
-2010,Bishkek (city),Female,8.7
-2011,Bishkek (city),Female,20.0
-2012,Bishkek (city),Female,23.3
-2013,Bishkek (city),Female,22.8
-2014,Bishkek (city),Female,19.9
-2015,Bishkek (city),Female,25.2
-2016,Bishkek (city),Female,10.9
-2017,Bishkek (city),Female,17.9
-2018,Bishkek (city),Female,16.3
-2007,Osh (city),,0.0
-2008,Osh (city),,0.0
-2009,Osh (city),,0.0
-2010,Osh (city),,0.0
-2011,Osh (city),,0.0
-2012,Osh (city),,0.0
-2013,Osh (city),,40.9
-2014,Osh (city),,33.4
-2015,Osh (city),,38.3
-2016,Osh (city),,24.6
-2017,Osh (city),,33.5
-2018,Osh (city),,35.5
-2007,Osh (city),Male,0.0
-2008,Osh (city),Male,0.0
-2009,Osh (city),Male,0.0
-2010,Osh (city),Male,0.0
-2011,Osh (city),Male,0.0
-2012,Osh (city),Male,0.0
-2013,Osh (city),Male,40.2
-2014,Osh (city),Male,32.0
-2015,Osh (city),Male,35.8
-2016,Osh (city),Male,23.2
-2017,Osh (city),Male,30.9
-2018,Osh (city),Male,33.9
-2007,Osh (city),Female,0.0
-2008,Osh (city),Female,0.0
-2009,Osh (city),Female,0.0
-2010,Osh (city),Female,0.0
-2011,Osh (city),Female,0.0
-2012,Osh (city),Female,0.0
-2013,Osh (city),Female,41.6
-2014,Osh (city),Female,35.0
-2015,Osh (city),Female,41.0
-2016,Osh (city),Female,26.2
-2017,Osh (city),Female,36.4
-2018,Osh (city),Female,37.3
+2007,,code.M,34.7
+2008,,code.M,31.4
+2009,,code.M,30.7
+2010,,code.M,32.7
+2011,,code.M,36.1
+2012,,code.M,37.2
+2013,,code.M,36.5
+2014,,code.M,29.7
+2015,,code.M,31.5
+2016,,code.M,25.0
+2017,,code.M,25.0
+2018,,code.M,22.5
+2007,,code.F,35.4
+2008,,code.F,32.1
+2009,,code.F,32.9
+2010,,code.F,34.8
+2011,,code.F,37.6
+2012,,code.F,39.0
+2013,,code.F,37.5
+2014,,code.F,31.5
+2015,,code.F,32.7
+2016,,code.F,25.7
+2017,,code.F,26.3
+2018,,code.F,22.2
+2007,code.KG05,,40.4
+2008,code.KG05,,20.7
+2009,code.KG05,,31.5
+2010,code.KG05,,33.6
+2011,code.KG05,,35.6
+2012,code.KG05,,34.2
+2013,code.KG05,,53.9
+2014,code.KG05,,40.7
+2015,code.KG05,,41.2
+2016,code.KG05,,37.0
+2017,code.KG05,,40.5
+2018,code.KG05,,33.8
+2007,code.KG05,code.M,41.3
+2008,code.KG05,code.M,22.4
+2009,code.KG05,code.M,31.3
+2010,code.KG05,code.M,31.9
+2011,code.KG05,code.M,34.2
+2012,code.KG05,code.M,34.6
+2013,code.KG05,code.M,53.6
+2014,code.KG05,code.M,39.0
+2015,code.KG05,code.M,40.9
+2016,code.KG05,code.M,36.1
+2017,code.KG05,code.M,39.6
+2018,code.KG05,code.M,33.7
+2007,code.KG05,code.F,39.4
+2008,code.KG05,code.F,18.8
+2009,code.KG05,code.F,31.7
+2010,code.KG05,code.F,35.6
+2011,code.KG05,code.F,37.3
+2012,code.KG05,code.F,33.8
+2013,code.KG05,code.F,54.1
+2014,code.KG05,code.F,42.4
+2015,code.KG05,code.F,41.4
+2016,code.KG05,code.F,38.0
+2017,code.KG05,code.F,41.5
+2018,code.KG05,code.F,33.9
+2007,code.KG03,,53.0
+2008,code.KG03,,40.1
+2009,code.KG03,,36.9
+2010,code.KG03,,44.7
+2011,code.KG03,,45.3
+2012,code.KG03,,55.7
+2013,code.KG03,,46.4
+2014,code.KG03,,46.4
+2015,code.KG03,,45.1
+2016,code.KG03,,32.2
+2017,code.KG03,,32.6
+2018,code.KG03,,32.2
+2007,code.KG03,code.M,51.6
+2008,code.KG03,code.M,37.9
+2009,code.KG03,code.M,33.5
+2010,code.KG03,code.M,43.7
+2011,code.KG03,code.M,43.7
+2012,code.KG03,code.M,55.3
+2013,code.KG03,code.M,47.4
+2014,code.KG03,code.M,47.0
+2015,code.KG03,code.M,45.2
+2016,code.KG03,code.M,33.1
+2017,code.KG03,code.M,34.0
+2018,code.KG03,code.M,33.4
+2007,code.KG03,code.F,54.6
+2008,code.KG03,code.F,42.4
+2009,code.KG03,code.F,40.5
+2010,code.KG03,code.F,45.8
+2011,code.KG03,code.F,46.9
+2012,code.KG03,code.F,56.1
+2013,code.KG03,code.F,45.5
+2014,code.KG03,code.F,45.8
+2015,code.KG03,code.F,44.9
+2016,code.KG03,code.F,31.4
+2017,code.KG03,code.F,31.1
+2018,code.KG03,code.F,30.9
+2007,code.KG02,,38.6
+2008,code.KG02,,52.2
+2009,code.KG02,,46.1
+2010,code.KG02,,38.0
+2011,code.KG02,,29.5
+2012,code.KG02,,28.1
+2013,code.KG02,,39.5
+2014,code.KG02,,26.0
+2015,code.KG02,,28.9
+2016,code.KG02,,24.7
+2017,code.KG02,,24.2
+2018,code.KG02,,21.5
+2007,code.KG02,code.M,38.7
+2008,code.KG02,code.M,52.2
+2009,code.KG02,code.M,47.9
+2010,code.KG02,code.M,36.9
+2011,code.KG02,code.M,31.1
+2012,code.KG02,code.M,28.2
+2013,code.KG02,code.M,40.4
+2014,code.KG02,code.M,26.4
+2015,code.KG02,code.M,29.1
+2016,code.KG02,code.M,24.7
+2017,code.KG02,code.M,24.3
+2018,code.KG02,code.M,21.5
+2007,code.KG02,code.F,38.5
+2008,code.KG02,code.F,52.3
+2009,code.KG02,code.F,44.5
+2010,code.KG02,code.F,39.0
+2011,code.KG02,code.F,28.1
+2012,code.KG02,code.F,28.0
+2013,code.KG02,code.F,38.5
+2014,code.KG02,code.F,25.7
+2015,code.KG02,code.F,28.7
+2016,code.KG02,code.F,24.7
+2017,code.KG02,code.F,24.1
+2018,code.KG02,code.F,21.6
+2007,code.KG04,,45.2
+2008,code.KG04,,42.7
+2009,code.KG04,,44.1
+2010,code.KG04,,53.5
+2011,code.KG04,,49.9
+2012,code.KG04,,39.9
+2013,code.KG04,,43.8
+2014,code.KG04,,30.6
+2015,code.KG04,,38.0
+2016,code.KG04,,37.8
+2017,code.KG04,,29.2
+2018,code.KG04,,30.6
+2007,code.KG04,code.M,46.9
+2008,code.KG04,code.M,42.7
+2009,code.KG04,code.M,44.8
+2010,code.KG04,code.M,53.4
+2011,code.KG04,code.M,48.3
+2012,code.KG04,code.M,37.7
+2013,code.KG04,code.M,44.8
+2014,code.KG04,code.M,32.4
+2015,code.KG04,code.M,39.5
+2016,code.KG04,code.M,39.6
+2017,code.KG04,code.M,31.2
+2018,code.KG04,code.M,31.6
+2007,code.KG04,code.F,43.7
+2008,code.KG04,code.F,42.8
+2009,code.KG04,code.F,43.5
+2010,code.KG04,code.F,53.7
+2011,code.KG04,code.F,51.7
+2012,code.KG04,code.F,42.4
+2013,code.KG04,code.F,42.7
+2014,code.KG04,code.F,28.6
+2015,code.KG04,code.F,36.4
+2016,code.KG04,code.F,35.9
+2017,code.KG04,code.F,27.1
+2018,code.KG04,code.F,29.5
+2007,code.KG06,,46.6
+2008,code.KG06,,37.5
+2009,code.KG06,,38.3
+2010,code.KG06,,41.9
+2011,code.KG06,,44.7
+2012,code.KG06,,51.4
+2013,code.KG06,,43.4
+2014,code.KG06,,31.7
+2015,code.KG06,,28.9
+2016,code.KG06,,22.0
+2017,code.KG06,,14.3
+2018,code.KG06,,14.8
+2007,code.KG06,code.M,48.7
+2008,code.KG06,code.M,37.9
+2009,code.KG06,code.M,38.3
+2010,code.KG06,code.M,40.6
+2011,code.KG06,code.M,44.2
+2012,code.KG06,code.M,50.6
+2013,code.KG06,code.M,42.7
+2014,code.KG06,code.M,30.5
+2015,code.KG06,code.M,28.4
+2016,code.KG06,code.M,21.8
+2017,code.KG06,code.M,12.9
+2018,code.KG06,code.M,15.3
+2007,code.KG06,code.F,44.3
+2008,code.KG06,code.F,36.9
+2009,code.KG06,code.F,38.2
+2010,code.KG06,code.F,43.2
+2011,code.KG06,code.F,45.2
+2012,code.KG06,code.F,52.4
+2013,code.KG06,code.F,44.2
+2014,code.KG06,code.F,33.1
+2015,code.KG06,code.F,29.5
+2016,code.KG06,code.F,22.3
+2017,code.KG06,code.F,15.7
+2018,code.KG06,code.F,14.3
+2007,code.KG07,,35.3
+2008,code.KG07,,43.0
+2009,code.KG07,,33.0
+2010,code.KG07,,42.3
+2011,code.KG07,,50.2
+2012,code.KG07,,39.6
+2013,code.KG07,,23.1
+2014,code.KG07,,19.0
+2015,code.KG07,,21.5
+2016,code.KG07,,18.1
+2017,code.KG07,,20.7
+2018,code.KG07,,22.1
+2007,code.KG07,code.M,35.5
+2008,code.KG07,code.M,45.4
+2009,code.KG07,code.M,35.7
+2010,code.KG07,code.M,44.3
+2011,code.KG07,code.M,51.4
+2012,code.KG07,code.M,42.2
+2013,code.KG07,code.M,23.3
+2014,code.KG07,code.M,19.7
+2015,code.KG07,code.M,22.6
+2016,code.KG07,code.M,19.1
+2017,code.KG07,code.M,21.4
+2018,code.KG07,code.M,23.8
+2007,code.KG07,code.F,34.9
+2008,code.KG07,code.F,40.0
+2009,code.KG07,code.F,29.8
+2010,code.KG07,code.F,40.1
+2011,code.KG07,code.F,48.8
+2012,code.KG07,code.F,36.7
+2013,code.KG07,code.F,22.8
+2014,code.KG07,code.F,18.4
+2015,code.KG07,code.F,20.4
+2016,code.KG07,code.F,17.1
+2017,code.KG07,code.F,19.9
+2018,code.KG07,code.F,20.3
+2007,code.KG08,,15.0
+2008,code.KG08,,15.8
+2009,code.KG08,,21.2
+2010,code.KG08,,21.9
+2011,code.KG08,,28.6
+2012,code.KG08,,16.6
+2013,code.KG08,,23.6
+2014,code.KG08,,21.6
+2015,code.KG08,,24.8
+2016,code.KG08,,30.3
+2017,code.KG08,,33.3
+2018,code.KG08,,15.6
+2007,code.KG08,code.M,13.3
+2008,code.KG08,code.M,14.9
+2009,code.KG08,code.M,20.6
+2010,code.KG08,code.M,21.8
+2011,code.KG08,code.M,31.6
+2012,code.KG08,code.M,16.3
+2013,code.KG08,code.M,23.5
+2014,code.KG08,code.M,20.8
+2015,code.KG08,code.M,24.2
+2016,code.KG08,code.M,29.8
+2017,code.KG08,code.M,32.3
+2018,code.KG08,code.M,15.5
+2007,code.KG08,code.F,16.8
+2008,code.KG08,code.F,16.7
+2009,code.KG08,code.F,21.9
+2010,code.KG08,code.F,21.9
+2011,code.KG08,code.F,25.3
+2012,code.KG08,code.F,16.8
+2013,code.KG08,code.F,23.7
+2014,code.KG08,code.F,22.4
+2015,code.KG08,code.F,25.4
+2016,code.KG08,code.F,30.9
+2017,code.KG08,code.F,34.4
+2018,code.KG08,code.F,15.7
+2007,code.KG11,,5.0
+2008,code.KG11,,15.2
+2009,code.KG11,,13.2
+2010,code.KG11,,7.9
+2011,code.KG11,,18.4
+2012,code.KG11,,21.4
+2013,code.KG11,,20.4
+2014,code.KG11,,17.6
+2015,code.KG11,,23.5
+2016,code.KG11,,9.8
+2017,code.KG11,,15.9
+2018,code.KG11,,15.4
+2007,code.KG11,code.M,5.0
+2008,code.KG11,code.M,14.6
+2009,code.KG11,code.M,12.7
+2010,code.KG11,code.M,7.3
+2011,code.KG11,code.M,17.1
+2012,code.KG11,code.M,19.9
+2013,code.KG11,code.M,18.4
+2014,code.KG11,code.M,15.8
+2015,code.KG11,code.M,22.2
+2016,code.KG11,code.M,8.9
+2017,code.KG11,code.M,14.3
+2018,code.KG11,code.M,14.7
+2007,code.KG11,code.F,5.0
+2008,code.KG11,code.F,16.0
+2009,code.KG11,code.F,14.0
+2010,code.KG11,code.F,8.7
+2011,code.KG11,code.F,20.0
+2012,code.KG11,code.F,23.3
+2013,code.KG11,code.F,22.8
+2014,code.KG11,code.F,19.9
+2015,code.KG11,code.F,25.2
+2016,code.KG11,code.F,10.9
+2017,code.KG11,code.F,17.9
+2018,code.KG11,code.F,16.3
+2007,code.KG21,,0.0
+2008,code.KG21,,0.0
+2009,code.KG21,,0.0
+2010,code.KG21,,0.0
+2011,code.KG21,,0.0
+2012,code.KG21,,0.0
+2013,code.KG21,,40.9
+2014,code.KG21,,33.4
+2015,code.KG21,,38.3
+2016,code.KG21,,24.6
+2017,code.KG21,,33.5
+2018,code.KG21,,35.5
+2007,code.KG21,code.M,0.0
+2008,code.KG21,code.M,0.0
+2009,code.KG21,code.M,0.0
+2010,code.KG21,code.M,0.0
+2011,code.KG21,code.M,0.0
+2012,code.KG21,code.M,0.0
+2013,code.KG21,code.M,40.2
+2014,code.KG21,code.M,32.0
+2015,code.KG21,code.M,35.8
+2016,code.KG21,code.M,23.2
+2017,code.KG21,code.M,30.9
+2018,code.KG21,code.M,33.9
+2007,code.KG21,code.F,0.0
+2008,code.KG21,code.F,0.0
+2009,code.KG21,code.F,0.0
+2010,code.KG21,code.F,0.0
+2011,code.KG21,code.F,0.0
+2012,code.KG21,code.F,0.0
+2013,code.KG21,code.F,41.6
+2014,code.KG21,code.F,35.0
+2015,code.KG21,code.F,41.0
+2016,code.KG21,code.F,26.2
+2017,code.KG21,code.F,36.4
+2018,code.KG21,code.F,37.3

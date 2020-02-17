@@ -1,4 +1,4 @@
-Year,Reference area,Sex,Value
+Year,concept.REF_AREA,concept.SEX,Value
 2007,,,1155.0
 2008,,,1063.0
 2009,,,1039.0
@@ -11,351 +11,351 @@ Year,Reference area,Sex,Value
 2016,,,934.0
 2017,,,90.6
 2018,,,830.0
-2007,,Female,911.0
-2008,,Female,858.0
-2009,,Female,854.0
-2010,,Female,849.0
-2011,,Female,819.0
-2012,,Female,852.0
-2013,,Female,878.0
-2014,,Female,887.0
-2015,,Female,837.0
-2016,,Female,817.0
-2017,,Female,77.7
-2018,,Female,690.0
-2007,,Male,1405.0
-2008,,Male,1273.0
-2009,,Male,1229.0
-2010,,Male,1178.0
-2011,,Male,1193.0
-2012,,Male,1239.0
-2013,,Male,1174.0
-2014,,Male,1137.0
-2015,,Male,1131.0
-2016,,Male,1053.0
-2017,,Male,103.8
-2018,,Male,972.0
-2007,Batken,,803.0
-2008,Batken,,817.0
-2009,Batken,,827.0
-2010,Batken,,818.0
-2011,Batken,,789.0
-2012,Batken,,903.0
-2013,Batken,,900.0
-2014,Batken,,861.0
-2015,Batken,,727.0
-2016,Batken,,671.0
-2017,Batken,,70.8
-2018,Batken,,649.0
-2007,Batken,Female,708.0
-2008,Batken,Female,673.0
-2009,Batken,Female,813.0
-2010,Batken,Female,623.0
-2011,Batken,Female,639.0
-2012,Batken,Female,797.0
-2013,Batken,Female,810.0
-2014,Batken,Female,788.0
-2015,Batken,Female,631.0
-2016,Batken,Female,666.0
-2017,Batken,Female,65.7
-2018,Batken,Female,604.0
-2007,Batken,Male,897.0
-2008,Batken,Male,960.0
-2009,Batken,Male,840.0
-2010,Batken,Male,1008.0
-2011,Batken,Male,934.0
-2012,Batken,Male,1007.0
-2013,Batken,Male,988.0
-2014,Batken,Male,932.0
-2015,Batken,Male,820.0
-2016,Batken,Male,675.0
-2017,Batken,Male,75.7
-2018,Batken,Male,692.0
-2007,Jalal-Abad,,919.0
-2008,Jalal-Abad,,883.0
-2009,Jalal-Abad,,878.0
-2010,Jalal-Abad,,859.0
-2011,Jalal-Abad,,825.0
-2012,Jalal-Abad,,869.0
-2013,Jalal-Abad,,809.0
-2014,Jalal-Abad,,853.0
-2015,Jalal-Abad,,765.0
-2016,Jalal-Abad,,849.0
-2017,Jalal-Abad,,80.2
-2018,Jalal-Abad,,733.0
-2007,Jalal-Abad,Female,752.0
-2008,Jalal-Abad,Female,712.0
-2009,Jalal-Abad,Female,718.0
-2010,Jalal-Abad,Female,743.0
-2011,Jalal-Abad,Female,730.0
-2012,Jalal-Abad,Female,758.0
-2013,Jalal-Abad,Female,743.0
-2014,Jalal-Abad,Female,818.0
-2015,Jalal-Abad,Female,662.0
-2016,Jalal-Abad,Female,795.0
-2017,Jalal-Abad,Female,72.8
-2018,Jalal-Abad,Female,641.0
-2007,Jalal-Abad,Male,1088.0
-2008,Jalal-Abad,Male,1056.0
-2009,Jalal-Abad,Male,1038.0
-2010,Jalal-Abad,Male,976.0
-2011,Jalal-Abad,Male,921.0
-2012,Jalal-Abad,Male,980.0
-2013,Jalal-Abad,Male,875.0
-2014,Jalal-Abad,Male,888.0
-2015,Jalal-Abad,Male,867.0
-2016,Jalal-Abad,Male,903.0
-2017,Jalal-Abad,Male,87.5
-2018,Jalal-Abad,Male,825.0
-2007,Issyk-Kul,,748.0
-2008,Issyk-Kul,,657.0
-2009,Issyk-Kul,,683.0
-2010,Issyk-Kul,,673.0
-2011,Issyk-Kul,,683.0
-2012,Issyk-Kul,,701.0
-2013,Issyk-Kul,,700.0
-2014,Issyk-Kul,,640.0
-2015,Issyk-Kul,,585.0
-2016,Issyk-Kul,,604.0
-2017,Issyk-Kul,,48.6
-2018,Issyk-Kul,,489.0
-2007,Issyk-Kul,Female,575.0
-2008,Issyk-Kul,Female,568.0
-2009,Issyk-Kul,Female,576.0
-2010,Issyk-Kul,Female,550.0
-2011,Issyk-Kul,Female,537.0
-2012,Issyk-Kul,Female,572.0
-2013,Issyk-Kul,Female,579.0
-2014,Issyk-Kul,Female,513.0
-2015,Issyk-Kul,Female,485.0
-2016,Issyk-Kul,Female,538.0
-2017,Issyk-Kul,Female,34.8
-2018,Issyk-Kul,Female,348.0
-2007,Issyk-Kul,Male,927.0
-2008,Issyk-Kul,Male,748.0
-2009,Issyk-Kul,Male,792.0
-2010,Issyk-Kul,Male,798.0
-2011,Issyk-Kul,Male,832.0
-2012,Issyk-Kul,Male,832.0
-2013,Issyk-Kul,Male,822.0
-2014,Issyk-Kul,Male,768.0
-2015,Issyk-Kul,Male,685.0
-2016,Issyk-Kul,Male,671.0
-2017,Issyk-Kul,Male,62.4
-2018,Issyk-Kul,Male,632.0
-2007,Naryn,,891.0
-2008,Naryn,,1012.0
-2009,Naryn,,972.0
-2010,Naryn,,1039.0
-2011,Naryn,,952.0
-2012,Naryn,,1051.0
-2013,Naryn,,905.0
-2014,Naryn,,982.0
-2015,Naryn,,848.0
-2016,Naryn,,773.0
-2017,Naryn,,59.5
-2018,Naryn,,680.0
-2007,Naryn,Female,731.0
-2008,Naryn,Female,939.0
-2009,Naryn,Female,877.0
-2010,Naryn,Female,855.0
-2011,Naryn,Female,862.0
-2012,Naryn,Female,838.0
-2013,Naryn,Female,760.0
-2014,Naryn,Female,870.0
-2015,Naryn,Female,750.0
-2016,Naryn,Female,633.0
-2017,Naryn,Female,490.0
-2018,Naryn,Female,471.0
-2007,Naryn,Male,1047.0
-2008,Naryn,Male,1083.0
-2009,Naryn,Male,1064.0
-2010,Naryn,Male,1219.0
-2011,Naryn,Male,1041.0
-2012,Naryn,Male,1257.0
-2013,Naryn,Male,1044.0
-2014,Naryn,Male,1090.0
-2015,Naryn,Male,942.0
-2016,Naryn,Male,910.0
-2017,Naryn,Male,69.6
-2018,Naryn,Male,881.0
-2007,Osh,,1029.0
-2008,Osh,,979.0
-2009,Osh,,995.0
-2010,Osh,,903.0
-2011,Osh,,870.0
-2012,Osh,,895.0
-2013,Osh,,974.0
-2014,Osh,,907.0
-2015,Osh,,912.0
-2016,Osh,,839.0
-2017,Osh,,84.4
-2018,Osh,,750.0
-2007,Osh,Female,855.0
-2008,Osh,Female,799.0
-2009,Osh,Female,845.0
-2010,Osh,Female,833.0
-2011,Osh,Female,783.0
-2012,Osh,Female,799.0
-2013,Osh,Female,892.0
-2014,Osh,Female,827.0
-2015,Osh,Female,838.0
-2016,Osh,Female,784.0
-2017,Osh,Female,73.3
-2018,Osh,Female,688.0
-2007,Osh,Male,1202.0
-2008,Osh,Male,1160.0
-2009,Osh,Male,1143.0
-2010,Osh,Male,971.0
-2011,Osh,Male,955.0
-2012,Osh,Male,991.0
-2013,Osh,Male,1055.0
-2014,Osh,Male,985.0
-2015,Osh,Male,985.0
-2016,Osh,Male,892.0
-2017,Osh,Male,95.3
-2018,Osh,Male,811.0
-2007,Talas,,1098.0
-2008,Talas,,989.0
-2009,Talas,,988.0
-2010,Talas,,1059.0
-2011,Talas,,1079.0
-2012,Talas,,969.0
-2013,Talas,,1065.0
-2014,Talas,,1019.0
-2015,Talas,,959.0
-2016,Talas,,837.0
-2017,Talas,,73.9
-2018,Talas,,597.0
-2007,Talas,Female,869.0
-2008,Talas,Female,909.0
-2009,Talas,Female,766.0
-2010,Talas,Female,870.0
-2011,Talas,Female,903.0
-2012,Talas,Female,856.0
-2013,Talas,Female,893.0
-2014,Talas,Female,896.0
-2015,Talas,Female,810.0
-2016,Talas,Female,670.0
-2017,Talas,Female,660.0
-2018,Talas,Female,464.0
-2007,Talas,Male,1325.0
-2008,Talas,Male,1067.0
-2009,Talas,Male,1210.0
-2010,Talas,Male,1246.0
-2011,Talas,Male,1253.0
-2012,Talas,Male,1080.0
-2013,Talas,Male,1234.0
-2014,Talas,Male,1141.0
-2015,Talas,Male,1105.0
-2016,Talas,Male,1001.0
-2017,Talas,Male,81.6
-2018,Talas,Male,727.0
-2007,Chui,,1585.0
-2008,Chui,,1668.0
-2009,Chui,,1552.0
-2010,Chui,,1545.0
-2011,Chui,,1585.0
-2012,Chui,,1568.0
-2013,Chui,,1443.0
-2014,Chui,,1292.0
-2015,Chui,,1417.0
-2016,Chui,,1352.0
-2017,Chui,,136.2
-2018,Chui,,1242.0
-2007,Chui,Female,1259.0
-2008,Chui,Female,1255.0
-2009,Chui,Female,1179.0
-2010,Chui,Female,1250.0
-2011,Chui,Female,1122.0
-2012,Chui,Female,1114.0
-2013,Chui,Female,1083.0
-2014,Chui,Female,1083.0
-2015,Chui,Female,1186.0
-2016,Chui,Female,1110.0
-2017,Chui,Female,108.3
-2018,Chui,Female,992.0
-2007,Chui,Male,1920.0
-2008,Chui,Male,2092.0
-2009,Chui,Male,1938.0
-2010,Chui,Male,1851.0
-2011,Chui,Male,2064.0
-2012,Chui,Male,2036.0
-2013,Chui,Male,1815.0
-2014,Chui,Male,1508.0
-2015,Chui,Male,1654.0
-2016,Chui,Male,1602.0
-2017,Chui,Male,165.0
-2018,Chui,Male,1500.0
-2007,Bishkek (city),,1744.0
-2008,Bishkek (city),,1231.0
-2009,Bishkek (city),,1145.0
-2010,Bishkek (city),,1131.0
-2011,Bishkek (city),,1150.0
-2012,Bishkek (city),,1237.0
-2013,Bishkek (city),,1264.0
-2014,Bishkek (city),,1335.0
-2015,Bishkek (city),,1329.0
-2016,Bishkek (city),,1146.0
-2017,Bishkek (city),,113.1
-2018,Bishkek (city),,1026.0
-2007,Bishkek (city),Female,1214.0
-2008,Bishkek (city),Female,1015.0
-2009,Bishkek (city),Female,904.0
-2010,Bishkek (city),Female,919.0
-2011,Bishkek (city),Female,902.0
-2012,Bishkek (city),Female,974.0
-2013,Bishkek (city),Female,1102.0
-2014,Bishkek (city),Female,1081.0
-2015,Bishkek (city),Female,1031.0
-2016,Bishkek (city),Female,922.0
-2017,Bishkek (city),Female,91.3
-2018,Bishkek (city),Female,750.0
-2007,Bishkek (city),Male,2324.0
-2008,Bishkek (city),Male,1467.0
-2009,Bishkek (city),Male,1423.0
-2010,Bishkek (city),Male,1376.0
-2011,Bishkek (city),Male,1435.0
-2012,Bishkek (city),Male,1539.0
-2013,Bishkek (city),Male,1450.0
-2014,Bishkek (city),Male,1621.0
-2015,Bishkek (city),Male,1670.0
-2016,Bishkek (city),Male,1402.0
-2017,Bishkek (city),Male,137.8
-2018,Bishkek (city),Male,1339.0
-2007,Osh (city),,1033.0
-2008,Osh (city),,995.0
-2009,Osh (city),,998.0
-2010,Osh (city),,854.0
-2011,Osh (city),,887.0
-2012,Osh (city),,984.0
-2013,Osh (city),,837.0
-2014,Osh (city),,1031.0
-2015,Osh (city),,897.0
-2016,Osh (city),,925.0
-2017,Osh (city),,89.7
-2018,Osh (city),,843.0
-2007,Osh (city),Female,831.0
-2008,Osh (city),Female,637.0
-2009,Osh (city),Female,826.0
-2010,Osh (city),Female,680.0
-2011,Osh (city),Female,750.0
-2012,Osh (city),Female,781.0
-2013,Osh (city),Female,644.0
-2014,Osh (city),Female,922.0
-2015,Osh (city),Female,785.0
-2016,Osh (city),Female,776.0
-2017,Osh (city),Female,75.3
-2018,Osh (city),Female,830.0
-2007,Osh (city),Male,1252.0
-2008,Osh (city),Male,1384.0
-2009,Osh (city),Male,1184.0
-2010,Osh (city),Male,1044.0
-2011,Osh (city),Male,1036.0
-2012,Osh (city),Male,1204.0
-2013,Osh (city),Male,1045.0
-2014,Osh (city),Male,1148.0
-2015,Osh (city),Male,1018.0
-2016,Osh (city),Male,1085.0
-2017,Osh (city),Male,105.2
-2018,Osh (city),Male,857.0
+2007,,code.F,911.0
+2008,,code.F,858.0
+2009,,code.F,854.0
+2010,,code.F,849.0
+2011,,code.F,819.0
+2012,,code.F,852.0
+2013,,code.F,878.0
+2014,,code.F,887.0
+2015,,code.F,837.0
+2016,,code.F,817.0
+2017,,code.F,77.7
+2018,,code.F,690.0
+2007,,code.M,1405.0
+2008,,code.M,1273.0
+2009,,code.M,1229.0
+2010,,code.M,1178.0
+2011,,code.M,1193.0
+2012,,code.M,1239.0
+2013,,code.M,1174.0
+2014,,code.M,1137.0
+2015,,code.M,1131.0
+2016,,code.M,1053.0
+2017,,code.M,103.8
+2018,,code.M,972.0
+2007,code.KG05,,803.0
+2008,code.KG05,,817.0
+2009,code.KG05,,827.0
+2010,code.KG05,,818.0
+2011,code.KG05,,789.0
+2012,code.KG05,,903.0
+2013,code.KG05,,900.0
+2014,code.KG05,,861.0
+2015,code.KG05,,727.0
+2016,code.KG05,,671.0
+2017,code.KG05,,70.8
+2018,code.KG05,,649.0
+2007,code.KG05,code.F,708.0
+2008,code.KG05,code.F,673.0
+2009,code.KG05,code.F,813.0
+2010,code.KG05,code.F,623.0
+2011,code.KG05,code.F,639.0
+2012,code.KG05,code.F,797.0
+2013,code.KG05,code.F,810.0
+2014,code.KG05,code.F,788.0
+2015,code.KG05,code.F,631.0
+2016,code.KG05,code.F,666.0
+2017,code.KG05,code.F,65.7
+2018,code.KG05,code.F,604.0
+2007,code.KG05,code.M,897.0
+2008,code.KG05,code.M,960.0
+2009,code.KG05,code.M,840.0
+2010,code.KG05,code.M,1008.0
+2011,code.KG05,code.M,934.0
+2012,code.KG05,code.M,1007.0
+2013,code.KG05,code.M,988.0
+2014,code.KG05,code.M,932.0
+2015,code.KG05,code.M,820.0
+2016,code.KG05,code.M,675.0
+2017,code.KG05,code.M,75.7
+2018,code.KG05,code.M,692.0
+2007,code.KG03,,919.0
+2008,code.KG03,,883.0
+2009,code.KG03,,878.0
+2010,code.KG03,,859.0
+2011,code.KG03,,825.0
+2012,code.KG03,,869.0
+2013,code.KG03,,809.0
+2014,code.KG03,,853.0
+2015,code.KG03,,765.0
+2016,code.KG03,,849.0
+2017,code.KG03,,80.2
+2018,code.KG03,,733.0
+2007,code.KG03,code.F,752.0
+2008,code.KG03,code.F,712.0
+2009,code.KG03,code.F,718.0
+2010,code.KG03,code.F,743.0
+2011,code.KG03,code.F,730.0
+2012,code.KG03,code.F,758.0
+2013,code.KG03,code.F,743.0
+2014,code.KG03,code.F,818.0
+2015,code.KG03,code.F,662.0
+2016,code.KG03,code.F,795.0
+2017,code.KG03,code.F,72.8
+2018,code.KG03,code.F,641.0
+2007,code.KG03,code.M,1088.0
+2008,code.KG03,code.M,1056.0
+2009,code.KG03,code.M,1038.0
+2010,code.KG03,code.M,976.0
+2011,code.KG03,code.M,921.0
+2012,code.KG03,code.M,980.0
+2013,code.KG03,code.M,875.0
+2014,code.KG03,code.M,888.0
+2015,code.KG03,code.M,867.0
+2016,code.KG03,code.M,903.0
+2017,code.KG03,code.M,87.5
+2018,code.KG03,code.M,825.0
+2007,code.KG02,,748.0
+2008,code.KG02,,657.0
+2009,code.KG02,,683.0
+2010,code.KG02,,673.0
+2011,code.KG02,,683.0
+2012,code.KG02,,701.0
+2013,code.KG02,,700.0
+2014,code.KG02,,640.0
+2015,code.KG02,,585.0
+2016,code.KG02,,604.0
+2017,code.KG02,,48.6
+2018,code.KG02,,489.0
+2007,code.KG02,code.F,575.0
+2008,code.KG02,code.F,568.0
+2009,code.KG02,code.F,576.0
+2010,code.KG02,code.F,550.0
+2011,code.KG02,code.F,537.0
+2012,code.KG02,code.F,572.0
+2013,code.KG02,code.F,579.0
+2014,code.KG02,code.F,513.0
+2015,code.KG02,code.F,485.0
+2016,code.KG02,code.F,538.0
+2017,code.KG02,code.F,34.8
+2018,code.KG02,code.F,348.0
+2007,code.KG02,code.M,927.0
+2008,code.KG02,code.M,748.0
+2009,code.KG02,code.M,792.0
+2010,code.KG02,code.M,798.0
+2011,code.KG02,code.M,832.0
+2012,code.KG02,code.M,832.0
+2013,code.KG02,code.M,822.0
+2014,code.KG02,code.M,768.0
+2015,code.KG02,code.M,685.0
+2016,code.KG02,code.M,671.0
+2017,code.KG02,code.M,62.4
+2018,code.KG02,code.M,632.0
+2007,code.KG04,,891.0
+2008,code.KG04,,1012.0
+2009,code.KG04,,972.0
+2010,code.KG04,,1039.0
+2011,code.KG04,,952.0
+2012,code.KG04,,1051.0
+2013,code.KG04,,905.0
+2014,code.KG04,,982.0
+2015,code.KG04,,848.0
+2016,code.KG04,,773.0
+2017,code.KG04,,59.5
+2018,code.KG04,,680.0
+2007,code.KG04,code.F,731.0
+2008,code.KG04,code.F,939.0
+2009,code.KG04,code.F,877.0
+2010,code.KG04,code.F,855.0
+2011,code.KG04,code.F,862.0
+2012,code.KG04,code.F,838.0
+2013,code.KG04,code.F,760.0
+2014,code.KG04,code.F,870.0
+2015,code.KG04,code.F,750.0
+2016,code.KG04,code.F,633.0
+2017,code.KG04,code.F,490.0
+2018,code.KG04,code.F,471.0
+2007,code.KG04,code.M,1047.0
+2008,code.KG04,code.M,1083.0
+2009,code.KG04,code.M,1064.0
+2010,code.KG04,code.M,1219.0
+2011,code.KG04,code.M,1041.0
+2012,code.KG04,code.M,1257.0
+2013,code.KG04,code.M,1044.0
+2014,code.KG04,code.M,1090.0
+2015,code.KG04,code.M,942.0
+2016,code.KG04,code.M,910.0
+2017,code.KG04,code.M,69.6
+2018,code.KG04,code.M,881.0
+2007,code.KG06,,1029.0
+2008,code.KG06,,979.0
+2009,code.KG06,,995.0
+2010,code.KG06,,903.0
+2011,code.KG06,,870.0
+2012,code.KG06,,895.0
+2013,code.KG06,,974.0
+2014,code.KG06,,907.0
+2015,code.KG06,,912.0
+2016,code.KG06,,839.0
+2017,code.KG06,,84.4
+2018,code.KG06,,750.0
+2007,code.KG06,code.F,855.0
+2008,code.KG06,code.F,799.0
+2009,code.KG06,code.F,845.0
+2010,code.KG06,code.F,833.0
+2011,code.KG06,code.F,783.0
+2012,code.KG06,code.F,799.0
+2013,code.KG06,code.F,892.0
+2014,code.KG06,code.F,827.0
+2015,code.KG06,code.F,838.0
+2016,code.KG06,code.F,784.0
+2017,code.KG06,code.F,73.3
+2018,code.KG06,code.F,688.0
+2007,code.KG06,code.M,1202.0
+2008,code.KG06,code.M,1160.0
+2009,code.KG06,code.M,1143.0
+2010,code.KG06,code.M,971.0
+2011,code.KG06,code.M,955.0
+2012,code.KG06,code.M,991.0
+2013,code.KG06,code.M,1055.0
+2014,code.KG06,code.M,985.0
+2015,code.KG06,code.M,985.0
+2016,code.KG06,code.M,892.0
+2017,code.KG06,code.M,95.3
+2018,code.KG06,code.M,811.0
+2007,code.KG07,,1098.0
+2008,code.KG07,,989.0
+2009,code.KG07,,988.0
+2010,code.KG07,,1059.0
+2011,code.KG07,,1079.0
+2012,code.KG07,,969.0
+2013,code.KG07,,1065.0
+2014,code.KG07,,1019.0
+2015,code.KG07,,959.0
+2016,code.KG07,,837.0
+2017,code.KG07,,73.9
+2018,code.KG07,,597.0
+2007,code.KG07,code.F,869.0
+2008,code.KG07,code.F,909.0
+2009,code.KG07,code.F,766.0
+2010,code.KG07,code.F,870.0
+2011,code.KG07,code.F,903.0
+2012,code.KG07,code.F,856.0
+2013,code.KG07,code.F,893.0
+2014,code.KG07,code.F,896.0
+2015,code.KG07,code.F,810.0
+2016,code.KG07,code.F,670.0
+2017,code.KG07,code.F,660.0
+2018,code.KG07,code.F,464.0
+2007,code.KG07,code.M,1325.0
+2008,code.KG07,code.M,1067.0
+2009,code.KG07,code.M,1210.0
+2010,code.KG07,code.M,1246.0
+2011,code.KG07,code.M,1253.0
+2012,code.KG07,code.M,1080.0
+2013,code.KG07,code.M,1234.0
+2014,code.KG07,code.M,1141.0
+2015,code.KG07,code.M,1105.0
+2016,code.KG07,code.M,1001.0
+2017,code.KG07,code.M,81.6
+2018,code.KG07,code.M,727.0
+2007,code.KG08,,1585.0
+2008,code.KG08,,1668.0
+2009,code.KG08,,1552.0
+2010,code.KG08,,1545.0
+2011,code.KG08,,1585.0
+2012,code.KG08,,1568.0
+2013,code.KG08,,1443.0
+2014,code.KG08,,1292.0
+2015,code.KG08,,1417.0
+2016,code.KG08,,1352.0
+2017,code.KG08,,136.2
+2018,code.KG08,,1242.0
+2007,code.KG08,code.F,1259.0
+2008,code.KG08,code.F,1255.0
+2009,code.KG08,code.F,1179.0
+2010,code.KG08,code.F,1250.0
+2011,code.KG08,code.F,1122.0
+2012,code.KG08,code.F,1114.0
+2013,code.KG08,code.F,1083.0
+2014,code.KG08,code.F,1083.0
+2015,code.KG08,code.F,1186.0
+2016,code.KG08,code.F,1110.0
+2017,code.KG08,code.F,108.3
+2018,code.KG08,code.F,992.0
+2007,code.KG08,code.M,1920.0
+2008,code.KG08,code.M,2092.0
+2009,code.KG08,code.M,1938.0
+2010,code.KG08,code.M,1851.0
+2011,code.KG08,code.M,2064.0
+2012,code.KG08,code.M,2036.0
+2013,code.KG08,code.M,1815.0
+2014,code.KG08,code.M,1508.0
+2015,code.KG08,code.M,1654.0
+2016,code.KG08,code.M,1602.0
+2017,code.KG08,code.M,165.0
+2018,code.KG08,code.M,1500.0
+2007,code.KG11,,1744.0
+2008,code.KG11,,1231.0
+2009,code.KG11,,1145.0
+2010,code.KG11,,1131.0
+2011,code.KG11,,1150.0
+2012,code.KG11,,1237.0
+2013,code.KG11,,1264.0
+2014,code.KG11,,1335.0
+2015,code.KG11,,1329.0
+2016,code.KG11,,1146.0
+2017,code.KG11,,113.1
+2018,code.KG11,,1026.0
+2007,code.KG11,code.F,1214.0
+2008,code.KG11,code.F,1015.0
+2009,code.KG11,code.F,904.0
+2010,code.KG11,code.F,919.0
+2011,code.KG11,code.F,902.0
+2012,code.KG11,code.F,974.0
+2013,code.KG11,code.F,1102.0
+2014,code.KG11,code.F,1081.0
+2015,code.KG11,code.F,1031.0
+2016,code.KG11,code.F,922.0
+2017,code.KG11,code.F,91.3
+2018,code.KG11,code.F,750.0
+2007,code.KG11,code.M,2324.0
+2008,code.KG11,code.M,1467.0
+2009,code.KG11,code.M,1423.0
+2010,code.KG11,code.M,1376.0
+2011,code.KG11,code.M,1435.0
+2012,code.KG11,code.M,1539.0
+2013,code.KG11,code.M,1450.0
+2014,code.KG11,code.M,1621.0
+2015,code.KG11,code.M,1670.0
+2016,code.KG11,code.M,1402.0
+2017,code.KG11,code.M,137.8
+2018,code.KG11,code.M,1339.0
+2007,code.KG21,,1033.0
+2008,code.KG21,,995.0
+2009,code.KG21,,998.0
+2010,code.KG21,,854.0
+2011,code.KG21,,887.0
+2012,code.KG21,,984.0
+2013,code.KG21,,837.0
+2014,code.KG21,,1031.0
+2015,code.KG21,,897.0
+2016,code.KG21,,925.0
+2017,code.KG21,,89.7
+2018,code.KG21,,843.0
+2007,code.KG21,code.F,831.0
+2008,code.KG21,code.F,637.0
+2009,code.KG21,code.F,826.0
+2010,code.KG21,code.F,680.0
+2011,code.KG21,code.F,750.0
+2012,code.KG21,code.F,781.0
+2013,code.KG21,code.F,644.0
+2014,code.KG21,code.F,922.0
+2015,code.KG21,code.F,785.0
+2016,code.KG21,code.F,776.0
+2017,code.KG21,code.F,75.3
+2018,code.KG21,code.F,830.0
+2007,code.KG21,code.M,1252.0
+2008,code.KG21,code.M,1384.0
+2009,code.KG21,code.M,1184.0
+2010,code.KG21,code.M,1044.0
+2011,code.KG21,code.M,1036.0
+2012,code.KG21,code.M,1204.0
+2013,code.KG21,code.M,1045.0
+2014,code.KG21,code.M,1148.0
+2015,code.KG21,code.M,1018.0
+2016,code.KG21,code.M,1085.0
+2017,code.KG21,code.M,105.2
+2018,code.KG21,code.M,857.0

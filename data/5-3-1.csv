@@ -1,41 +1,41 @@
-Year,Reference area,Income or wealth quantile,Education level,Disability status,Value
+Year,concept.REF_AREA,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,concept.DISABILITY_STATUS,Value
 2018,,,,,0.3
-2018,Batken,,,,0.0
-2018,Jalal-Abad,,,,0.0
-2018,Issyk-Kul,,,,0.0
-2018,Naryn,,,,0.0
-2018,Osh,,,,0.0
-2018,Talas,,,,2.8
-2018,Chui,,,,0.0
-2018,Bishkek (city),,,,1.0
-2018,Osh (city),,,,0.0
-2018,,,Educación secundaria baja,,0.6
-2018,,,Educación secundaria alta,,0.8
-2018,,,Educación post-secundaria no terciaria,,0.0
-2018,,,Educación terciaria de ciclo corto,,0.0
-2018,,,,Persons without disability,0.3
-2018,,Quintile 1 (poorest),,,0.0
-2018,,Quintile 2,,,0.4
-2018,,Quintile 3,,,0.0
-2018,,Quintile 4,,,0.0
-2018,,Quintile 5 (richest),,,1.1
+2018,code.KG05,,,,0.0
+2018,code.KG03,,,,0.0
+2018,code.KG02,,,,0.0
+2018,code.KG04,,,,0.0
+2018,code.KG06,,,,0.0
+2018,code.KG07,,,,2.8
+2018,code.KG08,,,,0.0
+2018,code.KG11,,,,1.0
+2018,code.KG21,,,,0.0
+2018,,,code.ISCED11_2,,0.6
+2018,,,code.ISCED11_3,,0.8
+2018,,,code.ISCED11_4,,0.0
+2018,,,code.ISCED11_5,,0.0
+2018,,,,code.PWD,0.3
+2018,,code.Q1,,,0.0
+2018,,code.Q2,,,0.4
+2018,,code.Q3,,,0.0
+2018,,code.Q4,,,0.0
+2018,,code.Q5,,,1.1
 2018,,,,,12.9
-2018,Batken,,,,14.4
-2018,Jalal-Abad,,,,13.6
-2018,Issyk-Kul,,,,11.5
-2018,Naryn,,,,18.4
-2018,Osh,,,,18.3
-2018,Talas,,,,16.5
-2018,Chui,,,,11.6
-2018,Bishkek (city),,,,5.3
-2018,Osh (city),,,,13.2
-2018,,,Educación secundaria baja,,30.3
-2018,,,Educación secundaria alta,,21.3
-2018,,,Educación post-secundaria no terciaria,,6.0
-2018,,,Educación terciaria de ciclo corto,,2.6
-2018,,,,Persons without disability,12.7
-2018,,Quintile 1 (poorest),,,11.8
-2018,,Quintile 2,,,19.7
-2018,,Quintile 3,,,14.4
-2018,,Quintile 4,,,12.5
-2018,,Quintile 5 (richest),,,6.4
+2018,code.KG05,,,,14.4
+2018,code.KG03,,,,13.6
+2018,code.KG02,,,,11.5
+2018,code.KG04,,,,18.4
+2018,code.KG06,,,,18.3
+2018,code.KG07,,,,16.5
+2018,code.KG08,,,,11.6
+2018,code.KG11,,,,5.3
+2018,code.KG21,,,,13.2
+2018,,,code.ISCED11_2,,30.3
+2018,,,code.ISCED11_3,,21.3
+2018,,,code.ISCED11_4,,6.0
+2018,,,code.ISCED11_5,,2.6
+2018,,,,code.PWD,12.7
+2018,,code.Q1,,,11.8
+2018,,code.Q2,,,19.7
+2018,,code.Q3,,,14.4
+2018,,code.Q4,,,12.5
+2018,,code.Q5,,,6.4

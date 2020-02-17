@@ -1,1 +1,1 @@
-{"Year":["2018","2018","2018"],"Degree of urbanisation":[null,"Urban","Rural"],"Value":[29.5,38.4,22.4]}
+{"Year":["2018","2018","2018"],"concept.URBANISATION":[null,"code.U","code.R"],"Value":[29.5,38.4,22.4]}
