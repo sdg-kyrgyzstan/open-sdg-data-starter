@@ -1,24 +1,87 @@
 <?xml version="1.0" ?>
-<!--Created with SDMX Converter v7.5.3-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--Created with SDMX Converter v7.7.2-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>JD014</message:ID>
+    <message:ID>IREF1581413673245</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2019-05-27T03:04:09Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2020-02-11T09:34:33Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
-    <message:Structure structureID="KG_NSC_SDG_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+    <message:Structure structureID="KG_NSC_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.0"></Ref>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.3"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_0" ss:action="Information">
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="F" AGE="Y15T49" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2018" OBS_VALUE="93.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="According to Multiple Indicator Cluster Survey, 2018."></Obs>
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_3" ss:action="Information">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="91.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="U" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="94.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="R" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="89.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="M" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="92.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="F" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="910" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG05" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="911" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG03" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="906" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG02" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="921" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG04" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="894" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG06" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="876" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG07" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="915" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG08" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="946" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG11" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="970" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG21" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="883" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y18T19" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="909" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y20T24" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="959" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y20T29" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="788" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_1" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="581" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_2" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="840" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_3" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="928" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_4" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="964" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_5" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2018" OBS_VALUE="981" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* Integrated sample survey of household budgets and labor."></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
