@@ -1,3 +1,20 @@
 frontpage_heading: Показатели целей в области устойчивого развития Кыргызской Республики
 frontpage_instructions: Нажмите на каждую цель, или поищите статистики для глобальных показателей целей в области устойчивого развития. Для получения данных по показателям Целей устойчивого развития – выберите цель, или введите название показателя через <span id="jump-to-search"><a>«Поиск»</a></span>.
 national: национальный
+concepts: Основные понятия
+rationale_and_interpretation: Обоснование и толкование
+method_of_computation: Метод расчета
+quality_assurance: Гарантия качества
+data_availability_and_gaps: Доступность данных и пробелы
+disaggregation: Разбивка
+comparability_with_international_data_standards: Сопоставимость с международными данными/стандартами
+references_and_documentation: Ссылки и документация
+data_sources: Источники данных 
+data_collection_methods: Методы сбора данных
+comments_and_limitations: Комментарий и ограничения
+goal: Цель
+organization: Организация
+contact_person: Контактное лицо (лица)/Координатор
+contact_person_email: Электронная почта контактного лица
+contact_person_phone: Телефон контактного лица
+organization_website: Сайт организации
