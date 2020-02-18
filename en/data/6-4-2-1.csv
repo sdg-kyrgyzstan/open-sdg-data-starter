@@ -4,16 +4,16 @@ Year,Reference area,Composite breakdown,Value
 2016,,,7333.7
 2017,,,7657.8
 2018,,,7758.0
-2014,,code.WS_NATURAL,7432.4
-2015,,code.WS_NATURAL,7225.2
-2016,,code.WS_NATURAL,7125.0
-2017,,code.WS_NATURAL,7433.2
-2018,,code.WS_NATURAL,7513.0
-2014,,code.WS_AQUIFER,225.6
-2015,,code.WS_AQUIFER,343.8
-2016,,code.WS_AQUIFER,208.7
-2017,,code.WS_AQUIFER,224.6
-2018,,code.WS_AQUIFER,245.0
+2014,,Water source: Natural,7432.4
+2015,,Water source: Natural,7225.2
+2016,,Water source: Natural,7125.0
+2017,,Water source: Natural,7433.2
+2018,,Water source: Natural,7513.0
+2014,,Water source: Aquifers,225.6
+2015,,Water source: Aquifers,343.8
+2016,,Water source: Aquifers,208.7
+2017,,Water source: Aquifers,224.6
+2018,,Water source: Aquifers,245.0
 2014,Batken,,615.1
 2015,Batken,,643.1
 2016,Batken,,645.2
