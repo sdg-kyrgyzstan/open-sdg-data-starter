@@ -1,1 +1,193 @@
-Year,Value
+Year,Sex,Age,Degree of urbanisation,Economic activity,Value
+2007,,,,,1514.8
+2008,,,,,1559.6
+2009,,,,,1592.9
+2010,,,,,1589.7
+2011,,,,,1603.9
+2012,,,,,1602.8
+2013,,,,,1629.1
+2014,,,,,1653.0
+2015,,,,,1686.4
+2016,,,,,1683.0
+2017,,,,,1611.3
+2018,,,,,1686.9
+2007,Modeled,,,,928.9
+2008,Modeled,,,,936.1
+2009,Modeled,,,,983.6
+2010,Modeled,,,,993.8
+2011,Modeled,,,,999.9
+2012,Modeled,,,,1008.4
+2013,Modeled,,,,1044.3
+2014,Modeled,,,,1040.6
+2015,Modeled,,,,1077.9
+2016,Modeled,,,,1095.7
+2017,Modeled,,,,1074.4
+2018,Modeled,,,,1131.7
+2007,Female,,,,585.9
+2008,Female,,,,623.5
+2009,Female,,,,609.4
+2010,Female,,,,595.9
+2011,Female,,,,604.0
+2012,Female,,,,594.4
+2013,Female,,,,584.8
+2014,Female,,,,612.3
+2015,Female,,,,608.5
+2016,Female,,,,587.3
+2017,Female,,,,536.9
+2018,Female,,,,555.2
+2007,,15 to 19 years old,,,129.7
+2008,,15 to 19 years old,,,130.2
+2009,,15 to 19 years old,,,139.2
+2010,,15 to 19 years old,,,128.9
+2011,,15 to 19 years old,,,120.5
+2012,,15 to 19 years old,,,109.0
+2013,,15 to 19 years old,,,126.1
+2014,,15 to 19 years old,,,108.0
+2015,,15 to 19 years old,,,101.7
+2016,,15 to 19 years old,,,85.0
+2017,,15 to 19 years old,,,71.1
+2018,,15 to 19 years old,,,76.5
+2007,,20 to 29 years old,,,463.8
+2008,,20 to 29 years old,,,485.6
+2009,,20 to 29 years old,,,492.5
+2010,,20 to 29 years old,,,500.9
+2011,,20 to 29 years old,,,502.9
+2012,,20 to 29 years old,,,497.3
+2013,,20 to 29 years old,,,523.0
+2014,,20 to 29 years old,,,516.5
+2015,,20 to 29 years old,,,516.1
+2016,,20 to 29 years old,,,518.7
+2017,,20 to 29 years old,,,499.3
+2018,,20 to 29 years old,,,500.7
+2007,,30 to 39 years old,,,408.9
+2008,,30 to 39 years old,,,416.3
+2009,,30 to 39 years old,,,408.1
+2010,,30 to 39 years old,,,406.5
+2011,,30 to 39 years old,,,403.8
+2012,,30 to 39 years old,,,397.8
+2013,,30 to 39 years old,,,411.3
+2014,,30 to 39 years old,,,437.4
+2015,,30 to 39 years old,,,449.1
+2016,,30 to 39 years old,,,446.8
+2017,,30 to 39 years old,,,447.3
+2018,,30 to 39 years old,,,463.0
+2007,,40 to 49 years old,,,328.7
+2008,,40 to 49 years old,,,335.8
+2009,,40 to 49 years old,,,343.1
+2010,,40 to 49 years old,,,336.4
+2011,,40 to 49 years old,,,341.3
+2012,,40 to 49 years old,,,356.0
+2013,,40 to 49 years old,,,348.4
+2014,,40 to 49 years old,,,352.0
+2015,,40 to 49 years old,,,361.7
+2016,,40 to 49 years old,,,371.4
+2017,,40 to 49 years old,,,344.5
+2018,,40 to 49 years old,,,367.3
+2007,,50 to 59 years old,,,149.3
+2008,,50 to 59 years old,,,154.0
+2009,,50 to 59 years old,,,168.4
+2010,,50 to 59 years old,,,174.3
+2011,,50 to 59 years old,,,187.7
+2012,,50 to 59 years old,,,194.5
+2013,,50 to 59 years old,,,181.4
+2014,,50 to 59 years old,,,197.0
+2015,,50 to 59 years old,,,207.4
+2016,,50 to 59 years old,,,209.4
+2017,,50 to 59 years old,,,204.3
+2018,,50 to 59 years old,,,222.7
+2007,,65 to 69 years old,,,26.0
+2008,,65 to 69 years old,,,29.0
+2009,,65 to 69 years old,,,29.7
+2010,,65 to 69 years old,,,32.3
+2011,,65 to 69 years old,,,36.5
+2012,,65 to 69 years old,,,38.0
+2013,,65 to 69 years old,,,31.5
+2014,,65 to 69 years old,,,35.3
+2015,,65 to 69 years old,,,43.5
+2016,,65 to 69 years old,,,45.4
+2017,,65 to 69 years old,,,40.5
+2018,,65 to 69 years old,,,52.6
+2007,,70 years old and over,,,8.5
+2008,,70 years old and over,,,8.7
+2009,,70 years old and over,,,11.8
+2010,,70 years old and over,,,10.4
+2011,,70 years old and over,,,11.1
+2012,,70 years old and over,,,10.1
+2013,,70 years old and over,,,7.5
+2014,,70 years old and over,,,6.9
+2015,,70 years old and over,,,7.0
+2016,,70 years old and over,,,6.3
+2017,,70 years old and over,,,4.3
+2018,,70 years old and over,,,4.1
+2007,,,Urban,,396.7
+2008,,,Urban,,421.9
+2009,,,Urban,,431.7
+2010,,,Urban,,414.4
+2011,,,Urban,,419.3
+2012,,,Urban,,408.0
+2013,,,Urban,,418.6
+2014,,,Urban,,433.7
+2015,,,Urban,,460.0
+2016,,,Urban,,489.0
+2017,,,Urban,,526.3
+2018,,,Urban,,541.6
+2007,,,Regional,,1118.1
+2008,,,Regional,,1137.7
+2009,,,Regional,,1161.2
+2010,,,Regional,,1175.2
+2011,,,Regional,,1184.6
+2012,,,Regional,,1194.8
+2013,,,Regional,,1210.5
+2014,,,Regional,,1219.3
+2015,,,Regional,,1226.5
+2016,,,Regional,,1194.0
+2017,,,Regional,,1085.0
+2018,,,Regional,,1145.3
+2007,,,,"Agriculture, forestry and fishing",755.3
+2008,,,,"Agriculture, forestry and fishing",767.0
+2009,,,,"Agriculture, forestry and fishing",740.5
+2010,,,,"Agriculture, forestry and fishing",720.7
+2011,,,,"Agriculture, forestry and fishing",719.4
+2012,,,,"Agriculture, forestry and fishing",711.4
+2013,,,,"Agriculture, forestry and fishing",731.6
+2014,,,,"Agriculture, forestry and fishing",749.0
+2015,,,,"Agriculture, forestry and fishing",710.1
+2016,,,,"Agriculture, forestry and fishing",656.5
+2017,,,,"Agriculture, forestry and fishing",497.7
+2018,,,,"Agriculture, forestry and fishing",463.0
+2007,,,,Industry (total),106.6
+2008,,,,Industry (total),110.4
+2009,,,,Industry (total),114.7
+2010,,,,Industry (total),114.0
+2011,,,,Industry (total),111.3
+2012,,,,Industry (total),115.3
+2013,,,,Industry (total),102.2
+2014,,,,Industry (total),108.5
+2015,,,,Industry (total),117.7
+2016,,,,Industry (total),117.1
+2017,,,,Industry (total),160.5
+2018,,,,Industry (total),225.0
+2007,,,,Construction,172.5
+2008,,,,Construction,180.9
+2009,,,,Construction,204.7
+2010,,,,Construction,197.7
+2011,,,,Construction,204.9
+2012,,,,Construction,222.4
+2013,,,,Construction,210.0
+2014,,,,Construction,209.3
+2015,,,,Construction,222.7
+2016,,,,Construction,250.3
+2017,,,,Construction,221.8
+2018,,,,Construction,217.0
+2007,,,,Other service activities,480.4
+2008,,,,Other service activities,501.4
+2009,,,,Other service activities,533.1
+2010,,,,Other service activities,557.2
+2011,,,,Other service activities,568.4
+2012,,,,Other service activities,553.7
+2013,,,,Other service activities,585.2
+2014,,,,Other service activities,586.2
+2015,,,,Other service activities,635.7
+2016,,,,Other service activities,659.1
+2017,,,,Other service activities,731.3
+2018,,,,Other service activities,781.9
