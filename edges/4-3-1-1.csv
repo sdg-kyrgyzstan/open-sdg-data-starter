@@ -1,1 +1,3 @@
 From,To
+concept.EDUCATION_LEV,concept.SEX
+concept.AGE,concept.EDUCATION_LEV
