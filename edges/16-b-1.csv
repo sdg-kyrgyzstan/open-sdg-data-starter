@@ -1,1 +1,6 @@
 From,To
+concept.AGE,concept.REF_AREA
+concept.AGE,concept.URBANISATION
+concept.AGE,concept.INCOME_WEALTH_QUANTILE
+concept.AGE,concept.EDUCATION_LEV
+concept.AGE,concept.DISABILITY_STATUS
