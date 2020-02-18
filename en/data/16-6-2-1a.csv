@@ -1,51 +1,51 @@
-Year,Frequency of observation,Reference area,Value
-2015,Annual,,235
-2016,Annual,,285
-2017,Annual,,311
-2018,Annual,,273
-2019,"Half-yearly, semester",,273
-2015,Annual,Batken,294
-2016,Annual,Batken,479
-2017,Annual,Batken,462
-2018,Annual,Batken,426
-2019,"Half-yearly, semester",Batken,400
-2015,Annual,Bishkek (city),436
-2016,Annual,Bishkek (city),372
-2017,Annual,Bishkek (city),354
-2018,Annual,Bishkek (city),327
-2019,"Half-yearly, semester",Bishkek (city),360
-2015,Annual,Chui,-15
-2016,Annual,Chui,166
-2017,Annual,Chui,295
-2018,Annual,Chui,195
-2019,"Half-yearly, semester",Chui,252
-2015,Annual,Issyk-Kul,206
-2016,Annual,Issyk-Kul,199
-2017,Annual,Issyk-Kul,285
-2018,Annual,Issyk-Kul,307
-2019,"Half-yearly, semester",Issyk-Kul,375
-2015,Annual,Jalal-Abad,343
-2016,Annual,Jalal-Abad,309
-2017,Annual,Jalal-Abad,327
-2018,Annual,Jalal-Abad,279
-2019,"Half-yearly, semester",Jalal-Abad,307
-2015,Annual,Naryn,364
-2016,Annual,Naryn,341
-2017,Annual,Naryn,312
-2018,Annual,Naryn,341
-2019,"Half-yearly, semester",Naryn,355
-2015,Annual,Osh,314
-2016,Annual,Osh,256
-2017,Annual,Osh,385
-2018,Annual,Osh,355
-2019,"Half-yearly, semester",Osh,325
-2015,Annual,Osh (city),96
-2016,Annual,Osh (city),126
-2017,Annual,Osh (city),163
-2018,Annual,Osh (city),129
-2019,"Half-yearly, semester",Osh (city),113
-2015,Annual,Talas,169
-2016,Annual,Talas,408
-2017,Annual,Talas,429
-2018,Annual,Talas,383
-2019,"Half-yearly, semester",Talas,366
+Year,Reference area,Value
+2015,,23.5
+2016,,28.5
+2017,,31.1
+2018,,27.3
+2019,,27.3
+2015,Batken,29.4
+2016,Batken,47.9
+2017,Batken,46.2
+2018,Batken,42.6
+2019,Batken,40.0
+2015,Jalal-Abad,43.6
+2016,Jalal-Abad,37.2
+2017,Jalal-Abad,35.4
+2018,Jalal-Abad,32.7
+2019,Jalal-Abad,36.0
+2015,Issyk-Kul,-1.5
+2016,Issyk-Kul,16.6
+2017,Issyk-Kul,29.5
+2018,Issyk-Kul,19.5
+2019,Issyk-Kul,25.2
+2015,Naryn,20.6
+2016,Naryn,19.9
+2017,Naryn,28.5
+2018,Naryn,30.7
+2019,Naryn,37.5
+2015,Osh,34.3
+2016,Osh,30.9
+2017,Osh,32.7
+2018,Osh,27.9
+2019,Osh,30.7
+2015,Talas,36.4
+2016,Talas,34.1
+2017,Talas,31.2
+2018,Talas,34.1
+2019,Talas,35.5
+2015,Chui,31.4
+2016,Chui,25.6
+2017,Chui,38.5
+2018,Chui,35.5
+2019,Chui,32.5
+2015,Bishkek (city),9.6
+2016,Bishkek (city),12.6
+2017,Bishkek (city),16.3
+2018,Bishkek (city),12.9
+2019,Bishkek (city),11.3
+2015,Osh (city),16.9
+2016,Osh (city),40.8
+2017,Osh (city),42.9
+2018,Osh (city),38.3
+2019,Osh (city),36.6
