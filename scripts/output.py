@@ -117,4 +117,4 @@ translations = [
 reporting_status_extra_fields = ['organization_name']
     
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
-opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations, reporting_status_extra_fields=reporting_status_extra_fields)
+opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
