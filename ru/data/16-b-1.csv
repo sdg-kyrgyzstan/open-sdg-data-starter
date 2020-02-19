@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.AGE,concept.URBANISATION,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,concept.DISABILITY_STATUS,Value
+Year,Территория,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Статус инвалидности,Value
 2018,,от 15 до 49 лет ,,,,,7.7
 2018,,от 15 до 49 лет ,Городское,,,,7.9
 2018,,от 15 до 49 лет ,Сельское,,,,7.6

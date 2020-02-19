@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,concept.DISABILITY_STATUS,Value
+Year,Территория,Уровень дохода или квантиль благосостояния,Уровень образования,Статус инвалидности,Value
 2018,,,,,0.3
 2018,Баткен,,,,0.0
 2018,Джалал-Абадская область,,,,0.0

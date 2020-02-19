@@ -1,4 +1,4 @@
-Year,concept.SEX,concept.AGE,concept.URBANISATION,concept.ACTIVITY,Value
+Year,Пол,Возраст,Тип местности,Вид экономической деятельности,Value
 2015,,,,,23.0
 2016,,,,,18.3
 2017,,,,,18.0

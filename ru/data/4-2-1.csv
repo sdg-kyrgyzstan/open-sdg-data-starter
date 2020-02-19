@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.SEX,concept.AGE,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,Value
+Year,Территория,Пол,Возраст,Уровень дохода или квантиль благосостояния,Уровень образования,Value
 2014,,,до 5 лет,,,783.0
 2018,,,до 5 лет,,,71.7
 2014,Баткен,,до 5 лет,,,812.0

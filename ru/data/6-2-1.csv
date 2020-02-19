@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.URBANISATION,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,Value
+Year,Территория,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Value
 2018,,,,,96.3
 2018,,Городское,,,96.1
 2018,,Сельское,,,96.5

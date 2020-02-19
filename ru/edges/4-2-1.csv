@@ -1,5 +1,5 @@
 From,To
-concept.AGE,concept.REF_AREA
-concept.AGE,concept.SEX
-concept.AGE,concept.INCOME_WEALTH_QUANTILE
-concept.AGE,concept.EDUCATION_LEV
+Возраст,Территория
+Возраст,Пол
+Возраст,Уровень дохода или квантиль благосостояния
+Возраст,Уровень образования

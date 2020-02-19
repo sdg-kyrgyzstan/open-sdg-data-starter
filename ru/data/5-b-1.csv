@@ -1,4 +1,4 @@
-Year,concept.REF_AREA,concept.SEX,concept.AGE,concept.URBANISATION,concept.EDUCATION_LEV,Value
+Year,Территория,Пол,Возраст,Тип местности,Уровень образования,Value
 2018,,,15 лет и старше,,,91.8
 2018,,,15 лет и старше,Городское,,94.9
 2018,,,15 лет и старше,Сельское,,89.9
