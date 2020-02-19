@@ -17,15 +17,15 @@ Year,Reference area,Degree of urbanisation,Time series-level footnotes,Value
 2016,,Urban,,0.3
 2017,,Urban,,0.3
 2018,,Urban,,0.2
-2010,,Rural,,6.0
-2011,,Rural,,5.7
-2012,,Rural,,4.5
-2013,,Rural,,3.3
-2014,,Rural,,1.1
-2015,,Rural,,1.4
-2016,,Rural,,1.1
-2017,,Rural,,1.0
-2018,,Rural,,0.7
+2010,,Regional,,6.0
+2011,,Regional,,5.7
+2012,,Regional,,4.5
+2013,,Regional,,3.3
+2014,,Regional,,1.1
+2015,,Regional,,1.4
+2016,,Regional,,1.1
+2017,,Regional,,1.0
+2018,,Regional,,0.7
 2010,Batken,,,5.2
 2011,Batken,,,3.6
 2012,Batken,,,2.4
@@ -62,15 +62,15 @@ Year,Reference area,Degree of urbanisation,Time series-level footnotes,Value
 2016,Naryn,,,2.6
 2017,Naryn,,,2.0
 2018,Naryn,,,2.2
-2010,Osh,,until 2013 y. including Osh city,8.3
-2011,Osh,,until 2013 y. including Osh city,3.7
-2012,Osh,,until 2013 y. including Osh city,2.3
-2013,Osh,,until 2013 y. including Osh city,4.0
-2014,Osh,,until 2013 y. including Osh city,0.4
-2015,Osh,,until 2013 y. including Osh city,1.2
-2016,Osh,,until 2013 y. including Osh city,0.8
-2017,Osh,,until 2013 y. including Osh city,0.0
-2018,Osh,,until 2013 y. including Osh city,0.0
+2010,Osh,,code.until 2013 y. including Osh city,8.3
+2011,Osh,,code.until 2013 y. including Osh city,3.7
+2012,Osh,,code.until 2013 y. including Osh city,2.3
+2013,Osh,,code.until 2013 y. including Osh city,4.0
+2014,Osh,,code.until 2013 y. including Osh city,0.4
+2015,Osh,,code.until 2013 y. including Osh city,1.2
+2016,Osh,,code.until 2013 y. including Osh city,0.8
+2017,Osh,,code.until 2013 y. including Osh city,0.0
+2018,Osh,,code.until 2013 y. including Osh city,0.0
 2010,Talas,,,5.0
 2011,Talas,,,8.4
 2012,Talas,,,0.9
