@@ -112,8 +112,11 @@ translations = [
     sdg.translations.TranslationInputCsv(source='translations'),
     sdg.translations.TranslationInputSdmx(source=dsd)
 ]
+# Indicate any extra fields for the reporting stats, if needed.
+    reporting_status_extra_fields: ['organization_name']
+    if 'reporting_status_extra_fields' in options:
+        reporting_status_extra_fields = options['reporting_status_extra_fields']
 
-reporting_status_extra_fields: ['organization_name']
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
 opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
