@@ -1,121 +1,121 @@
 Year,Reference area,Value
-2007,,10.5
-2008,,10.8
-2009,,9.1
-2010,,9.0
-2011,,8.0
-2012,,7.9
-2013,,6.4
-2014,,6.8
-2015,,7.0
-2016,,6.0
+2007,,105.0
+2008,,108.0
+2009,,91.0
+2010,,90.0
+2011,,80.0
+2012,,79.0
+2013,,64.0
+2014,,68.0
+2015,,70.0
+2016,,60.0
 2017,,5.9
 2018,,6.3
-2007,Batken,1.4
-2008,Batken,2.8
-2009,Batken,3.5
-2010,Batken,3.0
-2011,Batken,1.3
-2012,Batken,3.5
-2013,Batken,3.9
-2014,Batken,2.1
-2015,Batken,1.4
-2016,Batken,1.2
+2007,Batken,14.0
+2008,Batken,28.0
+2009,Batken,35.0
+2010,Batken,30.0
+2011,Batken,13.0
+2012,Batken,35.0
+2013,Batken,39.0
+2014,Batken,21.0
+2015,Batken,14.0
+2016,Batken,12.0
 2017,Batken,3.3
 2018,Batken,1.2
-2007,Jalal-Abad,2.3
-2008,Jalal-Abad,1.4
-2009,Jalal-Abad,1.5
-2010,Jalal-Abad,2.4
-2011,Jalal-Abad,2.2
-2012,Jalal-Abad,2.4
-2013,Jalal-Abad,2.2
-2014,Jalal-Abad,2.1
-2015,Jalal-Abad,2.9
-2016,Jalal-Abad,1.9
+2007,Jalal-Abad,23.0
+2008,Jalal-Abad,14.0
+2009,Jalal-Abad,15.0
+2010,Jalal-Abad,24.0
+2011,Jalal-Abad,22.0
+2012,Jalal-Abad,24.0
+2013,Jalal-Abad,22.0
+2014,Jalal-Abad,21.0
+2015,Jalal-Abad,29.0
+2016,Jalal-Abad,19.0
 2017,Jalal-Abad,2.5
 2018,Jalal-Abad,2.4
-2007,Issyk-Kul,34.1
-2008,Issyk-Kul,35.1
-2009,Issyk-Kul,26.2
-2010,Issyk-Kul,33.0
-2011,Issyk-Kul,31.4
-2012,Issyk-Kul,26.6
-2013,Issyk-Kul,24.8
-2014,Issyk-Kul,30.6
-2015,Issyk-Kul,31.3
-2016,Issyk-Kul,19.4
+2007,Issyk-Kul,341.0
+2008,Issyk-Kul,351.0
+2009,Issyk-Kul,262.0
+2010,Issyk-Kul,330.0
+2011,Issyk-Kul,314.0
+2012,Issyk-Kul,266.0
+2013,Issyk-Kul,248.0
+2014,Issyk-Kul,306.0
+2015,Issyk-Kul,313.0
+2016,Issyk-Kul,194.0
 2017,Issyk-Kul,23.5
 2018,Issyk-Kul,26.7
-2007,Naryn,12.4
-2008,Naryn,9.3
-2009,Naryn,9.7
-2010,Naryn,11.5
-2011,Naryn,9.9
-2012,Naryn,8.3
-2013,Naryn,6.3
-2014,Naryn,5.5
-2015,Naryn,7.2
-2016,Naryn,7.2
+2007,Naryn,124.0
+2008,Naryn,93.0
+2009,Naryn,97.0
+2010,Naryn,115.0
+2011,Naryn,99.0
+2012,Naryn,83.0
+2013,Naryn,63.0
+2014,Naryn,55.0
+2015,Naryn,72.0
+2016,Naryn,72.0
 2017,Naryn,8.1
 2018,Naryn,10.9
-2007,Osh,1.0
-2008,Osh,2.4
-2009,Osh,2.7
-2010,Osh,2.5
-2011,Osh,2.4
-2012,Osh,3.7
-2013,Osh,1.6
-2014,Osh,2.7
-2015,Osh,4.0
-2016,Osh,3.4
+2007,Osh,10.0
+2008,Osh,24.0
+2009,Osh,27.0
+2010,Osh,25.0
+2011,Osh,24.0
+2012,Osh,37.0
+2013,Osh,16.0
+2014,Osh,27.0
+2015,Osh,40.0
+2016,Osh,34.0
 2017,Osh,2.3
 2018,Osh,3.4
-2007,Talas,3.6
-2008,Talas,4.4
-2009,Talas,4.4
-2010,Talas,3.5
-2011,Talas,2.6
-2012,Talas,5.5
-2013,Talas,3.7
-2014,Talas,4.1
-2015,Talas,6.8
-2016,Talas,6.3
+2007,Talas,36.0
+2008,Talas,44.0
+2009,Talas,44.0
+2010,Talas,35.0
+2011,Talas,26.0
+2012,Talas,55.0
+2013,Talas,37.0
+2014,Talas,41.0
+2015,Talas,68.0
+2016,Talas,63.0
 2017,Talas,2.3
 2018,Talas,5.7
-2007,Chui,15.8
-2008,Chui,16.0
-2009,Chui,11.9
-2010,Chui,11.1
-2011,Chui,7.7
-2012,Chui,9.4
-2013,Chui,7.4
-2014,Chui,7.9
-2015,Chui,6.3
-2016,Chui,7.9
+2007,Chui,158.0
+2008,Chui,160.0
+2009,Chui,119.0
+2010,Chui,111.0
+2011,Chui,77.0
+2012,Chui,94.0
+2013,Chui,74.0
+2014,Chui,79.0
+2015,Chui,63.0
+2016,Chui,79.0
 2017,Chui,7.9
 2018,Chui,7.1
-2007,Bishkek (city),24.1
-2008,Bishkek (city),24.3
-2009,Bishkek (city),21.0
-2010,Bishkek (city),16.3
-2011,Bishkek (city),16.0
-2012,Bishkek (city),12.2
-2013,Bishkek (city),9.9
-2014,Bishkek (city),10.0
-2015,Bishkek (city),8.1
-2016,Bishkek (city),8.1
+2007,Bishkek (city),241.0
+2008,Bishkek (city),243.0
+2009,Bishkek (city),210.0
+2010,Bishkek (city),163.0
+2011,Bishkek (city),160.0
+2012,Bishkek (city),122.0
+2013,Bishkek (city),99.0
+2014,Bishkek (city),100.0
+2015,Bishkek (city),81.0
+2016,Bishkek (city),81.0
 2017,Bishkek (city),6.6
 2018,Bishkek (city),6.5
-2007,Osh (city),1.6
-2008,Osh (city),3.5
-2009,Osh (city),3.1
-2010,Osh (city),3.9
-2011,Osh (city),3.5
-2012,Osh (city),5.8
-2013,Osh (city),4.9
-2014,Osh (city),1.9
-2015,Osh (city),4.4
-2016,Osh (city),6.1
+2007,Osh (city),16.0
+2008,Osh (city),35.0
+2009,Osh (city),31.0
+2010,Osh (city),39.0
+2011,Osh (city),35.0
+2012,Osh (city),58.0
+2013,Osh (city),49.0
+2014,Osh (city),19.0
+2015,Osh (city),44.0
+2016,Osh (city),61.0
 2017,Osh (city),3.5
 2018,Osh (city),2.7
