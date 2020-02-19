@@ -30,7 +30,7 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
-    - name: Waiting 5 minutes for staging data deployment
+    - name: Waiting 2 minutes for staging data deployment
       run: |
         sleep 120
     - name: Rebuild site
