@@ -17,15 +17,15 @@ Year,concept.REF_AREA,concept.URBANISATION,concept.COMMENT_TS,Value
 2016,,Городское,,0.3
 2017,,Городское,,0.3
 2018,,Городское,,0.2
-2010,,Сельское,,6.0
-2011,,Сельское,,5.7
-2012,,Сельское,,4.5
-2013,,Сельское,,3.3
-2014,,Сельское,,1.1
-2015,,Сельское,,1.4
-2016,,Сельское,,1.1
-2017,,Сельское,,1.0
-2018,,Сельское,,0.7
+2010,,Региональный ,,6.0
+2011,,Региональный ,,5.7
+2012,,Региональный ,,4.5
+2013,,Региональный ,,3.3
+2014,,Региональный ,,1.1
+2015,,Региональный ,,1.4
+2016,,Региональный ,,1.1
+2017,,Региональный ,,1.0
+2018,,Региональный ,,0.7
 2010,Баткен,,,5.2
 2011,Баткен,,,3.6
 2012,Баткен,,,2.4
@@ -62,15 +62,15 @@ Year,concept.REF_AREA,concept.URBANISATION,concept.COMMENT_TS,Value
 2016,Нарынская область,,,2.6
 2017,Нарынская область,,,2.0
 2018,Нарынская область,,,2.2
-2010,Ошская область,,until 2013 y. including Osh city,8.3
-2011,Ошская область,,until 2013 y. including Osh city,3.7
-2012,Ошская область,,until 2013 y. including Osh city,2.3
-2013,Ошская область,,until 2013 y. including Osh city,4.0
-2014,Ошская область,,until 2013 y. including Osh city,0.4
-2015,Ошская область,,until 2013 y. including Osh city,1.2
-2016,Ошская область,,until 2013 y. including Osh city,0.8
-2017,Ошская область,,until 2013 y. including Osh city,0.0
-2018,Ошская область,,until 2013 y. including Osh city,0.0
+2010,Ошская область,,code.until 2013 y. including Osh city,8.3
+2011,Ошская область,,code.until 2013 y. including Osh city,3.7
+2012,Ошская область,,code.until 2013 y. including Osh city,2.3
+2013,Ошская область,,code.until 2013 y. including Osh city,4.0
+2014,Ошская область,,code.until 2013 y. including Osh city,0.4
+2015,Ошская область,,code.until 2013 y. including Osh city,1.2
+2016,Ошская область,,code.until 2013 y. including Osh city,0.8
+2017,Ошская область,,code.until 2013 y. including Osh city,0.0
+2018,Ошская область,,code.until 2013 y. including Osh city,0.0
 2010,Таласская область,,,5.0
 2011,Таласская область,,,8.4
 2012,Таласская область,,,0.9

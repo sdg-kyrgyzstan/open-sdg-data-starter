@@ -11,18 +11,18 @@ Year,Reference area,Sex,Value
 2016,,,25.4
 2017,,,25.6
 2018,,,22.4
-2007,,Male,34.7
-2008,,Male,31.4
-2009,,Male,30.7
-2010,,Male,32.7
-2011,,Male,36.1
-2012,,Male,37.2
-2013,,Male,36.5
-2014,,Male,29.7
-2015,,Male,31.5
-2016,,Male,25.0
-2017,,Male,25.0
-2018,,Male,22.5
+2007,,Modeled,34.7
+2008,,Modeled,31.4
+2009,,Modeled,30.7
+2010,,Modeled,32.7
+2011,,Modeled,36.1
+2012,,Modeled,37.2
+2013,,Modeled,36.5
+2014,,Modeled,29.7
+2015,,Modeled,31.5
+2016,,Modeled,25.0
+2017,,Modeled,25.0
+2018,,Modeled,22.5
 2007,,Female,35.4
 2008,,Female,32.1
 2009,,Female,32.9
@@ -47,18 +47,18 @@ Year,Reference area,Sex,Value
 2016,Batken,,37.0
 2017,Batken,,40.5
 2018,Batken,,33.8
-2007,Batken,Male,41.3
-2008,Batken,Male,22.4
-2009,Batken,Male,31.3
-2010,Batken,Male,31.9
-2011,Batken,Male,34.2
-2012,Batken,Male,34.6
-2013,Batken,Male,53.6
-2014,Batken,Male,39.0
-2015,Batken,Male,40.9
-2016,Batken,Male,36.1
-2017,Batken,Male,39.6
-2018,Batken,Male,33.7
+2007,Batken,Modeled,41.3
+2008,Batken,Modeled,22.4
+2009,Batken,Modeled,31.3
+2010,Batken,Modeled,31.9
+2011,Batken,Modeled,34.2
+2012,Batken,Modeled,34.6
+2013,Batken,Modeled,53.6
+2014,Batken,Modeled,39.0
+2015,Batken,Modeled,40.9
+2016,Batken,Modeled,36.1
+2017,Batken,Modeled,39.6
+2018,Batken,Modeled,33.7
 2007,Batken,Female,39.4
 2008,Batken,Female,18.8
 2009,Batken,Female,31.7
@@ -83,18 +83,18 @@ Year,Reference area,Sex,Value
 2016,Jalal-Abad,,32.2
 2017,Jalal-Abad,,32.6
 2018,Jalal-Abad,,32.2
-2007,Jalal-Abad,Male,51.6
-2008,Jalal-Abad,Male,37.9
-2009,Jalal-Abad,Male,33.5
-2010,Jalal-Abad,Male,43.7
-2011,Jalal-Abad,Male,43.7
-2012,Jalal-Abad,Male,55.3
-2013,Jalal-Abad,Male,47.4
-2014,Jalal-Abad,Male,47.0
-2015,Jalal-Abad,Male,45.2
-2016,Jalal-Abad,Male,33.1
-2017,Jalal-Abad,Male,34.0
-2018,Jalal-Abad,Male,33.4
+2007,Jalal-Abad,Modeled,51.6
+2008,Jalal-Abad,Modeled,37.9
+2009,Jalal-Abad,Modeled,33.5
+2010,Jalal-Abad,Modeled,43.7
+2011,Jalal-Abad,Modeled,43.7
+2012,Jalal-Abad,Modeled,55.3
+2013,Jalal-Abad,Modeled,47.4
+2014,Jalal-Abad,Modeled,47.0
+2015,Jalal-Abad,Modeled,45.2
+2016,Jalal-Abad,Modeled,33.1
+2017,Jalal-Abad,Modeled,34.0
+2018,Jalal-Abad,Modeled,33.4
 2007,Jalal-Abad,Female,54.6
 2008,Jalal-Abad,Female,42.4
 2009,Jalal-Abad,Female,40.5
@@ -119,18 +119,18 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,,24.7
 2017,Issyk-Kul,,24.2
 2018,Issyk-Kul,,21.5
-2007,Issyk-Kul,Male,38.7
-2008,Issyk-Kul,Male,52.2
-2009,Issyk-Kul,Male,47.9
-2010,Issyk-Kul,Male,36.9
-2011,Issyk-Kul,Male,31.1
-2012,Issyk-Kul,Male,28.2
-2013,Issyk-Kul,Male,40.4
-2014,Issyk-Kul,Male,26.4
-2015,Issyk-Kul,Male,29.1
-2016,Issyk-Kul,Male,24.7
-2017,Issyk-Kul,Male,24.3
-2018,Issyk-Kul,Male,21.5
+2007,Issyk-Kul,Modeled,38.7
+2008,Issyk-Kul,Modeled,52.2
+2009,Issyk-Kul,Modeled,47.9
+2010,Issyk-Kul,Modeled,36.9
+2011,Issyk-Kul,Modeled,31.1
+2012,Issyk-Kul,Modeled,28.2
+2013,Issyk-Kul,Modeled,40.4
+2014,Issyk-Kul,Modeled,26.4
+2015,Issyk-Kul,Modeled,29.1
+2016,Issyk-Kul,Modeled,24.7
+2017,Issyk-Kul,Modeled,24.3
+2018,Issyk-Kul,Modeled,21.5
 2007,Issyk-Kul,Female,38.5
 2008,Issyk-Kul,Female,52.3
 2009,Issyk-Kul,Female,44.5
@@ -155,18 +155,18 @@ Year,Reference area,Sex,Value
 2016,Naryn,,37.8
 2017,Naryn,,29.2
 2018,Naryn,,30.6
-2007,Naryn,Male,46.9
-2008,Naryn,Male,42.7
-2009,Naryn,Male,44.8
-2010,Naryn,Male,53.4
-2011,Naryn,Male,48.3
-2012,Naryn,Male,37.7
-2013,Naryn,Male,44.8
-2014,Naryn,Male,32.4
-2015,Naryn,Male,39.5
-2016,Naryn,Male,39.6
-2017,Naryn,Male,31.2
-2018,Naryn,Male,31.6
+2007,Naryn,Modeled,46.9
+2008,Naryn,Modeled,42.7
+2009,Naryn,Modeled,44.8
+2010,Naryn,Modeled,53.4
+2011,Naryn,Modeled,48.3
+2012,Naryn,Modeled,37.7
+2013,Naryn,Modeled,44.8
+2014,Naryn,Modeled,32.4
+2015,Naryn,Modeled,39.5
+2016,Naryn,Modeled,39.6
+2017,Naryn,Modeled,31.2
+2018,Naryn,Modeled,31.6
 2007,Naryn,Female,43.7
 2008,Naryn,Female,42.8
 2009,Naryn,Female,43.5
@@ -191,18 +191,18 @@ Year,Reference area,Sex,Value
 2016,Osh,,22.0
 2017,Osh,,14.3
 2018,Osh,,14.8
-2007,Osh,Male,48.7
-2008,Osh,Male,37.9
-2009,Osh,Male,38.3
-2010,Osh,Male,40.6
-2011,Osh,Male,44.2
-2012,Osh,Male,50.6
-2013,Osh,Male,42.7
-2014,Osh,Male,30.5
-2015,Osh,Male,28.4
-2016,Osh,Male,21.8
-2017,Osh,Male,12.9
-2018,Osh,Male,15.3
+2007,Osh,Modeled,48.7
+2008,Osh,Modeled,37.9
+2009,Osh,Modeled,38.3
+2010,Osh,Modeled,40.6
+2011,Osh,Modeled,44.2
+2012,Osh,Modeled,50.6
+2013,Osh,Modeled,42.7
+2014,Osh,Modeled,30.5
+2015,Osh,Modeled,28.4
+2016,Osh,Modeled,21.8
+2017,Osh,Modeled,12.9
+2018,Osh,Modeled,15.3
 2007,Osh,Female,44.3
 2008,Osh,Female,36.9
 2009,Osh,Female,38.2
@@ -227,18 +227,18 @@ Year,Reference area,Sex,Value
 2016,Talas,,18.1
 2017,Talas,,20.7
 2018,Talas,,22.1
-2007,Talas,Male,35.5
-2008,Talas,Male,45.4
-2009,Talas,Male,35.7
-2010,Talas,Male,44.3
-2011,Talas,Male,51.4
-2012,Talas,Male,42.2
-2013,Talas,Male,23.3
-2014,Talas,Male,19.7
-2015,Talas,Male,22.6
-2016,Talas,Male,19.1
-2017,Talas,Male,21.4
-2018,Talas,Male,23.8
+2007,Talas,Modeled,35.5
+2008,Talas,Modeled,45.4
+2009,Talas,Modeled,35.7
+2010,Talas,Modeled,44.3
+2011,Talas,Modeled,51.4
+2012,Talas,Modeled,42.2
+2013,Talas,Modeled,23.3
+2014,Talas,Modeled,19.7
+2015,Talas,Modeled,22.6
+2016,Talas,Modeled,19.1
+2017,Talas,Modeled,21.4
+2018,Talas,Modeled,23.8
 2007,Talas,Female,34.9
 2008,Talas,Female,40.0
 2009,Talas,Female,29.8
@@ -263,18 +263,18 @@ Year,Reference area,Sex,Value
 2016,Chui,,30.3
 2017,Chui,,33.3
 2018,Chui,,15.6
-2007,Chui,Male,13.3
-2008,Chui,Male,14.9
-2009,Chui,Male,20.6
-2010,Chui,Male,21.8
-2011,Chui,Male,31.6
-2012,Chui,Male,16.3
-2013,Chui,Male,23.5
-2014,Chui,Male,20.8
-2015,Chui,Male,24.2
-2016,Chui,Male,29.8
-2017,Chui,Male,32.3
-2018,Chui,Male,15.5
+2007,Chui,Modeled,13.3
+2008,Chui,Modeled,14.9
+2009,Chui,Modeled,20.6
+2010,Chui,Modeled,21.8
+2011,Chui,Modeled,31.6
+2012,Chui,Modeled,16.3
+2013,Chui,Modeled,23.5
+2014,Chui,Modeled,20.8
+2015,Chui,Modeled,24.2
+2016,Chui,Modeled,29.8
+2017,Chui,Modeled,32.3
+2018,Chui,Modeled,15.5
 2007,Chui,Female,16.8
 2008,Chui,Female,16.7
 2009,Chui,Female,21.9
@@ -299,18 +299,18 @@ Year,Reference area,Sex,Value
 2016,Bishkek (city),,9.8
 2017,Bishkek (city),,15.9
 2018,Bishkek (city),,15.4
-2007,Bishkek (city),Male,5.0
-2008,Bishkek (city),Male,14.6
-2009,Bishkek (city),Male,12.7
-2010,Bishkek (city),Male,7.3
-2011,Bishkek (city),Male,17.1
-2012,Bishkek (city),Male,19.9
-2013,Bishkek (city),Male,18.4
-2014,Bishkek (city),Male,15.8
-2015,Bishkek (city),Male,22.2
-2016,Bishkek (city),Male,8.9
-2017,Bishkek (city),Male,14.3
-2018,Bishkek (city),Male,14.7
+2007,Bishkek (city),Modeled,5.0
+2008,Bishkek (city),Modeled,14.6
+2009,Bishkek (city),Modeled,12.7
+2010,Bishkek (city),Modeled,7.3
+2011,Bishkek (city),Modeled,17.1
+2012,Bishkek (city),Modeled,19.9
+2013,Bishkek (city),Modeled,18.4
+2014,Bishkek (city),Modeled,15.8
+2015,Bishkek (city),Modeled,22.2
+2016,Bishkek (city),Modeled,8.9
+2017,Bishkek (city),Modeled,14.3
+2018,Bishkek (city),Modeled,14.7
 2007,Bishkek (city),Female,5.0
 2008,Bishkek (city),Female,16.0
 2009,Bishkek (city),Female,14.0
@@ -335,18 +335,18 @@ Year,Reference area,Sex,Value
 2016,Osh (city),,24.6
 2017,Osh (city),,33.5
 2018,Osh (city),,35.5
-2007,Osh (city),Male,0.0
-2008,Osh (city),Male,0.0
-2009,Osh (city),Male,0.0
-2010,Osh (city),Male,0.0
-2011,Osh (city),Male,0.0
-2012,Osh (city),Male,0.0
-2013,Osh (city),Male,40.2
-2014,Osh (city),Male,32.0
-2015,Osh (city),Male,35.8
-2016,Osh (city),Male,23.2
-2017,Osh (city),Male,30.9
-2018,Osh (city),Male,33.9
+2007,Osh (city),Modeled,0.0
+2008,Osh (city),Modeled,0.0
+2009,Osh (city),Modeled,0.0
+2010,Osh (city),Modeled,0.0
+2011,Osh (city),Modeled,0.0
+2012,Osh (city),Modeled,0.0
+2013,Osh (city),Modeled,40.2
+2014,Osh (city),Modeled,32.0
+2015,Osh (city),Modeled,35.8
+2016,Osh (city),Modeled,23.2
+2017,Osh (city),Modeled,30.9
+2018,Osh (city),Modeled,33.9
 2007,Osh (city),Female,0.0
 2008,Osh (city),Female,0.0
 2009,Osh (city),Female,0.0
