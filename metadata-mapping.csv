@@ -1,0 +1,20 @@
+Цель,goal_name
+Задача,target_name
+Индикатор,indicator_name1
+Организация,organization_name
+Контактное лицо (лица) / Координатор,contact_name
+Электронная почта контактного лица,contact_email
+Телефон контактного лица,contact_phone
+Сайт организации (если есть),organization_website
+Определение,definitions
+Основные понятия:,concepts
+Обоснование и толкование,rationale_interpretation
+Источники данных,data_sources
+Методы сбора данных,data_collection
+Метод расчета:,computation_methods
+Комментарий и ограничения:,comments_limitations
+Гарантия качества:,quality_assurance
+Доступность данных и пробелы:,data_availability_gaps
+Разбивка:,disaggregation
+7. Сопоставимость с международными данными / стандартами,international_comparability
+8. Ссылки и документация,references_documentation

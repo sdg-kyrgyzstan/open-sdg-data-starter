@@ -23,9 +23,6 @@ def get_file_type(file):
     return file_type
 
 def fix_data(df):
-    # For "Reference area", we want "Kyrgyzstan" to be the default.
-    if 'Reference area' in df:
-        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', np.nan)
     # For "Source details", we want to drop the whole column.
     if 'Source details' in df:
         del df['Source details']
@@ -36,6 +33,7 @@ def fix_data(df):
 dimension_map = {
     # Open SDG needs the unit column to be named specifically "Units".
     'UNIT_MEASURE': 'Units',
+    'REF_AREA|KG': ''
 }
 
 # Some dimensions we may want to drop.
@@ -48,9 +46,9 @@ dsd = os.path.join('SDG_DSD.KG.xml')
 # SDG DSD standard. It is typically there, but it's location is not predictable.
 # So, specify here the XPath query needed to find the indicator id inside each
 # series code. This is used to map series codes to indicator ids.
-indicator_id_xpath = ".//Name"
-indicator_name_xpath = ".//Name"
-indicator_id_map = csv2mapping('code_mapping.csv')
+#indicator_id_xpath = ".//Name"
+#indicator_name_xpath = ".//Name"
+#indicator_id_map = csv2mapping('code_mapping.csv')
 
 
 # Read all the files.
@@ -61,31 +59,44 @@ for sdmx_file in sdmx_files:
     if get_file_type(sdmx_file) == 'StructureSpecificData':
         data_input = sdg.inputs.InputSdmxMl_StructureSpecific(
             source=sdmx_file,
+            import_translation_keys=True,
             dimension_map=dimension_map,
             dsd=dsd,
-            indicator_id_map=indicator_id_map,
-            indicator_id_xpath=indicator_id_xpath,
-            indicator_name_xpath=indicator_name_xpath
+            #indicator_id_map=indicator_id_map,
+            #indicator_id_xpath=indicator_id_xpath,
+            #indicator_name_xpath=indicator_name_xpath
         )
     elif get_file_type(sdmx_file) == 'GenericData':
         data_input = sdg.inputs.InputSdmxMl_Structure(
             source=sdmx_file,
+            import_translation_keys=True,
             dimension_map=dimension_map,
             dsd=dsd,
             drop_dimensions=drop_dimensions,
-            indicator_id_map=indicator_id_map,
-            indicator_id_xpath=indicator_id_xpath,
-            indicator_name_xpath=indicator_name_xpath
+            #indicator_id_map=indicator_id_map,
+            #indicator_id_xpath=indicator_id_xpath,
+            #indicator_name_xpath=indicator_name_xpath
         )
     data_input.add_data_alteration(fix_data)
     inputs.append(data_input)
 
-# Use .md files for metadata
+# Use .csv and .md files for metadata
+meta_pattern = os.path.join('meta', '*-*.csv')
+csv_meta_input = sdg.inputs.InputCsvMeta(path_pattern=meta_pattern, metadata_mapping="metadata-mapping.csv")
+
+inputs.append(csv_meta_input)
 meta_pattern = os.path.join('meta', '*-*.md')
-meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern)
+md_meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 
 # add metadata to inputs
-inputs.append(meta_input)
+inputs.append(md_meta_input)
+
+# Use .csv and .md files for metadata
+meta_pattern = os.path.join('meta', '*.*.xlsx')
+excel_meta_input = sdg.inputs.InputExcelMeta(path_pattern=meta_pattern)
+
+# add metadata to inputs
+inputs.append(excel_meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
@@ -98,9 +109,9 @@ translations = [
     sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1'),
     # Also pull in translations from the 'translations' folder in this repo.
     sdg.translations.TranslationInputYaml(source='translations'),
-    sdg.translations.TranslationInputCsv(source='translations')
+    sdg.translations.TranslationInputCsv(source='translations'),
+    sdg.translations.TranslationInputSdmx(source=dsd)
 ]
 
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
 opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
-
