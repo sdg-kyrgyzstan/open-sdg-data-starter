@@ -20,5 +20,5 @@ contact_person_phone: Телефон контактного лица
 organization_website: Сайт организации
 indicator_information: Информация об индикаторе
 indicator_information_blurb: Данная таблица предоставляет информацию об индикаторе
-data_reporter: Источник данных
-data_reporter_blurb: Данная таблица предоставляет информацию об источнике данных
+data_reporter: Поставщики данных
+data_reporter_blurb: Данная таблица предоставляет информацию о поставщиках данных
