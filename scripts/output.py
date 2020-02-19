@@ -113,5 +113,6 @@ translations = [
     sdg.translations.TranslationInputSdmx(source=dsd)
 ]
 
+
 # Create an "output" from these inputs and schema, for JSON for Open SDG.
 opensdg_output = sdg.outputs.OutputOpenSdg(inputs, schema, output_folder='_site', translations=translations)
