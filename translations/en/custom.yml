@@ -20,5 +20,5 @@ contact_person_phone: Contact person's phone
 organization_website: Organization website
 indicator_information: Indicator information
 indicator_information_blurb: This table provides information about the indicator
-data_reporter: Data source
-data_reporter_blurb: This table provides information about the source of the data
+data_reporter: Data supplier
+data_reporter_blurb: This table provides information about the supplier of the data
