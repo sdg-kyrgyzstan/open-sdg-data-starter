@@ -22,3 +22,4 @@ indicator_information: Информация об индикаторе
 indicator_information_blurb: Данная таблица предоставляет информацию об индикаторе
 data_reporter: Поставщики данных
 data_reporter_blurb: Данная таблица предоставляет информацию о поставщиках данных
+not_applicable: Неприменимые
