@@ -18,3 +18,7 @@ contact_person: Контактное лицо (лица)/Координатор
 contact_person_email: Электронная почта контактного лица
 contact_person_phone: Телефон контактного лица
 organization_website: Сайт организации
+indicator_information: Информация об индикаторе
+indicator_information_blurb: Данная таблица предоставляет информацию об индикаторе
+data_reporter: Поставщики данных
+data_reporter_blurb: Данная таблица предоставляет информацию о поставщиках данных

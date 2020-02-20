@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1581665074716</message:ID>
+    <message:ID>IREF1582115957717</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2020-02-14T07:24:34Z</message:Prepared>
+    <message:Prepared>2020-02-19T12:39:17Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -19,7 +19,7 @@
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_3" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_STA_STNT" REF_AREA="KG" SEX="_T" AGE="Y0T4" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="12.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey,2014" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="118" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey, 2018." TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="11.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey, 2018." TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_STA_STNT" REF_AREA="KG05" SEX="_T" AGE="Y0T4" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="13.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey,2014" TIME_DETAIL="2014"></Obs>
@@ -43,7 +43,7 @@
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_STA_STNT" REF_AREA="KG07" SEX="_T" AGE="Y0T4" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="11" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey,2014" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey, 2018." TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="10" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey, 2018." TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_STA_STNT" REF_AREA="KG08" SEX="_T" AGE="Y0T4" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="7.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="According to Multiple Indicator Cluster Survey,2014" TIME_DETAIL="2014"></Obs>
