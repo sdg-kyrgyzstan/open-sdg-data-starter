@@ -183,7 +183,7 @@ prose:
                 translation_key: 'status.statistics_in_progress'
               - name: 'notstarted'
                 value: 'notstarted'
-                translation_key: 'status.exploring_data_sources'
+                translation_key: 'custom.not_reported'
               - name: 'notapplicable'
                 value: 'notapplicable'
                 translation_key: 'custom.not_applicable'
