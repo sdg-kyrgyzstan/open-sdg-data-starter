@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1581663273932</message:ID>
+    <message:ID>IREF1582278492679</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2020-02-14T06:54:33Z</message:Prepared>
+    <message:Prepared>2020-02-21T09:48:12Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -32,130 +32,130 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="16.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG05" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="21" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="2.109664" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="1.934128" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="1.92383" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.874444" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.930035" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.845624" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.795079" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.762407" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.659097" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.495586" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.484306" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.525503" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG03" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="46" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="42" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="41" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="41" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="43" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="41" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="41" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="40" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="39" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="37" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="38" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="38" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="4.616846" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="4.193013" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="4.11681" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="4.091247" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="4.27976" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="4.13553" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="4.101223" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="3.951307" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="3.864138" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="3.746523" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="3.792716" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="3.804116" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG02" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="1.504927" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="1.39314" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="1.390619" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.43283" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.496891" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.460728" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.410681" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.397339" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.366613" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.391437" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.400236" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.390469" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG04" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="13" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="13" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="13" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="1.671366" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="1.457214" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="1.423568" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.503572" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.575064" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.53011" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.430693" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.366601" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.342043" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.284926" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.288293" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.232146" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG06" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="49" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="48" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="45" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="43" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="40" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="40" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="38" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="39" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="36" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="4.940158" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="4.693844" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="4.778368" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="4.700996" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="4.715643" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="4.506557" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="4.296044" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="4.013868" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="4.015779" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="3.788525" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="3.868011" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="3.639299" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG07" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="07" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="09" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="08" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="0.73051" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="0.843038" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="0.816328" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="0.784158" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="0.825505" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="0.806951" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="0.784064" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="0.772172" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="0.795667" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="0.823182" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.858228" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="0.833649" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG08" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="1.958299" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="1.994251" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="1.939437" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.922485" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.949861" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.969888" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.916154" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.902321" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.905696" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.915556" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.90932" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.9317" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG11" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="1.509824" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="1.790383" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="1.762552" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.755274" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.761641" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.798812" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.753774" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.74105" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.736014" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.742989" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.766738" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.77006" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG21" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2007" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
-    <Obs TIME_PERIOD="2008" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="04" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="04" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2007" OBS_VALUE="0.492895" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="0.48253" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="0.463676" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="0.473654" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="0.470606" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="0.460852" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="0.454024" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="0.452311" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="0.452797" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="0.445767" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.446591" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="0.455388" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2018"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
