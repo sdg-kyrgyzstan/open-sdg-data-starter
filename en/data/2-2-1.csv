@@ -1,21 +1,62 @@
-Year,Reference area,Value
-2014,,12.9
-2018,,11.8
-2014,Batken,13.6
-2018,Batken,11.9
-2014,Jalal-Abad,21.3
-2018,Jalal-Abad,15.5
-2014,Issyk-Kul,14.1
-2018,Issyk-Kul,14.2
-2014,Naryn,16.4
-2018,Naryn,6.5
-2014,Osh,10.6
-2018,Osh,13.7
-2014,Talas,11.0
-2018,Talas,10.0
-2014,Chui,7.6
-2018,Chui,10.1
-2014,Bishkek (city),7.6
-2018,Bishkek (city),5.9
-2014,Osh (city),12.1
-2018,Osh (city),10.9
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2014,,,,,,,12.9
+2018,,,,,,,11.8
+2014,Batken,,,,,,13.6
+2018,Batken,,,,,,11.9
+2014,Jalal-Abad,,,,,,21.3
+2018,Jalal-Abad,,,,,,15.5
+2014,Issyk-Kul,,,,,,14.1
+2018,Issyk-Kul,,,,,,14.2
+2014,Naryn,,,,,,16.4
+2018,Naryn,,,,,,6.5
+2014,Osh,,,,,,10.6
+2018,Osh,,,,,,13.7
+2014,Talas,,,,,,11.0
+2018,Talas,,,,,,10.0
+2014,Chui,,,,,,7.6
+2018,Chui,,,,,,10.1
+2014,Bishkek (city),,,,,,7.6
+2018,Bishkek (city),,,,,,5.9
+2014,Osh (city),,,,,,12.1
+2018,Osh (city),,,,,,10.9
+2014,,Male,,,,,138.0
+2018,,Male,,,,,12.5
+2014,,Female,,,,,120.0
+2018,,Female,,,,,10.9
+2014,,,,Urban,,,118.0
+2018,,,,Urban,,,8.8
+2014,,,,Rural,,,134.0
+2018,,,,Rural,,,13.1
+2014,,,0 to 5 months old,,,,53.0
+2018,,,0 to 5 months old,,,,5.4
+2014,,,6 to 11 months old,,,,72.0
+2018,,,6 to 11 months old,,,,9.3
+2014,,,12 to 17 months old,,,,112.0
+2018,,,12 to 17 months old,,,,12.1
+2014,,,18 to 23 months old,,,,182.0
+2018,,,18 to 23 months old,,,,17.2
+2014,,,24 to 35 months old,,,,186.0
+2018,,,24 to 35 months old,,,,13.2
+2014,,,36 to 47 months old,,,,146.0
+2018,,,36 to 47 months old,,,,11.2
+2014,,,48 to 59 months old,,,,105.0
+2018,,,48 to 59 months old,,,,12.7
+2014,,,,,,Primary education,265.0
+2014,,,,,,Lower secondary education,171.0
+2018,,,,,,Lower secondary education,14.8
+2014,,,,,,Upper secondary education,135.0
+2018,,,,,,Upper secondary education,120.0
+2014,,,,,,Post-secondary non-tertiary education,118.0
+2018,,,,,,Post-secondary non-tertiary education,12.2
+2014,,,,,,Short-cycle tertiary education,98.0
+2018,,,,,,Short-cycle tertiary education,100.0
+2014,,,,,Quintile 1 (poorest),,177.0
+2018,,,,,Quintile 1 (poorest),,140.0
+2014,,,,,Quintile 2,,142.0
+2018,,,,,Quintile 2,,13.8
+2014,,,,,Quintile 3,,101.0
+2018,,,,,Quintile 3,,120.0
+2014,,,,,Quintile 4,,107.0
+2018,,,,,Quintile 4,,8.2
+2014,,,,,Quintile 5 (richest),,107.0
+2018,,,,,Quintile 5 (richest),,9.2
