@@ -1,2 +1,58 @@
-Year,Value
-2018,100
+Year,Reference area,Sex,Degree of urbanisation,Education level,Value
+2016,,,,,767
+2017,,,,,796
+2018,,,,,757
+2016,,,Urban,,869
+2017,,,Urban,,884
+2018,,,Urban,,886
+2016,,,Rural,,711
+2017,,,Rural,,748
+2018,,,Rural,,687
+2016,,Male,,,761
+2017,,Male,,,792
+2018,,Male,,,747
+2016,,Female,,,772
+2017,,Female,,,800
+2018,,Female,,,766
+2016,Batken,,,,758
+2017,Batken,,,,708
+2018,Batken,,,,718
+2016,Jalal-Abad,,,,767
+2017,Jalal-Abad,,,,744
+2018,Jalal-Abad,,,,644
+2016,Issyk-Kul,,,,473
+2017,Issyk-Kul,,,,575
+2018,Issyk-Kul,,,,670
+2016,Naryn,,,,774
+2017,Naryn,,,,793
+2018,Naryn,,,,790
+2016,Osh,,,,746
+2017,Osh,,,,790
+2018,Osh,,,,666
+2016,Talas,,,,737
+2017,Talas,,,,741
+2018,Talas,,,,540
+2016,Chui,,,,723
+2017,Chui,,,,829
+2018,Chui,,,,884
+2016,Bishkek (city),,,,920
+2017,Bishkek (city),,,,951
+2018,Bishkek (city),,,,939
+2016,Osh (city),,,,1000
+2017,Osh (city),,,,994
+2018,Osh (city),,,,1000
+2016,,,,Primary education,752
+2017,,,,Primary education,783
+2018,,,,Primary education,751
+2016,,,,Lower secondary education,802
+2017,,,,Lower secondary education,790
+2018,,,,Lower secondary education,765
+2016,,,,Upper secondary education,750
+2017,,,,Upper secondary education,784
+2018,,,,Upper secondary education,721
+2016,,,,Post-secondary non-tertiary education,784
+2017,,,,Post-secondary non-tertiary education,839
+2018,,,,Post-secondary non-tertiary education,802
+2016,,,,Short-cycle tertiary education,799
+2017,,,,Short-cycle tertiary education,839
+2018,,,,Short-cycle tertiary education,821
