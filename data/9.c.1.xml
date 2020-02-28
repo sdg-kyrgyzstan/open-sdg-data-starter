@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <!--Created with SDMX Converter v7.7.2-->
-<message:StructureSpecificTimeSeriesData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1581932077425</message:ID>
+    <message:ID>IREF1582859315327</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2020-02-17T09:34:37Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2020-02-28T03:08:35Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -22,25 +22,25 @@
     <Obs TIME_PERIOD="2013" OBS_VALUE="97.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2014" OBS_VALUE="97.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2015" OBS_VALUE="97.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="99,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="99,1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="99" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="99.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="99.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_3GNTWK" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="46,3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="51,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="57,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="59,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="60,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="75,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="88,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="46.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="51" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="57" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="59" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="60" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="75" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="88" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_4GNTWK" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="0.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2015" OBS_VALUE="1.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="40,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="50,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="70,0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="40" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="50" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="70" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
 </message:DataSet>
-</message:StructureSpecificTimeSeriesData>
+</message:StructureSpecificData>
