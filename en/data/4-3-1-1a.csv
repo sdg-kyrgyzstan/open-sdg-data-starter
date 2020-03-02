@@ -1,22 +1,22 @@
 Year,Sex,Age,Education level,Value
-2010,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.0
-2013,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.4
-2014,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.3
-2015,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.5
-2016,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.4
-2017,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.9
-2010,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.4
-2013,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.0
-2014,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.6
-2015,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.8
-2016,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.3
-2017,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.9
-2010,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.5
-2013,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.6
-2014,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.9
-2015,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.1
-2016,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),14.3
-2017,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),14.7
+2010,,15 to 17 years old,Upper secondary general education,9.0
+2013,,15 to 17 years old,Upper secondary general education,9.4
+2014,,15 to 17 years old,Upper secondary general education,9.3
+2015,,15 to 17 years old,Upper secondary general education,9.5
+2016,,15 to 17 years old,Upper secondary general education,10.4
+2017,,15 to 17 years old,Upper secondary general education,10.9
+2010,Female,15 to 17 years old,Upper secondary general education,5.4
+2013,Female,15 to 17 years old,Upper secondary general education,6.0
+2014,Female,15 to 17 years old,Upper secondary general education,5.6
+2015,Female,15 to 17 years old,Upper secondary general education,5.8
+2016,Female,15 to 17 years old,Upper secondary general education,6.3
+2017,Female,15 to 17 years old,Upper secondary general education,6.9
+2010,Male,15 to 17 years old,Upper secondary general education,12.5
+2013,Male,15 to 17 years old,Upper secondary general education,12.6
+2014,Male,15 to 17 years old,Upper secondary general education,12.9
+2015,Male,15 to 17 years old,Upper secondary general education,13.1
+2016,Male,15 to 17 years old,Upper secondary general education,14.3
+2017,Male,15 to 17 years old,Upper secondary general education,14.7
 2010,,17 to 20 years old,Short-cycle tertiary education,13.6
 2013,,17 to 20 years old,Short-cycle tertiary education,20.3
 2014,,17 to 20 years old,Short-cycle tertiary education,21.8
