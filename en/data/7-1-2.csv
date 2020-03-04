@@ -1,14 +1,1 @@
-Year,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,,,,19.2
-2018,Urban,,,47.2
-2018,Rural,,,3.2
-2018,,,Primary education,6.8
-2018,,,Lower secondary education,10.5
-2018,,,Upper secondary education,11.4
-2018,,,Post-secondary non-tertiary education,19.7
-2018,,,Short-cycle tertiary education,38.9
-2018,,Quintile 1 (poorest),,10.0
-2018,,Quintile 2,,2.6
-2018,,Quintile 3,,6.1
-2018,,Quintile 4,,9.3
-2018,,Quintile 5 (richest),,76.9
+Year,Value
