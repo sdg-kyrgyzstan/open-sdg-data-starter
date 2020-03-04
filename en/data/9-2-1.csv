@@ -1,1 +1,25 @@
-Year,Value
+Year,Units,Time series-level footnotes,Value
+2007,Percent,PT,9.9
+2008,Percent,PT,13.2
+2009,Percent,PT,14.2
+2010,Percent,PT,16.9
+2011,Percent,PT,18.3
+2012,Percent,PT,12.1
+2013,Percent,PT,15.8
+2014,Percent,PT,13.7
+2015,Percent,PT,14.0
+2016,Percent,PT,15.4
+2017,Percent,PT,15.0
+2018,Percent,PT,14.3
+2007,Local currency,CUR_LCU,2.8
+2008,Local currency,CUR_LCU,4.9
+2009,Local currency,CUR_LCU,5.6
+2010,Local currency,CUR_LCU,7.2
+2011,Local currency,CUR_LCU,9.9
+2012,Local currency,CUR_LCU,7.0
+2013,Local currency,CUR_LCU,10.3
+2014,Local currency,CUR_LCU,9.8
+2015,Local currency,CUR_LCU,10.6
+2016,Local currency,CUR_LCU,12.6
+2017,Local currency,CUR_LCU,13.4
+2018,Local currency,CUR_LCU,13.4
