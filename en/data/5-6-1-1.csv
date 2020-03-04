@@ -1,1 +1,13 @@
-Year,Value
+Year,Reference area,Degree of urbanisation,Value
+2018,,,99.7
+2018,,Urban,99.8
+2018,,Rural,99.6
+2018,Batken,,99.7
+2018,Jalal-Abad,,99.4
+2018,Issyk-Kul,,100.0
+2018,Naryn,,99.7
+2018,Osh,,99.8
+2018,Talas,,100.0
+2018,Chui,,99.5
+2018,Bishkek (city),,99.9
+2018,Osh (city),,99.5

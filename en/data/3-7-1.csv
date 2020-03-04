@@ -1,1 +1,60 @@
-Year,Value
+Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
+2014,,15 to 49 years old,,,,,42.0
+2018,,15 to 49 years old,,,,,67.4
+2014,Batken,15 to 49 years old,,,,,45.0
+2018,Batken,15 to 49 years old,,,,,48.6
+2014,Jalal-Abad,15 to 49 years old,,,,,31.4
+2018,Jalal-Abad,15 to 49 years old,,,,,56.2
+2014,Issyk-Kul,15 to 49 years old,,,,,46.0
+2018,Issyk-Kul,15 to 49 years old,,,,,65.1
+2014,Naryn,15 to 49 years old,,,,,58.9
+2018,Naryn,15 to 49 years old,,,,,79.8
+2014,Osh,15 to 49 years old,,,,,38.4
+2018,Osh,15 to 49 years old,,,,,71.1
+2014,Talas,15 to 49 years old,,,,,43.4
+2018,Talas,15 to 49 years old,,,,,79.1
+2014,Chui,15 to 49 years old,,,,,47.8
+2018,Chui,15 to 49 years old,,,,,70.7
+2014,Bishkek (city),15 to 49 years old,,,,,47.0
+2018,Bishkek (city),15 to 49 years old,,,,,69.6
+2014,Osh (city),15 to 49 years old,,,,,38.3
+2018,Osh (city),15 to 49 years old,,,,,71.3
+2014,,15 to 49 years old,Urban,,,,43.1
+2018,,15 to 49 years old,Urban,,,,68.6
+2014,,15 to 49 years old,Rural,,,,41.4
+2018,,15 to 49 years old,Rural,,,,66.7
+2014,,15 to 19 years old,,,,,17.4
+2018,,15 to 19 years old,,,,,31.7
+2014,,20 to 24 years old,,,,,28.9
+2018,,20 to 24 years old,,,,,53.8
+2014,,25 to 29 years old,,,,,39.2
+2018,,25 to 29 years old,,,,,59.9
+2014,,30 to 34 years old,,,,,50.4
+2018,,30 to 34 years old,,,,,76.2
+2014,,35 to 39 years old,,,,,57.2
+2018,,35 to 39 years old,,,,,74.5
+2014,,40 to 44 years old,,,,,52.2
+2018,,40 to 44 years old,,,,,68.7
+2014,,45 to 49 years old,,,,,29.3
+2018,,45 to 49 years old,,,,,66.0
+2014,,15 to 49 years old,,,Primary education,,20.4
+2014,,15 to 49 years old,,,Lower secondary education,,36.5
+2018,,15 to 49 years old,,,Lower secondary education,,67.8
+2014,,15 to 49 years old,,,Upper secondary education,,42.1
+2018,,15 to 49 years old,,,Upper secondary education,,62.9
+2014,,15 to 49 years old,,,Post-secondary non-tertiary education,,43.3
+2018,,15 to 49 years old,,,Post-secondary non-tertiary education,,66.2
+2014,,15 to 49 years old,,,Short-cycle tertiary education,,43.7
+2018,,15 to 49 years old,,,Short-cycle tertiary education,,74.3
+2018,,15 to 49 years old,,,,Persons with disability,81.6
+2018,,15 to 49 years old,,,,Persons without disability,67.1
+2014,,15 to 49 years old,,Quintile 1 (poorest),,,42.5
+2018,,15 to 49 years old,,Quintile 1 (poorest),,,66.5
+2014,,15 to 49 years old,,Quintile 2,,,37.8
+2018,,15 to 49 years old,,Quintile 2,,,60.7
+2014,,15 to 49 years old,,Quintile 3,,,39.1
+2018,,15 to 49 years old,,Quintile 3,,,69.2
+2014,,15 to 49 years old,,Quintile 4,,,45.1
+2018,,15 to 49 years old,,Quintile 4,,,69.3
+2014,,15 to 49 years old,,Quintile 5 (richest),,,45.3
+2018,,15 to 49 years old,,Quintile 5 (richest),,,71.4

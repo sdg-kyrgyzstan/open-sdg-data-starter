@@ -1,1 +1,179 @@
-Year,Value
+Year,Reference area,Units,Value
+2010,,"Per 100,000 population",13.3
+2011,,"Per 100,000 population",6.3
+2012,,"Per 100,000 population",5.4
+2013,,"Per 100,000 population",3.7
+2014,,"Per 100,000 population",3.9
+2015,,"Per 100,000 population",3.5
+2016,,"Per 100,000 population",2.8
+2017,,"Per 100,000 population",3.0
+2018,,"Per 100,000 population",2.2
+2010,,Number,722.0
+2011,,Number,344.0
+2012,,Number,298.0
+2013,,Number,212.0
+2014,,Number,223.0
+2015,,Number,205.0
+2016,,Number,170.0
+2017,,Number,185.0
+2018,,Number,135.0
+2010,Batken,"Per 100,000 population",3.2
+2011,Batken,"Per 100,000 population",2.0
+2012,Batken,"Per 100,000 population",2.0
+2013,Batken,"Per 100,000 population",2.7
+2014,Batken,"Per 100,000 population",1.5
+2015,Batken,"Per 100,000 population",1.2
+2016,Batken,"Per 100,000 population",1.4
+2017,Batken,"Per 100,000 population",1.2
+2018,Batken,"Per 100,000 population",1.1
+2010,Batken,Number,14.0
+2011,Batken,Number,9.0
+2012,Batken,Number,9.0
+2013,Batken,Number,13.0
+2014,Batken,Number,7.0
+2015,Batken,Number,6.0
+2016,Batken,Number,7.0
+2017,Batken,Number,6.0
+2018,Batken,Number,6.0
+2010,Jalal-Abad,"Per 100,000 population",6.6
+2011,Jalal-Abad,"Per 100,000 population",3.8
+2012,Jalal-Abad,"Per 100,000 population",3.9
+2013,Jalal-Abad,"Per 100,000 population",2.5
+2014,Jalal-Abad,"Per 100,000 population",2.7
+2015,Jalal-Abad,"Per 100,000 population",2.4
+2016,Jalal-Abad,"Per 100,000 population",2.0
+2017,Jalal-Abad,"Per 100,000 population",1.6
+2018,Jalal-Abad,"Per 100,000 population",1.2
+2010,Jalal-Abad,Number,68.0
+2011,Jalal-Abad,Number,40.0
+2012,Jalal-Abad,Number,42.0
+2013,Jalal-Abad,Number,28.0
+2014,Jalal-Abad,Number,30.0
+2015,Jalal-Abad,Number,28.0
+2016,Jalal-Abad,Number,23.0
+2017,Jalal-Abad,Number,19.0
+2018,Jalal-Abad,Number,14.0
+2010,Issyk-Kul,"Per 100,000 population",5.2
+2011,Issyk-Kul,"Per 100,000 population",7.8
+2012,Issyk-Kul,"Per 100,000 population",3.5
+2013,Issyk-Kul,"Per 100,000 population",4.6
+2014,Issyk-Kul,"Per 100,000 population",4.3
+2015,Issyk-Kul,"Per 100,000 population",6.0
+2016,Issyk-Kul,"Per 100,000 population",3.6
+2017,Issyk-Kul,"Per 100,000 population",3.9
+2018,Issyk-Kul,"Per 100,000 population",2.2
+2010,Issyk-Kul,Number,23.0
+2011,Issyk-Kul,Number,35.0
+2012,Issyk-Kul,Number,16.0
+2013,Issyk-Kul,Number,21.0
+2014,Issyk-Kul,Number,20.0
+2015,Issyk-Kul,Number,28.0
+2016,Issyk-Kul,Number,17.0
+2017,Issyk-Kul,Number,19.0
+2018,Issyk-Kul,Number,11.0
+2010,Naryn,"Per 100,000 population",1.9
+2011,Naryn,"Per 100,000 population",3.0
+2012,Naryn,"Per 100,000 population",4.1
+2013,Naryn,"Per 100,000 population",1.8
+2014,Naryn,"Per 100,000 population",3.6
+2015,Naryn,"Per 100,000 population",2.5
+2016,Naryn,"Per 100,000 population",2.5
+2017,Naryn,"Per 100,000 population",1.1
+2018,Naryn,"Per 100,000 population",1.7
+2010,Naryn,Number,5.0
+2011,Naryn,Number,8.0
+2012,Naryn,Number,11.0
+2013,Naryn,Number,5.0
+2014,Naryn,Number,10.0
+2015,Naryn,Number,7.0
+2016,Naryn,Number,7.0
+2017,Naryn,Number,3.0
+2018,Naryn,Number,5.0
+2010,Osh,"Per 100,000 population",17.4
+2011,Osh,"Per 100,000 population",4.1
+2012,Osh,"Per 100,000 population",1.8
+2013,Osh,"Per 100,000 population",0.9
+2014,Osh,"Per 100,000 population",1.1
+2015,Osh,"Per 100,000 population",1.2
+2016,Osh,"Per 100,000 population",1.0
+2017,Osh,"Per 100,000 population",0.5
+2018,Osh,"Per 100,000 population",0.7
+2010,Osh,Number,197.0
+2011,Osh,Number,47.0
+2012,Osh,Number,21.0
+2013,Osh,Number,11.0
+2014,Osh,Number,13.0
+2015,Osh,Number,15.0
+2016,Osh,Number,13.0
+2017,Osh,Number,7.0
+2018,Osh,Number,10.0
+2010,Talas,"Per 100,000 population",3.5
+2011,Talas,"Per 100,000 population",3.8
+2012,Talas,"Per 100,000 population",4.2
+2013,Talas,"Per 100,000 population",4.5
+2014,Talas,"Per 100,000 population",3.2
+2016,Talas,"Per 100,000 population",2.4
+2017,Talas,"Per 100,000 population",3.5
+2018,Talas,"Per 100,000 population",0.8
+2010,Talas,Number,8.0
+2011,Talas,Number,9.0
+2012,Talas,Number,10.0
+2013,Talas,Number,11.0
+2014,Talas,Number,8.0
+2016,Talas,Number,6.0
+2017,Talas,Number,9.0
+2018,Talas,Number,2.0
+2010,Chui,"Per 100,000 population",14.8
+2011,Chui,"Per 100,000 population",13.4
+2012,Chui,"Per 100,000 population",12.5
+2013,Chui,"Per 100,000 population",7.4
+2014,Chui,"Per 100,000 population",7.8
+2015,Chui,"Per 100,000 population",7.5
+2016,Chui,"Per 100,000 population",6.4
+2017,Chui,"Per 100,000 population",6.7
+2018,Chui,"Per 100,000 population",5.1
+2010,Chui,Number,121.0
+2011,Chui,Number,110.0
+2012,Chui,Number,105.0
+2013,Chui,Number,63.0
+2014,Chui,Number,68.0
+2015,Chui,Number,67.0
+2016,Chui,Number,58.0
+2017,Chui,Number,62.0
+2018,Chui,Number,48.0
+2010,Bishkek (city),"Per 100,000 population",9.0
+2011,Bishkek (city),"Per 100,000 population",8.2
+2012,Bishkek (city),"Per 100,000 population",7.6
+2013,Bishkek (city),"Per 100,000 population",5.5
+2014,Bishkek (city),"Per 100,000 population",5.5
+2015,Bishkek (city),"Per 100,000 population",4.7
+2016,Bishkek (city),"Per 100,000 population",3.5
+2017,Bishkek (city),"Per 100,000 population",4.8
+2018,Bishkek (city),"Per 100,000 population",3.0
+2010,Bishkek (city),Number,77.0
+2011,Bishkek (city),Number,72.0
+2012,Bishkek (city),Number,68.0
+2013,Bishkek (city),Number,50.0
+2014,Bishkek (city),Number,52.0
+2015,Bishkek (city),Number,45.0
+2016,Bishkek (city),Number,34.0
+2017,Bishkek (city),Number,48.0
+2018,Bishkek (city),Number,31.0
+2010,Osh (city),"Per 100,000 population",81.7
+2011,Osh (city),"Per 100,000 population",5.5
+2012,Osh (city),"Per 100,000 population",6.1
+2013,Osh (city),"Per 100,000 population",3.8
+2014,Osh (city),"Per 100,000 population",3.3
+2015,Osh (city),"Per 100,000 population",3.3
+2016,Osh (city),"Per 100,000 population",1.8
+2017,Osh (city),"Per 100,000 population",4.2
+2018,Osh (city),"Per 100,000 population",2.7
+2010,Osh (city),Number,209.0
+2011,Osh (city),Number,14.0
+2012,Osh (city),Number,16.0
+2013,Osh (city),Number,10.0
+2014,Osh (city),Number,9.0
+2015,Osh (city),Number,9.0
+2016,Osh (city),Number,5.0
+2017,Osh (city),Number,12.0
+2018,Osh (city),Number,8.0

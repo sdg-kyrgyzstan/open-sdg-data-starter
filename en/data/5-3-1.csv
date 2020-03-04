@@ -1,1 +1,41 @@
-Year,Value
+Year,Reference area,Income or wealth quantile,Education level,Disability status,Value
+2018,,,,,0.3
+2018,Batken,,,,0.0
+2018,Jalal-Abad,,,,0.0
+2018,Issyk-Kul,,,,0.0
+2018,Naryn,,,,0.0
+2018,Osh,,,,0.0
+2018,Talas,,,,2.8
+2018,Chui,,,,0.0
+2018,Bishkek (city),,,,1.0
+2018,Osh (city),,,,0.0
+2018,,,Lower secondary education,,0.6
+2018,,,Upper secondary education,,0.8
+2018,,,Post-secondary non-tertiary education,,0.0
+2018,,,Short-cycle tertiary education,,0.0
+2018,,,,Persons without disability,0.3
+2018,,Quintile 1 (poorest),,,0.0
+2018,,Quintile 2,,,0.4
+2018,,Quintile 3,,,0.0
+2018,,Quintile 4,,,0.0
+2018,,Quintile 5 (richest),,,1.1
+2018,,,,,12.9
+2018,Batken,,,,14.4
+2018,Jalal-Abad,,,,13.6
+2018,Issyk-Kul,,,,11.5
+2018,Naryn,,,,18.4
+2018,Osh,,,,18.3
+2018,Talas,,,,16.5
+2018,Chui,,,,11.6
+2018,Bishkek (city),,,,5.3
+2018,Osh (city),,,,13.2
+2018,,,Lower secondary education,,30.3
+2018,,,Upper secondary education,,21.3
+2018,,,Post-secondary non-tertiary education,,6.0
+2018,,,Short-cycle tertiary education,,2.6
+2018,,,,Persons without disability,12.7
+2018,,Quintile 1 (poorest),,,11.8
+2018,,Quintile 2,,,19.7
+2018,,Quintile 3,,,14.4
+2018,,Quintile 4,,,12.5
+2018,,Quintile 5 (richest),,,6.4
