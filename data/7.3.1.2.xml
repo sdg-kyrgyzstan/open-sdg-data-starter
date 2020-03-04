@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.5.3-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.1):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <message:Header>
+    <message:ID>JD014</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2019-10-16T04:13:07Z</message:Prepared>
+    <message:Sender id="BIS">
+      <message:Contact></message:Contact>
+    </message:Sender>
+    <message:Structure structureID="KG_NSC_SDG_1_1" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.1):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+      <common:Structure>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.1"></Ref>
+      </common:Structure>
+    </message:Structure>
+    <message:DataSetAction>Information</message:DataSetAction>
+    <message:DataSetID>SDG</message:DataSetID>
+  </message:Header>
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_1" ss:action="Information">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_070301_2A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="TH_KWH_MN_KGS">
+    <Obs TIME_PERIOD="2014" OBS_VALUE="36.9" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="31.5" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="27.9" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="26.9" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2017"></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_070301_2A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="ISIC4_A" PRODUCT="_T" UNIT_MEASURE="TH_KWH_MN_KGS">
+    <Obs TIME_PERIOD="2014" OBS_VALUE="12.9" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="16.1" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="15.8" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="16.3" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2017"></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_070301_2A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="ISIC4_C" PRODUCT="_T" UNIT_MEASURE="TH_KWH_MN_KGS">
+    <Obs TIME_PERIOD="2014" OBS_VALUE="43" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="31.8" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="26.3" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2017"></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_070301_2B" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="KWH">
+    <Obs TIME_PERIOD="2014" OBS_VALUE="130.9" OBS_STATUS="A" UNIT_MULT="6" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="207.6" OBS_STATUS="A" UNIT_MULT="6" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="248.3" OBS_STATUS="A" UNIT_MULT="6" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="263.5" OBS_STATUS="A" UNIT_MULT="6" NATURE="C" TIME_DETAIL="2017"></Obs>
+  </Series>
+</message:DataSet>
+</message:StructureSpecificData>
