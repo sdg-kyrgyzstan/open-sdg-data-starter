@@ -59,11 +59,11 @@ md_meta_input = sdg.inputs.InputYamlMdMeta(path_pattern=meta_pattern, git=False)
 inputs.append(md_meta_input)
 
 # Use .csv and .md files for metadata
-meta_pattern = os.path.join('meta', '*.*.xlsx')
-excel_meta_input = sdg.inputs.InputExcelMeta(path_pattern=meta_pattern)
+#meta_pattern = os.path.join('meta', '*.*.xlsx')
+#excel_meta_input = sdg.inputs.InputExcelMeta(path_pattern=meta_pattern)
 
 # add metadata to inputs
-inputs.append(excel_meta_input)
+#inputs.append(excel_meta_input)
 
 # Use the Prose.io file for the metadata schema.
 schema_path = os.path.join('_prose.yml')
