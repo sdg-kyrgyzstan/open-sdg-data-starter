@@ -27,6 +27,9 @@ drop_dimensions = ['SOURCE_DETAIL']
 # Each SDMX source should have a DSD (data structure definition).
 dsd = os.path.join('SDG_DSD.KG.xml')
 
+# empty list for inputs
+inputs = []
+
 sdmx_pattern = os.path.join('data', '*.xml')
 sdmx_input = sdg.inputs.InputSdmxMl_Multiple(
     path_pattern=sdmx_pattern,
