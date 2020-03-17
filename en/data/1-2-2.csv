@@ -1,1 +1,49 @@
-Year,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Value
+2016,,,,,50.2
+2017,,,,,50.5
+2018,,,,,45.8
+2016,,Male,,,50.3
+2017,,Male,,,50.3
+2018,,Male,,,45.8
+2016,,Female,,,50.1
+2017,,Female,,,50.6
+2018,,Female,,,45.9
+2016,,,under 18 years old,,59.7
+2017,,,under 18 years old,,60.0
+2018,,,under 18 years old,,56.0
+2016,,,65 years old and over,,49.2
+2017,,,65 years old and over,,46.4
+2018,,,65 years old and over,,38.6
+2016,,,,Urban,36.9
+2017,,,,Urban,38.7
+2018,,,,Urban,33.8
+2016,,,,Rural,57.4
+2017,,,,Rural,56.8
+2018,,,,Rural,52.4
+2016,Batken,,,,64.9
+2017,Batken,,,,66.0
+2018,Batken,,,,64.8
+2016,Jalal-Abad,,,,59.6
+2017,Jalal-Abad,,,,61.5
+2018,Jalal-Abad,,,,53.8
+2016,Issyk-Kul,,,,45.2
+2017,Issyk-Kul,,,,47.0
+2018,Issyk-Kul,,,,42.7
+2016,Naryn,,,,58.3
+2017,Naryn,,,,50.0
+2018,Naryn,,,,48.5
+2016,Osh,,,,57.5
+2017,Osh,,,,52.1
+2018,Osh,,,,58.5
+2016,Talas,,,,49.8
+2017,Talas,,,,39.8
+2018,Talas,,,,43.0
+2016,Chui,,,,45.4
+2017,Chui,,,,48.7
+2018,Chui,,,,28.0
+2016,Bishkek (city),,,,26.8
+2017,Bishkek (city),,,,29.9
+2018,Bishkek (city),,,,25.4
+2016,Osh (city),,,,47.3
+2017,Osh (city),,,,58.6
+2018,Osh (city),,,,51.3
