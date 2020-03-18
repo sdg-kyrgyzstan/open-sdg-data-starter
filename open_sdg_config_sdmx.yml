@@ -24,8 +24,7 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units',
       REF_AREA|KG: ''
-    drop_dimensions:
-      - 'SOURCE_DETAIL'
+    drop_dimensions: 'SOURCE_DETAIL'
     dsd: SDG_DSD.KG.xml
     import_translation_keys: true
   - class: InputCsvData
@@ -55,7 +54,7 @@ translations:
   - class: TranslationInputCsv
     source: translations
   - class: TranslationInputSdmx
-    source: os.path.join('SDG_DSD.KG.xml')
+    source: SDG_DSD.KG.xml
 
 # Destination directory
 # ---------------------
