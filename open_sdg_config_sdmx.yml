@@ -27,14 +27,11 @@ inputs:
     drop_dimensions: SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
-    git: false
   - class: InputCsvData
     path_pattern: data/*-*.csv
-    git: false
   - class: InputExcelMeta
     path_pattern: meta/*.*.md
     metadata_mapping: 'metadata-mapping.csv'
-    git: false
   - class: InputYamlMdMeta
     path_pattern: meta/*-*.md
     git: false
