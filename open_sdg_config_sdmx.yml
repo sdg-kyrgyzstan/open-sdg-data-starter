@@ -27,9 +27,14 @@ inputs:
     drop_dimensions: ['SOURCE_DETAIL']
     dsd = os.path.join('SDG_DSD.KG.xml')
     import_translation_keys: true
+  - class: InputCsvData
+    path_pattern: os.path.join('data', '*-*.csv')
   - class: InputExcelMeta
     path_pattern: os.path.join('meta', '*.*.xlsx')
     metadata_mapping: 'metadata-mapping.csv'
+  - class: InputYamlMdMeta
+    path_pattern: os.path.join('meta', '*-*.md')
+    git: false
 
 # Translations
 # ------------
