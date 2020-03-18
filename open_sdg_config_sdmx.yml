@@ -22,7 +22,7 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dimension_map:
-      UNIT_MEASURE: 'Units',
+      UNIT_MEASURE: 'Units'
       REF_AREA|KG: ''
     drop_dimensions: SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
