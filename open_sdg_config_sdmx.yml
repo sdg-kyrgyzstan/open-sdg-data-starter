@@ -20,20 +20,20 @@ src_dir: ''
 # ------
 inputs:
   - class: InputSdmxMl_Multiple
-    path_pattern: os.path.join('data', '*.xml')
+    path_pattern: data/*.xml
     dimension_map:
       UNIT_MEASURE: 'Units',
       REF_AREA|KG: ''
     drop_dimensions: ['SOURCE_DETAIL']
-    dsd = os.path.join('SDG_DSD.KG.xml')
+    dsd: SDG_DSD.KG.xml
     import_translation_keys: true
   - class: InputCsvData
-    path_pattern: os.path.join('data', '*-*.csv')
+    path_pattern: data/*-*.csv
   - class: InputExcelMeta
-    path_pattern: os.path.join('meta', '*.*.xlsx')
+    path_pattern: meta/*.*.md
     metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
-    path_pattern: os.path.join('meta', '*-*.md')
+    path_pattern: meta/*-*.md
     git: false
 
 # Translations
