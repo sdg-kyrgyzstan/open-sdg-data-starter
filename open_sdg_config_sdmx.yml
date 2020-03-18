@@ -24,14 +24,14 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units',
       REF_AREA|KG: ''
-    drop_dimensions: 'SOURCE_DETAIL'
+    drop_dimensions: SOURCE_DETAIL
     dsd: SDG_DSD.KG.xml
     import_translation_keys: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputExcelMeta
     path_pattern: meta/*.*.md
-    metadata_mapping: 'metadata-mapping.csv'
+    metadata_mapping: metadata-mapping.csv
   - class: InputYamlMdMeta
     path_pattern: meta/*-*.md
     git: false
