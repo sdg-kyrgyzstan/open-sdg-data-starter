@@ -1,3 +1,3 @@
-import output
+from sdg.open_sdg import open_sdg_build
 
-output.opensdg_output.execute_per_language(['en', 'ru'])
+open_sdg_build(config='open_sdg_config_sdmx.yml')
