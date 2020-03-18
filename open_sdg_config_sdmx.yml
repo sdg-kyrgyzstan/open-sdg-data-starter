@@ -25,13 +25,13 @@ inputs:
       UNIT_MEASURE: 'Units',
       REF_AREA|KG: ''
     drop_dimensions: SOURCE_DETAIL
-    dsd: SDG_DSD.KG.xml
+    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputExcelMeta
     path_pattern: meta/*.*.md
-    metadata_mapping: metadata-mapping.csv
+    metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
     path_pattern: meta/*-*.md
     git: false
@@ -54,7 +54,7 @@ translations:
   - class: TranslationInputCsv
     source: translations
   - class: TranslationInputSdmx
-    source: SDG_DSD.KG.xml
+    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
 
 # Destination directory
 # ---------------------
