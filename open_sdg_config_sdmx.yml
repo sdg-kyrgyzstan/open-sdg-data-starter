@@ -1,0 +1,81 @@
+# This config file is for use with the `build_data` and `check_data` functions,
+# which are helpers for implementations of Open SDG. This file allows easy use
+# of those functions without altering Python code.
+
+# Languages
+# ---------
+# This tells sdg-build to perform "translated builds" for each of the specified
+# languages. Each build is in its own subfolder - one for each language.
+languages:
+  - ru
+  - en
+
+# Source directory
+# ----------------
+# This identifies the directory that holds the 'data' and 'meta' folders.
+# The default, '', points to the root of this repository.
+src_dir: ''
+
+# Inputs
+# ------
+inputs:
+  - class: InputSdmxMl_Multiple
+    path_pattern: data/*.xml
+    dimension_map:
+      UNIT_MEASURE: 'Units'
+      REF_AREA|KG: ''
+    drop_dimensions: SOURCE_DETAIL
+    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
+    import_translation_keys: true
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputExcelMeta
+    path_pattern: meta/*.*.md
+    metadata_mapping: 'metadata-mapping.csv'
+  - class: InputYamlMdMeta
+    path_pattern: meta/*-*.md
+    git: false
+
+# Translations
+# ------------
+# The allows control over the imported translations. This can be omitted if you
+# are happy with the defaults. But if you are using custom translation repos
+# or non-standard inputs (such as SDMX) then you can use this as needed.
+#
+# Each item must have a "class" which corresponds to classes in the sdg/translations
+# folder. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
+translations:
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: master
+  - class: TranslationInputYaml
+    source: translations
+  - class: TranslationInputCsv
+    source: translations
+  - class: TranslationInputSdmx
+    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
+
+# Destination directory
+# ---------------------
+# This identifies a directory to hold the "built" files. The default is '_site'.
+site_dir: _site
+
+# Schema file
+# -----------
+# This identifies a file containing the schema (possible fields) for metadata.
+# Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
+schema_file: _prose.yml
+
+# Reporting status extra fields
+# -----------------------------
+# This allows the build to generate stats for reporting status by additional
+# fields, beyond the default "status by goal" report.
+reporting_status_extra_fields: []
+
+# Data and metadata alterations
+# -----------------------------
+# If you would like to perform any data and metadata alterations, you will need
+# to create a file called "open_sdg_alter.py" in the same folder as this file.
+# To perform data alterations, it should include a function called "alter_data".
+# To perform meta alterations, it should include a function called "alter_meta".
