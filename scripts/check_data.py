@@ -7,11 +7,10 @@ def alter_data(df):
     return df
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config='open_sdg_config_sdmx.yml', alter_data=alter_data,
-    alter_meta=alter_meta)
+validation_successful = open_sdg_check(config='open_sdg_config_sdmx.yml', alter_data=alter_data)
 
 # If everything was valid, perform the build.
 if validation_successful:
-    open_sdg_build(config=config, alter_data=alter_data, alter_meta=alter_meta)
+    open_sdg_build(config=config, alter_data=alter_data)
 else:
     raise Exception('There were validation errors. See output above.')
