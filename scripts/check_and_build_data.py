@@ -14,10 +14,10 @@ def alter_meta(meta):
     return meta
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config=config, alter_data=alter_data)
+validation_successful = open_sdg_check(config=config, alter_data=alter_data, alter_meta=alter_meta)
 
 # If everything was valid, perform the build.
 if validation_successful:
-    open_sdg_build(config=config, alter_data=alter_data)
+    open_sdg_build(config=config, alter_data=alter_data, alter_meta=alter_meta)
 else:
     raise Exception('There were validation errors. See output above.')
