@@ -10,7 +10,7 @@ def alter_data(df):
     return df
 
 def alter_meta(meta):
-    meta['goal_meta_link_text'] = custom.meta_link_text
+    meta['goal_meta_link_text'] = 'custom.meta_link_text'
     return meta
 
 # Validate the indicators.
