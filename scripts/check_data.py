@@ -12,7 +12,5 @@ def alter_data(df):
 validation_successful = open_sdg_check(config=config, alter_data=alter_data)
 
 # If everything was valid, perform the build.
-if validation_successful:
-    open_sdg_build(config=config, alter_data=alter_data)
-else:
+if not validation_successful:
     raise Exception('There were validation errors. See output above.')
