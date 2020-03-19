@@ -9,6 +9,9 @@ def alter_data(df):
       del df['Source details']
     return df
 
+def alter_meta(meta):
+    meta['goal_meta_link_text'] = custom.meta_link_text
+
 # Validate the indicators.
 validation_successful = open_sdg_check(config=config, alter_data=alter_data)
 
