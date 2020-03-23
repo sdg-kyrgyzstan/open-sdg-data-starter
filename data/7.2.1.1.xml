@@ -5,8 +5,8 @@
     <message:ID>JD014</message:ID>
     <message:Test>false</message:Test>
     <message:Truncated>false</message:Truncated>
-    <message:Prepared>2020-03-23T17:39:38Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2020-03-23T17:48:36Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:KeyFamilyRef>SDG</message:KeyFamilyRef>
