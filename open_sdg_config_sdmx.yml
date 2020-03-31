@@ -29,12 +29,13 @@ inputs:
     import_translation_keys: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
-  - class: InputExcelMeta
-    path_pattern: meta/*-*.xlsx
-    metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
     path_pattern: indicator_settings/*-*.md
     git: false
+  - class: InputExcelMeta
+    path_pattern: meta/*-*.xlsx
+    metadata_mapping: 'metadata-mapping.csv'
+
 
 # Translations
 # ------------
