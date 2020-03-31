@@ -30,10 +30,10 @@ inputs:
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputExcelMeta
-    path_pattern: meta/*.*.xlsx
+    path_pattern: meta/*-*.xlsx
     metadata_mapping: 'metadata-mapping.csv'
   - class: InputYamlMdMeta
-    path_pattern: indicator_settings/*.*.md
+    path_pattern: indicator_settings/*-*.md
     git: false
 
 # Translations
