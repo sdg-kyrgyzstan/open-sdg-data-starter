@@ -7,7 +7,7 @@ Year,Reference area,Sex,Value
 2015,,,7.4
 2016,,,7.6
 2017,,,10.1
-2018,,,120.0
+2018,,,12.0
 2010,Batken,,6.4
 2011,Batken,,6.4
 2012,Batken,,5.7
@@ -44,7 +44,7 @@ Year,Reference area,Sex,Value
 2016,Naryn,,1.4
 2017,Naryn,,2.3
 2018,Naryn,,3.9
-2010,Osh,,63.0
+2010,Osh,,6.3
 2011,Osh,,5.9
 2012,Osh,,5.4
 2013,Osh,,2.7
@@ -54,7 +54,7 @@ Year,Reference area,Sex,Value
 2017,Osh,,4.7
 2018,Osh,,6.7
 2010,Talas,,2.6
-2011,Talas,,30.0
+2011,Talas,,3.0
 2012,Talas,,3.1
 2013,Talas,,3.0
 2014,Talas,,2.2
@@ -87,8 +87,8 @@ Year,Reference area,Sex,Value
 2017,Osh (city),,7.6
 2018,Osh (city),,8.5
 2010,,Female,9.3
-2011,,Female,88.0
-2012,,Female,90.0
+2011,,Female,8.8
+2012,,Female,9.0
 2013,,Female,8.8
 2014,,Female,8.9
 2015,,Female,8.4
@@ -96,8 +96,8 @@ Year,Reference area,Sex,Value
 2017,,Female,11.3
 2018,,Female,12.5
 2010,,Male,6.7
-2011,,Male,68.0
-2012,,Male,66.0
+2011,,Male,6.8
+2012,,Male,6.6
 2013,,Male,5.7
 2014,,Male,5.6
 2015,,Male,6.7
