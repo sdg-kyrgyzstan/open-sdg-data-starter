@@ -38,4 +38,4 @@ jobs:
         curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.PAT_TOKEN}}" \
-        --data '{"event_type": "rebuild-site"}'
+        --data '{"event_type": "rebuild-staging"}'
