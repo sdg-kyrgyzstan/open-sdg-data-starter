@@ -54,9 +54,9 @@ jobs:
     - name: Waiting 4 minutes for production data deployment
       run: |
         sleep 240
-    - name: Rebuild staging
+    - name: Rebuild production
       run: |
-        curl -X POST https://api.github.com/repos/sustainabledevelopment-kyrgyzstan/sustainabledevelopment-kyrgyzstan.github.io/dispatches \
+        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-production"}'
