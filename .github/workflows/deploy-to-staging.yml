@@ -22,7 +22,7 @@ jobs:
         pip install -r scripts/requirements.txt
     - name: Build data
       run: |
-        python scripts/build_data.py
+        python scripts/check_and_build_data.py
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
@@ -33,9 +33,9 @@ jobs:
     - name: Waiting 4 minutes for staging data deployment
       run: |
         sleep 240
-    - name: Rebuild site
+    - name: Rebuild staging
       run: |
         curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.PAT_TOKEN}}" \
-        --data '{"event_type": "rebuild-site"}'
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'

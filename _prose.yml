@@ -183,10 +183,10 @@ prose:
                 translation_key: 'status.statistics_in_progress'
               - name: 'notstarted'
                 value: 'notstarted'
-                translation_key: 'custom.not_reported'
+                translation_key: 'status.not_reported'
               - name: 'notapplicable'
                 value: 'notapplicable'
-                translation_key: 'custom.not_applicable'
+                translation_key: 'status.not_applicable'
             scope: data
       - name: data_non_statistical
         field:

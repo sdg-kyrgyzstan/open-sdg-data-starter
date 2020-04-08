@@ -19,5 +19,4 @@ jobs:
         pip install -r scripts/requirements.txt
     - name: Test and build data
       run: |
-        python scripts/check_data.py
-        python scripts/build_data.py
+        python scripts/check_and_build_data.py
