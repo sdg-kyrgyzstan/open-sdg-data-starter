@@ -1,90 +1,238 @@
-Year,Reference area,Value
-2007,,1.5
-2008,,1.9
-2009,,1.3
-2010,,0.9
-2011,,1.0
-2012,,1.1
-2013,,0.8
-2014,,0.8
-2015,,0.7
-2016,,0.8
-2017,,0.8
-2018,,0.8
-2007,Batken,0.9
-2008,Batken,0.2
-2009,Batken,1.6
-2011,Batken,0.4
-2013,Batken,0.6
-2014,Batken,0.2
-2015,Batken,1.6
-2016,Batken,0.2
-2017,Batken,1.6
-2018,Batken,0.8
-2007,Jalal-Abad,0.2
-2008,Jalal-Abad,0.2
-2009,Jalal-Abad,0.9
-2010,Jalal-Abad,0.6
-2011,Jalal-Abad,0.3
-2012,Jalal-Abad,0.5
-2015,Jalal-Abad,0.1
-2016,Jalal-Abad,0.1
-2017,Jalal-Abad,0.5
-2007,Issyk-Kul,2.8
-2008,Issyk-Kul,3.7
-2009,Issyk-Kul,2.5
-2010,Issyk-Kul,1.4
-2011,Issyk-Kul,1.8
-2012,Issyk-Kul,0.7
-2013,Issyk-Kul,1.5
-2014,Issyk-Kul,2.4
-2015,Issyk-Kul,0.2
-2016,Issyk-Kul,1.3
-2017,Issyk-Kul,1.0
-2018,Issyk-Kul,0.8
-2007,Naryn,1.2
-2010,Naryn,0.4
-2013,Naryn,0.4
-2018,Naryn,1.1
-2008,Osh,0.2
-2009,Osh,0.3
-2011,Osh,0.1
-2012,Osh,0.3
-2015,Osh,0.3
-2016,Osh,0.2
-2017,Osh,0.2
-2018,Osh,1.2
-2008,Talas,0.9
-2009,Talas,0.4
-2013,Talas,0.4
-2014,Talas,0.4
-2015,Talas,0.4
-2016,Talas,0.4
-2007,Chui,4.2
-2008,Chui,6.1
-2009,Chui,3.0
-2010,Chui,3.2
-2011,Chui,2.3
-2012,Chui,3.1
-2013,Chui,2.2
-2014,Chui,1.9
-2015,Chui,2.0
-2016,Chui,2.2
-2017,Chui,2.2
-2018,Chui,2.6
-2007,Bishkek (city),3.2
-2008,Bishkek (city),3.4
-2009,Bishkek (city),1.8
-2010,Bishkek (city),0.9
-2011,Bishkek (city),2.3
-2012,Bishkek (city),2.6
-2013,Bishkek (city),1.9
-2014,Bishkek (city),1.9
-2015,Bishkek (city),1.1
-2016,Bishkek (city),1.5
-2017,Bishkek (city),0.9
-2018,Bishkek (city),1.3
-2007,Osh (city),0.4
-2011,Osh (city),0.4
-2012,Osh (city),1.2
-2015,Osh (city),0.4
+Year,Reference area,Sex,Value
+2007,,,15
+2008,,,19
+2009,,,13
+2010,,,9
+2011,,,10
+2012,,,11
+2013,,,8
+2014,,,8
+2015,,,7
+2016,,,8
+2017,,,8
+2018,,,8
+2007,,Female,9
+2008,,Female,14
+2009,,Female,8
+2010,,Female,6
+2011,,Female,4
+2012,,Female,7
+2013,,Female,5
+2014,,Female,3
+2015,,Female,3
+2016,,Female,4
+2017,,Female,4
+2018,,Female,5
+2007,,Male,22
+2008,,Male,24
+2009,,Male,18
+2010,,Male,12
+2011,,Male,16
+2012,,Male,16
+2013,,Male,12
+2014,,Male,13
+2015,,Male,12
+2016,,Male,11
+2017,,Male,12
+2018,,Male,11
+2007,Batken,,9
+2008,Batken,,2
+2009,Batken,,16
+2011,Batken,,4
+2013,Batken,,6
+2014,Batken,,2
+2015,Batken,,16
+2016,Batken,,2
+2017,Batken,,16
+2018,Batken,,8
+2009,Batken,Female,9
+2013,Batken,Female,9
+2017,Batken,Female,4
+2018,Batken,Female,8
+2007,Batken,Male,19
+2008,Batken,Male,5
+2009,Batken,Male,23
+2011,Batken,Male,9
+2013,Batken,Male,4
+2014,Batken,Male,4
+2015,Batken,Male,32
+2016,Batken,Male,4
+2017,Batken,Male,27
+2018,Batken,Male,8
+2007,Jalal-Abad,,2
+2008,Jalal-Abad,,2
+2009,Jalal-Abad,,9
+2010,Jalal-Abad,,6
+2011,Jalal-Abad,,3
+2012,Jalal-Abad,,5
+2015,Jalal-Abad,,1
+2016,Jalal-Abad,,1
+2017,Jalal-Abad,,5
+2009,Jalal-Abad,Female,8
+2010,Jalal-Abad,Female,6
+2012,Jalal-Abad,Female,2
+2007,Jalal-Abad,Male,4
+2008,Jalal-Abad,Male,4
+2009,Jalal-Abad,Male,10
+2010,Jalal-Abad,Male,6
+2011,Jalal-Abad,Male,6
+2012,Jalal-Abad,Male,7
+2015,Jalal-Abad,Male,2
+2016,Jalal-Abad,Male,2
+2017,Jalal-Abad,Male,10
+2007,Issyk-Kul,,28
+2008,Issyk-Kul,,37
+2009,Issyk-Kul,,25
+2010,Issyk-Kul,,14
+2011,Issyk-Kul,,18
+2012,Issyk-Kul,,7
+2013,Issyk-Kul,,15
+2014,Issyk-Kul,,24
+2015,Issyk-Kul,,2
+2016,Issyk-Kul,,13
+2017,Issyk-Kul,,10
+2018,Issyk-Kul,,8
+2007,Issyk-Kul,Female,14
+2008,Issyk-Kul,Female,32
+2009,Issyk-Kul,Female,9
+2010,Issyk-Kul,Female,9
+2011,Issyk-Kul,Female,13
+2012,Issyk-Kul,Female,4
+2013,Issyk-Kul,Female,9
+2014,Issyk-Kul,Female,4
+2016,Issyk-Kul,Female,13
+2017,Issyk-Kul,Female,4
+2007,Issyk-Kul,Male,42
+2008,Issyk-Kul,Male,42
+2009,Issyk-Kul,Male,41
+2010,Issyk-Kul,Male,18
+2011,Issyk-Kul,Male,23
+2012,Issyk-Kul,Male,9
+2013,Issyk-Kul,Male,22
+2014,Issyk-Kul,Male,44
+2015,Issyk-Kul,Male,4
+2016,Issyk-Kul,Male,13
+2017,Issyk-Kul,Male,17
+2018,Issyk-Kul,Male,17
+2007,Naryn,,12
+2010,Naryn,,4
+2013,Naryn,,4
+2018,Naryn,,11
+2007,Naryn,Female,8
+2018,Naryn,Female,7
+2007,Naryn,Male,15
+2010,Naryn,Male,8
+2013,Naryn,Male,7
+2018,Naryn,Male,14
+2008,Osh,,2
+2009,Osh,,3
+2011,Osh,,1
+2012,Osh,,3
+2015,Osh,,3
+2016,Osh,,2
+2017,Osh,,2
+2018,Osh,,2
+2008,Osh,Female,2
+2012,Osh,Female,3
+2015,Osh,Female,2
+2017,Osh,Female,3
+2008,Osh,Male,2
+2009,Osh,Male,5
+2011,Osh,Male,2
+2012,Osh,Male,3
+2015,Osh,Male,5
+2016,Osh,Male,5
+2018,Osh,Male,3
+2008,Talas,,9
+2009,Talas,,4
+2013,Talas,,4
+2014,Talas,,4
+2015,Talas,,4
+2016,Talas,,4
+2008,Talas,Male,18
+2009,Talas,Male,9
+2013,Talas,Male,8
+2014,Talas,Male,8
+2015,Talas,Male,8
+2016,Talas,Male,8
+2007,Chui,,42
+2008,Chui,,61
+2009,Chui,,30
+2010,Chui,,32
+2011,Chui,,23
+2012,Chui,,31
+2013,Chui,,22
+2014,Chui,,19
+2015,Chui,,20
+2016,Chui,,22
+2017,Chui,,22
+2018,Chui,,26
+2007,Chui,Female,25
+2008,Chui,Female,44
+2009,Chui,Female,24
+2010,Chui,Female,22
+2011,Chui,Female,5
+2012,Chui,Female,17
+2013,Chui,Female,7
+2014,Chui,Female,7
+2015,Chui,Female,16
+2016,Chui,Female,4
+2017,Chui,Female,13
+2018,Chui,Female,17
+2007,Chui,Male,59
+2008,Chui,Male,79
+2009,Chui,Male,35
+2010,Chui,Male,43
+2011,Chui,Male,42
+2012,Chui,Male,46
+2013,Chui,Male,38
+2014,Chui,Male,31
+2015,Chui,Male,25
+2016,Chui,Male,41
+2017,Chui,Male,31
+2018,Chui,Male,35
+2007,Bishkek (city),,32
+2008,Bishkek (city),,34
+2009,Bishkek (city),,18
+2010,Bishkek (city),,9
+2011,Bishkek (city),,23
+2012,Bishkek (city),,26
+2013,Bishkek (city),,19
+2014,Bishkek (city),,19
+2015,Bishkek (city),,11
+2016,Bishkek (city),,15
+2017,Bishkek (city),,9
+2018,Bishkek (city),,13
+2007,Bishkek (city),Female,23
+2008,Bishkek (city),Female,27
+2009,Bishkek (city),Female,11
+2010,Bishkek (city),Female,4
+2011,Bishkek (city),Female,11
+2012,Bishkek (city),Female,15
+2013,Bishkek (city),Female,14
+2014,Bishkek (city),Female,12
+2015,Bishkek (city),Female,4
+2016,Bishkek (city),Female,15
+2017,Bishkek (city),Female,4
+2018,Bishkek (city),Female,7
+2007,Bishkek (city),Male,42
+2008,Bishkek (city),Male,42
+2009,Bishkek (city),Male,26
+2010,Bishkek (city),Male,15
+2011,Bishkek (city),Male,37
+2012,Bishkek (city),Male,39
+2013,Bishkek (city),Male,24
+2014,Bishkek (city),Male,28
+2015,Bishkek (city),Male,18
+2016,Bishkek (city),Male,15
+2017,Bishkek (city),Male,15
+2018,Bishkek (city),Male,19
+2007,Osh (city),,4
+2011,Osh (city),,4
+2012,Osh (city),,12
+2015,Osh (city),,4
+2007,Osh (city),Female,7
+2012,Osh (city),Female,15
+2011,Osh (city),Male,8
+2012,Osh (city),Male,8
+2015,Osh (city),Male,8
