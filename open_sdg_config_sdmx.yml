@@ -23,6 +23,7 @@ inputs:
     path_pattern: data/*.xml
     dimension_map:
       UNIT_MEASURE: 'Units'
+      SERIES: 'Series'
       REF_AREA|KG: ''
     drop_dimensions: SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
