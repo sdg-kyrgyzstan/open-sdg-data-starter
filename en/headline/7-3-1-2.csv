@@ -1,25 +1,25 @@
-Year,Units,Value
-2007,Thousands kilowatt-hours per 1mn som,87.7
-2008,Thousands kilowatt-hours per 1mn som,59.8
-2009,Thousands kilowatt-hours per 1mn som,49.9
-2010,Thousands kilowatt-hours per 1mn som,47.7
-2011,Thousands kilowatt-hours per 1mn som,43.3
-2012,Thousands kilowatt-hours per 1mn som,43.7
-2013,Thousands kilowatt-hours per 1mn som,38.5
-2014,Thousands kilowatt-hours per 1mn som,36.9
-2015,Thousands kilowatt-hours per 1mn som,31.5
-2016,Thousands kilowatt-hours per 1mn som,27.9
-2017,Thousands kilowatt-hours per 1mn som,26.9
-2018,Thousands kilowatt-hours per 1mn som,26.3
-2007,Kilowatt-hours,158.9
-2008,Kilowatt-hours,146.9
-2009,Kilowatt-hours,168.8
-2010,Kilowatt-hours,180.5
-2011,Kilowatt-hours,174.7
-2012,Kilowatt-hours,155.2
-2013,Kilowatt-hours,160.3
-2014,Kilowatt-hours,130.9
-2015,Kilowatt-hours,207.6
-2016,Kilowatt-hours,248.3
-2017,Kilowatt-hours,260.3
-2018,Kilowatt-hours,202.9
+Year,Units,Series,Value
+2007,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,87.7
+2008,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,59.8
+2009,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,49.9
+2010,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,47.7
+2011,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,43.3
+2012,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,43.7
+2013,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,38.5
+2014,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,36.9
+2015,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,31.5
+2016,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,27.9
+2017,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,26.9
+2018,Thousands kilowatt-hours per 1mn som,Power intensity of GDP by indusry,26.3
+2007,Kilowatt-hours,Power generation at small hydroelecric plant,158.9
+2008,Kilowatt-hours,Power generation at small hydroelecric plant,146.9
+2009,Kilowatt-hours,Power generation at small hydroelecric plant,168.8
+2010,Kilowatt-hours,Power generation at small hydroelecric plant,180.5
+2011,Kilowatt-hours,Power generation at small hydroelecric plant,174.7
+2012,Kilowatt-hours,Power generation at small hydroelecric plant,155.2
+2013,Kilowatt-hours,Power generation at small hydroelecric plant,160.3
+2014,Kilowatt-hours,Power generation at small hydroelecric plant,130.9
+2015,Kilowatt-hours,Power generation at small hydroelecric plant,207.6
+2016,Kilowatt-hours,Power generation at small hydroelecric plant,248.3
+2017,Kilowatt-hours,Power generation at small hydroelecric plant,260.3
+2018,Kilowatt-hours,Power generation at small hydroelecric plant,202.9

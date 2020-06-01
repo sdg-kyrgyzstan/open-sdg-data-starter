@@ -1,101 +1,101 @@
-Year,Reference area,Units,Value
-2014,,"Per 100,000 population",4.5
-2015,,"Per 100,000 population",4.4
-2016,,"Per 100,000 population",3.5
-2017,,"Per 100,000 population",3.8
-2018,,"Per 100,000 population",3.1
-2014,,Number,262.0
-2015,,Number,262.0
-2016,,Number,209.0
-2017,,Number,232.0
-2018,,Number,196.0
-2014,Batken,"Per 100,000 population",1.9
-2015,Batken,"Per 100,000 population",1.6
-2016,Batken,"Per 100,000 population",1.6
-2017,Batken,"Per 100,000 population",1.2
-2018,Batken,"Per 100,000 population",2.3
-2014,Batken,Number,9.0
-2015,Batken,Number,8.0
-2016,Batken,Number,8.0
-2017,Batken,Number,6.0
-2018,Batken,Number,12.0
-2014,Jalal-Abad,"Per 100,000 population",3.6
-2015,Jalal-Abad,"Per 100,000 population",3.0
-2016,Jalal-Abad,"Per 100,000 population",2.5
-2017,Jalal-Abad,"Per 100,000 population",1.9
-2018,Jalal-Abad,"Per 100,000 population",1.8
-2014,Jalal-Abad,Number,40.0
-2015,Jalal-Abad,Number,34.0
-2016,Jalal-Abad,Number,29.0
-2017,Jalal-Abad,Number,23.0
-2018,Jalal-Abad,Number,22.0
-2014,Issyk-Kul,"Per 100,000 population",6.3
-2015,Issyk-Kul,"Per 100,000 population",6.2
-2016,Issyk-Kul,"Per 100,000 population",4.2
-2017,Issyk-Kul,"Per 100,000 population",4.8
-2018,Issyk-Kul,"Per 100,000 population",3.5
-2014,Issyk-Kul,Number,29.0
-2015,Issyk-Kul,Number,29.0
-2016,Issyk-Kul,Number,20.0
-2017,Issyk-Kul,Number,23.0
-2018,Issyk-Kul,Number,17.0
-2014,Naryn,"Per 100,000 population",3.6
-2015,Naryn,"Per 100,000 population",2.9
-2016,Naryn,"Per 100,000 population",2.5
-2017,Naryn,"Per 100,000 population",2.1
-2018,Naryn,"Per 100,000 population",2.1
-2014,Naryn,Number,10.0
-2015,Naryn,Number,8.0
-2016,Naryn,Number,7.0
-2017,Naryn,Number,6.0
-2018,Naryn,Number,6.0
-2014,Osh,"Per 100,000 population",1.3
-2015,Osh,"Per 100,000 population",1.8
-2016,Osh,"Per 100,000 population",1.1
-2017,Osh,"Per 100,000 population",0.8
-2018,Osh,"Per 100,000 population",1.3
-2014,Osh,Number,16.0
-2015,Osh,Number,23.0
-2016,Osh,Number,14.0
-2017,Osh,Number,11.0
-2018,Osh,Number,18.0
-2014,Talas,"Per 100,000 population",3.2
-2015,Talas,"Per 100,000 population",0.0
-2016,Talas,"Per 100,000 population",3.5
-2017,Talas,"Per 100,000 population",4.2
-2018,Talas,"Per 100,000 population",0.8
-2014,Talas,Number,8.0
-2015,Talas,Number,0.0
-2016,Talas,Number,9.0
-2017,Talas,Number,11.0
-2018,Talas,Number,2.0
-2014,Chui,"Per 100,000 population",10.0
-2015,Chui,"Per 100,000 population",9.8
-2016,Chui,"Per 100,000 population",8.4
-2017,Chui,"Per 100,000 population",8.1
-2018,Chui,"Per 100,000 population",6.6
-2014,Chui,Number,87.0
-2015,Chui,Number,87.0
-2016,Chui,Number,76.0
-2017,Chui,Number,75.0
-2018,Chui,Number,62.0
-2014,Bishkek (city),"Per 100,000 population",6.9
-2015,Bishkek (city),"Per 100,000 population",6.3
-2016,Bishkek (city),"Per 100,000 population",4.1
-2017,Bishkek (city),"Per 100,000 population",6.1
-2018,Bishkek (city),"Per 100,000 population",4.7
-2014,Bishkek (city),Number,65.0
-2015,Bishkek (city),Number,60.0
-2016,Bishkek (city),Number,40.0
-2017,Bishkek (city),Number,61.0
-2018,Bishkek (city),Number,48.0
-2014,Osh (city),"Per 100,000 population",4.4
-2015,Osh (city),"Per 100,000 population",4.4
-2016,Osh (city),"Per 100,000 population",2.1
-2017,Osh (city),"Per 100,000 population",5.5
-2018,Osh (city),"Per 100,000 population",4.0
-2014,Osh (city),Number,12.0
-2015,Osh (city),Number,12.0
-2016,Osh (city),Number,6.0
-2017,Osh (city),Number,16.0
-2018,Osh (city),Number,12.0
+Year,Series,Reference area,Units,Value
+2014,"Number of victims of intentional homicide per 100,000 population",,"Per 100,000 population",4.5
+2015,"Number of victims of intentional homicide per 100,000 population",,"Per 100,000 population",4.4
+2016,"Number of victims of intentional homicide per 100,000 population",,"Per 100,000 population",3.5
+2017,"Number of victims of intentional homicide per 100,000 population",,"Per 100,000 population",3.8
+2018,"Number of victims of intentional homicide per 100,000 population",,"Per 100,000 population",3.1
+2014,Number of victims of intentional homicide,,Number,262.0
+2015,Number of victims of intentional homicide,,Number,262.0
+2016,Number of victims of intentional homicide,,Number,209.0
+2017,Number of victims of intentional homicide,,Number,232.0
+2018,Number of victims of intentional homicide,,Number,196.0
+2014,"Number of victims of intentional homicide per 100,000 population",Batken,"Per 100,000 population",1.9
+2015,"Number of victims of intentional homicide per 100,000 population",Batken,"Per 100,000 population",1.6
+2016,"Number of victims of intentional homicide per 100,000 population",Batken,"Per 100,000 population",1.6
+2017,"Number of victims of intentional homicide per 100,000 population",Batken,"Per 100,000 population",1.2
+2018,"Number of victims of intentional homicide per 100,000 population",Batken,"Per 100,000 population",2.3
+2014,Number of victims of intentional homicide,Batken,Number,9.0
+2015,Number of victims of intentional homicide,Batken,Number,8.0
+2016,Number of victims of intentional homicide,Batken,Number,8.0
+2017,Number of victims of intentional homicide,Batken,Number,6.0
+2018,Number of victims of intentional homicide,Batken,Number,12.0
+2014,"Number of victims of intentional homicide per 100,000 population",Jalal-Abad,"Per 100,000 population",3.6
+2015,"Number of victims of intentional homicide per 100,000 population",Jalal-Abad,"Per 100,000 population",3.0
+2016,"Number of victims of intentional homicide per 100,000 population",Jalal-Abad,"Per 100,000 population",2.5
+2017,"Number of victims of intentional homicide per 100,000 population",Jalal-Abad,"Per 100,000 population",1.9
+2018,"Number of victims of intentional homicide per 100,000 population",Jalal-Abad,"Per 100,000 population",1.8
+2014,Number of victims of intentional homicide,Jalal-Abad,Number,40.0
+2015,Number of victims of intentional homicide,Jalal-Abad,Number,34.0
+2016,Number of victims of intentional homicide,Jalal-Abad,Number,29.0
+2017,Number of victims of intentional homicide,Jalal-Abad,Number,23.0
+2018,Number of victims of intentional homicide,Jalal-Abad,Number,22.0
+2014,"Number of victims of intentional homicide per 100,000 population",Issyk-Kul,"Per 100,000 population",6.3
+2015,"Number of victims of intentional homicide per 100,000 population",Issyk-Kul,"Per 100,000 population",6.2
+2016,"Number of victims of intentional homicide per 100,000 population",Issyk-Kul,"Per 100,000 population",4.2
+2017,"Number of victims of intentional homicide per 100,000 population",Issyk-Kul,"Per 100,000 population",4.8
+2018,"Number of victims of intentional homicide per 100,000 population",Issyk-Kul,"Per 100,000 population",3.5
+2014,Number of victims of intentional homicide,Issyk-Kul,Number,29.0
+2015,Number of victims of intentional homicide,Issyk-Kul,Number,29.0
+2016,Number of victims of intentional homicide,Issyk-Kul,Number,20.0
+2017,Number of victims of intentional homicide,Issyk-Kul,Number,23.0
+2018,Number of victims of intentional homicide,Issyk-Kul,Number,17.0
+2014,"Number of victims of intentional homicide per 100,000 population",Naryn,"Per 100,000 population",3.6
+2015,"Number of victims of intentional homicide per 100,000 population",Naryn,"Per 100,000 population",2.9
+2016,"Number of victims of intentional homicide per 100,000 population",Naryn,"Per 100,000 population",2.5
+2017,"Number of victims of intentional homicide per 100,000 population",Naryn,"Per 100,000 population",2.1
+2018,"Number of victims of intentional homicide per 100,000 population",Naryn,"Per 100,000 population",2.1
+2014,Number of victims of intentional homicide,Naryn,Number,10.0
+2015,Number of victims of intentional homicide,Naryn,Number,8.0
+2016,Number of victims of intentional homicide,Naryn,Number,7.0
+2017,Number of victims of intentional homicide,Naryn,Number,6.0
+2018,Number of victims of intentional homicide,Naryn,Number,6.0
+2014,"Number of victims of intentional homicide per 100,000 population",Osh,"Per 100,000 population",1.3
+2015,"Number of victims of intentional homicide per 100,000 population",Osh,"Per 100,000 population",1.8
+2016,"Number of victims of intentional homicide per 100,000 population",Osh,"Per 100,000 population",1.1
+2017,"Number of victims of intentional homicide per 100,000 population",Osh,"Per 100,000 population",0.8
+2018,"Number of victims of intentional homicide per 100,000 population",Osh,"Per 100,000 population",1.3
+2014,Number of victims of intentional homicide,Osh,Number,16.0
+2015,Number of victims of intentional homicide,Osh,Number,23.0
+2016,Number of victims of intentional homicide,Osh,Number,14.0
+2017,Number of victims of intentional homicide,Osh,Number,11.0
+2018,Number of victims of intentional homicide,Osh,Number,18.0
+2014,"Number of victims of intentional homicide per 100,000 population",Talas,"Per 100,000 population",3.2
+2015,"Number of victims of intentional homicide per 100,000 population",Talas,"Per 100,000 population",0.0
+2016,"Number of victims of intentional homicide per 100,000 population",Talas,"Per 100,000 population",3.5
+2017,"Number of victims of intentional homicide per 100,000 population",Talas,"Per 100,000 population",4.2
+2018,"Number of victims of intentional homicide per 100,000 population",Talas,"Per 100,000 population",0.8
+2014,Number of victims of intentional homicide,Talas,Number,8.0
+2015,Number of victims of intentional homicide,Talas,Number,0.0
+2016,Number of victims of intentional homicide,Talas,Number,9.0
+2017,Number of victims of intentional homicide,Talas,Number,11.0
+2018,Number of victims of intentional homicide,Talas,Number,2.0
+2014,"Number of victims of intentional homicide per 100,000 population",Chui,"Per 100,000 population",10.0
+2015,"Number of victims of intentional homicide per 100,000 population",Chui,"Per 100,000 population",9.8
+2016,"Number of victims of intentional homicide per 100,000 population",Chui,"Per 100,000 population",8.4
+2017,"Number of victims of intentional homicide per 100,000 population",Chui,"Per 100,000 population",8.1
+2018,"Number of victims of intentional homicide per 100,000 population",Chui,"Per 100,000 population",6.6
+2014,Number of victims of intentional homicide,Chui,Number,87.0
+2015,Number of victims of intentional homicide,Chui,Number,87.0
+2016,Number of victims of intentional homicide,Chui,Number,76.0
+2017,Number of victims of intentional homicide,Chui,Number,75.0
+2018,Number of victims of intentional homicide,Chui,Number,62.0
+2014,"Number of victims of intentional homicide per 100,000 population",Bishkek (city),"Per 100,000 population",6.9
+2015,"Number of victims of intentional homicide per 100,000 population",Bishkek (city),"Per 100,000 population",6.3
+2016,"Number of victims of intentional homicide per 100,000 population",Bishkek (city),"Per 100,000 population",4.1
+2017,"Number of victims of intentional homicide per 100,000 population",Bishkek (city),"Per 100,000 population",6.1
+2018,"Number of victims of intentional homicide per 100,000 population",Bishkek (city),"Per 100,000 population",4.7
+2014,Number of victims of intentional homicide,Bishkek (city),Number,65.0
+2015,Number of victims of intentional homicide,Bishkek (city),Number,60.0
+2016,Number of victims of intentional homicide,Bishkek (city),Number,40.0
+2017,Number of victims of intentional homicide,Bishkek (city),Number,61.0
+2018,Number of victims of intentional homicide,Bishkek (city),Number,48.0
+2014,"Number of victims of intentional homicide per 100,000 population",Osh (city),"Per 100,000 population",4.4
+2015,"Number of victims of intentional homicide per 100,000 population",Osh (city),"Per 100,000 population",4.4
+2016,"Number of victims of intentional homicide per 100,000 population",Osh (city),"Per 100,000 population",2.1
+2017,"Number of victims of intentional homicide per 100,000 population",Osh (city),"Per 100,000 population",5.5
+2018,"Number of victims of intentional homicide per 100,000 population",Osh (city),"Per 100,000 population",4.0
+2014,Number of victims of intentional homicide,Osh (city),Number,12.0
+2015,Number of victims of intentional homicide,Osh (city),Number,12.0
+2016,Number of victims of intentional homicide,Osh (city),Number,6.0
+2017,Number of victims of intentional homicide,Osh (city),Number,16.0
+2018,Number of victims of intentional homicide,Osh (city),Number,12.0

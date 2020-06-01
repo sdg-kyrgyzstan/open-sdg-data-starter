@@ -1,20 +1,20 @@
-Year,Units,Value
-2013,Hectares,1037.0
-2014,Hectares,778.0
-2015,Hectares,507.0
-2016,Hectares,616.0
-2017,Hectares,490.0
-2018,Hectares,400.0
-2013,Tonnes per hectare,26.7
-2013,Percent,5.7
-2014,Percent,5.7
-2015,Percent,5.7
-2016,Percent,5.7
-2017,Percent,5.7
-2018,Percent,5.8
-2013,Percent,74.6
-2014,Percent,76.4
-2015,Percent,78.0
-2016,Percent,79.6
-2017,Percent,81.3
-2018,Percent,82.6
+Year,Series,Units,Value
+2013,Forest area net change rate (%),Hectares,1037.0
+2014,Forest area net change rate (%),Hectares,778.0
+2015,Forest area net change rate (%),Hectares,507.0
+2016,Forest area net change rate (%),Hectares,616.0
+2017,Forest area net change rate (%),Hectares,490.0
+2018,Forest area net change rate (%),Hectares,400.0
+2013,Above-ground biomass in forest per hectare (tonnes per hectare),Tonnes per hectare,26.7
+2013,Forest area within legally established protected areas,Percent,5.7
+2014,Forest area within legally established protected areas,Percent,5.7
+2015,Forest area within legally established protected areas,Percent,5.7
+2016,Forest area within legally established protected areas,Percent,5.7
+2017,Forest area within legally established protected areas,Percent,5.7
+2018,Forest area within legally established protected areas,Percent,5.8
+2013,Proportion of forest area with a long-term management plan,Percent,74.6
+2014,Proportion of forest area with a long-term management plan,Percent,76.4
+2015,Proportion of forest area with a long-term management plan,Percent,78.0
+2016,Proportion of forest area with a long-term management plan,Percent,79.6
+2017,Proportion of forest area with a long-term management plan,Percent,81.3
+2018,Proportion of forest area with a long-term management plan,Percent,82.6
