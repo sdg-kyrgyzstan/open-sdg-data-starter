@@ -1,6 +1,6 @@
 From,To
-Territory,Unit of measure
-Unit of measure,Urbanisation
-Unit of measure,пол
-Unit of measure,Возраст
-Territory,Education
+Показатель,Территория
+Территория,Местность
+Территория,Пол
+Территория,Возраст
+Территория,Образование

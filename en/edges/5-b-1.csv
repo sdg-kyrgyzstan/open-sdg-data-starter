@@ -1,6 +1,6 @@
 From,To
-Territory,Unit of measure
-Unit of measure,Urbanisation
-Unit of measure,Sex
-Unit of measure,Age
-Territory,Education
+Показатель,Geographical area
+Geographical area,Местность
+Geographical area,Sex
+Geographical area,Возраст
+Geographical area,Образование
