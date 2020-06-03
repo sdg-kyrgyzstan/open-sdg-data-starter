@@ -1,71 +1,73 @@
-Year,Composite breakdown,Time series-level footnotes,Value
-2007,,,30.0
-2008,,,34.3
-2009,,,36.3
-2010,,,36.9
-2011,,,37.7
-2012,,,39.8
-2013,,,41.0
-2014,,,28.9
-2015,,,29.7
-2016,,,31.2
-2017,,,31.9
-2018,,,33.0
-2007,Mode of Transport: Rail,At the time of departure of cargo.,2.3
-2008,Mode of Transport: Rail,At the time of departure of cargo.,1.8
-2009,Mode of Transport: Rail,At the time of departure of cargo.,1.0
-2010,Mode of Transport: Rail,At the time of departure of cargo.,1.0
-2011,Mode of Transport: Rail,At the time of departure of cargo.,1.0
-2012,Mode of Transport: Rail,At the time of departure of cargo.,1.1
-2013,Mode of Transport: Rail,At the time of departure of cargo.,1.4
-2014,Mode of Transport: Rail,At the time of departure of cargo.,1.5
-2015,Mode of Transport: Rail,At the time of departure of cargo.,1.3
-2016,Mode of Transport: Rail,At the time of departure of cargo.,1.7
-2017,Mode of Transport: Rail,At the time of departure of cargo.,1.9
-2018,Mode of Transport: Rail,At the time of departure of cargo.,2.3
-2007,Mode of Transport: Road,Since 2014 excluding  departmental transport.,27.1
-2008,Mode of Transport: Road,Since 2014 excluding  departmental transport.,31.9
-2009,Mode of Transport: Road,Since 2014 excluding  departmental transport.,35.0
-2010,Mode of Transport: Road,Since 2014 excluding  departmental transport.,35.6
-2011,Mode of Transport: Road,Since 2014 excluding  departmental transport.,36.4
-2012,Mode of Transport: Road,Since 2014 excluding  departmental transport.,38.4
-2013,Mode of Transport: Road,Since 2014 excluding  departmental transport.,39.4
-2014,Mode of Transport: Road,Since 2014 excluding  departmental transport.,27.2
-2015,Mode of Transport: Road,Since 2014 excluding  departmental transport.,28.2
-2016,Mode of Transport: Road,Since 2014 excluding  departmental transport.,29.3
-2017,Mode of Transport: Road,Since 2014 excluding  departmental transport.,29.8
-2018,Mode of Transport: Road,Since 2014 excluding  departmental transport.,30.5
-2007,Mode of Transport: Pipeline,,0.6
-2008,Mode of Transport: Pipeline,,0.6
-2009,Mode of Transport: Pipeline,,0.3
-2010,Mode of Transport: Pipeline,,0.3
-2011,Mode of Transport: Pipeline,,0.3
-2012,Mode of Transport: Pipeline,,0.3
-2013,Mode of Transport: Pipeline,,0.2
-2014,Mode of Transport: Pipeline,,0.2
-2015,Mode of Transport: Pipeline,,0.2
-2016,Mode of Transport: Pipeline,,0.2
-2017,Mode of Transport: Pipeline,,0.2
-2018,Mode of Transport: Pipeline,,0.3
-2007,Mode of Transport: Water,At the time of departure of cargo.,26.5
-2008,Mode of Transport: Water,At the time of departure of cargo.,42.6
-2009,Mode of Transport: Water,At the time of departure of cargo.,23.4
-2010,Mode of Transport: Water,At the time of departure of cargo.,16.0
-2011,Mode of Transport: Water,At the time of departure of cargo.,10.8
-2012,Mode of Transport: Water,At the time of departure of cargo.,11.6
-2013,Mode of Transport: Water,At the time of departure of cargo.,10.8
-2014,Mode of Transport: Water,At the time of departure of cargo.,15.0
-2015,Mode of Transport: Water,At the time of departure of cargo.,12.2
-2016,Mode of Transport: Water,At the time of departure of cargo.,2.6
-2007,Mode of Transport: Air,,0.6
-2008,Mode of Transport: Air,,0.9
-2009,Mode of Transport: Air,,0.9
-2010,Mode of Transport: Air,,1.0
-2011,Mode of Transport: Air,,1.3
-2012,Mode of Transport: Air,,0.7
-2013,Mode of Transport: Air,,0.5
-2014,Mode of Transport: Air,,0.2
-2015,Mode of Transport: Air,,0.2
-2016,Mode of Transport: Air,,0.1
-2017,Mode of Transport: Air,,0.3
-2018,Mode of Transport: Air,,1.0
+Year,Показатель,Value
+2007,Перевозки пассажиров всеми видами транспорта,470.7
+2008,Перевозки пассажиров всеми видами транспорта,504.3
+2009,Перевозки пассажиров всеми видами транспорта,545.7
+2010,Перевозки пассажиров всеми видами транспорта,532.9
+2011,Перевозки пассажиров всеми видами транспорта,566.6
+2012,Перевозки пассажиров всеми видами транспорта,603.1
+2013,Перевозки пассажиров всеми видами транспорта,619.0
+2014,Перевозки пассажиров всеми видами транспорта,638.6
+2015,Перевозки пассажиров всеми видами транспорта,653.1
+2016,Перевозки пассажиров всеми видами транспорта,682.2
+2017,Перевозки пассажиров всеми видами транспорта,709.9
+2018,Перевозки пассажиров всеми видами транспорта,731.6
+2007,Железнодорожный,0.4
+2008,Железнодорожный,0.6
+2009,Железнодорожный,0.8
+2010,Железнодорожный,0.7
+2011,Железнодорожный,0.6
+2012,Железнодорожный,0.5
+2013,Железнодорожный,0.4
+2014,Железнодорожный,0.3
+2015,Железнодорожный,0.3
+2016,Железнодорожный,0.3
+2017,Железнодорожный,0.3
+2018,Железнодорожный,0.3
+2007,Автобусы,436.2
+2008,Автобусы,474.4
+2009,Автобусы,510.5
+2010,Автобусы,492.6
+2011,Автобусы,524.2
+2012,Автобусы,563.8
+2013,Автобусы,579.5
+2014,Автобусы,596.1
+2015,Автобусы,604.1
+2016,Автобусы,627.3
+2017,Автобусы,649.7
+2018,Автобусы,664.5
+2007,Троллейбусы,24.7
+2008,Троллейбусы,17.4
+2009,Троллейбусы,21.1
+2010,Троллейбусы,24.6
+2011,Троллейбусы,23.8
+2012,Троллейбусы,19.5
+2013,Троллейбусы,19.0
+2014,Троллейбусы,20.1
+2015,Троллейбусы,23.3
+2016,Троллейбусы,25.9
+2017,Троллейбусы,29.3
+2018,Троллейбусы,33.1
+2007,Такси,9.1
+2008,Такси,11.5
+2009,Такси,12.9
+2010,Такси,14.5
+2011,Такси,17.3
+2012,Такси,18.5
+2013,Такси,19.1
+2014,Такси,20.9
+2015,Такси,24.2
+2016,Такси,27.6
+2017,Такси,29.1
+2018,Такси,32.4
+2007,Воздушный,0.3
+2008,Воздушный,0.4
+2009,Воздушный,0.4
+2010,Воздушный,0.5
+2011,Воздушный,0.7
+2012,Воздушный,0.8
+2013,Воздушный,1.0
+2014,Воздушный,1.2
+2015,Воздушный,1.2
+2016,Воздушный,1.1
+2017,Воздушный,1.5
+2018,Воздушный,1.4
