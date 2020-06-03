@@ -1,2 +1,7 @@
 From,To
-Age,Reference area
+Geographical area,Sex
+Geographical area,Местность
+Geographical area,Возраст
+Geographical area,Функциональные трудности ребенка (в возрасте: 2-14 лет)
+Geographical area,Функциональные трудности матери (в возрасте: 18-49 лет)
+Geographical area,Квинтиль индекса благосостояния
