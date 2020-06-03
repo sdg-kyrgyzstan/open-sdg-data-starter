@@ -1,5 +1,6 @@
 From,To
-Возраст,Территория
-Возраст,Пол
-Возраст,Тип местности
-Возраст,Уровень образования
+Territory,Unit of measure
+Unit of measure,Urbanisation
+Unit of measure,пол
+Unit of measure,Возраст
+Territory,Education
