@@ -1,7 +1,8 @@
 From,To
 Geographical area,Sex
 Geographical area,Местность
-Geographical area,Возраст
+Geographical area,Возраст (лет)
 Geographical area,Образование матери
-Geographical area,Функциональные трудности матери (в возрасте: 18-49 лет)
+Geographical area,Функциональные трудности у ребенка (возраст: 2-4 лет)
+Geographical area,Функциональные трудности у матери (возраст: 18-49 лет)
 Geographical area,Квинтиль индекса благосостояния
