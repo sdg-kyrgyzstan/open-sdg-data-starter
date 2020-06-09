@@ -1,3 +1,8 @@
 From,To
-Territory,Sex
-Territory,Urbanisation
+Geographical area,Sex
+Geographical area,Местность
+Geographical area,Возраст (лет)
+Geographical area,Посещаемость школы
+Geographical area,Образование матери
+Geographical area,Функциональные трудности у ребенка
+Geographical area,Квинтиль индекса благосостояния
