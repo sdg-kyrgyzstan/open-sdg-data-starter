@@ -1,8 +1,8 @@
 From,To
-Indicator,Territory
-Territory,Urbanisation
-Territory,Возраст
-Territory,Образование матери
-Territory,Функциональные трудности ребенка
-Territory,Функциональные трудности матери
-Territory,Квинтиль индекса благосостояния
+Показатель,Geographical area
+Geographical area,Местность
+Geographical area,Возраст
+Geographical area,Образование матери
+Geographical area,Функциональные трудности ребенка
+Geographical area,Функциональные трудности матери
+Geographical area,Квинтиль индекса благосостояния
