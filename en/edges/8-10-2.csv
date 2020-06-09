@@ -1,5 +1,5 @@
 From,To
-Territory,Urbanisation
-Territory,Sex
-Territory,Age
-Territory,Education
+Geographical area,Местность
+Geographical area,Sex
+Geographical area,Возраст
+Geographical area,Уровень образования

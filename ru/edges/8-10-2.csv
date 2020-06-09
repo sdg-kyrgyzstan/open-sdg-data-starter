@@ -1,5 +1,5 @@
 From,To
-Territory,Urbanisation
-Territory,пол
-Territory,Возраст
-Territory,Education
+Территория,Местность
+Территория,Пол
+Территория,Возраст
+Территория,Уровень образования
