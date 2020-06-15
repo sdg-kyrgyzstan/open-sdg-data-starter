@@ -1,49 +1,37 @@
-Year,Series,Economic activity,Units,Value
-2007,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,87.7
-2008,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,59.8
-2009,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,49.9
-2010,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,47.7
-2011,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,43.3
-2012,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,43.7
-2013,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,38.5
-2014,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,36.9
-2015,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,31.5
-2016,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,27.9
-2017,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,26.9
-2018,Power intensity of GDP by indusry,,Thousands kilowatt-hours per 1mn som,26.3
-2007,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,20.5
-2008,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.0
-2009,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.6
-2010,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.3
-2011,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.3
-2012,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.7
-2013,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.9
-2014,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,12.9
-2015,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,16.1
-2016,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.8
-2017,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,16.3
-2018,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.8
-2007,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,71.8
-2008,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,46.0
-2009,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,40.1
-2010,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,33.1
-2011,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,30.0
-2012,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,41.2
-2013,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,35.0
-2014,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,43.0
-2015,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,31.8
-2016,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,26.3
-2017,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,25.0
-2018,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,25.5
-2007,Power generation at small hydroelecric plant,,Kilowatt-hours,158.9
-2008,Power generation at small hydroelecric plant,,Kilowatt-hours,146.9
-2009,Power generation at small hydroelecric plant,,Kilowatt-hours,168.8
-2010,Power generation at small hydroelecric plant,,Kilowatt-hours,180.5
-2011,Power generation at small hydroelecric plant,,Kilowatt-hours,174.7
-2012,Power generation at small hydroelecric plant,,Kilowatt-hours,155.2
-2013,Power generation at small hydroelecric plant,,Kilowatt-hours,160.3
-2014,Power generation at small hydroelecric plant,,Kilowatt-hours,130.9
-2015,Power generation at small hydroelecric plant,,Kilowatt-hours,207.6
-2016,Power generation at small hydroelecric plant,,Kilowatt-hours,248.3
-2017,Power generation at small hydroelecric plant,,Kilowatt-hours,260.3
-2018,Power generation at small hydroelecric plant,,Kilowatt-hours,202.9
+Year,Economic activity,Value
+2007,,87.7
+2008,,59.8
+2009,,49.9
+2010,,47.7
+2011,,43.3
+2012,,43.7
+2013,,38.5
+2014,,36.9
+2015,,31.5
+2016,,27.9
+2017,,26.9
+2018,,26.3
+2007,"Agriculture, forestry and fishing",20.5
+2008,"Agriculture, forestry and fishing",15.0
+2009,"Agriculture, forestry and fishing",15.6
+2010,"Agriculture, forestry and fishing",14.3
+2011,"Agriculture, forestry and fishing",14.3
+2012,"Agriculture, forestry and fishing",14.7
+2013,"Agriculture, forestry and fishing",14.9
+2014,"Agriculture, forestry and fishing",12.9
+2015,"Agriculture, forestry and fishing",16.1
+2016,"Agriculture, forestry and fishing",15.8
+2017,"Agriculture, forestry and fishing",16.3
+2018,"Agriculture, forestry and fishing",15.8
+2007,Industry (total),71.8
+2008,Industry (total),46.0
+2009,Industry (total),40.1
+2010,Industry (total),33.1
+2011,Industry (total),30.0
+2012,Industry (total),41.2
+2013,Industry (total),35.0
+2014,Industry (total),43.0
+2015,Industry (total),31.8
+2016,Industry (total),26.3
+2017,Industry (total),25.0
+2018,Industry (total),25.5
