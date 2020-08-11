@@ -1,1 +1,31 @@
-Year,Value
+Year,Series,Sex,Value
+2014,Number of convictions for malfeasance,,378
+2015,Number of convictions for malfeasance,,336
+2016,Number of convictions for malfeasance,,351
+2017,Number of convictions for malfeasance,,234
+2018,Number of convictions for malfeasance,,342
+2014,Number of convictions for сorruption and bribery,,62
+2015,Number of convictions for сorruption and bribery,,69
+2016,Number of convictions for сorruption and bribery,,72
+2017,Number of convictions for сorruption and bribery,,52
+2018,Number of convictions for сorruption and bribery,,56
+2014,Number of convictions for malfeasance,Male,323
+2015,Number of convictions for malfeasance,Male,278
+2016,Number of convictions for malfeasance,Male,286
+2017,Number of convictions for malfeasance,Male,196
+2018,Number of convictions for malfeasance,Male,297
+2014,Number of convictions for сorruption and bribery,Male,57
+2015,Number of convictions for сorruption and bribery,Male,65
+2016,Number of convictions for сorruption and bribery,Male,61
+2017,Number of convictions for сorruption and bribery,Male,44
+2018,Number of convictions for сorruption and bribery,Male,53
+2014,Number of convictions for malfeasance,Female,55
+2015,Number of convictions for malfeasance,Female,58
+2016,Number of convictions for malfeasance,Female,65
+2017,Number of convictions for malfeasance,Female,38
+2018,Number of convictions for malfeasance,Female,45
+2014,Number of convictions for сorruption and bribery,Female,5
+2015,Number of convictions for сorruption and bribery,Female,4
+2016,Number of convictions for сorruption and bribery,Female,11
+2017,Number of convictions for сorruption and bribery,Female,8
+2018,Number of convictions for сorruption and bribery,Female,3

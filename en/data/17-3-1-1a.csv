@@ -1,1 +1,178 @@
-Year,Value
+Year,Economic activity,Value
+2008,,866200.6
+2009,,660949.3
+2010,,666086.0
+2011,,849201.1
+2012,,590733.3
+2013,,964507.1
+2014,,727091.2
+2015,,1573243.7
+2016,,813960.7
+2017,,616793.1
+2018,,851743.6
+2008,"Agriculture, forestry and fishing",583.5904
+2009,"Agriculture, forestry and fishing",17.6
+2010,"Agriculture, forestry and fishing",2.7
+2011,"Agriculture, forestry and fishing",3.5
+2012,"Agriculture, forestry and fishing",2045.7
+2013,"Agriculture, forestry and fishing",345.0
+2015,"Agriculture, forestry and fishing",316.2
+2016,"Agriculture, forestry and fishing",210.9
+2017,"Agriculture, forestry and fishing",21.8
+2018,"Agriculture, forestry and fishing",2327.6
+2008,Mining and quarrying,7500.0
+2009,Mining and quarrying,6375.7
+2010,Mining and quarrying,1028.4
+2011,Mining and quarrying,26460.8
+2012,Mining and quarrying,25677.7
+2013,Mining and quarrying,23151.8
+2014,Mining and quarrying,74973.3
+2015,Mining and quarrying,14727.5
+2016,Mining and quarrying,54302.3
+2017,Mining and quarrying,80995.2
+2018,Mining and quarrying,91845.7
+2008,Manufacturing,237437.7
+2009,Manufacturing,153569.3
+2010,Manufacturing,331386.7
+2011,Manufacturing,489551.4
+2012,Manufacturing,257259.1
+2013,Manufacturing,317742.6
+2014,Manufacturing,271250.0
+2015,Manufacturing,564715.3
+2016,Manufacturing,251234.3
+2017,Manufacturing,186333.7
+2018,Manufacturing,376441.7
+2010,"Electricity, gas, steam and air conditioning supply",20.5
+2012,"Electricity, gas, steam and air conditioning supply",15.1
+2013,"Electricity, gas, steam and air conditioning supply",16200.5
+2014,"Electricity, gas, steam and air conditioning supply",43580.9
+2015,"Electricity, gas, steam and air conditioning supply",136704.8
+2016,"Electricity, gas, steam and air conditioning supply",122246.9
+2017,"Electricity, gas, steam and air conditioning supply",79828.6
+2018,"Electricity, gas, steam and air conditioning supply",15830.6
+2008,"Water supply; sewerage, waste management and remediation activities",1282.893
+2009,"Water supply; sewerage, waste management and remediation activities",311.0
+2010,"Water supply; sewerage, waste management and remediation activities",17.0
+2011,"Water supply; sewerage, waste management and remediation activities",23.9
+2012,"Water supply; sewerage, waste management and remediation activities",29.6
+2013,"Water supply; sewerage, waste management and remediation activities",158.6
+2014,"Water supply; sewerage, waste management and remediation activities",31.5
+2018,"Water supply; sewerage, waste management and remediation activities",3.8
+2008,Construction,48949.5
+2009,Construction,21396.9
+2010,Construction,12908.2
+2011,Construction,6404.9
+2012,Construction,27832.6
+2013,Construction,15504.6
+2014,Construction,20045.5
+2015,Construction,107007.6
+2016,Construction,25385.8
+2017,Construction,3070.6
+2018,Construction,71859.5
+2008,Wholesale and retail trade; repair of motor vehicles and motorcycles,56200.3
+2009,Wholesale and retail trade; repair of motor vehicles and motorcycles,52960.3
+2010,Wholesale and retail trade; repair of motor vehicles and motorcycles,53484.3
+2011,Wholesale and retail trade; repair of motor vehicles and motorcycles,64982.6
+2012,Wholesale and retail trade; repair of motor vehicles and motorcycles,32625.9
+2013,Wholesale and retail trade; repair of motor vehicles and motorcycles,66575.3
+2014,Wholesale and retail trade; repair of motor vehicles and motorcycles,37620.0
+2015,Wholesale and retail trade; repair of motor vehicles and motorcycles,64832.3
+2016,Wholesale and retail trade; repair of motor vehicles and motorcycles,13231.0
+2017,Wholesale and retail trade; repair of motor vehicles and motorcycles,30550.6
+2018,Wholesale and retail trade; repair of motor vehicles and motorcycles,34533.2
+2008,Transportation and storage,15126.3
+2009,Transportation and storage,8775.8
+2010,Transportation and storage,12167.0
+2011,Transportation and storage,36623.8
+2012,Transportation and storage,6449.1
+2013,Transportation and storage,10062.1
+2014,Transportation and storage,6042.6
+2015,Transportation and storage,2551.5
+2016,Transportation and storage,18.2
+2017,Transportation and storage,104.8
+2018,Transportation and storage,8726.8
+2008,Accommodation and food service activities,2386.663
+2009,Accommodation and food service activities,4782.8
+2010,Accommodation and food service activities,8158.1
+2011,Accommodation and food service activities,4010.7
+2012,Accommodation and food service activities,1759.8
+2013,Accommodation and food service activities,473.6
+2014,Accommodation and food service activities,219.3
+2015,Accommodation and food service activities,38.4
+2016,Accommodation and food service activities,2102.5
+2017,Accommodation and food service activities,2624.7
+2018,Accommodation and food service activities,638.2
+2008,Information and communication,2449.8
+2009,Information and communication,13580.1
+2010,Information and communication,922.5
+2011,Information and communication,3243.4
+2012,Information and communication,2642.0
+2013,Information and communication,3235.3
+2014,Information and communication,13168.7
+2015,Information and communication,5699.3
+2016,Information and communication,1251.0
+2017,Information and communication,14422.4
+2018,Information and communication,52603.8
+2008,Financial and insurance activities,347140.38899999997
+2009,Financial and insurance activities,250155.9
+2010,Financial and insurance activities,34882.2
+2011,Financial and insurance activities,48145.0
+2012,Financial and insurance activities,42233.9
+2013,Financial and insurance activities,99847.3
+2014,Financial and insurance activities,28495.0
+2015,Financial and insurance activities,411883.8
+2016,Financial and insurance activities,178724.5
+2017,Financial and insurance activities,81475.8
+2018,Financial and insurance activities,53939.5
+2010,Real estate activities,314.1
+2011,Real estate activities,241.2
+2012,Real estate activities,3961.3
+2013,Real estate activities,2567.9
+2014,Real estate activities,3071.3
+2015,Real estate activities,2845.7
+2016,Real estate activities,216.8
+2017,Real estate activities,1.1
+2018,Real estate activities,729.6
+2008,"Professional, scientific and technical activities",146708.1692
+2009,"Professional, scientific and technical activities",148003.4
+2010,"Professional, scientific and technical activities",210779.0
+2011,"Professional, scientific and technical activities",169475.1
+2012,"Professional, scientific and technical activities",186849.8
+2013,"Professional, scientific and technical activities",403375.4
+2014,"Professional, scientific and technical activities",228570.3
+2015,"Professional, scientific and technical activities",261903.2
+2016,"Professional, scientific and technical activities",164965.9
+2017,"Professional, scientific and technical activities",132449.4
+2018,"Professional, scientific and technical activities",142129.0
+2008,Administrative and support service activities,0.2841
+2009,Administrative and support service activities,9.3
+2010,Administrative and support service activities,2.4
+2011,Administrative and support service activities,1.7
+2012,Administrative and support service activities,1083.0
+2013,Administrative and support service activities,17.1
+2014,Administrative and support service activities,11.1
+2015,Administrative and support service activities,0.8
+2016,Administrative and support service activities,65.4
+2017,Administrative and support service activities,123.3
+2018,Administrative and support service activities,76.1
+2008,Education,0.3
+2009,Education,139.3
+2010,Education,12.9
+2013,Education,5009.5
+2014,Education,11.7
+2015,Education,17.3
+2016,Education,5.2
+2017,Education,6.1
+2008,Human health and social work activities,397.7
+2009,Human health and social work activities,395.3
+2012,Human health and social work activities,127.2
+2017,Human health and social work activities,73.0
+2018,Human health and social work activities,8.1
+2008,"Arts, entertainment and recreation",37.0393
+2009,"Arts, entertainment and recreation",476.6
+2011,"Arts, entertainment and recreation",33.1
+2012,"Arts, entertainment and recreation",141.5
+2013,"Arts, entertainment and recreation",240.4
+2017,"Arts, entertainment and recreation",4712.0
+2013,Other service activities,0.1
+2018,Other service activities,50.4
