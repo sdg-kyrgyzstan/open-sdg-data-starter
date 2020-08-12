@@ -7,6 +7,8 @@ config='open_sdg_config_sdmx.yml'
 def alter_data(df):
     if 'Source details' in df:
       del df['Source details']
+    if 'Time series-level footnotes' in df:
+        del df['Time series-level footnotes']
     return df
 
 def alter_meta(meta):
