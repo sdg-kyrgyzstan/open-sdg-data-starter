@@ -7,9 +7,8 @@ config='open_sdg_config_sdmx.yml'
 def alter_data(df):
     if 'Source details' in df:
       del df['Source details']
-    if 'COMMENT_TS' in df:
+    if 'concept.COMMENT_TS' in df:
         del df['concept.COMMENT_TS']
-    print(df)
     return df
 
 def alter_meta(meta):
