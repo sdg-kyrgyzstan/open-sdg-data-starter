@@ -8,8 +8,7 @@ def alter_data(df):
     if 'Source details' in df:
       del df['Source details']
     if 'COMMENT_TS' in df:
-        del df['Concept.COMMENT_TS']
-    print(df)
+        del df['concept.COMMENT_TS']
     return df
 
 def alter_meta(meta):
