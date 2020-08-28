@@ -6,6 +6,6 @@ numpy
 xlrd
 ruamel.yaml>=0.15
 git+git://github.com/dougmet/yamlmd
-git+https://github.com/open-sdg/sdg-build@rem-input-path-kg1
+git+https://github.com/open-sdg/sdg-build@rem-input-path-kg2
 jsonschema
 
