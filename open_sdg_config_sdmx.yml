@@ -81,3 +81,13 @@ reporting_status_extra_fields: []
 # to create a file called "open_sdg_alter.py" in the same folder as this file.
 # To perform data alterations, it should include a function called "alter_data".
 # To perform meta alterations, it should include a function called "alter_meta".
+
+indicator_downloads:
+  - button_label: indicator.download_source
+    source_pattern: data/*.csv
+    indicator_id_pattern: (.*)
+    output_folder: data-csv
+  - button_label: Download Source SDMX-ML
+    source_pattern: data/*.xml
+    indicator_id_pattern: (.*)
+    output_folder: data-sdmx
