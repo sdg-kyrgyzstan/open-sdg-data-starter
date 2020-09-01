@@ -1,4 +1,4 @@
-Цель,goal_name
+﻿Цель,goal_name
 Задача,target_name
 Индикатор,indicator_name1
 Организация,organization_name
@@ -18,3 +18,23 @@
 Разбивка:,disaggregation
 7. Сопоставимость с международными данными / стандартами,international_comparability
 8. Ссылки и документация,references_documentation
+Goal,goal_name
+Target,target_name
+Indicator,indicator_name1
+Organization,organization_name
+Contact person(s)/Focal point,contact_name
+Contact person's email,contact_email
+Contact person's phone,contact_phone
+Organization website (if available),organization_website
+Definitions,definitions
+Concepts,concepts
+Rationale and interpretation,rationale_interpretation
+Data sources,data_sources
+Data collection methods,data_collection
+Method of computation,computation_methods
+Comments and limitations,comments_limitations
+Quality assurance,quality_assurance
+Data availability and gaps,data_availability_gaps
+Disaggregation,disaggregation
+7. Comparability with international data/standards,international_comparability
+8. References and documentation,references_documentation
