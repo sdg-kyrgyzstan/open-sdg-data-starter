@@ -1,40 +1,40 @@
-1,Цель,goal_name
-2,Задача,target_name
-3,Индикатор,indicator_name1
-4,Организация,organization_name
-5,Контактное лицо (лица) / Координатор,contact_name
-6,Электронная почта контактного лица,contact_email
-7,Телефон контактного лица,contact_phone
-8,Сайт организации (если есть),organization_website
-9,Определение,definitions
-10,Основные понятия:,concepts
-11,Обоснование и толкование,rationale_interpretation
-12,Источники данных,data_sources
-13,Методы сбора данных,data_collection
-14,Метод расчета:,computation_methods
-15,Комментарий и ограничения:,comments_limitations
-16,Гарантия качества:,quality_assurance
-17,Доступность данных и пробелы:,data_availability_gaps
-18,Разбивка:,disaggregation
-19,7. Сопоставимость с международными данными / стандартами,international_comparability
-20,8. Ссылки и документация,references_documentation
-21,Goal,goal_name
-22,Target,target_name
-23,Indicator,indicator_name1
-24,Organization,organization_name
-25,Contact person(s)/Focal point,contact_name
-26,Contact person's email,contact_email
-27,Contact person's phone,contact_phone
-28,Organization website (if available),organization_website
-29,Definitions,definitions
-30,Concepts,concepts
-31,Rationale and interpretation,rationale_interpretation
-32,Data sources,data_sources
-33,Data collection methods,data_collection
-34,Method of computation,computation_methods
-35,Comments and limitations,comments_limitations
-36,Quality assurance,quality_assurance
-37,Data availability and gaps,data_availability_gaps
-38,Disaggregation,disaggregation
-39,7. Comparability with international data/standards,international_comparability
-40,8. References and documentation,references_documentation
+Цель,goal_name
+Задача,target_name
+Индикатор,indicator_name1
+Организация,organization_name
+Контактное лицо (лица) / Координатор,contact_name
+Электронная почта контактного лица,contact_email
+Телефон контактного лица,contact_phone
+Сайт организации (если есть),organization_website
+Определение,definitions
+Основные понятия:,concepts
+Обоснование и толкование,rationale_interpretation
+Источники данных,data_sources
+Методы сбора данных,data_collection
+Метод расчета:,computation_methods
+Комментарий и ограничения:,comments_limitations
+Гарантия качества:,quality_assurance
+Доступность данных и пробелы:,data_availability_gaps
+Разбивка:,disaggregation
+7. Сопоставимость с международными данными / стандартами,international_comparability
+8. Ссылки и документация,references_documentation
+Goal,goal_name
+Target,target_name
+Indicator,indicator_name1
+Organization,organization_name
+Contact person(s)/Focal point,contact_name
+Contact person's email,contact_email
+Contact person's phone,contact_phone
+Organization website (if available),organization_website
+Definitions,definitions
+Concepts,concepts
+Rationale and interpretation,rationale_interpretation
+Data sources,data_sources
+Data collection methods,data_collection
+Method of computation,computation_methods
+Comments and limitations,comments_limitations
+Quality assurance,quality_assurance
+Data availability and gaps,data_availability_gaps
+Disaggregation,disaggregation
+7. Comparability with international data/standards,international_comparability
+8. References and documentation,references_documentation
