@@ -11,6 +11,7 @@ Year,Reference area,Sex,Value
 2016,,,8
 2017,,,8
 2018,,,8
+2019,,,9
 2007,,Female,9
 2008,,Female,14
 2009,,Female,8
@@ -23,6 +24,7 @@ Year,Reference area,Sex,Value
 2016,,Female,4
 2017,,Female,4
 2018,,Female,5
+2019,,Female,5
 2007,,Male,22
 2008,,Male,24
 2009,,Male,18
@@ -35,6 +37,7 @@ Year,Reference area,Sex,Value
 2016,,Male,11
 2017,,Male,12
 2018,,Male,11
+2019,,Male,13
 2007,Batken,,9
 2008,Batken,,2
 2009,Batken,,16
@@ -45,10 +48,12 @@ Year,Reference area,Sex,Value
 2016,Batken,,2
 2017,Batken,,16
 2018,Batken,,8
+2019,Batken,,32
 2009,Batken,Female,9
 2013,Batken,Female,9
 2017,Batken,Female,4
 2018,Batken,Female,8
+2019,Batken,Female,19
 2007,Batken,Male,19
 2008,Batken,Male,5
 2009,Batken,Male,23
@@ -59,6 +64,7 @@ Year,Reference area,Sex,Value
 2016,Batken,Male,4
 2017,Batken,Male,27
 2018,Batken,Male,8
+2019,Batken,Male,44
 2007,Jalal-Abad,,2
 2008,Jalal-Abad,,2
 2009,Jalal-Abad,,9
@@ -68,9 +74,11 @@ Year,Reference area,Sex,Value
 2015,Jalal-Abad,,1
 2016,Jalal-Abad,,1
 2017,Jalal-Abad,,5
+2019,Jalal-Abad,,4
 2009,Jalal-Abad,Female,8
 2010,Jalal-Abad,Female,6
 2012,Jalal-Abad,Female,2
+2019,Jalal-Abad,Female,3
 2007,Jalal-Abad,Male,4
 2008,Jalal-Abad,Male,4
 2009,Jalal-Abad,Male,10
@@ -80,6 +88,7 @@ Year,Reference area,Sex,Value
 2015,Jalal-Abad,Male,2
 2016,Jalal-Abad,Male,2
 2017,Jalal-Abad,Male,10
+2019,Jalal-Abad,Male,5
 2007,Issyk-Kul,,28
 2008,Issyk-Kul,,37
 2009,Issyk-Kul,,25
@@ -92,6 +101,7 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,,13
 2017,Issyk-Kul,,10
 2018,Issyk-Kul,,8
+2019,Issyk-Kul,,6
 2007,Issyk-Kul,Female,14
 2008,Issyk-Kul,Female,32
 2009,Issyk-Kul,Female,9
@@ -102,6 +112,7 @@ Year,Reference area,Sex,Value
 2014,Issyk-Kul,Female,4
 2016,Issyk-Kul,Female,13
 2017,Issyk-Kul,Female,4
+2019,Issyk-Kul,Female,4
 2007,Issyk-Kul,Male,42
 2008,Issyk-Kul,Male,42
 2009,Issyk-Kul,Male,41
@@ -114,6 +125,7 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,Male,13
 2017,Issyk-Kul,Male,17
 2018,Issyk-Kul,Male,17
+2019,Issyk-Kul,Male,8
 2007,Naryn,,12
 2010,Naryn,,4
 2013,Naryn,,4
@@ -132,10 +144,12 @@ Year,Reference area,Sex,Value
 2016,Osh,,2
 2017,Osh,,2
 2018,Osh,,2
+2019,Osh,,4
 2008,Osh,Female,2
 2012,Osh,Female,3
 2015,Osh,Female,2
 2017,Osh,Female,3
+2019,Osh,Female,3
 2008,Osh,Male,2
 2009,Osh,Male,5
 2011,Osh,Male,2
@@ -143,18 +157,21 @@ Year,Reference area,Sex,Value
 2015,Osh,Male,5
 2016,Osh,Male,5
 2018,Osh,Male,3
+2019,Osh,Male,6
 2008,Talas,,9
 2009,Talas,,4
 2013,Talas,,4
 2014,Talas,,4
 2015,Talas,,4
 2016,Talas,,4
+2019,Talas,,4
 2008,Talas,Male,18
 2009,Talas,Male,9
 2013,Talas,Male,8
 2014,Talas,Male,8
 2015,Talas,Male,8
 2016,Talas,Male,8
+2019,Talas,Male,7
 2007,Chui,,42
 2008,Chui,,61
 2009,Chui,,30
@@ -167,6 +184,7 @@ Year,Reference area,Sex,Value
 2016,Chui,,22
 2017,Chui,,22
 2018,Chui,,26
+2019,Chui,,20
 2007,Chui,Female,25
 2008,Chui,Female,44
 2009,Chui,Female,24
@@ -179,6 +197,7 @@ Year,Reference area,Sex,Value
 2016,Chui,Female,4
 2017,Chui,Female,13
 2018,Chui,Female,17
+2019,Chui,Female,8
 2007,Chui,Male,59
 2008,Chui,Male,79
 2009,Chui,Male,35
@@ -191,6 +210,7 @@ Year,Reference area,Sex,Value
 2016,Chui,Male,41
 2017,Chui,Male,31
 2018,Chui,Male,35
+2019,Chui,Male,32
 2007,Bishkek (city),,32
 2008,Bishkek (city),,34
 2009,Bishkek (city),,18
@@ -203,6 +223,7 @@ Year,Reference area,Sex,Value
 2016,Bishkek (city),,15
 2017,Bishkek (city),,9
 2018,Bishkek (city),,13
+2019,Bishkek (city),,4
 2007,Bishkek (city),Female,23
 2008,Bishkek (city),Female,27
 2009,Bishkek (city),Female,11
@@ -215,6 +236,7 @@ Year,Reference area,Sex,Value
 2016,Bishkek (city),Female,15
 2017,Bishkek (city),Female,4
 2018,Bishkek (city),Female,7
+2019,Bishkek (city),Female,2
 2007,Bishkek (city),Male,42
 2008,Bishkek (city),Male,42
 2009,Bishkek (city),Male,26
@@ -227,12 +249,15 @@ Year,Reference area,Sex,Value
 2016,Bishkek (city),Male,15
 2017,Bishkek (city),Male,15
 2018,Bishkek (city),Male,19
+2019,Bishkek (city),Male,6
 2007,Osh (city),,4
 2011,Osh (city),,4
 2012,Osh (city),,12
 2015,Osh (city),,4
+2019,Osh (city),,10
 2007,Osh (city),Female,7
 2012,Osh (city),Female,15
 2011,Osh (city),Male,8
 2012,Osh (city),Male,8
 2015,Osh (city),Male,8
+2019,Osh (city),Male,20
