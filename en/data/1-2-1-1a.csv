@@ -1,149 +1,185 @@
 Year,Sex,Age,Degree of urbanisation,Economic activity,Value
-2015,,,,,23.0
+2015,,,,,22.971916
 2016,,,,,18.3
 2017,,,,,18.0
 2018,,,,,15.5
-2015,Male,,,,24.6
+2019,,,,,13.2
+2015,Male,,,,24.625381
 2016,Male,,,,19.7
 2017,Male,,,,20.0
 2018,Male,,,,16.6
-2015,Female,,,,20.6
+2019,Male,,,,14.9
+2015,Female,,,,20.568799
 2016,Female,,,,16.0
 2017,Female,,,,14.8
 2018,Female,,,,13.6
-2015,,15 to 19 years old,,,23.7
-2016,,15 to 19 years old,,,19.0
-2017,,15 to 19 years old,,,14.7
-2018,,15 to 19 years old,,,12.6
-2015,,20 to 24 years old,,,19.9
-2016,,20 to 24 years old,,,18.0
-2017,,20 to 24 years old,,,13.9
-2018,,20 to 24 years old,,,10.7
-2015,,25 to 29 years old,,,20.9
-2016,,25 to 29 years old,,,17.5
-2017,,25 to 29 years old,,,18.5
-2018,,25 to 29 years old,,,15.8
-2015,,30 to 34 years old,,,31.9
-2016,,30 to 34 years old,,,22.5
-2017,,30 to 34 years old,,,22.9
-2018,,30 to 34 years old,,,18.4
-2015,,35 to 39 years old,,,33.4
-2016,,35 to 39 years old,,,27.6
-2017,,35 to 39 years old,,,26.4
-2018,,35 to 39 years old,,,23.4
-2015,,40 to 44 years old,,,27.5
-2016,,40 to 44 years old,,,20.1
-2017,,40 to 44 years old,,,21.8
-2018,,40 to 44 years old,,,18.5
-2015,,45 to 49 years old,,,20.3
-2016,,45 to 49 years old,,,15.1
-2017,,45 to 49 years old,,,15.3
-2018,,45 to 49 years old,,,13.5
-2015,,50 to 54 years old,,,12.4
-2016,,50 to 54 years old,,,11.3
-2017,,50 to 54 years old,,,10.8
-2018,,50 to 54 years old,,,12.5
-2015,,55 to 59 years old,,,11.4
-2016,,55 to 59 years old,,,8.4
-2017,,55 to 59 years old,,,10.3
-2018,,55 to 59 years old,,,9.5
-2015,,60 to 64 years old,,,9.4
-2016,,60 to 64 years old,,,14.2
-2017,,60 to 64 years old,,,14.3
-2018,,60 to 64 years old,,,12.0
-2015,,65 to 69 years old,,,5.3
-2016,,65 to 69 years old,,,7.6
-2017,,65 to 69 years old,,,6.2
-2018,,65 to 69 years old,,,4.8
-2015,,70 years old and over,,,4.3
-2016,,70 years old and over,,,13.9
-2017,,70 years old and over,,,10.6
-2018,,70 years old and over,,,3.7
-2015,,,Urban,,18.1
-2016,,,Urban,,11.8
-2017,,,Urban,,13.2
+2019,Female,,,,10.5
+2015,,15 to 19 years old,,,23.727492
+2016,,15 to 19 years old,,,18.981762
+2017,,15 to 19 years old,,,14.748617000000001
+2018,,15 to 19 years old,,,12.569312
+2019,,15 to 19 years old,,,6.6
+2015,,20 to 24 years old,,,19.900404
+2016,,20 to 24 years old,,,18.030501
+2017,,20 to 24 years old,,,13.948053
+2018,,20 to 24 years old,,,10.713886
+2019,,20 to 24 years old,,,8.1
+2015,,25 to 29 years old,,,20.936837
+2016,,25 to 29 years old,,,17.480642
+2017,,25 to 29 years old,,,18.451453
+2018,,25 to 29 years old,,,15.81122
+2019,,25 to 29 years old,,,11.1
+2015,,30 to 34 years old,,,31.941974
+2016,,30 to 34 years old,,,22.514499
+2017,,30 to 34 years old,,,22.859645999999998
+2018,,30 to 34 years old,,,18.364476999999997
+2019,,30 to 34 years old,,,17.1
+2015,,35 to 39 years old,,,33.358438
+2016,,35 to 39 years old,,,27.556783000000003
+2017,,35 to 39 years old,,,26.449237
+2018,,35 to 39 years old,,,23.421118
+2019,,35 to 39 years old,,,25.0
+2015,,40 to 44 years old,,,27.540969
+2016,,40 to 44 years old,,,20.070139
+2017,,40 to 44 years old,,,21.848723
+2018,,40 to 44 years old,,,18.519254
+2019,,40 to 44 years old,,,16.1
+2015,,45 to 49 years old,,,20.291457
+2016,,45 to 49 years old,,,15.102517
+2017,,45 to 49 years old,,,15.28059
+2018,,45 to 49 years old,,,13.51728
+2019,,45 to 49 years old,,,11.1
+2015,,50 to 54 years old,,,12.36359
+2016,,50 to 54 years old,,,11.302524
+2017,,50 to 54 years old,,,10.786083999999999
+2018,,50 to 54 years old,,,12.477862
+2019,,50 to 54 years old,,,8.6
+2015,,55 to 59 years old,,,11.393416
+2016,,55 to 59 years old,,,8.398371000000001
+2017,,55 to 59 years old,,,10.344861
+2018,,55 to 59 years old,,,9.489257
+2019,,55 to 59 years old,,,7.9
+2015,,60 to 64 years old,,,9.437077
+2016,,60 to 64 years old,,,14.236348999999999
+2017,,60 to 64 years old,,,14.339166
+2018,,60 to 64 years old,,,11.956667
+2019,,60 to 64 years old,,,8.8
+2015,,65 to 69 years old,,,5.348356
+2016,,65 to 69 years old,,,7.617625
+2017,,65 to 69 years old,,,6.152168
+2018,,65 to 69 years old,,,4.775939
+2019,,65 to 69 years old,,,4.2
+2015,,70 years old and over,,,4.3248120000000005
+2016,,70 years old and over,,,13.929941
+2017,,70 years old and over,,,10.576621000000001
+2018,,70 years old and over,,,3.7174720000000003
+2019,,70 years old and over,,,7.3
+2015,,,Urban,,18.096777
+2016,,,Urban,,11.846667
+2017,,,Urban,,13.174610999999999
 2018,,,Urban,,13.0
-2015,,,Rural,,25.5
-2016,,,Rural,,21.8
-2017,,,Rural,,20.7
+2019,,,Urban,,9.7
+2015,,,Rural,,25.484816
+2016,,,Rural,,21.760369
+2017,,,Rural,,20.740757000000002
 2018,,,Rural,,16.9
-2015,,,,"Agriculture, forestry and fishing",29.1
-2016,,,,"Agriculture, forestry and fishing",24.5
-2017,,,,"Agriculture, forestry and fishing",22.6
-2018,,,,"Agriculture, forestry and fishing",21.9
-2015,,,,Mining and quarrying,25.7
-2016,,,,Mining and quarrying,17.4
-2017,,,,Mining and quarrying,43.5
-2018,,,,Mining and quarrying,46.5
-2015,,,,Manufacturing,20.7
-2016,,,,Manufacturing,16.8
-2017,,,,Manufacturing,19.3
-2018,,,,Manufacturing,13.0
-2015,,,,"Electricity, gas, steam and air conditioning supply",10.4
-2016,,,,"Electricity, gas, steam and air conditioning supply",6.7
-2017,,,,"Electricity, gas, steam and air conditioning supply",16.8
-2018,,,,"Electricity, gas, steam and air conditioning supply",9.9
-2015,,,,"Water supply; sewerage, waste management and remediation activities",8.8
-2016,,,,"Water supply; sewerage, waste management and remediation activities",11.0
-2017,,,,"Water supply; sewerage, waste management and remediation activities",16.9
-2018,,,,"Water supply; sewerage, waste management and remediation activities",14.4
-2015,,,,Construction,30.5
-2016,,,,Construction,21.9
-2017,,,,Construction,25.2
-2018,,,,Construction,18.3
-2015,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,17.0
-2016,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,13.9
-2017,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.7
-2018,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.4
-2015,,,,Transportation and storage,22.3
-2016,,,,Transportation and storage,20.9
-2017,,,,Transportation and storage,18.0
-2018,,,,Transportation and storage,14.2
-2015,,,,Accommodation and food service activities,18.2
-2016,,,,Accommodation and food service activities,14.0
-2017,,,,Accommodation and food service activities,10.5
-2018,,,,Accommodation and food service activities,10.1
-2015,,,,Information and communication,23.4
-2016,,,,Information and communication,12.6
-2017,,,,Information and communication,7.2
-2018,,,,Information and communication,7.4
-2015,,,,Financial and insurance activities,10.5
-2016,,,,Financial and insurance activities,7.0
-2017,,,,Financial and insurance activities,11.9
-2018,,,,Financial and insurance activities,10.7
-2015,,,,Real estate activities,3.9
-2016,,,,Real estate activities,1.6
-2017,,,,Real estate activities,1.9
-2015,,,,"Professional, scientific and technical activities",19.0
-2016,,,,"Professional, scientific and technical activities",6.4
-2017,,,,"Professional, scientific and technical activities",10.7
-2018,,,,"Professional, scientific and technical activities",6.2
-2015,,,,Administrative and support service activities,13.6
-2016,,,,Administrative and support service activities,9.7
-2017,,,,Administrative and support service activities,17.4
-2018,,,,Administrative and support service activities,10.9
-2015,,,,Public administration and defence; compulsory social security,16.9
-2016,,,,Public administration and defence; compulsory social security,9.9
-2017,,,,Public administration and defence; compulsory social security,10.1
-2018,,,,Public administration and defence; compulsory social security,6.6
-2015,,,,Education,20.4
-2016,,,,Education,16.1
-2017,,,,Education,18.6
-2018,,,,Education,18.9
-2015,,,,Human health and social work activities,13.3
-2016,,,,Human health and social work activities,11.6
-2017,,,,Human health and social work activities,15.2
-2018,,,,Human health and social work activities,12.0
-2015,,,,"Arts, entertainment and recreation",24.9
-2016,,,,"Arts, entertainment and recreation",22.9
-2017,,,,"Arts, entertainment and recreation",13.5
-2018,,,,"Arts, entertainment and recreation",10.0
-2015,,,,Other service activities,14.3
-2016,,,,Other service activities,10.5
-2017,,,,Other service activities,9.7
-2018,,,,Other service activities,9.1
-2015,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,24.0
-2016,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,46.9
-2017,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,31.5
-2018,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,23.4
-2017,,,,Activities of extraterritorial organisations and bodies,15.6
+2019,,,Rural,,15.2
+2015,,,,"Agriculture, forestry and fishing",29.143908000000003
+2016,,,,"Agriculture, forestry and fishing",24.458297
+2017,,,,"Agriculture, forestry and fishing",22.569518
+2018,,,,"Agriculture, forestry and fishing",21.917679999999997
+2019,,,,"Agriculture, forestry and fishing",14.2
+2015,,,,Mining and quarrying,25.706733
+2016,,,,Mining and quarrying,17.407080999999998
+2017,,,,Mining and quarrying,43.485033
+2018,,,,Mining and quarrying,46.524661
+2019,,,,Mining and quarrying,40.4
+2015,,,,Manufacturing,20.686606
+2016,,,,Manufacturing,16.804167
+2017,,,,Manufacturing,19.252254999999998
+2018,,,,Manufacturing,12.973925999999999
+2019,,,,Manufacturing,14.3
+2015,,,,"Electricity, gas, steam and air conditioning supply",10.380818
+2016,,,,"Electricity, gas, steam and air conditioning supply",6.694578999999999
+2017,,,,"Electricity, gas, steam and air conditioning supply",16.766198000000003
+2018,,,,"Electricity, gas, steam and air conditioning supply",9.870001
+2019,,,,"Electricity, gas, steam and air conditioning supply",10.0
+2015,,,,"Water supply; sewerage, waste management and remediation activities",8.763458
+2016,,,,"Water supply; sewerage, waste management and remediation activities",11.046114999999999
+2017,,,,"Water supply; sewerage, waste management and remediation activities",16.935338
+2018,,,,"Water supply; sewerage, waste management and remediation activities",14.440148
+2019,,,,"Water supply; sewerage, waste management and remediation activities",16.3
+2015,,,,Construction,30.479759
+2016,,,,Construction,21.910701
+2017,,,,Construction,25.189653
+2018,,,,Construction,18.342748
+2019,,,,Construction,16.1
+2015,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,17.048203
+2016,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,13.904379
+2017,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.664883
+2018,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,12.403591
+2019,,,,Wholesale and retail trade; repair of motor vehicles and motorcycles,11.6
+2015,,,,Transportation and storage,22.27405
+2016,,,,Transportation and storage,20.940255
+2017,,,,Transportation and storage,17.99169
+2018,,,,Transportation and storage,14.190519
+2019,,,,Transportation and storage,15.2
+2015,,,,Accommodation and food service activities,18.21034
+2016,,,,Accommodation and food service activities,13.950839000000002
+2017,,,,Accommodation and food service activities,10.454912
+2018,,,,Accommodation and food service activities,10.100327
+2019,,,,Accommodation and food service activities,8.9
+2015,,,,Information and communication,23.378289000000002
+2016,,,,Information and communication,12.552141
+2017,,,,Information and communication,7.217630000000001
+2018,,,,Information and communication,7.398289999999999
+2019,,,,Information and communication,2.1
+2015,,,,Financial and insurance activities,10.489030999999999
+2016,,,,Financial and insurance activities,6.973096000000001
+2017,,,,Financial and insurance activities,11.910368
+2018,,,,Financial and insurance activities,10.729115
+2019,,,,Financial and insurance activities,15.6
+2015,,,,Real estate activities,3.9345550000000005
+2016,,,,Real estate activities,1.56104
+2017,,,,Real estate activities,1.876997
+2015,,,,"Professional, scientific and technical activities",18.961063
+2016,,,,"Professional, scientific and technical activities",6.415037
+2017,,,,"Professional, scientific and technical activities",10.733285
+2018,,,,"Professional, scientific and technical activities",6.187182
+2019,,,,"Professional, scientific and technical activities",12.6
+2015,,,,Administrative and support service activities,13.647895000000002
+2016,,,,Administrative and support service activities,9.73944
+2017,,,,Administrative and support service activities,17.445705
+2018,,,,Administrative and support service activities,10.903917
+2019,,,,Administrative and support service activities,10.8
+2015,,,,Public administration and defence; compulsory social security,16.876779
+2016,,,,Public administration and defence; compulsory social security,9.94822
+2017,,,,Public administration and defence; compulsory social security,10.126909
+2018,,,,Public administration and defence; compulsory social security,6.6467600000000004
+2019,,,,Public administration and defence; compulsory social security,6.7
+2015,,,,Education,20.413164000000002
+2016,,,,Education,16.145522
+2017,,,,Education,18.579279999999997
+2018,,,,Education,18.915135
+2019,,,,Education,13.2
+2015,,,,Human health and social work activities,13.310295000000002
+2016,,,,Human health and social work activities,11.612557
+2017,,,,Human health and social work activities,15.172329000000001
+2018,,,,Human health and social work activities,12.026034
+2019,,,,Human health and social work activities,10.9
+2015,,,,"Arts, entertainment and recreation",24.880928
+2016,,,,"Arts, entertainment and recreation",22.865184
+2017,,,,"Arts, entertainment and recreation",13.457395000000002
+2018,,,,"Arts, entertainment and recreation",9.968181
+2019,,,,"Arts, entertainment and recreation",13.3
+2015,,,,Other service activities,14.316551
+2016,,,,Other service activities,10.525974
+2017,,,,Other service activities,9.650244
+2018,,,,Other service activities,9.121616
+2019,,,,Other service activities,6.8
+2015,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,23.958709
+2016,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,46.915523
+2017,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,31.481607
+2018,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,23.380874
+2019,,,,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,18.3
+2017,,,,Activities of extraterritorial organisations and bodies,15.599785999999998
