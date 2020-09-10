@@ -11,6 +11,7 @@ Year,Reference area,Value
 2016,,12.670713000000001
 2017,,11.795339
 2018,,12.0
+2019,,11.8
 2007,Batken,20.020582
 2008,Batken,20.371252
 2009,Batken,17.752959
@@ -23,6 +24,7 @@ Year,Reference area,Value
 2016,Batken,10.61082
 2017,Batken,10.611457000000001
 2018,Batken,9.3
+2019,Batken,10.5
 2007,Jalal-Abad,17.491993
 2008,Jalal-Abad,13.828495000000002
 2009,Jalal-Abad,13.109231
@@ -35,6 +37,7 @@ Year,Reference area,Value
 2016,Jalal-Abad,11.493097
 2017,Jalal-Abad,9.918574000000001
 2018,Jalal-Abad,10.2
+2019,Jalal-Abad,11.7
 2007,Issyk-Kul,17.433752
 2008,Issyk-Kul,18.44146
 2009,Issyk-Kul,16.389014000000003
@@ -47,6 +50,7 @@ Year,Reference area,Value
 2016,Issyk-Kul,8.420139
 2017,Issyk-Kul,9.423503
 2018,Issyk-Kul,8.5
+2019,Issyk-Kul,9.5
 2007,Naryn,17.912773
 2008,Naryn,16.943931
 2009,Naryn,14.464366
@@ -59,6 +63,7 @@ Year,Reference area,Value
 2016,Naryn,11.227763000000001
 2017,Naryn,9.984399
 2018,Naryn,8.2
+2019,Naryn,6.6
 2007,Osh,12.608002
 2008,Osh,13.417951
 2009,Osh,10.630954
@@ -71,6 +76,7 @@ Year,Reference area,Value
 2016,Osh,3.485959
 2017,Osh,3.098263
 2018,Osh,3.4
+2019,Osh,2.8
 2007,Talas,28.86102
 2008,Talas,24.548244
 2009,Talas,25.589948
@@ -83,6 +89,7 @@ Year,Reference area,Value
 2016,Talas,12.336039999999999
 2017,Talas,12.267905
 2018,Talas,16.7
+2019,Talas,14.8
 2007,Chui,21.918468
 2008,Chui,19.965577
 2009,Chui,18.539076
@@ -95,6 +102,7 @@ Year,Reference area,Value
 2016,Chui,10.407594
 2017,Chui,6.655345
 2018,Chui,6.8
+2019,Chui,7.6
 2007,Bishkek (city),31.519613
 2008,Bishkek (city),29.87456
 2009,Bishkek (city),27.261589
@@ -107,6 +115,7 @@ Year,Reference area,Value
 2016,Bishkek (city),22.846557999999998
 2017,Bishkek (city),23.162225
 2018,Bishkek (city),22.9
+2019,Bishkek (city),19.9
 2007,Osh (city),49.506943
 2008,Osh (city),42.992096000000004
 2009,Osh (city),49.784765
@@ -119,3 +128,4 @@ Year,Reference area,Value
 2016,Osh (city),50.222162
 2017,Osh (city),46.864858
 2018,Osh (city),34.2
+2019,Osh (city),33.0
