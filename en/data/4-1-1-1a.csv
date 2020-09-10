@@ -13,6 +13,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,,1469
 2017,Male,,1464
 2018,Male,,1622
+2019,Male,,1662
 2005,Male,Cause: material difficulty,295
 2006,Male,Cause: material difficulty,151
 2007,Male,Cause: material difficulty,154
@@ -27,6 +28,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: material difficulty,84
 2017,Male,Cause: material difficulty,99
 2018,Male,Cause: material difficulty,104
+2019,Male,Cause: material difficulty,152
 2005,Male,Cause: unwillingness of parents,86
 2006,Male,Cause: unwillingness of parents,128
 2007,Male,Cause: unwillingness of parents,116
@@ -41,6 +43,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: unwillingness of parents,17
 2017,Male,Cause: unwillingness of parents,24
 2018,Male,Cause: unwillingness of parents,39
+2019,Male,Cause: unwillingness of parents,4
 2013,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",3
 2014,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",1
 2015,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",8
@@ -60,6 +63,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: for domestic reasons,287
 2017,Male,Cause: for domestic reasons,320
 2018,Male,Cause: for domestic reasons,400
+2019,Male,Cause: for domestic reasons,374
 2005,Male,Cause: no wishes to learn,222
 2006,Male,Cause: no wishes to learn,142
 2007,Male,Cause: no wishes to learn,127
@@ -74,6 +78,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: no wishes to learn,26
 2017,Male,Cause: no wishes to learn,29
 2018,Male,Cause: no wishes to learn,66
+2019,Male,Cause: no wishes to learn,34
 2005,Male,Cause: troubled families,87
 2006,Male,Cause: troubled families,65
 2007,Male,Cause: troubled families,72
@@ -88,6 +93,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: troubled families,8
 2017,Male,Cause: troubled families,9
 2018,Male,Cause: troubled families,12
+2019,Male,Cause: troubled families,13
 2005,Male,Cause: lack knowledge of language,11
 2006,Male,Cause: lack knowledge of language,9
 2007,Male,Cause: lack knowledge of language,1
@@ -113,6 +119,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: working,241
 2017,Male,Cause: working,218
 2018,Male,Cause: working,108
+2019,Male,Cause: working,121
 2013,Male,Cause:  lack of transportation (school too far from home),2
 2014,Male,Cause:  lack of transportation (school too far from home),3
 2016,Male,Cause:  lack of transportation (school too far from home),2
@@ -123,11 +130,13 @@ Year,Sex,Composite breakdown,Value
 2016,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",6
 2017,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2
 2018,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",11
+2019,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",17
 2013,Male,Cause:   does not match the age of the given class,2
 2014,Male,Cause:   does not match the age of the given class,5
 2015,Male,Cause:   does not match the age of the given class,0
 2016,Male,Cause:   does not match the age of the given class,1
 2018,Male,Cause:   does not match the age of the given class,20
+2019,Male,Cause:   does not match the age of the given class,6
 2005,Male,Cause: because of sickness ,310
 2006,Male,Cause: because of sickness ,271
 2007,Male,Cause: because of sickness ,301
@@ -142,6 +151,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: because of sickness ,39
 2017,Male,Cause: because of sickness ,27
 2018,Male,Cause: because of sickness ,44
+2019,Male,Cause: because of sickness ,35
 2005,Male,Cause: Children with disabilities,908
 2006,Male,Cause: Children with disabilities,812
 2007,Male,Cause: Children with disabilities,756
@@ -156,6 +166,7 @@ Year,Sex,Composite breakdown,Value
 2016,Male,Cause: Children with disabilities,755
 2017,Male,Cause: Children with disabilities,736
 2018,Male,Cause: Children with disabilities,811
+2019,Male,Cause: Children with disabilities,906
 2005,Male,Cause: other reasons,102
 2006,Male,Cause: other reasons,147
 2007,Male,Cause: other reasons,144
@@ -178,6 +189,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,,1107
 2017,Female,,1149
 2018,Female,,1204
+2019,Female,,1172
 2005,Female,Cause: material difficulty,137
 2006,Female,Cause: material difficulty,120
 2007,Female,Cause: material difficulty,101
@@ -192,6 +204,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: material difficulty,90
 2017,Female,Cause: material difficulty,147
 2018,Female,Cause: material difficulty,118
+2019,Female,Cause: material difficulty,110
 2005,Female,Cause: unwillingness of parents,41
 2006,Female,Cause: unwillingness of parents,86
 2007,Female,Cause: unwillingness of parents,64
@@ -206,6 +219,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: unwillingness of parents,18
 2017,Female,Cause: unwillingness of parents,22
 2018,Female,Cause: unwillingness of parents,30
+2019,Female,Cause: unwillingness of parents,8
 2013,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",5
 2015,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",3
 2016,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",6
@@ -223,6 +237,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: for domestic reasons,194
 2017,Female,Cause: for domestic reasons,220
 2018,Female,Cause: for domestic reasons,272
+2019,Female,Cause: for domestic reasons,260
 2005,Female,Cause: no wishes to learn,64
 2006,Female,Cause: no wishes to learn,75
 2007,Female,Cause: no wishes to learn,55
@@ -237,6 +252,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: no wishes to learn,12
 2017,Female,Cause: no wishes to learn,10
 2018,Female,Cause: no wishes to learn,73
+2019,Female,Cause: no wishes to learn,33
 2005,Female,Cause: troubled families,31
 2006,Female,Cause: troubled families,22
 2007,Female,Cause: troubled families,39
@@ -251,6 +267,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: troubled families,5
 2017,Female,Cause: troubled families,11
 2018,Female,Cause: troubled families,10
+2019,Female,Cause: troubled families,17
 2005,Female,Cause: lack knowledge of language,14
 2006,Female,Cause: lack knowledge of language,1
 2007,Female,Cause: lack knowledge of language,2
@@ -280,16 +297,19 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: working,204
 2017,Female,Cause: working,199
 2018,Female,Cause: working,121
+2019,Female,Cause: working,91
 2018,Female,Cause:  lack of transportation (school too far from home),2
 2013,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",4
 2014,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",7
 2015,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",79
 2017,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",1
 2018,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",4
+2019,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",8
 2014,Female,Cause:   does not match the age of the given class,4
 2015,Female,Cause:   does not match the age of the given class,2
 2017,Female,Cause:   does not match the age of the given class,1
 2018,Female,Cause:   does not match the age of the given class,18
+2019,Female,Cause:   does not match the age of the given class,3
 2005,Female,Cause: because of sickness ,196
 2006,Female,Cause: because of sickness ,213
 2007,Female,Cause: because of sickness ,219
@@ -304,6 +324,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: because of sickness ,36
 2017,Female,Cause: because of sickness ,20
 2018,Female,Cause: because of sickness ,31
+2019,Female,Cause: because of sickness ,27
 2005,Female,Cause: Children with disabilities,658
 2006,Female,Cause: Children with disabilities,585
 2007,Female,Cause: Children with disabilities,535
@@ -318,6 +339,7 @@ Year,Sex,Composite breakdown,Value
 2016,Female,Cause: Children with disabilities,542
 2017,Female,Cause: Children with disabilities,517
 2018,Female,Cause: Children with disabilities,525
+2019,Female,Cause: Children with disabilities,615
 2005,Female,Cause: other reasons,64
 2006,Female,Cause: other reasons,108
 2007,Female,Cause: other reasons,111
