@@ -10,6 +10,7 @@ Year,Economic activity,Value
 2016,,813960.7
 2017,,616793.1
 2018,,851743.6
+2019,,1076918.7
 2008,"Agriculture, forestry and fishing",583.5904
 2009,"Agriculture, forestry and fishing",17.6
 2010,"Agriculture, forestry and fishing",2.7
@@ -20,6 +21,7 @@ Year,Economic activity,Value
 2016,"Agriculture, forestry and fishing",210.9
 2017,"Agriculture, forestry and fishing",21.8
 2018,"Agriculture, forestry and fishing",2327.6
+2019,"Agriculture, forestry and fishing",149.1
 2008,Mining and quarrying,7500.0
 2009,Mining and quarrying,6375.7
 2010,Mining and quarrying,1028.4
@@ -31,6 +33,7 @@ Year,Economic activity,Value
 2016,Mining and quarrying,54302.3
 2017,Mining and quarrying,80995.2
 2018,Mining and quarrying,91845.7
+2019,Mining and quarrying,99480.9
 2008,Manufacturing,237437.7
 2009,Manufacturing,153569.3
 2010,Manufacturing,331386.7
@@ -42,6 +45,7 @@ Year,Economic activity,Value
 2016,Manufacturing,251234.3
 2017,Manufacturing,186333.7
 2018,Manufacturing,376441.7
+2019,Manufacturing,340804.6
 2010,"Electricity, gas, steam and air conditioning supply",20.5
 2012,"Electricity, gas, steam and air conditioning supply",15.1
 2013,"Electricity, gas, steam and air conditioning supply",16200.5
@@ -50,6 +54,7 @@ Year,Economic activity,Value
 2016,"Electricity, gas, steam and air conditioning supply",122246.9
 2017,"Electricity, gas, steam and air conditioning supply",79828.6
 2018,"Electricity, gas, steam and air conditioning supply",15830.6
+2019,"Electricity, gas, steam and air conditioning supply",10595.7
 2008,"Water supply; sewerage, waste management and remediation activities",1282.893
 2009,"Water supply; sewerage, waste management and remediation activities",311.0
 2010,"Water supply; sewerage, waste management and remediation activities",17.0
@@ -58,6 +63,7 @@ Year,Economic activity,Value
 2013,"Water supply; sewerage, waste management and remediation activities",158.6
 2014,"Water supply; sewerage, waste management and remediation activities",31.5
 2018,"Water supply; sewerage, waste management and remediation activities",3.8
+2019,"Water supply; sewerage, waste management and remediation activities",9.7
 2008,Construction,48949.5
 2009,Construction,21396.9
 2010,Construction,12908.2
@@ -69,6 +75,7 @@ Year,Economic activity,Value
 2016,Construction,25385.8
 2017,Construction,3070.6
 2018,Construction,71859.5
+2019,Construction,56015.7
 2008,Wholesale and retail trade; repair of motor vehicles and motorcycles,56200.3
 2009,Wholesale and retail trade; repair of motor vehicles and motorcycles,52960.3
 2010,Wholesale and retail trade; repair of motor vehicles and motorcycles,53484.3
@@ -80,6 +87,7 @@ Year,Economic activity,Value
 2016,Wholesale and retail trade; repair of motor vehicles and motorcycles,13231.0
 2017,Wholesale and retail trade; repair of motor vehicles and motorcycles,30550.6
 2018,Wholesale and retail trade; repair of motor vehicles and motorcycles,34533.2
+2019,Wholesale and retail trade; repair of motor vehicles and motorcycles,36144.1
 2008,Transportation and storage,15126.3
 2009,Transportation and storage,8775.8
 2010,Transportation and storage,12167.0
@@ -91,6 +99,7 @@ Year,Economic activity,Value
 2016,Transportation and storage,18.2
 2017,Transportation and storage,104.8
 2018,Transportation and storage,8726.8
+2019,Transportation and storage,18535.7
 2008,Accommodation and food service activities,2386.663
 2009,Accommodation and food service activities,4782.8
 2010,Accommodation and food service activities,8158.1
@@ -102,6 +111,7 @@ Year,Economic activity,Value
 2016,Accommodation and food service activities,2102.5
 2017,Accommodation and food service activities,2624.7
 2018,Accommodation and food service activities,638.2
+2019,Accommodation and food service activities,832.8
 2008,Information and communication,2449.8
 2009,Information and communication,13580.1
 2010,Information and communication,922.5
@@ -113,6 +123,7 @@ Year,Economic activity,Value
 2016,Information and communication,1251.0
 2017,Information and communication,14422.4
 2018,Information and communication,52603.8
+2019,Information and communication,138479.6
 2008,Financial and insurance activities,347140.38899999997
 2009,Financial and insurance activities,250155.9
 2010,Financial and insurance activities,34882.2
@@ -124,6 +135,7 @@ Year,Economic activity,Value
 2016,Financial and insurance activities,178724.5
 2017,Financial and insurance activities,81475.8
 2018,Financial and insurance activities,53939.5
+2019,Financial and insurance activities,62669.5
 2010,Real estate activities,314.1
 2011,Real estate activities,241.2
 2012,Real estate activities,3961.3
@@ -133,6 +145,7 @@ Year,Economic activity,Value
 2016,Real estate activities,216.8
 2017,Real estate activities,1.1
 2018,Real estate activities,729.6
+2019,Real estate activities,1029.7
 2008,"Professional, scientific and technical activities",146708.1692
 2009,"Professional, scientific and technical activities",148003.4
 2010,"Professional, scientific and technical activities",210779.0
@@ -144,6 +157,7 @@ Year,Economic activity,Value
 2016,"Professional, scientific and technical activities",164965.9
 2017,"Professional, scientific and technical activities",132449.4
 2018,"Professional, scientific and technical activities",142129.0
+2019,"Professional, scientific and technical activities",309563.2
 2008,Administrative and support service activities,0.2841
 2009,Administrative and support service activities,9.3
 2010,Administrative and support service activities,2.4
@@ -155,6 +169,7 @@ Year,Economic activity,Value
 2016,Administrative and support service activities,65.4
 2017,Administrative and support service activities,123.3
 2018,Administrative and support service activities,76.1
+2019,Administrative and support service activities,2246.9
 2008,Education,0.3
 2009,Education,139.3
 2010,Education,12.9
@@ -163,16 +178,20 @@ Year,Economic activity,Value
 2015,Education,17.3
 2016,Education,5.2
 2017,Education,6.1
+2019,Education,0.8
 2008,Human health and social work activities,397.7
 2009,Human health and social work activities,395.3
 2012,Human health and social work activities,127.2
 2017,Human health and social work activities,73.0
 2018,Human health and social work activities,8.1
+2019,Human health and social work activities,121.8
 2008,"Arts, entertainment and recreation",37.0393
 2009,"Arts, entertainment and recreation",476.6
 2011,"Arts, entertainment and recreation",33.1
 2012,"Arts, entertainment and recreation",141.5
 2013,"Arts, entertainment and recreation",240.4
 2017,"Arts, entertainment and recreation",4712.0
+2019,"Arts, entertainment and recreation",181.1
 2013,Other service activities,0.1
 2018,Other service activities,50.4
+2019,Other service activities,57.8
