@@ -11,6 +11,7 @@ Year,Occupation,Value
 2016,Medical doctors,2.1
 2017,Medical doctors,2.0
 2018,Medical doctors,2.0
+2019,Medical doctors,2.0
 2007,Dentists,0.3
 2008,Dentists,0.3
 2009,Dentists,0.3
@@ -23,6 +24,7 @@ Year,Occupation,Value
 2016,Dentists,0.3
 2017,Dentists,0.3
 2018,Dentists,0.3
+2019,Dentists,0.3
 2007,Pharmacists,0.0
 2008,Pharmacists,0.0
 2009,Pharmacists,0.0
@@ -35,6 +37,7 @@ Year,Occupation,Value
 2016,Pharmacists,0.1
 2017,Pharmacists,0.1
 2018,Pharmacists,0.1
+2019,Pharmacists,0.1
 2007,Nursing and midwifery professionals,4.4
 2008,Nursing and midwifery professionals,4.3
 2009,Nursing and midwifery professionals,4.3
@@ -47,3 +50,4 @@ Year,Occupation,Value
 2016,Nursing and midwifery professionals,4.6
 2017,Nursing and midwifery professionals,4.3
 2018,Nursing and midwifery professionals,4.5
+2019,Nursing and midwifery professionals,4.3
