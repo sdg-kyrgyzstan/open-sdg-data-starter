@@ -43,6 +43,26 @@ prose:
             label: "Goal"
             translation_key: custom.goal
             scope: indicator_information
+      - name: "national_data_update_url"
+        field:
+            element: hidden
+            label: "Data last updated"
+            scope: indicator_information
+      - name: "national_data_update_url_text"
+        field:
+            element: hidden
+            label: "Data last updated"
+            scope: indicator_information
+      - name: "national_metadata_update_url"
+        field:
+            element: hidden
+            label: "Metadata last updated"
+            scope: indicator_information
+      - name: "national_metadata_update_url_text"
+        field:
+            element: hidden
+            label: "Metadata last updated"
+            scope: indicator_information
       ######### National Metadata #########
       - name: "national_geographical_coverage"
         field:
