@@ -47,21 +47,25 @@ prose:
         field:
             element: hidden
             label: "Data last updated"
+            translation_key: metadata_fields.national_data_update_url
             scope: indicator_information
       - name: "national_data_update_url_text"
         field:
             element: hidden
             label: "Data last updated"
+            translation_key: metadata_fields.national_data_update_url_text
             scope: indicator_information
       - name: "national_metadata_update_url"
         field:
             element: hidden
             label: "Metadata last updated"
+            translation_key: metadata_fields.national_metadata_update_url
             scope: indicator_information
       - name: "national_metadata_update_url_text"
         field:
             element: hidden
             label: "Metadata last updated"
+            translation_key: metadata_fields.national_metadata_update_url_text
             scope: indicator_information
       ######### National Metadata #########
       - name: "national_geographical_coverage"
