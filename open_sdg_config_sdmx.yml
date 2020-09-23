@@ -86,3 +86,7 @@ indicator_downloads:
     source_pattern: data/*.csv
     indicator_id_pattern: (.*)
     output_folder: data-csv
+  - button_label: Download SDMX-ML file
+    source_pattern: data/*.xml
+    indicator_id_pattern: (.*)
+    output_folder: data-sdmx
