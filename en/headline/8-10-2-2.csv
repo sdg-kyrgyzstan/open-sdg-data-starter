@@ -1,21 +1,21 @@
-Year,Units,Series,Value
-2010,Number,Number of insurance companies reporting,18.0
-2011,Number,Number of insurance companies reporting,18.0
-2012,Number,Number of insurance companies reporting,19.0
-2013,Number,Number of insurance companies reporting,19.0
-2014,Number,Number of insurance companies reporting,21.0
-2015,Number,Number of insurance companies reporting,22.0
-2016,Number,Number of insurance companies reporting,24.0
-2017,Number,Number of insurance companies reporting,23.0
-2018,Number,Number of insurance companies reporting,22.0
-2019,Number,Number of insurance companies reporting,20.0
-2010,Local currency,Insurance premiums collected,477.2
-2011,Local currency,Insurance premiums collected,292.9
-2012,Local currency,Insurance premiums collected,337.8
-2013,Local currency,Insurance premiums collected,405.4
-2014,Local currency,Insurance premiums collected,1003.2
-2015,Local currency,Insurance premiums collected,967.0
-2016,Local currency,Insurance premiums collected,921.3
-2017,Local currency,Insurance premiums collected,1004.4
-2018,Local currency,Insurance premiums collected,1092.7
-2019,Local currency,Insurance premiums collected,1308.1
+Year,Value,Units,Series
+2010,18.0,Number,Number of insurance companies reporting
+2011,18.0,Number,Number of insurance companies reporting
+2012,19.0,Number,Number of insurance companies reporting
+2013,19.0,Number,Number of insurance companies reporting
+2014,21.0,Number,Number of insurance companies reporting
+2015,22.0,Number,Number of insurance companies reporting
+2016,24.0,Number,Number of insurance companies reporting
+2017,23.0,Number,Number of insurance companies reporting
+2018,22.0,Number,Number of insurance companies reporting
+2019,20.0,Number,Number of insurance companies reporting
+2010,477.2,Local currency,Insurance premiums collected
+2011,292.9,Local currency,Insurance premiums collected
+2012,337.8,Local currency,Insurance premiums collected
+2013,405.4,Local currency,Insurance premiums collected
+2014,1003.2,Local currency,Insurance premiums collected
+2015,967.0,Local currency,Insurance premiums collected
+2016,921.3,Local currency,Insurance premiums collected
+2017,1004.4,Local currency,Insurance premiums collected
+2018,1092.7,Local currency,Insurance premiums collected
+2019,1308.1,Local currency,Insurance premiums collected

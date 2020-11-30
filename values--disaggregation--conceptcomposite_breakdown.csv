@@ -1,0 +1,65 @@
+Value,en,Disaggregation combinations using this value,Number of indicators
+Страна: Республика Беларусь,Country: Republic of Belarus ,1,1
+Страна: Китайская Народная Республика,Country: People's Republic of China,1,1
+Страна: Венгрия,Country: Hungary,1,1
+Страна: Республика Казахстан,Country: Republic of Kazakhstan,1,1
+Страна: Российская Федерация,Country: Russian Federation,1,1
+Страна: Республика Таджикистан,Country: Republic of Tajikistan,1,1
+Сектор:  экономические вопросы,Sector: Economic affairs,2,1
+Сектор: жилищно-коммунальные услуги,Sector: Housing and community amenities,2,1
+Сектор: здравоохранение,Sector: Health,2,1
+Сектор: образование,Sector: Education,2,1
+Сектор: всего,Sector: Total,2,1
+Причина:  не соответствие возраста данному классу,Cause:   does not match the age of the given class,2,1
+Причина:  дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
+Причина:  по семейным обстоятельствам,Cause: for domestic reasons,2,1
+Причина:  неблагополучные семьи,Cause: troubled families,2,1
+"Причина:  состоит в браке, беременна, стали родителями (матерью, отцом)","Cause: married, pregnant, they became parents ( mother, father )",2,1
+Причина: материальные трудности,Cause: material difficulty,2,1
+"Причина:  отсутствие необходимых документов (свидетельства о рождении, прописки)","Cause: lack of the necessary documents ( birth certificates, registration)",2,1
+Причина:  не владеют языком ,Cause: lack knowledge of language,2,1
+Причина:  по другим причинам,Cause: other reasons,2,1
+Причина:  нежелание родителей,Cause: unwillingness of parents,2,1
+"Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)","Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2,1
+Причина:  по болезни,Cause: because of sickness ,2,1
+Причина:  отсутствие транспорта (школа расположена далеко от дома),Cause:  lack of transportation (school too far from home),2,1
+Причина:  нет желания учиться,Cause: no wishes to learn,2,1
+Причина:  работают,Cause: working,2,1
+"Расходы на химизацию, защиты и карантин растений","Expenditure on Plant chemicals, protection and
+quarantine",1,1
+Расходы на противоэпизоотические мероприятия,Expenditure on Anti-epizootic measures,1,1
+Расходы на природные заповедники и природные парки ,Expenditure on Nature parks and reserves,1,1
+"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",Expenditure on Environmental issues not classified elsewhere ,1,1
+Расходы на другие услуги по охране окружающей среды,"Expenditure on Other services on environmental
+protection",1,1
+Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,"Expenditure on Other services for the protection
+of biodiversity and landscape",1,1
+Расходы на борьбу с загрязнением окружающей среды,Expenditure on Pollution control,1,1
+Расходы на охрану животных ,Expenditure on Animal protection,1,1
+Расходы на охрану растений,Expenditure on Plant protection,1,1
+"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ","Expenditure on Research and development work
+related to environmental protection",1,1
+Расходы на ветеринарную диагностику,Expenditure on Veterinary diagnostics,1,1
+Источник воды: подземный горизонт,Water source: Aquifers,1,1
+Источник воды: природный,Water source: Natural,1,1
+Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,Internet speed: 256 kbit/s to less than 2 Mbit/s,1,1
+Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1,1
+Скорость интернета: 10 Мбит / с или выше,Internet speed: 10 Mbit/s or above,1,1
+Неинфекционные заболевания: Сердечно-сосудистые заболевания,Non-communicable disease: Cardiovascular disease,10,1
+Неинфекционные заболевания: Онкологические заболевания,Non-communicable disease: Cancer,10,1
+Неинфекционные заболевания: Хронические респираторные заболевания,Non-communicable disease: Chronic respiratory disease,10,1
+Неинфекционные заболевания: Диабет,Non-communicable disease: Diabetes,10,1
+CL_COMP_BREAKDOWN.POL_CO,CL_COMP_BREAKDOWN.POL_CO,1,1
+CL_COMP_BREAKDOWN.POL_GASLIQ,CL_COMP_BREAKDOWN.POL_GASLIQ,1,1
+CL_COMP_BREAKDOWN.POL_NOX,CL_COMP_BREAKDOWN.POL_NOX,1,1
+CL_COMP_BREAKDOWN.POL_S02,CL_COMP_BREAKDOWN.POL_S02,1,1
+CL_COMP_BREAKDOWN.POL_SOLID,CL_COMP_BREAKDOWN.POL_SOLID,1,1
+Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами,Skill: ICT Skill: Sending e-mails with attached files,2,1
+Навык: Навык ИКТ: Подключение и установка новых устройств,Skill: ICT Skill: connecting and installing new devices,2,1
+Навык: Навык ИКТ: Копирование или перемещение файла или папки,Skill: ICT Skill: Copying or moving a file or folder,2,1
+Навык: Навык ИКТ: Использование инструментов копирования и вставки для дублирования или перемещения информации в документе,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,2,1
+Навык: Навык ИКТ: Написание компьютерной программы с использованием специализированного языка программирования,Skill: ICT Skill: Writing a computer program using a specialized programming language,2,1
+Навык: Навык ИКТ: Создание электронных презентаций с помощью программного обеспечения для презентаций,Skill: ICT Skill: Creating electronic presentations with presentation software,2,1
+"Навык: Навык ИКТ: Поиск, загрузка, установка и настройка программного обеспечения","Skill: ICT Skill: Finding, downloading, installing and configuring software",2,1
+Навык: Навык ИКТ: Использование базовых арифметических формул в электронной таблице,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,2,1
+Навык: Навык ИКТ: Передача файлов между компьютером и другими устройствами,Skill: ICT Skill: Transferring files between a computer and other devices,2,1

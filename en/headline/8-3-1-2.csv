@@ -1,15 +1,15 @@
-Year,Series,Value
-2013,Share of employed in small enterprises in total employment,2.3
-2014,Share of employed in small enterprises in total employment,2.3
-2015,Share of employed in small enterprises in total employment,2.2
-2016,Share of employed in small enterprises in total employment,2.2
-2017,Share of employed in small enterprises in total employment,2.3
-2018,Share of employed in small enterprises in total employment,2.2
-2019,Share of employed in small enterprises in total employment,3.0
-2013,Share of employed in medium enterprises in total employment,1.6
-2014,Share of employed in medium enterprises in total employment,1.6
-2015,Share of employed in medium enterprises in total employment,1.5
-2016,Share of employed in medium enterprises in total employment,1.5
-2017,Share of employed in medium enterprises in total employment,1.5
-2018,Share of employed in medium enterprises in total employment,1.4
-2019,Share of employed in medium enterprises in total employment,1.4
+Year,Value,Series
+2013,2.3,Share of employed in small enterprises in total employment
+2014,2.3,Share of employed in small enterprises in total employment
+2015,2.2,Share of employed in small enterprises in total employment
+2016,2.2,Share of employed in small enterprises in total employment
+2017,2.3,Share of employed in small enterprises in total employment
+2018,2.2,Share of employed in small enterprises in total employment
+2019,3.0,Share of employed in small enterprises in total employment
+2013,1.6,Share of employed in medium enterprises in total employment
+2014,1.6,Share of employed in medium enterprises in total employment
+2015,1.5,Share of employed in medium enterprises in total employment
+2016,1.5,Share of employed in medium enterprises in total employment
+2017,1.5,Share of employed in medium enterprises in total employment
+2018,1.4,Share of employed in medium enterprises in total employment
+2019,1.4,Share of employed in medium enterprises in total employment

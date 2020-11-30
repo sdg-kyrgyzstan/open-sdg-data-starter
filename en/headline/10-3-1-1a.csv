@@ -1,22 +1,22 @@
-Year,Series,Value
-2007,Number of appeals to the Ombudsman,3014
-2008,Number of appeals to the Ombudsman,2136
-2009,Number of appeals to the Ombudsman,1742
-2010,Number of appeals to the Ombudsman,1862
-2011,Number of appeals to the Ombudsman,2098
-2012,Number of appeals to the Ombudsman,2843
-2013,Number of appeals to the Ombudsman,2466
-2014,Number of appeals to the Ombudsman,2411
-2015,Number of appeals to the Ombudsman,2483
-2016,Number of appeals to the Ombudsman,3800
-2017,Number of appeals to the Ombudsman,3242
-2018,Number of appeals to the Ombudsman,3237
-2007,Number of successful appeals to the Ombudsman,619
-2010,Number of successful appeals to the Ombudsman,309
-2011,Number of successful appeals to the Ombudsman,196
-2012,Number of successful appeals to the Ombudsman,501
-2013,Number of successful appeals to the Ombudsman,384
-2015,Number of successful appeals to the Ombudsman,374
-2016,Number of successful appeals to the Ombudsman,615
-2017,Number of successful appeals to the Ombudsman,531
-2018,Number of successful appeals to the Ombudsman,376
+Year,Value,Series
+2007,3014,Number of appeals to the Ombudsman
+2008,2136,Number of appeals to the Ombudsman
+2009,1742,Number of appeals to the Ombudsman
+2010,1862,Number of appeals to the Ombudsman
+2011,2098,Number of appeals to the Ombudsman
+2012,2843,Number of appeals to the Ombudsman
+2013,2466,Number of appeals to the Ombudsman
+2014,2411,Number of appeals to the Ombudsman
+2015,2483,Number of appeals to the Ombudsman
+2016,3800,Number of appeals to the Ombudsman
+2017,3242,Number of appeals to the Ombudsman
+2018,3237,Number of appeals to the Ombudsman
+2007,619,Number of successful appeals to the Ombudsman
+2010,309,Number of successful appeals to the Ombudsman
+2011,196,Number of successful appeals to the Ombudsman
+2012,501,Number of successful appeals to the Ombudsman
+2013,384,Number of successful appeals to the Ombudsman
+2015,374,Number of successful appeals to the Ombudsman
+2016,615,Number of successful appeals to the Ombudsman
+2017,531,Number of successful appeals to the Ombudsman
+2018,376,Number of successful appeals to the Ombudsman

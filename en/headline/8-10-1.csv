@@ -1,27 +1,27 @@
-Year,Series,Value
-2007,"Number of commercial bank branches per 100,000 adults",6.107469
-2008,"Number of commercial bank branches per 100,000 adults",6.545429
-2009,"Number of commercial bank branches per 100,000 adults",6.616596
-2010,"Number of commercial bank branches per 100,000 adults",5.693048999999999
-2011,"Number of commercial bank branches per 100,000 adults",6.772417999999999
-2012,"Number of commercial bank branches per 100,000 adults",7.28108
-2013,"Number of commercial bank branches per 100,000 adults",7.394386
-2014,"Number of commercial bank branches per 100,000 adults",7.425508
-2015,"Number of commercial bank branches per 100,000 adults",7.827334
-2016,"Number of commercial bank branches per 100,000 adults",7.948410000000001
-2017,"Number of commercial bank branches per 100,000 adults",7.710477
-2018,"Number of commercial bank branches per 100,000 adults",7.640969
-2019,"Number of commercial bank branches per 100,000 adults",7.566574
-2007,"Number of automated teller machines (ATMs) per 100,000 adults",2.471394
-2008,"Number of automated teller machines (ATMs) per 100,000 adults",4.888003
-2009,"Number of automated teller machines (ATMs) per 100,000 adults",8.720619000000001
-2010,"Number of automated teller machines (ATMs) per 100,000 adults",7.554757
-2011,"Number of automated teller machines (ATMs) per 100,000 adults",12.265008
-2012,"Number of automated teller machines (ATMs) per 100,000 adults",15.97647
-2013,"Number of automated teller machines (ATMs) per 100,000 adults",21.075288
-2014,"Number of automated teller machines (ATMs) per 100,000 adults",25.292345
-2015,"Number of automated teller machines (ATMs) per 100,000 adults",30.810779999999998
-2016,"Number of automated teller machines (ATMs) per 100,000 adults",31.891768
-2017,"Number of automated teller machines (ATMs) per 100,000 adults",34.153303
-2018,"Number of automated teller machines (ATMs) per 100,000 adults",37.681164
-2019,"Number of automated teller machines (ATMs) per 100,000 adults",40.105182
+Year,Value,Series
+2007,6.107469,"Number of commercial bank branches per 100,000 adults"
+2008,6.545429,"Number of commercial bank branches per 100,000 adults"
+2009,6.616596,"Number of commercial bank branches per 100,000 adults"
+2010,5.693048999999999,"Number of commercial bank branches per 100,000 adults"
+2011,6.772417999999999,"Number of commercial bank branches per 100,000 adults"
+2012,7.28108,"Number of commercial bank branches per 100,000 adults"
+2013,7.394386,"Number of commercial bank branches per 100,000 adults"
+2014,7.425508,"Number of commercial bank branches per 100,000 adults"
+2015,7.827334,"Number of commercial bank branches per 100,000 adults"
+2016,7.948410000000001,"Number of commercial bank branches per 100,000 adults"
+2017,7.710477,"Number of commercial bank branches per 100,000 adults"
+2018,7.640969,"Number of commercial bank branches per 100,000 adults"
+2019,7.566574,"Number of commercial bank branches per 100,000 adults"
+2007,2.471394,"Number of automated teller machines (ATMs) per 100,000 adults"
+2008,4.888003,"Number of automated teller machines (ATMs) per 100,000 adults"
+2009,8.720619000000001,"Number of automated teller machines (ATMs) per 100,000 adults"
+2010,7.554757,"Number of automated teller machines (ATMs) per 100,000 adults"
+2011,12.265008,"Number of automated teller machines (ATMs) per 100,000 adults"
+2012,15.97647,"Number of automated teller machines (ATMs) per 100,000 adults"
+2013,21.075288,"Number of automated teller machines (ATMs) per 100,000 adults"
+2014,25.292345,"Number of automated teller machines (ATMs) per 100,000 adults"
+2015,30.810779999999998,"Number of automated teller machines (ATMs) per 100,000 adults"
+2016,31.891768,"Number of automated teller machines (ATMs) per 100,000 adults"
+2017,34.153303,"Number of automated teller machines (ATMs) per 100,000 adults"
+2018,37.681164,"Number of automated teller machines (ATMs) per 100,000 adults"
+2019,40.105182,"Number of automated teller machines (ATMs) per 100,000 adults"
