@@ -47,6 +47,11 @@ CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,1,1
 Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,Internet speed: 256 kbit/s to less than 2 Mbit/s,1,1
 Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1,1
 Скорость интернета: 10 Мбит / с или выше,Internet speed: 10 Mbit/s or above,1,1
+Вид транспорта: Воздушный,Mode of Transport: Air,2,1
+CL_COMP_BREAKDOWN.MOT_BUS,Mode of Transport: Bus,2,1
+Вид транспорта: Железнодорожный,Mode of Transport: Rail,2,1
+CL_COMP_BREAKDOWN.MOT_TAX,Mode of Transport: Taxi,2,1
+CL_COMP_BREAKDOWN.MOT_TRO,Mode of Transport: Trolley bus,2,1
 Неинфекционные заболевания: Сердечно-сосудистые заболевания,Non-communicable disease: Cardiovascular disease,10,1
 Неинфекционные заболевания: Онкологические заболевания,Non-communicable disease: Cancer,10,1
 Неинфекционные заболевания: Хронические респираторные заболевания,Non-communicable disease: Chronic respiratory disease,10,1
