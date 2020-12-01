@@ -5,10 +5,14 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 Страна: Республика Казахстан,Country: Republic of Kazakhstan,1,1
 Страна: Российская Федерация,Country: Russian Federation,1,1
 Страна: Республика Таджикистан,Country: Republic of Tajikistan,1,1
-Сектор:  экономические вопросы,Sector: Economic affairs,2,1
-Сектор: жилищно-коммунальные услуги,Sector: Housing and community amenities,2,1
-Сектор: здравоохранение,Sector: Health,2,1
-Сектор: образование,Sector: Education,2,1
+CL_COMP_BREAKDOWN._L_COFOG_GF01,CL_COMP_BREAKDOWN._L_COFOG_GF01,1,1
+Сектор:  экономические вопросы,Sector: Economic affairs,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF05,CL_COMP_BREAKDOWN._L_COFOG_GF05,1,1
+Сектор: жилищно-коммунальные услуги,Sector: Housing and community amenities,3,2
+Сектор: здравоохранение,Sector: Health,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF08,CL_COMP_BREAKDOWN._L_COFOG_GF08,1,1
+Сектор: образование,Sector: Education,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF10,CL_COMP_BREAKDOWN._L_COFOG_GF10,1,1
 Сектор: всего,Sector: Total,2,1
 Причина:  не соответствие возраста данному классу,Cause:   does not match the age of the given class,2,1
 Причина:  дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
