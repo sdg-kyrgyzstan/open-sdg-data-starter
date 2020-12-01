@@ -15,7 +15,7 @@ CL_AGE.Y0T18,CL_AGE.Y0T18,1,1
 от 15 до 17 лет ,15 to 17 years old,5,3
 от 15 до 19 лет ,15 to 19 years old,5,5
 от 15 до 24 лет ,15 to 24 years old,10,2
-от 15 до 28 лет,15 to 28 years old,2,2
+от 15 до 28 лет,15 to 28 years old,3,3
 от 15 до 49 лет ,15 to 49 years old,9,1
 CL_AGE.Y16T62,CL_AGE.Y16T62,2,2
 от 17 до 20 лет,17 to 20 years old,3,1
@@ -25,7 +25,7 @@ CL_AGE.Y18T64,CL_AGE.Y18T64,1,1
 от 20 до 24 лет,20 to 24 years old,3,3
 от 20 до 29 лет,20 to 29 years old,2,2
 от 25 до 29 лет,25 to 29 years old,3,3
-CL_AGE.Y29T62,CL_AGE.Y29T62,2,2
+CL_AGE.Y29T62,CL_AGE.Y29T62,3,3
 от 30 до 34 лет ,30 to 34 years old,3,3
 от 30 до 39 лет ,30 to 39 years old,2,2
 от 35 до 39 лет,35 to 39 years old,3,3
@@ -41,6 +41,6 @@ CL_AGE.Y29T62,CL_AGE.Y29T62,2,2
 от 65 до 69 лет,65 to 69 years old,2,2
 от 7 до 14 лет,7 to 14 years old,1,1
 25 лет и старше ,25 years old and over,1,1
-CL_AGE.Y_GE58,CL_AGE.Y_GE58,4,4
+CL_AGE.Y_GE58,CL_AGE.Y_GE58,5,5
 65 лет и старше ,65 years old and over,1,1
 70 лет и старше,70 years old and over,3,3

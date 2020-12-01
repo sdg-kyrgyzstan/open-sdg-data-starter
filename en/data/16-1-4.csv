@@ -1,1 +1,55 @@
-Year,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2018,,,,,,,57.9
+2019,,,,,,,64.4
+2018,,,,Urban,,,50.7
+2019,,,,Urban,,,59.6
+2018,,,,Rural,,,62.8
+2019,,,,Rural,,,67.5
+2018,,Male,,,,,67.4
+2019,,Male,,,,,72.7
+2018,,Female,,,,,44.7
+2019,,Female,,,,,52.5
+2018,Batken,,,,,,63.7
+2019,Batken,,,,,,71.6
+2018,Jalal-Abad,,,,,,46.2
+2019,Jalal-Abad,,,,,,54.2
+2018,Issyk-Kul,,,,,,69.3
+2019,Issyk-Kul,,,,,,72.7
+2018,Naryn,,,,,,71.9
+2019,Naryn,,,,,,78.3
+2018,Osh,,,,,,70.4
+2019,Osh,,,,,,73.8
+2018,Talas,,,,,,73.3
+2019,Talas,,,,,,88.2
+2018,Chui,,,,,,69.3
+2019,Chui,,,,,,65.7
+2018,Bishkek (city),,,,,,31.2
+2019,Bishkek (city),,,,,,45.0
+2018,Osh (city),,,,,,86.7
+2019,Osh (city),,,,,,98.7
+2018,,,15 to 28 years old,,,,56.6
+2019,,,15 to 28 years old,,,,61.8
+2018,,,CL_AGE.Y29T62,,,,59.4
+2019,,,CL_AGE.Y29T62,,,,66.2
+2018,,,CL_AGE.Y_GE58,,,,54.1
+2019,,,CL_AGE.Y_GE58,,,,61.9
+2018,,,,,,Primary education,58.8
+2019,,,,,,Primary education,63.7
+2018,,,,,,Lower secondary education,63.3
+2019,,,,,,Lower secondary education,65.2
+2018,,,,,,Upper secondary education,57.7
+2019,,,,,,Upper secondary education,62.8
+2018,,,,,,Post-secondary non-tertiary education,59.7
+2019,,,,,,Post-secondary non-tertiary education,68.1
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),53.7
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),64.5
+2018,,,,,Quintile 1 (poorest),,52.4
+2019,,,,,Quintile 1 (poorest),,55.4
+2018,,,,,Quintile 2,,58.1
+2019,,,,,Quintile 2,,63.2
+2018,,,,,Quintile 3,,57.9
+2019,,,,,Quintile 3,,65.8
+2018,,,,,Quintile 4,,60.9
+2019,,,,,Quintile 4,,69.9
+2018,,,,,Quintile 5 (richest),,59.2
+2019,,,,,Quintile 5 (richest),,65.7
