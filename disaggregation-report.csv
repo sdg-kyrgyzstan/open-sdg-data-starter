@@ -1,15 +1,15 @@
 Disaggregation,en,Number of indicators,Number of values
 Вид экономической деятельности,Economic activity,5,22
-Возраст,Age,12,41
-Составная разбивка,Composite breakdown,9,60
-Статус инвалидности,Disability status,3,2
-Уровень образования,Education level,10,8
-Уровень дохода или квантиль благосостояния,Income or wealth quantile,8,5
+Возраст,Age,14,45
+Составная разбивка,Composite breakdown,10,62
+Статус инвалидности,Disability status,4,4
+Уровень образования,Education level,12,8
+Уровень дохода или квантиль благосостояния,Income or wealth quantile,10,5
 Род занятий,Occupation,1,4
 Тип продукта,Type of product,1,10
-Территория,Reference area,48,9
-Пол,Sex,23,2
-Тип местности,Degree of urbanisation,15,2
+Территория,Reference area,50,9
+Пол,Sex,25,2
+Тип местности,Degree of urbanisation,17,2
 Возраст (в месяцах),Возраст (в месяцах),1,5
 Возраст (лет),Возраст (лет),3,18
 Возраст,Возраст,7,12
