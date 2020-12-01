@@ -1,1 +1,91 @@
-Year,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Value
+2015,,,,,12.0
+2016,,,,,11.6
+2017,,,,,11.0
+2018,,,,,11.9
+2019,,,,,11.1
+2015,,,,Urban,8.2
+2016,,,,Urban,8.5
+2017,,,,Urban,7.9
+2018,,,,Urban,8.1
+2019,,,,Urban,8.7
+2015,,,,Rural,14.1
+2016,,,,Rural,13.3
+2017,,,,Rural,12.7
+2018,,,,Rural,14.0
+2019,,,,Rural,12.5
+2015,,Female,,,11.7
+2016,,Female,,,11.4
+2017,,Female,,,10.9
+2018,,Female,,,11.8
+2019,,Female,,,11.0
+2015,,Male,,,12.3
+2016,,Male,,,11.9
+2017,,Male,,,11.2
+2018,,Male,,,12.0
+2019,,Male,,,11.2
+2015,,,under 18 years old,,19.5
+2016,,,under 18 years old,,17.6
+2017,,,under 18 years old,,17.4
+2018,,,under 18 years old,,18.5
+2019,,,under 18 years old,,17.6
+2015,,,14 to 28 years old,,12.1
+2016,,,14 to 28 years old,,12.5
+2017,,,14 to 28 years old,,11.4
+2018,,,14 to 28 years old,,13.5
+2019,,,14 to 28 years old,,10.7
+2015,,,CL_AGE.Y16T62,,12.3
+2016,,,CL_AGE.Y16T62,,12.6
+2017,,,CL_AGE.Y16T62,,11.7
+2018,,,CL_AGE.Y16T62,,12.2
+2019,,,CL_AGE.Y16T62,,11.0
+2015,,,CL_AGE.Y_GE58,,7.8
+2016,,,CL_AGE.Y_GE58,,7.8
+2017,,,CL_AGE.Y_GE58,,7.5
+2018,,,CL_AGE.Y_GE58,,8.4
+2019,,,CL_AGE.Y_GE58,,8.8
+2015,Batken,,,,9.4
+2016,Batken,,,,12.2
+2017,Batken,,,,17.0
+2018,Batken,,,,12.7
+2019,Batken,,,,13.1
+2015,Jalal-Abad,,,,16.4
+2016,Jalal-Abad,,,,16.7
+2017,Jalal-Abad,,,,16.7
+2018,Jalal-Abad,,,,17.6
+2019,Jalal-Abad,,,,17.4
+2015,Issyk-Kul,,,,17.2
+2016,Issyk-Kul,,,,16.5
+2017,Issyk-Kul,,,,17.0
+2018,Issyk-Kul,,,,14.7
+2019,Issyk-Kul,,,,15.0
+2015,Naryn,,,,31.3
+2016,Naryn,,,,30.8
+2017,Naryn,,,,30.8
+2018,Naryn,,,,31.7
+2019,Naryn,,,,29.0
+2015,Osh,,,,10.3
+2016,Osh,,,,6.3
+2017,Osh,,,,4.2
+2018,Osh,,,,8.8
+2019,Osh,,,,7.4
+2015,Talas,,,,17.6
+2016,Talas,,,,16.3
+2017,Talas,,,,17.0
+2018,Talas,,,,17.6
+2019,Talas,,,,15.1
+2015,Chui,,,,8.3
+2016,Chui,,,,9.5
+2017,Chui,,,,6.0
+2018,Chui,,,,5.5
+2019,Chui,,,,5.0
+2015,Bishkek (city),,,,6.3
+2016,Bishkek (city),,,,6.0
+2017,Bishkek (city),,,,5.3
+2018,Bishkek (city),,,,6.8
+2019,Bishkek (city),,,,6.3
+2015,Osh (city),,,,4.4
+2016,Osh (city),,,,8.8
+2017,Osh (city),,,,8.8
+2018,Osh (city),,,,10.2
+2019,Osh (city),,,,8.3
