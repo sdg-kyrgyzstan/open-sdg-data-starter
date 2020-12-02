@@ -1,11 +1,12 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
 от 0 до 5 месяцев,0 to 5 months old,1,1
 от 12 до 17 месяцев,12 to 17 months old,1,1
+CL_AGE.M12T23,CL_AGE.M12T23,1,1
 от 18 до 23 месяцев,18 to 23 months old,1,1
-от 24 до 35 месяцев,24 to 35 months old,1,1
+от 24 до 35 месяцев,24 to 35 months old,2,2
 от 36 до 47 месяцев,36 to 47 months old,1,1
-от 48 до 59 месяцев,48 to 59 months old,1,1
-от 6 до 11 месяцев,6 to 11 months old,1,1
+от 48 до 59 месяцев,48 to 59 months old,2,2
+от 6 до 11 месяцев,6 to 11 months old,2,2
 до 15 лет,under 15 years old,1,1
 до 18 лет,under 18 years old,2,2
 CL_AGE.Y0T18,CL_AGE.Y0T18,1,1
@@ -22,6 +23,7 @@ CL_AGE.Y16T62,CL_AGE.Y16T62,2,2
 от 17 до 20 лет,17 to 20 years old,3,1
 от 17 до 24 лет,17 to 24 years old,3,1
 от 18 до 19 лет ,18 to 19 years old,1,1
+от 18 до 49 лет,18 to 49 years old,3,1
 CL_AGE.Y18T64,CL_AGE.Y18T64,1,1
 от 1 до 2 лет,1 to 2 years old,1,1
 от 20 до 24 лет,20 to 24 years old,3,3
@@ -31,7 +33,7 @@ CL_AGE.Y29T62,CL_AGE.Y29T62,3,3
 от 30 до 34 лет ,30 to 34 years old,3,3
 от 30 до 39 лет ,30 to 39 years old,2,2
 от 35 до 39 лет,35 to 39 years old,3,3
-от 3 до 4 лет,3 to 4 years old,1,1
+от 3 до 4 лет,3 to 4 years old,2,2
 от 40 до 44 лет ,40 to 44 years old,3,3
 от 40 до 49 лет ,40 to 49 years old,2,2
 от 45 до 49 лет ,45 to 49 years old,3,3
