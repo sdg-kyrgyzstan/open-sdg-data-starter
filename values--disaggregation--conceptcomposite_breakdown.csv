@@ -54,6 +54,11 @@ related to environmental protection",1,1
 Доходы: Налоговые доходы,Income: Tax revenues,1,1
 Посещение школы: Посещает,School attendance: Attends,1,1
 Посещение школы: Не посещает,School attendance: Not attends,1,1
+Вид избавления: Сжигание,Waste removal: Burning,1,1
+Вид избавления: Закапывание,Waste removal: Burying,1,1
+"Вид избавления: Сбор грузовиком, контейнером","Waste removal: Collection by truck, container",1,1
+Вид избавления: Сброс в мусорные кучи,Waste removal: Dumping into garbage heaps,1,1
+Вид избавления: Мусоропровод,Waste removal: Garbage chute,1,1
 Источник воды: подземный горизонт,Water source: Aquifers,1,1
 Источник воды: природный,Water source: Natural,1,1
 Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,Internet speed: 256 kbit/s to less than 2 Mbit/s,1,1
