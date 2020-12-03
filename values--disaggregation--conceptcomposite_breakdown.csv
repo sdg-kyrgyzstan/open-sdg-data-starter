@@ -1,4 +1,8 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
+Занятость: не работают,Activity status: Not working,1,1
+Занятость: пенсионеры,Activity status: Retirees,1,1
+"Занятость: учащиеся, студенты",Activity status: Students,1,1
+Занятость: работают ,Activity status: Working,1,1
 Страна: Республика Беларусь,Country: Republic of Belarus ,1,1
 Страна: Китайская Народная Республика,Country: People's Republic of China,1,1
 Страна: Венгрия,Country: Hungary,1,1
@@ -35,6 +39,7 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 Причина:  отсутствие транспорта (школа расположена далеко от дома),Cause:  lack of transportation (school too far from home),2,1
 Причина:  нет желания учиться,Cause: no wishes to learn,2,1
 Причина:  работают,Cause: working,2,1
+Образование: Другое,Education: Other,1,1
 "Расходы на химизацию, защиты и карантин растений","Expenditure on Plant chemicals, protection and
 quarantine",1,1
 Расходы на противоэпизоотические мероприятия,Expenditure on Anti-epizootic measures,1,1
