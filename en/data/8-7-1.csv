@@ -16,15 +16,15 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2018,,,5 to 11 years old,,,,,,27.9
 2018,,,12 to 14 years old,,,,,,23.3
 2018,,,15 to 17 years old,,,,,,26.6
-2018,,,,,,,CL_COMP_BREAKDOWN._L_SCH_ATT,,27.0
-2018,,,,,,,CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,,21.6
+2018,,,,,,,School attendance: Attends,,27.0
+2018,,,,,,,School attendance: Not attends,,21.6
 2018,,,,,,Primary education,,,33.0
 2018,,,,,,Lower secondary education,,,28.7
 2018,,,,,,Upper secondary education,,,29.2
 2018,,,,,,Post-secondary non-tertiary education,,,24.4
 2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,23.1
-2018,,,,,,,,CL_DISABILITY._L_CHD,34.9
-2018,,,,,,,,CL_DISABILITY._L_CHWD,25.9
+2018,,,,,,,,Child with disability,34.9
+2018,,,,,,,,Child without disability,25.9
 2018,,,,,Quintile 1 (poorest),,,,32.1
 2018,,,,,Quintile 2,,,,30.6
 2018,,,,,Quintile 3,,,,31.8

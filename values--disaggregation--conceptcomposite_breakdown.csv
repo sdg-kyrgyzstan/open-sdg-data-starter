@@ -5,14 +5,17 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 Страна: Республика Казахстан,Country: Republic of Kazakhstan,1,1
 Страна: Российская Федерация,Country: Russian Federation,1,1
 Страна: Республика Таджикистан,Country: Republic of Tajikistan,1,1
-CL_COMP_BREAKDOWN._L_COFOG_GF01,CL_COMP_BREAKDOWN._L_COFOG_GF01,1,1
+Сектор: Государственные услуги общего назначения,"Sector: General public services
+
+
+",1,1
 Сектор:  экономические вопросы,Sector: Economic affairs,3,2
-CL_COMP_BREAKDOWN._L_COFOG_GF05,CL_COMP_BREAKDOWN._L_COFOG_GF05,1,1
+Сектор: Охрана окружающей среды,Sector: Environmental protection,1,1
 Сектор: жилищно-коммунальные услуги,Sector: Housing and community amenities,3,2
 Сектор: здравоохранение,Sector: Health,3,2
-CL_COMP_BREAKDOWN._L_COFOG_GF08,CL_COMP_BREAKDOWN._L_COFOG_GF08,1,1
+Сектор: Организация отдыха и культурно-религиозная деятельность,"Sector: Recreation, culture and religion",1,1
 Сектор: образование,Sector: Education,3,2
-CL_COMP_BREAKDOWN._L_COFOG_GF10,CL_COMP_BREAKDOWN._L_COFOG_GF10,1,1
+Сектор: Социальная защита,Sector: Social protection,1,1
 Сектор: всего,Sector: Total,2,1
 Причина:  не соответствие возраста данному классу,Cause:   does not match the age of the given class,2,1
 Причина:  дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
@@ -44,23 +47,23 @@ of biodiversity and landscape",1,1
 "Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ","Expenditure on Research and development work
 related to environmental protection",1,1
 Расходы на ветеринарную диагностику,Expenditure on Veterinary diagnostics,1,1
-CL_COMP_BREAKDOWN._L_INC_CONT_DED,CL_COMP_BREAKDOWN._L_INC_CONT_DED,1,1
-CL_COMP_BREAKDOWN._L_INC_NON_FIN,CL_COMP_BREAKDOWN._L_INC_NON_FIN,1,1
-CL_COMP_BREAKDOWN._L_INC_NON_TAX,CL_COMP_BREAKDOWN._L_INC_NON_TAX,1,1
-CL_COMP_BREAKDOWN._L_INC_OFF_TRANS,CL_COMP_BREAKDOWN._L_INC_OFF_TRANS,1,1
-CL_COMP_BREAKDOWN._L_INC_TAX,CL_COMP_BREAKDOWN._L_INC_TAX,1,1
-CL_COMP_BREAKDOWN._L_SCH_ATT,CL_COMP_BREAKDOWN._L_SCH_ATT,1,1
-CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,1,1
+Доходы: Взносы/отчисления на социальные нужды,Income: Contributions / deductions for social needs,1,1
+Доходы: Доходы от продажи нефинансовых активов,Income: Income from sale of non-financial assets,1,1
+Доходы: Неналоговые доходы,Income: Non-tax revenues,1,1
+Доходы: Полученные официальные трансферты,Income: Received official transfers,1,1
+Доходы: Налоговые доходы,Income: Tax revenues,1,1
+Посещение школы: Посещает,School attendance: Attends,1,1
+Посещение школы: Не посещает,School attendance: Not attends,1,1
 Источник воды: подземный горизонт,Water source: Aquifers,1,1
 Источник воды: природный,Water source: Natural,1,1
 Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,Internet speed: 256 kbit/s to less than 2 Mbit/s,1,1
 Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1,1
 Скорость интернета: 10 Мбит / с или выше,Internet speed: 10 Mbit/s or above,1,1
 Вид транспорта: Воздушный,Mode of Transport: Air,2,1
-CL_COMP_BREAKDOWN.MOT_BUS,Mode of Transport: Bus,2,1
+Вид транспорта: Автобус,Mode of Transport: Bus,2,1
 Вид транспорта: Железнодорожный,Mode of Transport: Rail,2,1
-CL_COMP_BREAKDOWN.MOT_TAX,Mode of Transport: Taxi,2,1
-CL_COMP_BREAKDOWN.MOT_TRO,Mode of Transport: Trolley bus,2,1
+Вид транспорта: Такси,Mode of Transport: Taxi,2,1
+Вид транспорта: Троллейбус,Mode of Transport: Trolley bus,2,1
 Неинфекционные заболевания: Сердечно-сосудистые заболевания,Non-communicable disease: Cardiovascular disease,10,1
 Неинфекционные заболевания: Онкологические заболевания,Non-communicable disease: Cancer,10,1
 Неинфекционные заболевания: Хронические респираторные заболевания,Non-communicable disease: Chronic respiratory disease,10,1

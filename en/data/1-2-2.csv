@@ -11,14 +11,14 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Value
 2017,,Female,,,50.6
 2018,,Female,,,45.9
 2019,,Female,,,41.9
-2016,,,CL_AGE.Y0T18,,59.7
-2017,,,CL_AGE.Y0T18,,60.0
-2018,,,CL_AGE.Y0T18,,56.0
-2019,,,CL_AGE.Y0T18,,52.0
-2016,,,CL_AGE.Y18T64,,43.7
-2017,,,CL_AGE.Y18T64,,44.1
-2018,,,CL_AGE.Y18T64,,39.3
-2019,,,CL_AGE.Y18T64,,35.9
+2016,,,under 18 years old,,59.7
+2017,,,under 18 years old,,60.0
+2018,,,under 18 years old,,56.0
+2019,,,under 18 years old,,52.0
+2016,,,18 to 64 years old,,43.7
+2017,,,18 to 64 years old,,44.1
+2018,,,18 to 64 years old,,39.3
+2019,,,18 to 64 years old,,35.9
 2016,,,65 years old and over,,49.2
 2017,,,65 years old and over,,46.4
 2018,,,65 years old and over,,38.6

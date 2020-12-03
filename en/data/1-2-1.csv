@@ -38,13 +38,13 @@ Year,Reference area,Sex,Age,Value
 2017,,Male,,26.3
 2018,,Male,,22.2
 2019,,Male,,20.2
-2013,,,under 18 years old,45.2
-2014,,,under 18 years old,37.9
-2015,,,under 18 years old,40.5
-2016,,,under 18 years old,31.5
-2017,,,under 18 years old,32.0
-2018,,,under 18 years old,28.3
-2019,,,under 18 years old,25.7
+2013,,,under 17 years old,45.2
+2014,,,under 17 years old,37.9
+2015,,,under 17 years old,40.5
+2016,,,under 17 years old,31.5
+2017,,,under 17 years old,32.0
+2018,,,under 17 years old,28.3
+2019,,,under 17 years old,25.7
 2013,,,14 to 28 years old,35.6
 2014,,,14 to 28 years old,28.5
 2015,,,14 to 28 years old,29.0
@@ -52,20 +52,20 @@ Year,Reference area,Sex,Age,Value
 2017,,,14 to 28 years old,22.9
 2018,,,14 to 28 years old,20.9
 2019,,,14 to 28 years old,16.2
-2013,,,CL_AGE.Y16T62,33.3
-2014,,,CL_AGE.Y16T62,27.0
-2015,,,CL_AGE.Y16T62,27.9
-2016,,,CL_AGE.Y16T62,21.8
-2017,,,CL_AGE.Y16T62,22.0
-2018,,,CL_AGE.Y16T62,19.3
-2019,,,CL_AGE.Y16T62,17.1
-2013,,,CL_AGE.Y_GE58,25.2
-2014,,,CL_AGE.Y_GE58,21.3
-2015,,,CL_AGE.Y_GE58,21.8
-2016,,,CL_AGE.Y_GE58,19.9
-2017,,,CL_AGE.Y_GE58,18.9
-2018,,,CL_AGE.Y_GE58,14.8
-2019,,,CL_AGE.Y_GE58,13.3
+2013,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",33.3
+2014,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",27.0
+2015,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",27.9
+2016,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",21.8
+2017,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",22.0
+2018,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",19.3
+2019,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",17.1
+2013,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",25.2
+2014,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",21.3
+2015,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",21.8
+2016,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",19.9
+2017,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",18.9
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",14.8
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",13.3
 2007,Batken,,,40.4
 2008,Batken,,,20.7
 2009,Batken,,,31.5

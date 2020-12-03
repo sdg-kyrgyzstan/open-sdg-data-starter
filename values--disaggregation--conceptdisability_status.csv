@@ -1,8 +1,8 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-CL_DISABILITY._L_CHD,CL_DISABILITY._L_CHD,3,3
-CL_DISABILITY._L_CHWD,CL_DISABILITY._L_CHWD,3,3
-CL_DISABILITY._L_MD,CL_DISABILITY._L_MD,2,2
-CL_DISABILITY._L_MWD,CL_DISABILITY._L_MWD,2,2
-CL_DISABILITY._U,CL_DISABILITY._U,2,2
+Ребенок с инвалидностью,Child with disability,3,3
+Ребенок без инвалидности,Child without disability,3,3
+Наличие инвалидности у матери,Mother with disability,2,2
+Отсутствие инвалидности у матери,Mother without disability,2,2
+Нет информации,No information,2,2
 Лица с инвалидностью,Persons with disability,2,2
 Лица без инвалидности,Persons without disability,4,3

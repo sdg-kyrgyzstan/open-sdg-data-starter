@@ -35,11 +35,11 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Dis
 2018,,,5 to 9 years old,,,,79.4
 2014,,,10 to 14 years old,,,,52.7
 2018,,,10 to 14 years old,,,,78.8
-2018,,,,,,CL_DISABILITY._L_CHD,83.7
-2018,,,,,,CL_DISABILITY._L_CHWD,75.6
-2018,,,,,,CL_DISABILITY._L_MD,92.4
-2018,,,,,,CL_DISABILITY._L_MWD,74.4
-2018,,,,,,CL_DISABILITY._U,69.8
+2018,,,,,,Child with disability,83.7
+2018,,,,,,Child without disability,75.6
+2018,,,,,,Mother with disability,92.4
+2018,,,,,,Mother without disability,74.4
+2018,,,,,,No information,69.8
 2014,,,,,Quintile 1 (poorest),,55.1
 2018,,,,,Quintile 1 (poorest),,70.9
 2014,,,,,Quintile 2,,58.1

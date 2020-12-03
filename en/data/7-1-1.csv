@@ -67,14 +67,14 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2017,,,15 to 28 years old,,,,81.3
 2018,,,15 to 28 years old,,,,74.3
 2019,,,15 to 28 years old,,,,75.9
-2016,,,CL_AGE.Y29T62,,,,76.8
-2017,,,CL_AGE.Y29T62,,,,79.6
-2018,,,CL_AGE.Y29T62,,,,76.5
-2019,,,CL_AGE.Y29T62,,,,77.4
-2016,,,CL_AGE.Y_GE58,,,,76.8
-2017,,,CL_AGE.Y_GE58,,,,80.9
-2018,,,CL_AGE.Y_GE58,,,,75.8
-2019,,,CL_AGE.Y_GE58,,,,74.9
+2016,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,76.8
+2017,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,79.6
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,76.5
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,77.4
+2016,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,76.8
+2017,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,80.9
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,75.8
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,74.9
 2016,,,,,,Primary education,75.2
 2017,,,,,,Primary education,78.3
 2018,,,,,,Primary education,75.1
