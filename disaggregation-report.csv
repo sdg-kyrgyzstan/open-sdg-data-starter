@@ -3,13 +3,13 @@ Disaggregation,en,Number of indicators,Number of values
 Возраст,Age,21,51
 Составная разбивка,Composite breakdown,13,76
 Статус инвалидности,Disability status,7,7
-Уровень образования,Education level,17,8
-Уровень дохода или квантиль благосостояния,Income or wealth quantile,18,7
+Уровень образования,Education level,16,8
+Уровень дохода или квантиль благосостояния,Income or wealth quantile,17,7
 Род занятий,Occupation,1,4
 Тип продукта,Type of product,1,10
 Территория,Reference area,58,9
 Пол,Sex,31,2
-Тип местности,Degree of urbanisation,24,2
+Тип местности,Degree of urbanisation,23,2
 Возраст (лет),Возраст (лет),1,5
 Возраст,Возраст,2,8
 Квинтиль индекса благосостояния,Квинтиль индекса благосостояния,2,10
