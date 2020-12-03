@@ -21,12 +21,15 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 Причина:  дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
 Причина:  по семейным обстоятельствам,Cause: for domestic reasons,2,1
 Причина:  неблагополучные семьи,Cause: troubled families,2,1
+Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,1,1
 "Причина:  состоит в браке, беременна, стали родителями (матерью, отцом)","Cause: married, pregnant, they became parents ( mother, father )",2,1
 Причина: материальные трудности,Cause: material difficulty,2,1
+"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)","Cause of non-use: Prone to natural disasters (landslides, mudslides)",1,1
 "Причина:  отсутствие необходимых документов (свидетельства о рождении, прописки)","Cause: lack of the necessary documents ( birth certificates, registration)",2,1
 Причина:  не владеют языком ,Cause: lack knowledge of language,2,1
 Причина:  по другим причинам,Cause: other reasons,2,1
 Причина:  нежелание родителей,Cause: unwillingness of parents,2,1
+Причина неиспользования: Засоление и заболоченность,Cause of non-use: Salinization and waterlogging,1,1
 "Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)","Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2,1
 Причина:  по болезни,Cause: because of sickness ,2,1
 Причина:  отсутствие транспорта (школа расположена далеко от дома),Cause:  lack of transportation (school too far from home),2,1
