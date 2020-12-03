@@ -1,6 +1,13 @@
-Year,Value
-2014,4.5
-2015,4.4
-2016,3.5
-2017,3.8
-2018,3.1
+Year,Value,Units,Series
+2014,4.535563,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2015,4.4443980000000005,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2016,3.472061,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2017,3.778379,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2018,3.132627,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2019,2.575293,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2014,262.0,Number,Number of victims of intentional homicide
+2015,262.0,Number,Number of victims of intentional homicide
+2016,209.0,Number,Number of victims of intentional homicide
+2017,232.0,Number,Number of victims of intentional homicide
+2018,196.0,Number,Number of victims of intentional homicide
+2019,168.0,Number,Number of victims of intentional homicide
