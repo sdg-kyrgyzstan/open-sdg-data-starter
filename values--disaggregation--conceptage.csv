@@ -17,7 +17,7 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 от 15 до 17 лет ,15 to 17 years old,6,4
 от 15 до 19 лет ,15 to 19 years old,6,6
 от 15 до 24 лет ,15 to 24 years old,10,2
-от 15 до 28 лет,15 to 28 years old,4,4
+от 15 до 28 лет,15 to 28 years old,5,5
 от 15 до 49 лет ,15 to 49 years old,32,2
 "от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)","16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",2,2
 от 17 до 20 лет,17 to 20 years old,3,1
@@ -29,7 +29,7 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 от 20 до 24 лет,20 to 24 years old,4,4
 от 20 до 29 лет,20 to 29 years old,2,2
 от 25 до 29 лет,25 to 29 years old,4,4
-"от 29 до 62 лет (население трудоспособного возраста: женщины до 57 лет, мужчины до 62 лет)","29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",4,4
+"от 29 до 62 лет (население трудоспособного возраста: женщины до 57 лет, мужчины до 62 лет)","29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",5,5
 от 30 до 34 лет ,30 to 34 years old,4,4
 от 30 до 39 лет ,30 to 39 years old,2,2
 от 35 до 39 лет,35 to 39 years old,4,4
@@ -47,6 +47,6 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 от 65 до 69 лет,65 to 69 years old,2,2
 от 7 до 14 лет,7 to 14 years old,1,1
 25 лет и старше ,25 years old and over,1,1
-"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)","58 years old and over (population over working age: women 58 years and older, men 63 years and older)",6,6
+"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)","58 years old and over (population over working age: women 58 years and older, men 63 years and older)",7,7
 65 лет и старше ,65 years old and over,1,1
 70 лет и старше,70 years old and over,3,3
