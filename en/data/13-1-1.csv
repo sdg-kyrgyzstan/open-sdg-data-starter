@@ -11,6 +11,7 @@ Year,Reference area,Sex,Value
 2016,,,47
 2017,,,141
 2018,,,18
+2019,,,17
 2007,,Male,74
 2008,,Male,184
 2009,,Male,48
@@ -23,6 +24,7 @@ Year,Reference area,Sex,Value
 2016,,Male,37
 2017,,Male,85
 2018,,Male,14
+2019,,Male,8
 2007,,Female,19
 2008,,Female,97
 2009,,Female,23
@@ -35,6 +37,7 @@ Year,Reference area,Sex,Value
 2016,,Female,10
 2017,,Female,56
 2018,,Female,4
+2019,,Female,9
 2007,Batken,,8
 2008,Batken,,9
 2010,Batken,,15
@@ -44,6 +47,7 @@ Year,Reference area,Sex,Value
 2014,Batken,,3
 2015,Batken,,1
 2016,Batken,,9
+2019,Batken,,6
 2007,Batken,Male,6
 2008,Batken,Male,9
 2010,Batken,Male,11
@@ -53,11 +57,13 @@ Year,Reference area,Sex,Value
 2014,Batken,Male,3
 2015,Batken,Male,1
 2016,Batken,Male,7
+2019,Batken,Male,4
 2007,Batken,Female,2
 2010,Batken,Female,4
 2011,Batken,Female,3
 2012,Batken,Female,2
 2016,Batken,Female,2
+2019,Batken,Female,2
 2007,Jalal-Abad,,5
 2008,Jalal-Abad,,25
 2009,Jalal-Abad,,39
@@ -104,6 +110,7 @@ Year,Reference area,Sex,Value
 2016,Issyk-Kul,,2
 2017,Issyk-Kul,,6
 2018,Issyk-Kul,,2
+2019,Issyk-Kul,,5
 2007,Issyk-Kul,Male,10
 2008,Issyk-Kul,Male,26
 2009,Issyk-Kul,Male,7
@@ -115,6 +122,7 @@ Year,Reference area,Sex,Value
 2015,Issyk-Kul,Male,5
 2016,Issyk-Kul,Male,1
 2017,Issyk-Kul,Male,6
+2019,Issyk-Kul,Male,2
 2007,Issyk-Kul,Female,4
 2008,Issyk-Kul,Female,16
 2009,Issyk-Kul,Female,4
@@ -124,6 +132,7 @@ Year,Reference area,Sex,Value
 2014,Issyk-Kul,Female,9
 2015,Issyk-Kul,Female,1
 2016,Issyk-Kul,Female,1
+2019,Issyk-Kul,Female,3
 2007,Naryn,,5
 2008,Naryn,,6
 2010,Naryn,,7
@@ -200,6 +209,7 @@ Year,Reference area,Sex,Value
 2016,Chui,,14
 2017,Chui,,55
 2018,Chui,,10
+2019,Chui,,6
 2007,Chui,Male,28
 2008,Chui,Male,76
 2009,Chui,Male,12
@@ -212,6 +222,7 @@ Year,Reference area,Sex,Value
 2016,Chui,Male,11
 2017,Chui,Male,31
 2018,Chui,Male,7
+2019,Chui,Male,2
 2007,Chui,Female,7
 2008,Chui,Female,26
 2009,Chui,Female,7
@@ -224,6 +235,7 @@ Year,Reference area,Sex,Value
 2016,Chui,Female,3
 2017,Chui,Female,24
 2018,Chui,Female,3
+2019,Chui,Female,4
 2007,Bishkek (city),,12
 2008,Bishkek (city),,1
 2010,Bishkek (city),,14
