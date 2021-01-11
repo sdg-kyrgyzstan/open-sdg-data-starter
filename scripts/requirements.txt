@@ -3,7 +3,7 @@ pandas
 gitpython
 lxml
 numpy
-xlrd
+xlrd==1.2.0
 ruamel.yaml>=0.15
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@1.2.0-beta1
