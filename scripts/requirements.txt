@@ -1,10 +1,3 @@
-pyyaml
-pandas
-gitpython
-lxml
-numpy
-xlrd
-ruamel.yaml>=0.15
+xlrd==1.2.0
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@1.2.0-beta1
-jsonschema
