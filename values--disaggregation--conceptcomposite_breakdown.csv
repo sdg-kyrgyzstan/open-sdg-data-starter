@@ -1,8 +1,8 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-Занятость: не работают,Activity status: Not working,1,1
-Занятость: пенсионеры,Activity status: Retirees,1,1
-"Занятость: учащиеся, студенты",Activity status: Students,1,1
-Занятость: работают ,Activity status: Working,1,1
+Занятость: Не работают,Activity status: Not working,1,1
+Занятость: Пенсионеры,Activity status: Retirees,1,1
+"Занятость: Учащиеся, студенты",Activity status: Students,1,1
+Занятость: Работают ,Activity status: Working,1,1
 Страна: Республика Беларусь,Country: Republic of Belarus ,1,1
 Страна: Китайская Народная Республика,Country: People's Republic of China,1,1
 Страна: Венгрия,Country: Hungary,1,1
@@ -13,32 +13,32 @@ Value,en,Disaggregation combinations using this value,Number of indicators
 
 
 ",1,1
-Сектор:  экономические вопросы,Sector: Economic affairs,3,2
+Сектор: Экономические вопросы,Sector: Economic affairs,3,2
 Сектор: Охрана окружающей среды,Sector: Environmental protection,1,1
-Сектор: жилищно-коммунальные услуги,Sector: Housing and community amenities,3,2
-Сектор: здравоохранение,Sector: Health,3,2
+Сектор: Жилищно-коммунальные услуги,Sector: Housing and community amenities,3,2
+Сектор: Здравоохранение,Sector: Health,3,2
 Сектор: Организация отдыха и культурно-религиозная деятельность,"Sector: Recreation, culture and religion",1,1
-Сектор: образование,Sector: Education,3,2
+Сектор: Образование,Sector: Education,3,2
 Сектор: Социальная защита,Sector: Social protection,1,1
 Сектор: всего,Sector: Total,2,1
-Причина:  не соответствие возраста данному классу,Cause:   does not match the age of the given class,2,1
-Причина:  дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
-Причина:  по семейным обстоятельствам,Cause: for domestic reasons,2,1
-Причина:  неблагополучные семьи,Cause: troubled families,2,1
+Причина: не соответствие возраста данному классу,Cause: does not match the age of the given class,2,1
+Причина: дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
+Причина: по семейным обстоятельствам,Cause: for domestic reasons,2,1
+Причина: неблагополучные семьи,Cause: troubled families,2,1
 Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,1,1
-"Причина:  состоит в браке, беременна, стали родителями (матерью, отцом)","Cause: married, pregnant, they became parents ( mother, father )",2,1
+"Причина: состоит в браке, беременна, стали родителями (матерью, отцом)","Cause: married, pregnant, they became parents ( mother, father )",2,1
 Причина: материальные трудности,Cause: material difficulty,2,1
 "Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)","Cause of non-use: Prone to natural disasters (landslides, mudslides)",1,1
-"Причина:  отсутствие необходимых документов (свидетельства о рождении, прописки)","Cause: lack of the necessary documents ( birth certificates, registration)",2,1
-Причина:  не владеют языком ,Cause: lack knowledge of language,2,1
-Причина:  по другим причинам,Cause: other reasons,2,1
-Причина:  нежелание родителей,Cause: unwillingness of parents,2,1
+"Причина: отсутствие необходимых документов (свидетельства о рождении, прописки)","Cause: lack of the necessary documents ( birth certificates, registration)",2,1
+Причина: не владеют языком ,Cause: lack knowledge of language,2,1
+Причина: по другим причинам,Cause: other reasons,2,1
+Причина: нежелание родителей,Cause: unwillingness of parents,2,1
 Причина неиспользования: Засоление и заболоченность,Cause of non-use: Salinization and waterlogging,1,1
 "Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)","Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2,1
-Причина:  по болезни,Cause: because of sickness ,2,1
-Причина:  отсутствие транспорта (школа расположена далеко от дома),Cause:  lack of transportation (school too far from home),2,1
-Причина:  нет желания учиться,Cause: no wishes to learn,2,1
-Причина:  работают,Cause: working,2,1
+Причина: по болезни,Cause: because of sickness ,2,1
+Причина: отсутствие транспорта (школа расположена далеко от дома),Cause: lack of transportation (school too far from home),2,1
+Причина: нет желания учиться,Cause: no wishes to learn,2,1
+Причина: работают,Cause: working,2,1
 Образование: Другое,Education: Other,1,1
 "Расходы на химизацию, защиты и карантин растений","Expenditure on Plant chemicals, protection and
 quarantine",1,1
