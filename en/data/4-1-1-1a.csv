@@ -120,10 +120,10 @@ Year,Sex,Composite breakdown,Value
 2017,Male,Cause: working,218
 2018,Male,Cause: working,108
 2019,Male,Cause: working,121
-2013,Male,Cause:  lack of transportation (school too far from home),2
-2014,Male,Cause:  lack of transportation (school too far from home),3
-2016,Male,Cause:  lack of transportation (school too far from home),2
-2018,Male,Cause:  lack of transportation (school too far from home),3
+2013,Male,Cause: lack of transportation (school too far from home),2
+2014,Male,Cause: lack of transportation (school too far from home),3
+2016,Male,Cause: lack of transportation (school too far from home),2
+2018,Male,Cause: lack of transportation (school too far from home),3
 2013,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",19
 2014,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",26
 2015,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",98
@@ -131,12 +131,12 @@ Year,Sex,Composite breakdown,Value
 2017,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2
 2018,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",11
 2019,Male,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",17
-2013,Male,Cause:   does not match the age of the given class,2
-2014,Male,Cause:   does not match the age of the given class,5
-2015,Male,Cause:   does not match the age of the given class,0
-2016,Male,Cause:   does not match the age of the given class,1
-2018,Male,Cause:   does not match the age of the given class,20
-2019,Male,Cause:   does not match the age of the given class,6
+2013,Male,Cause: does not match the age of the given class,2
+2014,Male,Cause: does not match the age of the given class,5
+2015,Male,Cause: does not match the age of the given class,0
+2016,Male,Cause: does not match the age of the given class,1
+2018,Male,Cause: does not match the age of the given class,20
+2019,Male,Cause: does not match the age of the given class,6
 2005,Male,Cause: because of sickness ,310
 2006,Male,Cause: because of sickness ,271
 2007,Male,Cause: because of sickness ,301
@@ -298,18 +298,18 @@ Year,Sex,Composite breakdown,Value
 2017,Female,Cause: working,199
 2018,Female,Cause: working,121
 2019,Female,Cause: working,91
-2018,Female,Cause:  lack of transportation (school too far from home),2
+2018,Female,Cause: lack of transportation (school too far from home),2
 2013,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",4
 2014,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",7
 2015,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",79
 2017,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",1
 2018,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",4
 2019,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",8
-2014,Female,Cause:   does not match the age of the given class,4
-2015,Female,Cause:   does not match the age of the given class,2
-2017,Female,Cause:   does not match the age of the given class,1
-2018,Female,Cause:   does not match the age of the given class,18
-2019,Female,Cause:   does not match the age of the given class,3
+2014,Female,Cause: does not match the age of the given class,4
+2015,Female,Cause: does not match the age of the given class,2
+2017,Female,Cause: does not match the age of the given class,1
+2018,Female,Cause: does not match the age of the given class,18
+2019,Female,Cause: does not match the age of the given class,3
 2005,Female,Cause: because of sickness ,196
 2006,Female,Cause: because of sickness ,213
 2007,Female,Cause: because of sickness ,219
