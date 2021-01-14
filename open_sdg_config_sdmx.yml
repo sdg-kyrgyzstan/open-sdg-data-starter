@@ -26,7 +26,7 @@ inputs:
       SERIES: 'Series'
       REF_AREA|KG: ''
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
+    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.1.6.xml'
     import_translation_keys: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
@@ -56,7 +56,7 @@ translations:
   - class: TranslationInputCsv
     source: translations
   - class: TranslationInputSdmx
-    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
+    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.1.6.xml'
 
 # Destination directory
 # ---------------------
@@ -81,3 +81,9 @@ reporting_status_extra_fields: []
 # to create a file called "open_sdg_alter.py" in the same folder as this file.
 # To perform data alterations, it should include a function called "alter_data".
 # To perform meta alterations, it should include a function called "alter_meta".
+
+indicator_downloads:
+  - button_label: indicator.download_source_sdmx
+    source_pattern: data/*.xml
+    indicator_id_pattern: (.*)
+    output_folder: data-sdmx
