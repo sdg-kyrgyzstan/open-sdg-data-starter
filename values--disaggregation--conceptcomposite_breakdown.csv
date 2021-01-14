@@ -60,11 +60,6 @@ related to environmental protection",1,1
 Доходы: Неналоговые доходы,Income: Non-tax revenues,1,1
 Доходы: Полученные официальные трансферты,Income: Received official transfers,1,1
 Доходы: Налоговые доходы,Income: Tax revenues,1,1
-Загрязняющие вещества: окись углерода,Pollutants: Carbon monoxide,1,1
-Загрязняющие вещества: газообразные и жидкие,Pollutants: Gaseous and liquid,1,1
-Загрязняющие вещества: окислы азота,Pollutants: Nitrogen oxide ,1,1
-Загрязняющие вещества: сернистый ангидрид,Pollutants: Sulphur dioxide,1,1
-Загрязняющие вещества: твердые,Pollutants: Solid,1,1
 Посещение школы: Посещает,School attendance: Attends,1,1
 Посещение школы: Не посещает,School attendance: Not attends,1,1
 Виды: Амфибии и рептилии,Species: Amphibians and Reptiles,3,3
@@ -95,6 +90,11 @@ related to environmental protection",1,1
 Неинфекционные заболевания: Онкологические заболевания,Non-communicable disease: Cancer,10,1
 Неинфекционные заболевания: Хронические респираторные заболевания,Non-communicable disease: Chronic respiratory disease,10,1
 Неинфекционные заболевания: Диабет,Non-communicable disease: Diabetes,10,1
+CL_COMP_BREAKDOWN.POL_CO,CL_COMP_BREAKDOWN.POL_CO,1,1
+CL_COMP_BREAKDOWN.POL_GASLIQ,CL_COMP_BREAKDOWN.POL_GASLIQ,1,1
+CL_COMP_BREAKDOWN.POL_NOX,CL_COMP_BREAKDOWN.POL_NOX,1,1
+CL_COMP_BREAKDOWN.POL_S02,CL_COMP_BREAKDOWN.POL_S02,1,1
+CL_COMP_BREAKDOWN.POL_SOLID,CL_COMP_BREAKDOWN.POL_SOLID,1,1
 Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами,Skill: ICT Skill: Sending e-mails with attached files,2,1
 Навык: Навык ИКТ: Подключение и установка новых устройств,Skill: ICT Skill: connecting and installing new devices,2,1
 Навык: Навык ИКТ: Копирование или перемещение файла или папки,Skill: ICT Skill: Copying or moving a file or folder,2,1
