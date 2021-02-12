@@ -83,7 +83,7 @@ reporting_status_extra_fields: []
 # To perform meta alterations, it should include a function called "alter_meta".
 
 indicator_downloads:
-  - button_label: custom.download_source_excel
+  - button_label: indicator.download_source_excel
     source_pattern: excel_files/*.xlsx
     indicator_id_pattern: (.*)
     output_folder: data-excel
