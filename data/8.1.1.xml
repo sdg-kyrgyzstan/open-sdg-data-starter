@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.5):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1599465606665</message:ID>
+    <message:ID>IREF1614664639888</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2020-09-07T08:00:06Z</message:Prepared>
+    <message:Prepared>2021-03-02T05:57:19Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -27,7 +27,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="2.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="2.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="2.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
