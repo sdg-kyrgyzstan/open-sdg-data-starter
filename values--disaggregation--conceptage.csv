@@ -1,57 +1,57 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-от 0 до 5 месяцев,0 to 5 months old,1,1
-от 12 до 17 месяцев,12 to 17 months old,1,1
-от 12 до 23 месяцев,12 to 23 months old,1,1
-от 18 до 23 месяцев,18 to 23 months old,1,1
-от 24 до 35 месяцев,24 to 35 months old,2,2
-от 36 до 47 месяцев,36 to 47 months old,1,1
-от 48 до 59 месяцев,48 to 59 months old,2,2
-от 6 до 11 месяцев,6 to 11 months old,2,2
-до 14 лет,under 14 years old,1,1
-до 17 лет,under 17 years old,2,2
-до 18 лет,under 18 years old,1,1
-до 20 лет,under 20 years old,1,1
-до 6 лет,under 6 years old,1,1
-от 10 до 14 лет,10 to 14 years old,1,1
-от 12 до 14 лет ,12 to 14 years old,1,1
-от 14 до 28 лет ,14 to 28 years old,2,2
-от 15 до 17 лет ,15 to 17 years old,6,4
-от 15 до 19 лет ,15 to 19 years old,6,6
-от 15 до 24 лет ,15 to 24 years old,10,2
-от 15 до 28 лет,15 to 28 years old,6,6
-от 15 до 49 лет ,15 to 49 years old,30,2
-"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)","16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",2,2
-от 17 до 20 лет,17 to 20 years old,3,1
-от 17 до 24 лет,17 to 24 years old,3,1
-от 18 до 19 лет ,18 to 19 years old,2,2
-от 18 до 49 лет,18 to 49 years old,5,2
-от 18 до 64 лет,18 to 64 years old,1,1
-от 1 до 2 лет,1 to 2 years old,1,1
-от 20 до 24 лет,20 to 24 years old,4,4
-от 20 до 29 лет,20 to 29 years old,2,2
-от 21 до 30 лет,21 to 30 years old,1,1
-от 25 до 29 лет,25 to 29 years old,4,4
-"от 29 до 62 лет (население трудоспособного возраста: женщины до 57 лет, мужчины до 62 лет)","29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",6,6
-от 30 до 34 лет ,30 to 34 years old,4,4
-от 30 до 39 лет ,30 to 39 years old,2,2
-от 31 до 40 лет,31 to 40 years old,1,1
-от 35 до 39 лет,35 to 39 years old,4,4
-от 3 до 4 лет,3 to 4 years old,2,2
-от 40 до 44 лет ,40 to 44 years old,4,4
-от 40 до 49 лет ,40 to 49 years old,2,2
-от 41 до 50 лет,41 to 50 years old,1,1
-от 45 до 49 лет ,45 to 49 years old,4,4
-от 50 до 54 лет,50 to 54 years old,1,1
-от 50 до 59 лет,50 to 59 years old,2,2
-от 55 до 59 лет,55 to 59 years old,1,1
-от 5 до 11 лет,5 to 11 years old,1,1
-от 5 до 9 лет ,5 to 9 years old,1,1
-от 60 до 64 лет ,60 to 64 years old,1,1
-от 60 до 69 лет ,60 to 69 years old,1,1
-от 65 до 69 лет,65 to 69 years old,2,2
-от 7 до 14 лет,7 to 14 years old,1,1
-25 лет и старше ,25 years old and over,1,1
-51 лет и старше,51 years old and over,1,1
-"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)","58 years old and over (population over working age: women 58 years and older, men 63 years and older)",8,8
-65 лет и старше ,65 years old and over,1,1
-70 лет и старше,70 years old and over,3,3
+Value,Disaggregation combinations using this value,Number of indicators
+CL_AGE.M0T5,1,1
+CL_AGE.M12T17,1,1
+CL_AGE.M12T23,1,1
+CL_AGE.M18T23,1,1
+CL_AGE.M24T35,2,2
+CL_AGE.M36T47,1,1
+CL_AGE.M48T59,2,2
+CL_AGE.M6T11,2,2
+CL_AGE.Y0T14,1,1
+CL_AGE.Y0T17,2,2
+CL_AGE.Y0T18,1,1
+CL_AGE.Y0T20,1,1
+CL_AGE.Y0T5,1,1
+CL_AGE.Y10T14,1,1
+CL_AGE.Y12T14,1,1
+CL_AGE.Y14T28,2,2
+CL_AGE.Y15T17,6,4
+CL_AGE.Y15T19,6,6
+CL_AGE.Y15T24,10,2
+CL_AGE.Y15T28,6,6
+CL_AGE.Y15T49,30,2
+CL_AGE.Y16T62,2,2
+CL_AGE.Y17T20,3,1
+CL_AGE.Y17T24,3,1
+CL_AGE.Y18T19,2,2
+CL_AGE.Y18T49,5,2
+CL_AGE.Y18T64,1,1
+CL_AGE.Y1T2,1,1
+CL_AGE.Y20T24,4,4
+CL_AGE.Y20T29,2,2
+CL_AGE.Y21T30,1,1
+CL_AGE.Y25T29,4,4
+CL_AGE.Y29T62,6,6
+CL_AGE.Y30T34,4,4
+CL_AGE.Y30T39,2,2
+CL_AGE.Y31T40,1,1
+CL_AGE.Y35T39,4,4
+CL_AGE.Y3T4,2,2
+CL_AGE.Y40T44,4,4
+CL_AGE.Y40T49,2,2
+CL_AGE.Y41T50,1,1
+CL_AGE.Y45T49,4,4
+CL_AGE.Y50T54,1,1
+CL_AGE.Y50T59,2,2
+CL_AGE.Y55T59,1,1
+CL_AGE.Y5T11,1,1
+CL_AGE.Y5T9,1,1
+CL_AGE.Y60T64,1,1
+CL_AGE.Y60T69,1,1
+CL_AGE.Y65T69,2,2
+CL_AGE.Y7T14,1,1
+CL_AGE.Y_GE25,1,1
+CL_AGE.Y_GE51,1,1
+CL_AGE.Y_GE58,8,8
+CL_AGE.Y_GE65,1,1
+CL_AGE.Y_GE70,3,3

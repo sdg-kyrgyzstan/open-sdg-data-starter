@@ -1,106 +1,99 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-Занятость: Не работают,Activity status: Not working,1,1
-Занятость: Пенсионеры,Activity status: Retirees,1,1
-"Занятость: Учащиеся, студенты",Activity status: Students,1,1
-Занятость: Работают ,Activity status: Working,1,1
-Страна: Республика Беларусь,Country: Republic of Belarus ,1,1
-Страна: Китайская Народная Республика,Country: People's Republic of China,1,1
-Страна: Венгрия,Country: Hungary,1,1
-Страна: Республика Казахстан,Country: Republic of Kazakhstan,1,1
-Страна: Российская Федерация,Country: Russian Federation,1,1
-Страна: Республика Таджикистан,Country: Republic of Tajikistan,1,1
-Сектор: Государственные услуги общего назначения,"Sector: General public services
-
-
-",1,1
-Сектор: Экономические вопросы,Sector: Economic affairs,3,2
-Сектор: Охрана окружающей среды,Sector: Environmental protection,1,1
-Сектор: Жилищно-коммунальные услуги,Sector: Housing and community amenities,3,2
-Сектор: Здравоохранение,Sector: Health,3,2
-Сектор: Организация отдыха и культурно-религиозная деятельность,"Sector: Recreation, culture and religion",1,1
-Сектор: Образование,Sector: Education,3,2
-Сектор: Социальная защита,Sector: Social protection,1,1
-Сектор: всего,Sector: Total,2,1
-Причина: не соответствие возраста данному классу,Cause: does not match the age of the given class,2,1
-Причина: дети с ограниченными возможностями здоровья,Cause: Children with disabilities,2,1
-Причина: по семейным обстоятельствам,Cause: for domestic reasons,2,1
-Причина: неблагополучные семьи,Cause: troubled families,2,1
-Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,1,1
-"Причина: состоит в браке, беременна, стали родителями (матерью, отцом)","Cause: married, pregnant, they became parents ( mother, father )",2,1
-Причина: материальные трудности,Cause: material difficulty,2,1
-"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)","Cause of non-use: Prone to natural disasters (landslides, mudslides)",1,1
-"Причина: отсутствие необходимых документов (свидетельства о рождении, прописки)","Cause: lack of the necessary documents ( birth certificates, registration)",2,1
-Причина: не владеют языком ,Cause: lack knowledge of language,2,1
-Причина: по другим причинам,Cause: other reasons,2,1
-Причина: нежелание родителей,Cause: unwillingness of parents,2,1
-Причина неиспользования: Засоление и заболоченность,Cause of non-use: Salinization and waterlogging,1,1
-"Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)","Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",2,1
-Причина: по болезни,Cause: because of sickness ,2,1
-Причина: отсутствие транспорта (школа расположена далеко от дома),Cause: lack of transportation (school too far from home),2,1
-Причина: нет желания учиться,Cause: no wishes to learn,2,1
-Причина: работают,Cause: working,2,1
-Образование: Другое,Education: Other,1,1
-"Расходы на химизацию, защиты и карантин растений","Expenditure on Plant chemicals, protection and
-quarantine",1,1
-Расходы на противоэпизоотические мероприятия,Expenditure on Anti-epizootic measures,1,1
-Расходы на природные заповедники и природные парки ,Expenditure on Nature parks and reserves,1,1
-"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",Expenditure on Environmental issues not classified elsewhere ,1,1
-Расходы на другие услуги по охране окружающей среды,"Expenditure on Other services on environmental
-protection",1,1
-Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,"Expenditure on Other services for the protection
-of biodiversity and landscape",1,1
-Расходы на борьбу с загрязнением окружающей среды,Expenditure on Pollution control,1,1
-Расходы на охрану животных ,Expenditure on Animal protection,1,1
-Расходы на охрану растений,Expenditure on Plant protection,1,1
-"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ","Expenditure on Research and development work
-related to environmental protection",1,1
-Расходы на ветеринарную диагностику,Expenditure on Veterinary diagnostics,1,1
-Доходы: Взносы/отчисления на социальные нужды,Income: Contributions / deductions for social needs,1,1
-Доходы: Доходы от продажи нефинансовых активов,Income: Income from sale of non-financial assets,1,1
-Доходы: Неналоговые доходы,Income: Non-tax revenues,1,1
-Доходы: Полученные официальные трансферты,Income: Received official transfers,1,1
-Доходы: Налоговые доходы,Income: Tax revenues,1,1
-Посещение школы: Посещает,School attendance: Attends,1,1
-Посещение школы: Не посещает,School attendance: Not attends,1,1
-Виды: Амфибии и рептилии,Species: Amphibians and Reptiles,3,3
-Виды: Птицы,Species: Birds,3,3
-Виды: Рыбы,Species: Fish,1,1
-Виды: Насекомые,Species: Insects,1,1
-Виды: Млекопитающие,Species: Mammals,3,3
-Виды: Растения и грибы,Species: Plants and mushrooms,1,1
-Учителя: b) в начальной школе (1-4 класс),Teachers: b) in primary school (grades 1-4),1,1
-Учителя: a) в дошкольных образовательных организациях,Teachers: a) in pre-school educational institutions,1,1
-Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс),Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11),1,1
-Вид избавления: Сжигание,Waste removal: Burning,1,1
-Вид избавления: Закапывание,Waste removal: Burying,1,1
-"Вид избавления: Сбор грузовиком, контейнером","Waste removal: Collection by truck, container",1,1
-Вид избавления: Сброс в мусорные кучи,Waste removal: Dumping into garbage heaps,1,1
-Вид избавления: Мусоропровод,Waste removal: Garbage chute,1,1
-Источник воды: подземный горизонт,Water source: Aquifers,1,1
-Источник воды: природный,Water source: Natural,1,1
-Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,Internet speed: 256 kbit/s to less than 2 Mbit/s,1,1
-Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1,1
-Скорость интернета: 10 Мбит / с или выше,Internet speed: 10 Mbit/s or above,1,1
-Вид транспорта: Воздушный,Mode of Transport: Air,2,1
-Вид транспорта: Автобус,Mode of Transport: Bus,2,1
-Вид транспорта: Железнодорожный,Mode of Transport: Rail,2,1
-Вид транспорта: Такси,Mode of Transport: Taxi,2,1
-Вид транспорта: Троллейбус,Mode of Transport: Trolley bus,2,1
-Неинфекционные заболевания: Сердечно-сосудистые заболевания,Non-communicable disease: Cardiovascular disease,10,1
-Неинфекционные заболевания: Онкологические заболевания,Non-communicable disease: Cancer,10,1
-Неинфекционные заболевания: Хронические респираторные заболевания,Non-communicable disease: Chronic respiratory disease,10,1
-Неинфекционные заболевания: Диабет,Non-communicable disease: Diabetes,10,1
-CL_COMP_BREAKDOWN.POL_CO,CL_COMP_BREAKDOWN.POL_CO,1,1
-CL_COMP_BREAKDOWN.POL_GASLIQ,CL_COMP_BREAKDOWN.POL_GASLIQ,1,1
-CL_COMP_BREAKDOWN.POL_NOX,CL_COMP_BREAKDOWN.POL_NOX,1,1
-CL_COMP_BREAKDOWN.POL_S02,CL_COMP_BREAKDOWN.POL_S02,1,1
-CL_COMP_BREAKDOWN.POL_SOLID,CL_COMP_BREAKDOWN.POL_SOLID,1,1
-Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами,Skill: ICT Skill: Sending e-mails with attached files,2,1
-Навык: Навык ИКТ: Подключение и установка новых устройств,Skill: ICT Skill: connecting and installing new devices,2,1
-Навык: Навык ИКТ: Копирование или перемещение файла или папки,Skill: ICT Skill: Copying or moving a file or folder,2,1
-Навык: Навык ИКТ: Использование инструментов копирования и вставки для дублирования или перемещения информации в документе,Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,2,1
-Навык: Навык ИКТ: Написание компьютерной программы с использованием специализированного языка программирования,Skill: ICT Skill: Writing a computer program using a specialized programming language,2,1
-Навык: Навык ИКТ: Создание электронных презентаций с помощью программного обеспечения для презентаций,Skill: ICT Skill: Creating electronic presentations with presentation software,2,1
-"Навык: Навык ИКТ: Поиск, загрузка, установка и настройка программного обеспечения","Skill: ICT Skill: Finding, downloading, installing and configuring software",2,1
-Навык: Навык ИКТ: Использование базовых арифметических формул в электронной таблице,Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,2,1
-Навык: Навык ИКТ: Передача файлов между компьютером и другими устройствами,Skill: ICT Skill: Transferring files between a computer and other devices,2,1
+Value,Disaggregation combinations using this value,Number of indicators
+CL_COMP_BREAKDOWN._L_ACS_NOWORK,1,1
+CL_COMP_BREAKDOWN._L_ACS_RETIRED,1,1
+CL_COMP_BREAKDOWN._L_ACS_STUDENT,1,1
+CL_COMP_BREAKDOWN._L_ACS_WORK,1,1
+CL_COMP_BREAKDOWN._L_CNT_BY,1,1
+CL_COMP_BREAKDOWN._L_CNT_CN,1,1
+CL_COMP_BREAKDOWN._L_CNT_HU,1,1
+CL_COMP_BREAKDOWN._L_CNT_KZ,1,1
+CL_COMP_BREAKDOWN._L_CNT_RU,1,1
+CL_COMP_BREAKDOWN._L_CNT_TJ,1,1
+CL_COMP_BREAKDOWN._L_COFOG_GF01,1,1
+CL_COMP_BREAKDOWN._L_COFOG_GF04,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF05,1,1
+CL_COMP_BREAKDOWN._L_COFOG_GF06,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF07,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF08,1,1
+CL_COMP_BREAKDOWN._L_COFOG_GF09,3,2
+CL_COMP_BREAKDOWN._L_COFOG_GF10,1,1
+CL_COMP_BREAKDOWN._L_COFOG_T,2,1
+CL_COMP_BREAKDOWN._L_CSE_AGE,2,1
+CL_COMP_BREAKDOWN._L_CSE_DISAB,2,1
+CL_COMP_BREAKDOWN._L_CSE_DOM,2,1
+CL_COMP_BREAKDOWN._L_CSE_FAMILY,2,1
+CL_COMP_BREAKDOWN._L_CSE_LACK_IRR,1,1
+CL_COMP_BREAKDOWN._L_CSE_MARR,2,1
+CL_COMP_BREAKDOWN._L_CSE_MATDIFF,2,1
+CL_COMP_BREAKDOWN._L_CSE_NAT_DIS,1,1
+CL_COMP_BREAKDOWN._L_CSE_NODOC,2,1
+CL_COMP_BREAKDOWN._L_CSE_NOLANG,2,1
+CL_COMP_BREAKDOWN._L_CSE_OTHER,2,1
+CL_COMP_BREAKDOWN._L_CSE_PARENTS,2,1
+CL_COMP_BREAKDOWN._L_CSE_SALIN_WAT,1,1
+CL_COMP_BREAKDOWN._L_CSE_SEASWORK,2,1
+CL_COMP_BREAKDOWN._L_CSE_SICK,2,1
+CL_COMP_BREAKDOWN._L_CSE_TRANSPORT,2,1
+CL_COMP_BREAKDOWN._L_CSE_UNWILL,2,1
+CL_COMP_BREAKDOWN._L_CSE_WORK,2,1
+CL_COMP_BREAKDOWN._L_EDU_OTH,1,1
+CL_COMP_BREAKDOWN._L_EEX_CHARPLN,1,1
+CL_COMP_BREAKDOWN._L_EEX_EPIS,1,1
+CL_COMP_BREAKDOWN._L_EEX_NATRES,1,1
+CL_COMP_BREAKDOWN._L_EEX_NES,1,1
+CL_COMP_BREAKDOWN._L_EEX_OTHER,1,1
+CL_COMP_BREAKDOWN._L_EEX_OTHER_BIO,1,1
+CL_COMP_BREAKDOWN._L_EEX_POL,1,1
+CL_COMP_BREAKDOWN._L_EEX_PROTAN,1,1
+CL_COMP_BREAKDOWN._L_EEX_PROTTPLN,1,1
+CL_COMP_BREAKDOWN._L_EEX_RD,1,1
+CL_COMP_BREAKDOWN._L_EEX_VET,1,1
+CL_COMP_BREAKDOWN._L_INC_CONT_DED,1,1
+CL_COMP_BREAKDOWN._L_INC_NON_FIN,1,1
+CL_COMP_BREAKDOWN._L_INC_NON_TAX,1,1
+CL_COMP_BREAKDOWN._L_INC_OFF_TRANS,1,1
+CL_COMP_BREAKDOWN._L_INC_TAX,1,1
+CL_COMP_BREAKDOWN._L_SCH_ATT,1,1
+CL_COMP_BREAKDOWN._L_SCH_NOT_ATT,1,1
+CL_COMP_BREAKDOWN._L_SPC_AMPH_REP,3,3
+CL_COMP_BREAKDOWN._L_SPC_BIRD,3,3
+CL_COMP_BREAKDOWN._L_SPC_FISH,1,1
+CL_COMP_BREAKDOWN._L_SPC_INSEC,1,1
+CL_COMP_BREAKDOWN._L_SPC_MAMM,3,3
+CL_COMP_BREAKDOWN._L_SPC_PLANT_MUSH,1,1
+CL_COMP_BREAKDOWN._L_TCH_PR_SCH_1_4,1,1
+CL_COMP_BREAKDOWN._L_TCH_PR_SCH_EDU,1,1
+CL_COMP_BREAKDOWN._L_TCH_PR_SEC_SCH_5_11,1,1
+CL_COMP_BREAKDOWN._L_WR_BURN,1,1
+CL_COMP_BREAKDOWN._L_WR_BURYING,1,1
+CL_COMP_BREAKDOWN._L_WR_COL_TR,1,1
+CL_COMP_BREAKDOWN._L_WR_DUM_GAR,1,1
+CL_COMP_BREAKDOWN._L_WR_GAR_CH,1,1
+CL_COMP_BREAKDOWN._L_WS_AQUIFER,1,1
+CL_COMP_BREAKDOWN._L_WS_NATURAL,1,1
+CL_COMP_BREAKDOWN.IS_256KT2M,1,1
+CL_COMP_BREAKDOWN.IS_2MT10M,1,1
+CL_COMP_BREAKDOWN.IS_GE10M,1,1
+CL_COMP_BREAKDOWN.MOT_AIR,2,1
+CL_COMP_BREAKDOWN.MOT_BUS,2,1
+CL_COMP_BREAKDOWN.MOT_RAI,2,1
+CL_COMP_BREAKDOWN.MOT_TAX,2,1
+CL_COMP_BREAKDOWN.MOT_TRO,2,1
+CL_COMP_BREAKDOWN.NCD_CARDIO,10,1
+CL_COMP_BREAKDOWN.NCD_CNCR,10,1
+CL_COMP_BREAKDOWN.NCD_CRESPD,10,1
+CL_COMP_BREAKDOWN.NCD_DIABTS,10,1
+CL_COMP_BREAKDOWN.POL_CO,1,1
+CL_COMP_BREAKDOWN.POL_GASLIQ,1,1
+CL_COMP_BREAKDOWN.POL_NOX,1,1
+CL_COMP_BREAKDOWN.POL_S02,1,1
+CL_COMP_BREAKDOWN.POL_SOLID,1,1
+CL_COMP_BREAKDOWN.SKILL_ICTATCH,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTCDV,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTCMFL,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTCPT,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTPRGM,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTPST,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTSFWR,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTSSHT,2,1
+CL_COMP_BREAKDOWN.SKILL_ICTTRFF,2,1

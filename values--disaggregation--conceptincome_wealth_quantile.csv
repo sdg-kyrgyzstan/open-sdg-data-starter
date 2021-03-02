@@ -1,8 +1,8 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-Нижние 40%,Bottom 40%,1,1
-Нижние 50%,Bottom 50%,18,1
-Квинтиль 1 (беднейшие),Quintile 1 (poorest),18,17
-Квинтиль 2,Quintile 2,18,17
-Квинтиль 3,Quintile 3,18,17
-Квинтиль 4,Quintile 4,18,17
-Квинтиль 5 (богатейшие),Quintile 5 (richest),18,17
+Value,Disaggregation combinations using this value,Number of indicators
+CL_QUANTILE.B40,1,1
+CL_QUANTILE.B50,18,1
+CL_QUANTILE.Q1,18,17
+CL_QUANTILE.Q2,18,17
+CL_QUANTILE.Q3,18,17
+CL_QUANTILE.Q4,18,17
+CL_QUANTILE.Q5,18,17

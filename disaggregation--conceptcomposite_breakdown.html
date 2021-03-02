@@ -1,16 +1,29 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Build docs - Disaggregation: concept.COMPOSITE_BREAKDOWN</title>
+            <title>Disaggregation: concept.COMPOSITE_BREAKDOWN - Build docs</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,634 +36,546 @@
                     <h1 style="margin:20px 0">Disaggregation: concept.COMPOSITE_BREAKDOWN</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#values-used">Values used in disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#indicators-using">Indicators using disaggregation</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="values-used">Values used in disaggregation</h2>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--conceptcomposite_breakdown.csv" class="btn btn-primary">Download CSV</a>
+            <a href="values--disaggregation--conceptcomposite_breakdown.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--conceptcomposite_breakdown">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--conceptcomposite_breakdown" class="download-info">Size: 3.5 kB</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">98</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
     <tr style="text-align: right;">
       <th>Value</th>
-      <th>en</th>
       <th>Disaggregation combinations using this value</th>
       <th>Number of indicators</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_nowork.html">Занятость: Не работают</a></td>
-      <td>Activity status: Not working</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_nowork.html">CL_COMP_BREAKDOWN._L_ACS_NOWORK</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_retired.html">Занятость: Пенсионеры</a></td>
-      <td>Activity status: Retirees</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_retired.html">CL_COMP_BREAKDOWN._L_ACS_RETIRED</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_student.html">Занятость: Учащиеся, студенты</a></td>
-      <td>Activity status: Students</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_student.html">CL_COMP_BREAKDOWN._L_ACS_STUDENT</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_work.html">Занятость: Работают </a></td>
-      <td>Activity status: Working</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_acs_work.html">CL_COMP_BREAKDOWN._L_ACS_WORK</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_by.html">Страна: Республика Беларусь</a></td>
-      <td>Country: Republic of Belarus</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_by.html">CL_COMP_BREAKDOWN._L_CNT_BY</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_cn.html">Страна: Китайская Народная Республика</a></td>
-      <td>Country: People's Republic of China</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_cn.html">CL_COMP_BREAKDOWN._L_CNT_CN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_hu.html">Страна: Венгрия</a></td>
-      <td>Country: Hungary</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_hu.html">CL_COMP_BREAKDOWN._L_CNT_HU</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_kz.html">Страна: Республика Казахстан</a></td>
-      <td>Country: Republic of Kazakhstan</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_kz.html">CL_COMP_BREAKDOWN._L_CNT_KZ</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_ru.html">Страна: Российская Федерация</a></td>
-      <td>Country: Russian Federation</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_ru.html">CL_COMP_BREAKDOWN._L_CNT_RU</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_tj.html">Страна: Республика Таджикистан</a></td>
-      <td>Country: Republic of Tajikistan</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cnt_tj.html">CL_COMP_BREAKDOWN._L_CNT_TJ</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf01.html">Сектор: Государственные услуги общего назначения</a></td>
-      <td>Sector: General public services\n\n\n</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf01.html">CL_COMP_BREAKDOWN._L_COFOG_GF01</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf04.html">Сектор: Экономические вопросы</a></td>
-      <td>Sector: Economic affairs</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf04.html">CL_COMP_BREAKDOWN._L_COFOG_GF04</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf05.html">Сектор: Охрана окружающей среды</a></td>
-      <td>Sector: Environmental protection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf05.html">CL_COMP_BREAKDOWN._L_COFOG_GF05</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf06.html">Сектор: Жилищно-коммунальные услуги</a></td>
-      <td>Sector: Housing and community amenities</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf06.html">CL_COMP_BREAKDOWN._L_COFOG_GF06</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf07.html">Сектор: Здравоохранение</a></td>
-      <td>Sector: Health</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf07.html">CL_COMP_BREAKDOWN._L_COFOG_GF07</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf08.html">Сектор: Организация отдыха и культурно-религиозная деятельность</a></td>
-      <td>Sector: Recreation, culture and religion</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf08.html">CL_COMP_BREAKDOWN._L_COFOG_GF08</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf09.html">Сектор: Образование</a></td>
-      <td>Sector: Education</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf09.html">CL_COMP_BREAKDOWN._L_COFOG_GF09</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf10.html">Сектор: Социальная защита</a></td>
-      <td>Sector: Social protection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_gf10.html">CL_COMP_BREAKDOWN._L_COFOG_GF10</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_t.html">Сектор: всего</a></td>
-      <td>Sector: Total</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cofog_t.html">CL_COMP_BREAKDOWN._L_COFOG_T</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_age.html">Причина: не соответствие возраста данному классу</a></td>
-      <td>Cause: does not match the age of the given class</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_age.html">CL_COMP_BREAKDOWN._L_CSE_AGE</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_disab.html">Причина: дети с ограниченными возможностями здоровья</a></td>
-      <td>Cause: Children with disabilities</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_disab.html">CL_COMP_BREAKDOWN._L_CSE_DISAB</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_dom.html">Причина: по семейным обстоятельствам</a></td>
-      <td>Cause: for domestic reasons</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_dom.html">CL_COMP_BREAKDOWN._L_CSE_DOM</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_family.html">Причина: неблагополучные семьи</a></td>
-      <td>Cause: troubled families</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_family.html">CL_COMP_BREAKDOWN._L_CSE_FAMILY</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_lack_irr.html">Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети</a></td>
-      <td>Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_lack_irr.html">CL_COMP_BREAKDOWN._L_CSE_LACK_IRR</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_marr.html">Причина: состоит в браке, беременна, стали родителями (матерью, отцом)</a></td>
-      <td>Cause: married, pregnant, they became parents ( mother, father )</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_marr.html">CL_COMP_BREAKDOWN._L_CSE_MARR</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_matdiff.html">Причина: материальные трудности</a></td>
-      <td>Cause: material difficulty</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_matdiff.html">CL_COMP_BREAKDOWN._L_CSE_MATDIFF</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nat_dis.html">Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)</a></td>
-      <td>Cause of non-use: Prone to natural disasters (landslides, mudslides)</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nat_dis.html">CL_COMP_BREAKDOWN._L_CSE_NAT_DIS</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nodoc.html">Причина: отсутствие необходимых документов (свидетельства о рождении, прописки)</a></td>
-      <td>Cause: lack of the necessary documents ( birth certificates, registration)</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nodoc.html">CL_COMP_BREAKDOWN._L_CSE_NODOC</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nolang.html">Причина: не владеют языком </a></td>
-      <td>Cause: lack knowledge of language</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_nolang.html">CL_COMP_BREAKDOWN._L_CSE_NOLANG</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_other.html">Причина: по другим причинам</a></td>
-      <td>Cause: other reasons</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_other.html">CL_COMP_BREAKDOWN._L_CSE_OTHER</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_parents.html">Причина: нежелание родителей</a></td>
-      <td>Cause: unwillingness of parents</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_parents.html">CL_COMP_BREAKDOWN._L_CSE_PARENTS</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_salin_wat.html">Причина неиспользования: Засоление и заболоченность</a></td>
-      <td>Cause of non-use: Salinization and waterlogging</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_salin_wat.html">CL_COMP_BREAKDOWN._L_CSE_SALIN_WAT</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_seaswork.html">Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)</a></td>
-      <td>Cause: Temporary seasonal work ( with / x work , grazing in the pasture )</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_seaswork.html">CL_COMP_BREAKDOWN._L_CSE_SEASWORK</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_sick.html">Причина: по болезни</a></td>
-      <td>Cause: because of sickness</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_sick.html">CL_COMP_BREAKDOWN._L_CSE_SICK</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_transport.html">Причина: отсутствие транспорта (школа расположена далеко от дома)</a></td>
-      <td>Cause: lack of transportation (school too far from home)</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_transport.html">CL_COMP_BREAKDOWN._L_CSE_TRANSPORT</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_unwill.html">Причина: нет желания учиться</a></td>
-      <td>Cause: no wishes to learn</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_unwill.html">CL_COMP_BREAKDOWN._L_CSE_UNWILL</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_work.html">Причина: работают</a></td>
-      <td>Cause: working</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_cse_work.html">CL_COMP_BREAKDOWN._L_CSE_WORK</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_edu_oth.html">Образование: Другое</a></td>
-      <td>Education: Other</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_edu_oth.html">CL_COMP_BREAKDOWN._L_EDU_OTH</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_charpln.html">Расходы на химизацию, защиты и карантин растений</a></td>
-      <td>Expenditure on Plant chemicals, protection and\nquarantine</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_charpln.html">CL_COMP_BREAKDOWN._L_EEX_CHARPLN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_epis.html">Расходы на противоэпизоотические мероприятия</a></td>
-      <td>Expenditure on Anti-epizootic measures</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_epis.html">CL_COMP_BREAKDOWN._L_EEX_EPIS</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_natres.html">Расходы на природные заповедники и природные парки </a></td>
-      <td>Expenditure on Nature parks and reserves</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_natres.html">CL_COMP_BREAKDOWN._L_EEX_NATRES</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_nes.html">Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям</a></td>
-      <td>Expenditure on Environmental issues not classified elsewhere</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_nes.html">CL_COMP_BREAKDOWN._L_EEX_NES</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_other.html">Расходы на другие услуги по охране окружающей среды</a></td>
-      <td>Expenditure on Other services on environmental\nprotection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_other.html">CL_COMP_BREAKDOWN._L_EEX_OTHER</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_other_bio.html">Расходы на прочие услуги по защите биоразнообразия и охране ландшафта</a></td>
-      <td>Expenditure on Other services for the protection\nof biodiversity and landscape</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_other_bio.html">CL_COMP_BREAKDOWN._L_EEX_OTHER_BIO</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_pol.html">Расходы на борьбу с загрязнением окружающей среды</a></td>
-      <td>Expenditure on Pollution control</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_pol.html">CL_COMP_BREAKDOWN._L_EEX_POL</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_protan.html">Расходы на охрану животных </a></td>
-      <td>Expenditure on Animal protection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_protan.html">CL_COMP_BREAKDOWN._L_EEX_PROTAN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_prottpln.html">Расходы на охрану растений</a></td>
-      <td>Expenditure on Plant protection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_prottpln.html">CL_COMP_BREAKDOWN._L_EEX_PROTTPLN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_rd.html">Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды </a></td>
-      <td>Expenditure on Research and development work\nrelated to environmental protection</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_rd.html">CL_COMP_BREAKDOWN._L_EEX_RD</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_vet.html">Расходы на ветеринарную диагностику</a></td>
-      <td>Expenditure on Veterinary diagnostics</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_eex_vet.html">CL_COMP_BREAKDOWN._L_EEX_VET</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_cont_ded.html">Доходы: Взносы/отчисления на социальные нужды</a></td>
-      <td>Income: Contributions / deductions for social needs</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_cont_ded.html">CL_COMP_BREAKDOWN._L_INC_CONT_DED</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_non_fin.html">Доходы: Доходы от продажи нефинансовых активов</a></td>
-      <td>Income: Income from sale of non-financial assets</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_non_fin.html">CL_COMP_BREAKDOWN._L_INC_NON_FIN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_non_tax.html">Доходы: Неналоговые доходы</a></td>
-      <td>Income: Non-tax revenues</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_non_tax.html">CL_COMP_BREAKDOWN._L_INC_NON_TAX</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_off_trans.html">Доходы: Полученные официальные трансферты</a></td>
-      <td>Income: Received official transfers</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_off_trans.html">CL_COMP_BREAKDOWN._L_INC_OFF_TRANS</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_tax.html">Доходы: Налоговые доходы</a></td>
-      <td>Income: Tax revenues</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_inc_tax.html">CL_COMP_BREAKDOWN._L_INC_TAX</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_sch_att.html">Посещение школы: Посещает</a></td>
-      <td>School attendance: Attends</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_sch_att.html">CL_COMP_BREAKDOWN._L_SCH_ATT</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_sch_not_att.html">Посещение школы: Не посещает</a></td>
-      <td>School attendance: Not attends</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_sch_not_att.html">CL_COMP_BREAKDOWN._L_SCH_NOT_ATT</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_amph_rep.html">Виды: Амфибии и рептилии</a></td>
-      <td>Species: Amphibians and Reptiles</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_amph_rep.html">CL_COMP_BREAKDOWN._L_SPC_AMPH_REP</a></td>
       <td>3</td>
       <td>3</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_bird.html">Виды: Птицы</a></td>
-      <td>Species: Birds</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_bird.html">CL_COMP_BREAKDOWN._L_SPC_BIRD</a></td>
       <td>3</td>
       <td>3</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_fish.html">Виды: Рыбы</a></td>
-      <td>Species: Fish</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_fish.html">CL_COMP_BREAKDOWN._L_SPC_FISH</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_insec.html">Виды: Насекомые</a></td>
-      <td>Species: Insects</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_insec.html">CL_COMP_BREAKDOWN._L_SPC_INSEC</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_mamm.html">Виды: Млекопитающие</a></td>
-      <td>Species: Mammals</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_mamm.html">CL_COMP_BREAKDOWN._L_SPC_MAMM</a></td>
       <td>3</td>
       <td>3</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_plant_mush.html">Виды: Растения и грибы</a></td>
-      <td>Species: Plants and mushrooms</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_spc_plant_mush.html">CL_COMP_BREAKDOWN._L_SPC_PLANT_MUSH</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_1_4.html">Учителя: b) в начальной школе (1-4 класс)</a></td>
-      <td>Teachers: b) in primary school (grades 1-4)</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_1_4.html">CL_COMP_BREAKDOWN._L_TCH_PR_SCH_1_4</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_edu.html">Учителя: a) в дошкольных образовательных организациях</a></td>
-      <td>Teachers: a) in pre-school educational institutions</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_edu.html">CL_COMP_BREAKDOWN._L_TCH_PR_SCH_EDU</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sec_sch_5_11.html">Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс)</a></td>
-      <td>Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_tch_pr_sec_sch_5_11.html">CL_COMP_BREAKDOWN._L_TCH_PR_SEC_SCH_5_11</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_burn.html">Вид избавления: Сжигание</a></td>
-      <td>Waste removal: Burning</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_burn.html">CL_COMP_BREAKDOWN._L_WR_BURN</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_burying.html">Вид избавления: Закапывание</a></td>
-      <td>Waste removal: Burying</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_burying.html">CL_COMP_BREAKDOWN._L_WR_BURYING</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_col_tr.html">Вид избавления: Сбор грузовиком, контейнером</a></td>
-      <td>Waste removal: Collection by truck, container</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_col_tr.html">CL_COMP_BREAKDOWN._L_WR_COL_TR</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_dum_gar.html">Вид избавления: Сброс в мусорные кучи</a></td>
-      <td>Waste removal: Dumping into garbage heaps</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_dum_gar.html">CL_COMP_BREAKDOWN._L_WR_DUM_GAR</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_gar_ch.html">Вид избавления: Мусоропровод</a></td>
-      <td>Waste removal: Garbage chute</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_wr_gar_ch.html">CL_COMP_BREAKDOWN._L_WR_GAR_CH</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_ws_aquifer.html">Источник воды: подземный горизонт</a></td>
-      <td>Water source: Aquifers</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_ws_aquifer.html">CL_COMP_BREAKDOWN._L_WS_AQUIFER</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdown_l_ws_natural.html">Источник воды: природный</a></td>
-      <td>Water source: Natural</td>
+      <td><a href="disaggregation-value--cl_comp_breakdown_l_ws_natural.html">CL_COMP_BREAKDOWN._L_WS_NATURAL</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownis_256kt2m.html">Скорость интернета: от 256 кбит / с до менее 2 Мбит / с</a></td>
-      <td>Internet speed: 256 kbit/s to less than 2 Mbit/s</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownis_256kt2m.html">CL_COMP_BREAKDOWN.IS_256KT2M</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownis_2mt10m.html">Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с</a></td>
-      <td>Internet speed: 2 Mbit/s to less than 10 Mbit/s</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownis_2mt10m.html">CL_COMP_BREAKDOWN.IS_2MT10M</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownis_ge10m.html">Скорость интернета: 10 Мбит / с или выше</a></td>
-      <td>Internet speed: 10 Mbit/s or above</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownis_ge10m.html">CL_COMP_BREAKDOWN.IS_GE10M</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownmot_air.html">Вид транспорта: Воздушный</a></td>
-      <td>Mode of Transport: Air</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownmot_air.html">CL_COMP_BREAKDOWN.MOT_AIR</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownmot_bus.html">Вид транспорта: Автобус</a></td>
-      <td>Mode of Transport: Bus</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownmot_bus.html">CL_COMP_BREAKDOWN.MOT_BUS</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownmot_rai.html">Вид транспорта: Железнодорожный</a></td>
-      <td>Mode of Transport: Rail</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownmot_rai.html">CL_COMP_BREAKDOWN.MOT_RAI</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownmot_tax.html">Вид транспорта: Такси</a></td>
-      <td>Mode of Transport: Taxi</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownmot_tax.html">CL_COMP_BREAKDOWN.MOT_TAX</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownmot_tro.html">Вид транспорта: Троллейбус</a></td>
-      <td>Mode of Transport: Trolley bus</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownmot_tro.html">CL_COMP_BREAKDOWN.MOT_TRO</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownncd_cardio.html">Неинфекционные заболевания: Сердечно-сосудистые заболевания</a></td>
-      <td>Non-communicable disease: Cardiovascular disease</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownncd_cardio.html">CL_COMP_BREAKDOWN.NCD_CARDIO</a></td>
       <td>10</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownncd_cncr.html">Неинфекционные заболевания: Онкологические заболевания</a></td>
-      <td>Non-communicable disease: Cancer</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownncd_cncr.html">CL_COMP_BREAKDOWN.NCD_CNCR</a></td>
       <td>10</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownncd_crespd.html">Неинфекционные заболевания: Хронические респираторные заболевания</a></td>
-      <td>Non-communicable disease: Chronic respiratory disease</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownncd_crespd.html">CL_COMP_BREAKDOWN.NCD_CRESPD</a></td>
       <td>10</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownncd_diabts.html">Неинфекционные заболевания: Диабет</a></td>
-      <td>Non-communicable disease: Diabetes</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownncd_diabts.html">CL_COMP_BREAKDOWN.NCD_DIABTS</a></td>
       <td>10</td>
       <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--cl_comp_breakdownpol_co.html">CL_COMP_BREAKDOWN.POL_CO</a></td>
-      <td>CL_COMP_BREAKDOWN.POL_CO</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--cl_comp_breakdownpol_gasliq.html">CL_COMP_BREAKDOWN.POL_GASLIQ</a></td>
-      <td>CL_COMP_BREAKDOWN.POL_GASLIQ</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--cl_comp_breakdownpol_nox.html">CL_COMP_BREAKDOWN.POL_NOX</a></td>
-      <td>CL_COMP_BREAKDOWN.POL_NOX</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--cl_comp_breakdownpol_s02.html">CL_COMP_BREAKDOWN.POL_S02</a></td>
-      <td>CL_COMP_BREAKDOWN.POL_S02</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
       <td><a href="disaggregation-value--cl_comp_breakdownpol_solid.html">CL_COMP_BREAKDOWN.POL_SOLID</a></td>
-      <td>CL_COMP_BREAKDOWN.POL_SOLID</td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictatch.html">Навык: Навык ИКТ: Отправка электронной почты с вложенными файлами</a></td>
-      <td>Skill: ICT Skill: Sending e-mails with attached files</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictatch.html">CL_COMP_BREAKDOWN.SKILL_ICTATCH</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcdv.html">Навык: Навык ИКТ: Подключение и установка новых устройств</a></td>
-      <td>Skill: ICT Skill: connecting and installing new devices</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcdv.html">CL_COMP_BREAKDOWN.SKILL_ICTCDV</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcmfl.html">Навык: Навык ИКТ: Копирование или перемещение файла или папки</a></td>
-      <td>Skill: ICT Skill: Copying or moving a file or folder</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcmfl.html">CL_COMP_BREAKDOWN.SKILL_ICTCMFL</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcpt.html">Навык: Навык ИКТ: Использование инструментов копирования и вставки для дублирования или перемещения информации в документе</a></td>
-      <td>Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictcpt.html">CL_COMP_BREAKDOWN.SKILL_ICTCPT</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictprgm.html">Навык: Навык ИКТ: Написание компьютерной программы с использованием специализированного языка программирования</a></td>
-      <td>Skill: ICT Skill: Writing a computer program using a specialized programming language</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictprgm.html">CL_COMP_BREAKDOWN.SKILL_ICTPRGM</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictpst.html">Навык: Навык ИКТ: Создание электронных презентаций с помощью программного обеспечения для презентаций</a></td>
-      <td>Skill: ICT Skill: Creating electronic presentations with presentation software</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictpst.html">CL_COMP_BREAKDOWN.SKILL_ICTPST</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictsfwr.html">Навык: Навык ИКТ: Поиск, загрузка, установка и настройка программного обеспечения</a></td>
-      <td>Skill: ICT Skill: Finding, downloading, installing and configuring software</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictsfwr.html">CL_COMP_BREAKDOWN.SKILL_ICTSFWR</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictssht.html">Навык: Навык ИКТ: Использование базовых арифметических формул в электронной таблице</a></td>
-      <td>Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_ictssht.html">CL_COMP_BREAKDOWN.SKILL_ICTSSHT</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_comp_breakdownskill_icttrff.html">Навык: Навык ИКТ: Передача файлов между компьютером и другими устройствами</a></td>
-      <td>Skill: ICT Skill: Transferring files between a computer and other devices</td>
+      <td><a href="disaggregation-value--cl_comp_breakdownskill_icttrff.html">CL_COMP_BREAKDOWN.SKILL_ICTTRFF</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_acs_nowork.html\">CL_COMP_BREAKDOWN._L_ACS_NOWORK<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_acs_retired.html\">CL_COMP_BREAKDOWN._L_ACS_RETIRED<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_acs_student.html\">CL_COMP_BREAKDOWN._L_ACS_STUDENT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_acs_work.html\">CL_COMP_BREAKDOWN._L_ACS_WORK<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_by.html\">CL_COMP_BREAKDOWN._L_CNT_BY<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_cn.html\">CL_COMP_BREAKDOWN._L_CNT_CN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_hu.html\">CL_COMP_BREAKDOWN._L_CNT_HU<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_kz.html\">CL_COMP_BREAKDOWN._L_CNT_KZ<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_ru.html\">CL_COMP_BREAKDOWN._L_CNT_RU<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cnt_tj.html\">CL_COMP_BREAKDOWN._L_CNT_TJ<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf01.html\">CL_COMP_BREAKDOWN._L_COFOG_GF01<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf04.html\">CL_COMP_BREAKDOWN._L_COFOG_GF04<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf05.html\">CL_COMP_BREAKDOWN._L_COFOG_GF05<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf06.html\">CL_COMP_BREAKDOWN._L_COFOG_GF06<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf07.html\">CL_COMP_BREAKDOWN._L_COFOG_GF07<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf08.html\">CL_COMP_BREAKDOWN._L_COFOG_GF08<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf09.html\">CL_COMP_BREAKDOWN._L_COFOG_GF09<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_gf10.html\">CL_COMP_BREAKDOWN._L_COFOG_GF10<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cofog_t.html\">CL_COMP_BREAKDOWN._L_COFOG_T<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_age.html\">CL_COMP_BREAKDOWN._L_CSE_AGE<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_disab.html\">CL_COMP_BREAKDOWN._L_CSE_DISAB<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_dom.html\">CL_COMP_BREAKDOWN._L_CSE_DOM<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_family.html\">CL_COMP_BREAKDOWN._L_CSE_FAMILY<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_lack_irr.html\">CL_COMP_BREAKDOWN._L_CSE_LACK_IRR<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_marr.html\">CL_COMP_BREAKDOWN._L_CSE_MARR<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_matdiff.html\">CL_COMP_BREAKDOWN._L_CSE_MATDIFF<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_nat_dis.html\">CL_COMP_BREAKDOWN._L_CSE_NAT_DIS<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_nodoc.html\">CL_COMP_BREAKDOWN._L_CSE_NODOC<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_nolang.html\">CL_COMP_BREAKDOWN._L_CSE_NOLANG<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_other.html\">CL_COMP_BREAKDOWN._L_CSE_OTHER<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_parents.html\">CL_COMP_BREAKDOWN._L_CSE_PARENTS<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_salin_wat.html\">CL_COMP_BREAKDOWN._L_CSE_SALIN_WAT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_seaswork.html\">CL_COMP_BREAKDOWN._L_CSE_SEASWORK<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_sick.html\">CL_COMP_BREAKDOWN._L_CSE_SICK<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_transport.html\">CL_COMP_BREAKDOWN._L_CSE_TRANSPORT<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_unwill.html\">CL_COMP_BREAKDOWN._L_CSE_UNWILL<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_cse_work.html\">CL_COMP_BREAKDOWN._L_CSE_WORK<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_edu_oth.html\">CL_COMP_BREAKDOWN._L_EDU_OTH<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_charpln.html\">CL_COMP_BREAKDOWN._L_EEX_CHARPLN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_epis.html\">CL_COMP_BREAKDOWN._L_EEX_EPIS<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_natres.html\">CL_COMP_BREAKDOWN._L_EEX_NATRES<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_nes.html\">CL_COMP_BREAKDOWN._L_EEX_NES<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_other.html\">CL_COMP_BREAKDOWN._L_EEX_OTHER<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_other_bio.html\">CL_COMP_BREAKDOWN._L_EEX_OTHER_BIO<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_pol.html\">CL_COMP_BREAKDOWN._L_EEX_POL<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_protan.html\">CL_COMP_BREAKDOWN._L_EEX_PROTAN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_prottpln.html\">CL_COMP_BREAKDOWN._L_EEX_PROTTPLN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_rd.html\">CL_COMP_BREAKDOWN._L_EEX_RD<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_eex_vet.html\">CL_COMP_BREAKDOWN._L_EEX_VET<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_inc_cont_ded.html\">CL_COMP_BREAKDOWN._L_INC_CONT_DED<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_inc_non_fin.html\">CL_COMP_BREAKDOWN._L_INC_NON_FIN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_inc_non_tax.html\">CL_COMP_BREAKDOWN._L_INC_NON_TAX<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_inc_off_trans.html\">CL_COMP_BREAKDOWN._L_INC_OFF_TRANS<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_inc_tax.html\">CL_COMP_BREAKDOWN._L_INC_TAX<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_sch_att.html\">CL_COMP_BREAKDOWN._L_SCH_ATT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_sch_not_att.html\">CL_COMP_BREAKDOWN._L_SCH_NOT_ATT<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_amph_rep.html\">CL_COMP_BREAKDOWN._L_SPC_AMPH_REP<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_bird.html\">CL_COMP_BREAKDOWN._L_SPC_BIRD<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_fish.html\">CL_COMP_BREAKDOWN._L_SPC_FISH<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_insec.html\">CL_COMP_BREAKDOWN._L_SPC_INSEC<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_mamm.html\">CL_COMP_BREAKDOWN._L_SPC_MAMM<\/a>","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_spc_plant_mush.html\">CL_COMP_BREAKDOWN._L_SPC_PLANT_MUSH<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_1_4.html\">CL_COMP_BREAKDOWN._L_TCH_PR_SCH_1_4<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_tch_pr_sch_edu.html\">CL_COMP_BREAKDOWN._L_TCH_PR_SCH_EDU<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_tch_pr_sec_sch_5_11.html\">CL_COMP_BREAKDOWN._L_TCH_PR_SEC_SCH_5_11<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_wr_burn.html\">CL_COMP_BREAKDOWN._L_WR_BURN<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_wr_burying.html\">CL_COMP_BREAKDOWN._L_WR_BURYING<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_wr_col_tr.html\">CL_COMP_BREAKDOWN._L_WR_COL_TR<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_wr_dum_gar.html\">CL_COMP_BREAKDOWN._L_WR_DUM_GAR<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_wr_gar_ch.html\">CL_COMP_BREAKDOWN._L_WR_GAR_CH<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_ws_aquifer.html\">CL_COMP_BREAKDOWN._L_WS_AQUIFER<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdown_l_ws_natural.html\">CL_COMP_BREAKDOWN._L_WS_NATURAL<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownis_256kt2m.html\">CL_COMP_BREAKDOWN.IS_256KT2M<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownis_2mt10m.html\">CL_COMP_BREAKDOWN.IS_2MT10M<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownis_ge10m.html\">CL_COMP_BREAKDOWN.IS_GE10M<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownmot_air.html\">CL_COMP_BREAKDOWN.MOT_AIR<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownmot_bus.html\">CL_COMP_BREAKDOWN.MOT_BUS<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownmot_rai.html\">CL_COMP_BREAKDOWN.MOT_RAI<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownmot_tax.html\">CL_COMP_BREAKDOWN.MOT_TAX<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownmot_tro.html\">CL_COMP_BREAKDOWN.MOT_TRO<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownncd_cardio.html\">CL_COMP_BREAKDOWN.NCD_CARDIO<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownncd_cncr.html\">CL_COMP_BREAKDOWN.NCD_CNCR<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownncd_crespd.html\">CL_COMP_BREAKDOWN.NCD_CRESPD<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownncd_diabts.html\">CL_COMP_BREAKDOWN.NCD_DIABTS<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownpol_co.html\">CL_COMP_BREAKDOWN.POL_CO<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownpol_gasliq.html\">CL_COMP_BREAKDOWN.POL_GASLIQ<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownpol_nox.html\">CL_COMP_BREAKDOWN.POL_NOX<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownpol_s02.html\">CL_COMP_BREAKDOWN.POL_S02<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownpol_solid.html\">CL_COMP_BREAKDOWN.POL_SOLID<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictatch.html\">CL_COMP_BREAKDOWN.SKILL_ICTATCH<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictcdv.html\">CL_COMP_BREAKDOWN.SKILL_ICTCDV<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictcmfl.html\">CL_COMP_BREAKDOWN.SKILL_ICTCMFL<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictcpt.html\">CL_COMP_BREAKDOWN.SKILL_ICTCPT<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictprgm.html\">CL_COMP_BREAKDOWN.SKILL_ICTPRGM<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictpst.html\">CL_COMP_BREAKDOWN.SKILL_ICTPST<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictsfwr.html\">CL_COMP_BREAKDOWN.SKILL_ICTSFWR<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_ictssht.html\">CL_COMP_BREAKDOWN.SKILL_ICTSSHT<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_comp_breakdownskill_icttrff.html\">CL_COMP_BREAKDOWN.SKILL_ICTTRFF<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="indicators-using">Indicators using disaggregation</h2>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
             
         <div class="my-3">
-            <a href="indicators--disaggregation--conceptcomposite_breakdown.csv" class="btn btn-primary">Download CSV</a>
+            <a href="indicators--disaggregation--conceptcomposite_breakdown.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--conceptcomposite_breakdown">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--conceptcomposite_breakdown" class="download-info">Size: 188 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">20</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -719,17 +644,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-b-1-1"},{"Indicator":"#11-6-1-1a"},{"Indicator":"#15-3-1-1"},{"Indicator":"#15-5-1-1"},{"Indicator":"#15-7-1-1"},{"Indicator":"#15-b-1-1"},{"Indicator":"#15-c-1-1"},{"Indicator":"#16-6-1"},{"Indicator":"#17-1-1"},{"Indicator":"#17-6-2"},{"Indicator":"#3-4-1"},{"Indicator":"#4-1-1-1a"},{"Indicator":"#4-4-1"},{"Indicator":"#4-b-1-1"},{"Indicator":"#4-c-1-1"},{"Indicator":"#5-2-1-1b"},{"Indicator":"#6-4-2-1"},{"Indicator":"#8-7-1"},{"Indicator":"#9-1-2"},{"Indicator":"#9-4-1-1"}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         

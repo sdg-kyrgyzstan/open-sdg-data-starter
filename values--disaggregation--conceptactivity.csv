@@ -1,23 +1,23 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-"Сельское хозяйство, лесоводство и рыболовство","Agriculture, forestry and fishing",6,5
-Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,4,3
-Промышленность,Industry (total),2,2
-Обрабатывающая промышленность,Manufacturing,4,3
-"Снабжение электричеством, газом, паром и кондиционированным воздухом","Electricity, gas, steam and air conditioning supply",4,3
-"Водоснабжение; системы канализации, удаление отходов и меры по восстановлению окружающей среды","Water supply; sewerage, waste management and remediation activities",4,3
-Строительство,Construction,5,4
-Оптовая и розничная торговля; ремонт автомобилей и мотоциклов,Wholesale and retail trade; repair of motor vehicles and motorcycles,4,3
-Транспорт и складское хозяйство,Transportation and storage,4,3
-Размещение и общественное питание,Accommodation and food service activities,4,3
-Информация и связь,Information and communication,4,3
-Финансовая деятельность и страхование,Financial and insurance activities,4,3
-Операции с недвижимым имуществом,Real estate activities,4,3
-"Профессиональная, научная и техническая деятельность","Professional, scientific and technical activities",4,3
-Деятельность в сфере административных и вспомогательных услуг,Administrative and support service activities,4,3
-Государственное управление и оборона; обязательное социальное страхование,Public administration and defence; compulsory social security,3,2
-Образование,Education,4,3
-Деятельность в сфере здравоохранения и социальных услуг,Human health and social work activities,4,3
-"Искусство, сфера развлечений и отдыха","Arts, entertainment and recreation",4,3
-Прочие виды деятельности в сфере услуг,Other service activities,5,4
-Деятельность домашних хозяйств в качестве работодателей; недифференцированная деятельность домашних хозяйств по производству товаров и услуг для собственного использования,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,1,1
-Деятельность экстерриториальных организаций и органов,Activities of extraterritorial organisations and bodies,1,1
+Value,Disaggregation combinations using this value,Number of indicators
+CL_ACTIVITY.ISIC4_A,6,5
+CL_ACTIVITY.ISIC4_B,4,3
+CL_ACTIVITY.ISIC4_BTE,2,2
+CL_ACTIVITY.ISIC4_C,4,3
+CL_ACTIVITY.ISIC4_D,4,3
+CL_ACTIVITY.ISIC4_E,4,3
+CL_ACTIVITY.ISIC4_F,5,4
+CL_ACTIVITY.ISIC4_G,4,3
+CL_ACTIVITY.ISIC4_H,4,3
+CL_ACTIVITY.ISIC4_I,4,3
+CL_ACTIVITY.ISIC4_J,4,3
+CL_ACTIVITY.ISIC4_K,4,3
+CL_ACTIVITY.ISIC4_L,4,3
+CL_ACTIVITY.ISIC4_M,4,3
+CL_ACTIVITY.ISIC4_N,4,3
+CL_ACTIVITY.ISIC4_O,3,2
+CL_ACTIVITY.ISIC4_P,4,3
+CL_ACTIVITY.ISIC4_Q,4,3
+CL_ACTIVITY.ISIC4_R,4,3
+CL_ACTIVITY.ISIC4_S,5,4
+CL_ACTIVITY.ISIC4_T,1,1
+CL_ACTIVITY.ISIC4_U,1,1

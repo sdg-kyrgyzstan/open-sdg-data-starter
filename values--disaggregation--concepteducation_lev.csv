@@ -1,11 +1,11 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-Среднее и послесреднее нетретичное образование (среднее),Secondary and post-secondary non-tertiary education (intermediate),4,2
-Программы развития детей младшего возраста,Early childhood education,1,1
-Начальное образование,Primary education,12,12
-Первый этап среднего образования,Lower secondary education,17,16
-Второй этап среднего образования,Upper secondary education,18,17
-Послесреднее нетретичное образование,Post-secondary non-tertiary education,17,16
-Короткий цикл третичного образования,Short-cycle tertiary education,13,8
-Бакалавриат или его эквивалент,Bachelor’s or equivalent level,1,1
-Высшее образование (бакалавриат и магистратура или эквиваленты),Tertiary education (Bachelor’s and Master's or equivalent),16,12
-Магистратура или её эквивалент,Master’s or equivalent level,1,1
+Value,Disaggregation combinations using this value,Number of indicators
+CL_EDUCATION_LEV.AGG_3_4,4,2
+CL_EDUCATION_LEV.ISCED11_0,1,1
+CL_EDUCATION_LEV.ISCED11_1,12,12
+CL_EDUCATION_LEV.ISCED11_2,17,16
+CL_EDUCATION_LEV.ISCED11_3,18,17
+CL_EDUCATION_LEV.ISCED11_4,17,16
+CL_EDUCATION_LEV.ISCED11_5,13,8
+CL_EDUCATION_LEV.ISCED11_6,1,1
+CL_EDUCATION_LEV.ISCED11_6_7,16,12
+CL_EDUCATION_LEV.ISCED11_7,1,1

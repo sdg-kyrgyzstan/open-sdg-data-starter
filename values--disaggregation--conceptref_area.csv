@@ -1,10 +1,10 @@
-Value,en,Disaggregation combinations using this value,Number of indicators
-Иссык-Кульская область,Issyk-Kul,96,63
-Джалал-Абадская область,Jalal-Abad,96,63
-Нарынская область,Naryn,96,63
-Баткенская область,Batken,95,63
-Ошская область,Osh,95,63
-Таласская область,Talas,94,63
-Чуйская область,Chui,96,63
-г. Бишкек,Bishkek (city),93,62
-г. Ош,Osh (city),92,62
+Value,Disaggregation combinations using this value,Number of indicators
+CL_AREA.KG02,96,63
+CL_AREA.KG03,96,63
+CL_AREA.KG04,96,63
+CL_AREA.KG05,95,63
+CL_AREA.KG06,95,63
+CL_AREA.KG07,94,63
+CL_AREA.KG08,96,63
+CL_AREA.KG11,93,62
+CL_AREA.KG21,92,62
