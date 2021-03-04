@@ -84,6 +84,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-1,"concept.REF_AREA, concept.URBANISATION",2
 #6-2-1,"concept.REF_AREA, concept.URBANISATION, concept.INCOME_WEALTH_QUANTILE, concept.EDUCATION_LEV",4
 #6-2-1-1,concept.REF_AREA,1
+#6-3-1,concept.REF_AREA,1
 #6-4-1-2,concept.REF_AREA,1
 #6-4-2-1,"concept.COMPOSITE_BREAKDOWN, concept.REF_AREA",2
 #6-a-1-1,Показатель,1

@@ -8,7 +8,7 @@ concept.FREQ,1,2
 concept.INCOME_WEALTH_QUANTILE,19,7
 concept.OCCUPATION,1,4
 concept.PRODUCT,1,10
-concept.REF_AREA,63,9
+concept.REF_AREA,64,9
 concept.SEX,33,2
 concept.URBANISATION,25,2
 Возраст (лет),1,9
