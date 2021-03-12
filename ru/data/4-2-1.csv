@@ -1,43 +1,43 @@
-Year,Территория,Пол,Уровень дохода или квантиль благосостояния,Уровень образования,Value
-2014,,,,,78.3
-2018,,,,,71.7
-2014,Баткенская область,,,,81.2
-2018,Баткенская область,,,,83.3
-2014,Джалал-Абадская область,,,,87.1
-2018,Джалал-Абадская область,,,,63.9
-2014,Иссык-Кульская область,,,,81.6
-2018,Иссык-Кульская область,,,,79.8
-2014,Нарынская область,,,,80.6
-2018,Нарынская область,,,,72.4
-2014,Ошская область,,,,69.6
-2018,Ошская область,,,,65.8
-2014,Таласская область,,,,84.9
-2018,Таласская область,,,,65.1
-2014,Чуйская область,,,,73.5
-2018,Чуйская область,,,,72.0
-2014,г. Бишкек,,,,87.4
-2018,г. Бишкек,,,,81.3
-2014,г. Ош,,,,52.0
-2018,г. Ош,,,,71.5
-2014,,Мужчины,,,76.1
-2018,,Мужчины,,,68.2
-2014,,Женщины,,,80.6
-2018,,Женщины,,,75.0
-2014,,,,Первый этап среднего образования,70.1
-2018,,,,Первый этап среднего образования,71.0
-2014,,,,Второй этап среднего образования,77.2
-2018,,,,Второй этап среднего образования,73.8
-2014,,,,Послесреднее нетретичное образование,80.8
-2018,,,,Послесреднее нетретичное образование,70.6
-2014,,,,Короткий цикл третичного образования,81.8
-2018,,,,Короткий цикл третичного образования,69.6
-2014,,,Квинтиль 1 (беднейшие),,76.5
-2018,,,Квинтиль 1 (беднейшие),,72.5
-2014,,,Квинтиль 2,,80.3
-2018,,,Квинтиль 2,,70.6
-2014,,,Квинтиль 3,,73.0
-2018,,,Квинтиль 3,,67.2
-2014,,,Квинтиль 4,,79.3
-2018,,,Квинтиль 4,,71.0
-2014,,,Квинтиль 5 (богатейшие),,84.3
-2018,,,Квинтиль 5 (богатейшие),,78.0
+Year,Сноски на уровне наблюдения,Территория,Пол,Уровень дохода или квантиль благосостояния,Уровень образования,Value
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,78.3
+2018,"According to the cluster survey for many indicators, 2018.",,,,,71.7
+2014,"According to Multiple Indicator Cluster Survey, 2014",Баткенская область,,,,81.2
+2018,"According to the cluster survey for many indicators, 2018.",Баткенская область,,,,83.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",Джалал-Абадская область,,,,87.1
+2018,"According to the cluster survey for many indicators, 2018.",Джалал-Абадская область,,,,63.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",Иссык-Кульская область,,,,81.6
+2018,"According to the cluster survey for many indicators, 2018.",Иссык-Кульская область,,,,79.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",Нарынская область,,,,80.6
+2018,"According to the cluster survey for many indicators, 2018.",Нарынская область,,,,72.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",Ошская область,,,,69.6
+2018,"According to the cluster survey for many indicators, 2018.",Ошская область,,,,65.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",Таласская область,,,,84.9
+2018,"According to the cluster survey for many indicators, 2018.",Таласская область,,,,65.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",Чуйская область,,,,73.5
+2018,"According to the cluster survey for many indicators, 2018.",Чуйская область,,,,72.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",г. Бишкек,,,,87.4
+2018,"According to the cluster survey for many indicators, 2018.",г. Бишкек,,,,81.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",г. Ош,,,,52.0
+2018,"According to the cluster survey for many indicators, 2018.",г. Ош,,,,71.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Мужчины,,,76.1
+2018,"According to the cluster survey for many indicators, 2018.",,Мужчины,,,68.2
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Женщины,,,80.6
+2018,"According to the cluster survey for many indicators, 2018.",,Женщины,,,75.0
+2014,education of mother,,,,Первый этап среднего образования,70.1
+2018,education of mother,,,,Первый этап среднего образования,71.0
+2014,education of mother,,,,Второй этап среднего образования,77.2
+2018,education of mother,,,,Второй этап среднего образования,73.8
+2014,education of mother,,,,Послесреднее нетретичное образование,80.8
+2018,education of mother,,,,Послесреднее нетретичное образование,70.6
+2014,education of mother,,,,Короткий цикл третичного образования,81.8
+2018,education of mother,,,,Короткий цикл третичного образования,69.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Квинтиль 1 (беднейшие),,76.5
+2018,"According to the cluster survey for many indicators, 2018.",,,Квинтиль 1 (беднейшие),,72.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Квинтиль 2,,80.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Квинтиль 2,,70.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Квинтиль 3,,73.0
+2018,"According to the cluster survey for many indicators, 2018.",,,Квинтиль 3,,67.2
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Квинтиль 4,,79.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Квинтиль 4,,71.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Квинтиль 5 (богатейшие),,84.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Квинтиль 5 (богатейшие),,78.0

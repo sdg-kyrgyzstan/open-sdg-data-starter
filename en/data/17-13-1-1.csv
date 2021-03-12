@@ -1,76 +1,76 @@
-Year,Series,Units,Value
-2010,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.5
-2011,"GDP growth rate (decline), as a percentage of the previous year",Percent,106.0
-2012,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.9
-2013,"GDP growth rate (decline), as a percentage of the previous year",Percent,110.9
-2014,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.0
-2015,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.9
-2016,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.3
-2017,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.7
-2018,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.8
-2010,"The consumer price index, as a percentage of the previous year",Percent,108.0
-2011,"The consumer price index, as a percentage of the previous year",Percent,116.6
-2012,"The consumer price index, as a percentage of the previous year",Percent,102.8
-2013,"The consumer price index, as a percentage of the previous year",Percent,106.6
-2014,"The consumer price index, as a percentage of the previous year",Percent,107.5
-2015,"The consumer price index, as a percentage of the previous year",Percent,106.5
-2016,"The consumer price index, as a percentage of the previous year",Percent,100.4
-2017,"The consumer price index, as a percentage of the previous year",Percent,103.2
-2018,"The consumer price index, as a percentage of the previous year",Percent,101.5
-2019,"The consumer price index, as a percentage of the previous year",Percent,101.1
-2010,"Producer Price Indices, as a percentage of the previous year",Percent,122.79
-2011,"Producer Price Indices, as a percentage of the previous year",Percent,122.02
-2012,"Producer Price Indices, as a percentage of the previous year",Percent,105.3
-2013,"Producer Price Indices, as a percentage of the previous year",Percent,97.92
-2014,"Producer Price Indices, as a percentage of the previous year",Percent,101.45
-2015,"Producer Price Indices, as a percentage of the previous year",Percent,108.75
-2016,"Producer Price Indices, as a percentage of the previous year",Percent,106.41
-2017,"Producer Price Indices, as a percentage of the previous year",Percent,101.66
-2018,"Producer Price Indices, as a percentage of the previous year",Percent,101.49
-2019,"Producer Price Indices, as a percentage of the previous year",Percent,104.1
-2010,"Budget deficit and sources of financing, milllion soms",Local currency,-10767.9787
-2011,"Budget deficit and sources of financing, milllion soms",Local currency,-13663.7111
-2012,"Budget deficit and sources of financing, milllion soms",Local currency,-20232.3134
-2013,"Budget deficit and sources of financing, milllion soms",Local currency,-2330.4823
-2014,"Budget deficit and sources of financing, milllion soms",Local currency,-1875.5431
-2015,"Budget deficit and sources of financing, milllion soms",Local currency,-6149.3213
-2016,"Budget deficit and sources of financing, milllion soms",Local currency,-20888.9124
-2017,"Budget deficit and sources of financing, milllion soms",Local currency,-16476.1602
-2018,"Budget deficit and sources of financing, milllion soms",Local currency,-6188.9008
-2019,"Budget deficit and sources of financing, milllion soms",Local currency,-431.7092
-2010,"Volume of public debt, million soms",Local currency,7667.4055
-2011,"Volume of public debt, million soms",Local currency,9394.668149
-2012,"Volume of public debt, million soms",Local currency,11440.61056
-2013,"Volume of public debt, million soms",Local currency,13939.58569
-2014,"Volume of public debt, million soms",Local currency,13713.456934
-2015,"Volume of public debt, million soms",Local currency,14364.3936
-2016,"Volume of public debt, million soms",Local currency,20698.734025
-2017,"Volume of public debt, million soms",Local currency,20620.48082
-2018,"Volume of public debt, million soms",Local currency,23747.690011
-2010,"Foreign trade, as a percentage of the previous year",Percent,105.6
-2011,"Foreign trade, as a percentage of the previous year",Percent,130.62446
-2012,"Foreign trade, as a percentage of the previous year",Percent,115.384261
-2013,"Foreign trade, as a percentage of the previous year",Percent,106.528605
-2014,"Foreign trade, as a percentage of the previous year",Percent,95.30386
-2015,"Foreign trade, as a percentage of the previous year",Percent,73.989322
-2016,"Foreign trade, as a percentage of the previous year",Percent,98.878752
-2017,"Foreign trade, as a percentage of the previous year",Percent,112.297259
-2018,"Foreign trade, as a percentage of the previous year",Percent,113.896789
-2010,"Export, million USD",USD,1755.9245
-2011,"Export, million USD",USD,2242.1664
-2012,"Export, million USD",USD,1927.6232
-2013,"Export, million USD",USD,2006.8497
-2014,"Export, million USD",USD,1883.733456
-2015,"Export, million USD",USD,1482.942034
-2016,"Export, million USD",USD,1573.21493
-2017,"Export, million USD",USD,1764.254644
-2018,"Export, million USD",USD,1836.838696
-2010,"Import, million USD",USD,3222.772182
-2011,"Import, million USD",USD,4261.226418
-2012,"Import, million USD",USD,5576.264131
-2013,"Import, million USD",USD,5986.983003
-2014,"Import, million USD",USD,5734.703808
-2015,"Import, million USD",USD,4153.86051
-2016,"Import, million USD",USD,4000.442107
-2017,"Import, million USD",USD,4494.728178
-2018,"Import, million USD",USD,5291.945776
+Year,Unit multiplier,Series,Units,Value
+2010,Units,_L_KG_171301_1A,PT,99.5
+2011,Units,_L_KG_171301_1A,PT,106.0
+2012,Units,_L_KG_171301_1A,PT,99.9
+2013,Units,_L_KG_171301_1A,PT,110.9
+2014,Units,_L_KG_171301_1A,PT,104.0
+2015,Units,_L_KG_171301_1A,PT,103.9
+2016,Units,_L_KG_171301_1A,PT,104.3
+2017,Units,_L_KG_171301_1A,PT,104.7
+2018,Units,_L_KG_171301_1A,PT,103.8
+2010,Units,_L_KG_171301_1B,PT,108.0
+2011,Units,_L_KG_171301_1B,PT,116.6
+2012,Units,_L_KG_171301_1B,PT,102.8
+2013,Units,_L_KG_171301_1B,PT,106.6
+2014,Units,_L_KG_171301_1B,PT,107.5
+2015,Units,_L_KG_171301_1B,PT,106.5
+2016,Units,_L_KG_171301_1B,PT,100.4
+2017,Units,_L_KG_171301_1B,PT,103.2
+2018,Units,_L_KG_171301_1B,PT,101.5
+2019,Units,_L_KG_171301_1B,PT,101.1
+2010,Units,_L_KG_171301_1C,PT,122.79
+2011,Units,_L_KG_171301_1C,PT,122.02
+2012,Units,_L_KG_171301_1C,PT,105.3
+2013,Units,_L_KG_171301_1C,PT,97.92
+2014,Units,_L_KG_171301_1C,PT,101.45
+2015,Units,_L_KG_171301_1C,PT,108.75
+2016,Units,_L_KG_171301_1C,PT,106.41
+2017,Units,_L_KG_171301_1C,PT,101.66
+2018,Units,_L_KG_171301_1C,PT,101.49
+2019,Units,_L_KG_171301_1C,PT,104.1
+2010,Millions,_L_KG_171301_1D,CUR_LCU,-10767.9787
+2011,Millions,_L_KG_171301_1D,CUR_LCU,-13663.7111
+2012,Millions,_L_KG_171301_1D,CUR_LCU,-20232.3134
+2013,Millions,_L_KG_171301_1D,CUR_LCU,-2330.4823
+2014,Millions,_L_KG_171301_1D,CUR_LCU,-1875.5431
+2015,Millions,_L_KG_171301_1D,CUR_LCU,-6149.3213
+2016,Millions,_L_KG_171301_1D,CUR_LCU,-20888.9124
+2017,Millions,_L_KG_171301_1D,CUR_LCU,-16476.1602
+2018,Millions,_L_KG_171301_1D,CUR_LCU,-6188.9008
+2019,Millions,_L_KG_171301_1D,CUR_LCU,-431.7092
+2010,Millions,_L_KG_171301_1E,CUR_LCU,7667.4055
+2011,Millions,_L_KG_171301_1E,CUR_LCU,9394.668149
+2012,Millions,_L_KG_171301_1E,CUR_LCU,11440.61056
+2013,Millions,_L_KG_171301_1E,CUR_LCU,13939.58569
+2014,Millions,_L_KG_171301_1E,CUR_LCU,13713.456934
+2015,Millions,_L_KG_171301_1E,CUR_LCU,14364.3936
+2016,Millions,_L_KG_171301_1E,CUR_LCU,20698.734025
+2017,Millions,_L_KG_171301_1E,CUR_LCU,20620.48082
+2018,Millions,_L_KG_171301_1E,CUR_LCU,23747.690011
+2010,Units,_L_KG_171301_1F,PT,105.6
+2011,Units,_L_KG_171301_1F,PT,130.62446
+2012,Units,_L_KG_171301_1F,PT,115.384261
+2013,Units,_L_KG_171301_1F,PT,106.528605
+2014,Units,_L_KG_171301_1F,PT,95.30386
+2015,Units,_L_KG_171301_1F,PT,73.989322
+2016,Units,_L_KG_171301_1F,PT,98.878752
+2017,Units,_L_KG_171301_1F,PT,112.297259
+2018,Units,_L_KG_171301_1F,PT,113.896789
+2010,Millions,_L_KG_171301_1G,USD,1755.9245
+2011,Millions,_L_KG_171301_1G,USD,2242.1664
+2012,Millions,_L_KG_171301_1G,USD,1927.6232
+2013,Millions,_L_KG_171301_1G,USD,2006.8497
+2014,Millions,_L_KG_171301_1G,USD,1883.733456
+2015,Millions,_L_KG_171301_1G,USD,1482.942034
+2016,Millions,_L_KG_171301_1G,USD,1573.21493
+2017,Millions,_L_KG_171301_1G,USD,1764.254644
+2018,Millions,_L_KG_171301_1G,USD,1836.838696
+2010,Millions,_L_KG_171301_1H,USD,3222.772182
+2011,Millions,_L_KG_171301_1H,USD,4261.226418
+2012,Millions,_L_KG_171301_1H,USD,5576.264131
+2013,Millions,_L_KG_171301_1H,USD,5986.983003
+2014,Millions,_L_KG_171301_1H,USD,5734.703808
+2015,Millions,_L_KG_171301_1H,USD,4153.86051
+2016,Millions,_L_KG_171301_1H,USD,4000.442107
+2017,Millions,_L_KG_171301_1H,USD,4494.728178
+2018,Millions,_L_KG_171301_1H,USD,5291.945776

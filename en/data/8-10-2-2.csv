@@ -1,21 +1,21 @@
-Year,Series,Units,Value
-2010,Number of insurance companies reporting,Number,18.0
-2011,Number of insurance companies reporting,Number,18.0
-2012,Number of insurance companies reporting,Number,19.0
-2013,Number of insurance companies reporting,Number,19.0
-2014,Number of insurance companies reporting,Number,21.0
-2015,Number of insurance companies reporting,Number,22.0
-2016,Number of insurance companies reporting,Number,24.0
-2017,Number of insurance companies reporting,Number,23.0
-2018,Number of insurance companies reporting,Number,22.0
-2019,Number of insurance companies reporting,Number,20.0
-2010,Insurance premiums collected,Local currency,477.2
-2011,Insurance premiums collected,Local currency,292.9
-2012,Insurance premiums collected,Local currency,337.8
-2013,Insurance premiums collected,Local currency,405.4
-2014,Insurance premiums collected,Local currency,1003.2
-2015,Insurance premiums collected,Local currency,967.0
-2016,Insurance premiums collected,Local currency,921.3
-2017,Insurance premiums collected,Local currency,1004.4
-2018,Insurance premiums collected,Local currency,1092.7
-2019,Insurance premiums collected,Local currency,1308.1
+Year,Unit multiplier,Series,Units,Value
+2010,Units,_L_KG_081002_2A,NUMBER,18.0
+2011,Units,_L_KG_081002_2A,NUMBER,18.0
+2012,Units,_L_KG_081002_2A,NUMBER,19.0
+2013,Units,_L_KG_081002_2A,NUMBER,19.0
+2014,Units,_L_KG_081002_2A,NUMBER,21.0
+2015,Units,_L_KG_081002_2A,NUMBER,22.0
+2016,Units,_L_KG_081002_2A,NUMBER,24.0
+2017,Units,_L_KG_081002_2A,NUMBER,23.0
+2018,Units,_L_KG_081002_2A,NUMBER,22.0
+2019,Units,_L_KG_081002_2A,NUMBER,20.0
+2010,Millions,_L_KG_081002_2B,CUR_LCU,477.2
+2011,Millions,_L_KG_081002_2B,CUR_LCU,292.9
+2012,Millions,_L_KG_081002_2B,CUR_LCU,337.8
+2013,Millions,_L_KG_081002_2B,CUR_LCU,405.4
+2014,Millions,_L_KG_081002_2B,CUR_LCU,1003.2
+2015,Millions,_L_KG_081002_2B,CUR_LCU,967.0
+2016,Millions,_L_KG_081002_2B,CUR_LCU,921.3
+2017,Millions,_L_KG_081002_2B,CUR_LCU,1004.4
+2018,Millions,_L_KG_081002_2B,CUR_LCU,1092.7
+2019,Millions,_L_KG_081002_2B,CUR_LCU,1308.1

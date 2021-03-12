@@ -1,34 +1,34 @@
-Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
-2018,,,,,,,,98.9
-2018,,Male,,,,,,99.5
-2018,,Female,,,,,,98.4
-2018,,,,Urban,,,,99.1
-2018,,,,Rural,,,,98.9
-2018,Batken,,,,,,,99.7
-2018,Jalal-Abad,,,,,,,99.4
-2018,Issyk-Kul,,,,,,,99.8
-2018,Naryn,,,,,,,99.3
-2018,Osh,,,,,,,99.3
-2018,Talas,,,,,,,99.5
-2018,Chui,,,,,,,96.8
-2018,Bishkek (city),,,,,,,99.2
-2018,Osh (city),,,,,,,97.5
-2018,,,6 to 11 months old,,,,,96.9
-2018,,,12 to 23 months old,,,,,98.8
-2018,,,24 to 35 months old,,,,,99.2
-2018,,,3 to 4 years old,,,,,99.9
-2018,,,48 to 59 months old,,,,,99.8
-2018,,,,,,Lower secondary education,,98.1
-2018,,,,,,Upper secondary education,,98.8
-2018,,,,,,Post-secondary non-tertiary education,,98.8
-2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,99.5
-2018,,,,,,,Child with disability,100.0
-2018,,,,,,,Child without disability,99.6
-2018,,,18 to 49 years old,,,,Mother with disability,97.7
-2018,,,18 to 49 years old,,,,Mother without disability,98.9
-2018,,,18 to 49 years old,,,,No information,100.0
-2018,,,,,Quintile 1 (poorest),,,99.0
-2018,,,,,Quintile 2,,,98.4
-2018,,,,,Quintile 3,,,98.8
-2018,,,,,Quintile 4,,,99.1
-2018,,,,,Quintile 5 (richest),,,99.6
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Observation-level footnotes,Value
+2018,,,,,,,,,98.9
+2018,,Male,,,,,,,99.5
+2018,,Female,,,,,,,98.4
+2018,,,,Urban,,,,,99.1
+2018,,,,Rural,,,,,98.9
+2018,Batken,,,,,,,,99.7
+2018,Jalal-Abad,,,,,,,,99.4
+2018,Issyk-Kul,,,,,,,,99.8
+2018,Naryn,,,,,,,,99.3
+2018,Osh,,,,,,,,99.3
+2018,Talas,,,,,,,,99.5
+2018,Chui,,,,,,,,96.8
+2018,Bishkek (city),,,,,,,,99.2
+2018,Osh (city),,,,,,,,97.5
+2018,,,6 to 11 months old,,,,,,96.9
+2018,,,12 to 23 months old,,,,,,98.8
+2018,,,24 to 35 months old,,,,,,99.2
+2018,,,3 to 4 years old,,,,,,99.9
+2018,,,48 to 59 months old,,,,,,99.8
+2018,,,,,,Lower secondary education,,Education of mother,98.1
+2018,,,,,,Upper secondary education,,Education of mother,98.8
+2018,,,,,,Post-secondary non-tertiary education,,Education of mother,98.8
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,Education of mother,99.5
+2018,,,,,,,Child with disability,,100.0
+2018,,,,,,,Child without disability,,99.6
+2018,,,18 to 49 years old,,,,Mother with disability,,97.7
+2018,,,18 to 49 years old,,,,Mother without disability,,98.9
+2018,,,18 to 49 years old,,,,No information,,100.0
+2018,,,,,Quintile 1 (poorest),,,,99.0
+2018,,,,,Quintile 2,,,,98.4
+2018,,,,,Quintile 3,,,,98.8
+2018,,,,,Quintile 4,,,,99.1
+2018,,,,,Quintile 5 (richest),,,,99.6

@@ -1,23 +1,23 @@
 Year,Series,Value
-2012,Proportion of population covered by at least a 2G mobile network,97.5
-2013,Proportion of population covered by at least a 2G mobile network,97.6
-2014,Proportion of population covered by at least a 2G mobile network,97.7
-2015,Proportion of population covered by at least a 2G mobile network,97.8
-2016,Proportion of population covered by at least a 2G mobile network,99.0
-2017,Proportion of population covered by at least a 2G mobile network,99.1
-2018,Proportion of population covered by at least a 2G mobile network,99.2
-2019,Proportion of population covered by at least a 2G mobile network,99.3
-2012,Proportion of population covered by at least a 3G mobile network,46.3
-2013,Proportion of population covered by at least a 3G mobile network,51.0
-2014,Proportion of population covered by at least a 3G mobile network,57.0
-2015,Proportion of population covered by at least a 3G mobile network,59.0
-2016,Proportion of population covered by at least a 3G mobile network,60.0
-2017,Proportion of population covered by at least a 3G mobile network,75.0
-2018,Proportion of population covered by at least a 3G mobile network,88.0
-2019,Proportion of population covered by at least a 3G mobile network,91.0
-2014,Proportion of population covered by at least a 4G mobile network,0.5
-2015,Proportion of population covered by at least a 4G mobile network,1.6
-2016,Proportion of population covered by at least a 4G mobile network,40.0
-2017,Proportion of population covered by at least a 4G mobile network,50.0
-2018,Proportion of population covered by at least a 4G mobile network,70.0
-2019,Proportion of population covered by at least a 4G mobile network,85.0
+2012,IT_MOB_2GNTWK,97.5
+2013,IT_MOB_2GNTWK,97.6
+2014,IT_MOB_2GNTWK,97.7
+2015,IT_MOB_2GNTWK,97.8
+2016,IT_MOB_2GNTWK,99.0
+2017,IT_MOB_2GNTWK,99.1
+2018,IT_MOB_2GNTWK,99.2
+2019,IT_MOB_2GNTWK,99.3
+2012,IT_MOB_3GNTWK,46.3
+2013,IT_MOB_3GNTWK,51.0
+2014,IT_MOB_3GNTWK,57.0
+2015,IT_MOB_3GNTWK,59.0
+2016,IT_MOB_3GNTWK,60.0
+2017,IT_MOB_3GNTWK,75.0
+2018,IT_MOB_3GNTWK,88.0
+2019,IT_MOB_3GNTWK,91.0
+2014,IT_MOB_4GNTWK,0.5
+2015,IT_MOB_4GNTWK,1.6
+2016,IT_MOB_4GNTWK,40.0
+2017,IT_MOB_4GNTWK,50.0
+2018,IT_MOB_4GNTWK,70.0
+2019,IT_MOB_4GNTWK,85.0

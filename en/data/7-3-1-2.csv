@@ -1,53 +1,53 @@
-Year,Series,Economic activity,Units,Value
-2007,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,87.7
-2008,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,59.8
-2009,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,49.9
-2010,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,47.7
-2011,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,43.3
-2012,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,43.7
-2013,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,38.5
-2014,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,36.9
-2015,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,31.5
-2016,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,27.9
-2017,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,26.9
-2018,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,26.3
-2019,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,24.41
-2007,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,20.5
-2008,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.0
-2009,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.6
-2010,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.3
-2011,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.3
-2012,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.7
-2013,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.9
-2014,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,12.9
-2015,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,16.1
-2016,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.8
-2017,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,16.3
-2018,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.8
-2019,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,14.32
-2007,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,71.8
-2008,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,46.0
-2009,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,40.1
-2010,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,33.1
-2011,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,30.0
-2012,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,41.2
-2013,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,35.0
-2014,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,43.0
-2015,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,31.8
-2016,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,26.3
-2017,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,25.0
-2018,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,25.5
-2019,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,23.61
-2007,Power generation at small hydroelecric plant,,Kilowatt-hours,158.9
-2008,Power generation at small hydroelecric plant,,Kilowatt-hours,146.9
-2009,Power generation at small hydroelecric plant,,Kilowatt-hours,168.8
-2010,Power generation at small hydroelecric plant,,Kilowatt-hours,180.5
-2011,Power generation at small hydroelecric plant,,Kilowatt-hours,174.7
-2012,Power generation at small hydroelecric plant,,Kilowatt-hours,155.2
-2013,Power generation at small hydroelecric plant,,Kilowatt-hours,160.3
-2014,Power generation at small hydroelecric plant,,Kilowatt-hours,130.9
-2015,Power generation at small hydroelecric plant,,Kilowatt-hours,207.6
-2016,Power generation at small hydroelecric plant,,Kilowatt-hours,248.3
-2017,Power generation at small hydroelecric plant,,Kilowatt-hours,260.3
-2018,Power generation at small hydroelecric plant,,Kilowatt-hours,202.9
-2019,Power generation at small hydroelecric plant,,Kilowatt-hours,200.5
+Year,Unit multiplier,Series,Economic activity,Units,Value
+2007,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,87.7
+2008,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,59.8
+2009,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,49.9
+2010,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,47.7
+2011,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,43.3
+2012,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,43.7
+2013,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,38.5
+2014,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,36.9
+2015,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,31.5
+2016,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,27.9
+2017,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,26.9
+2018,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,26.3
+2019,Units,_L_KG_070301_2A,,_L_KWH_MN_KGS,24.41
+2007,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,20.5
+2008,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.0
+2009,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.6
+2010,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2011,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.3
+2012,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.7
+2013,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.9
+2014,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,12.9
+2015,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.1
+2016,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2017,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,16.3
+2018,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,15.8
+2019,Thousands,_L_KG_070301_2A,"Agriculture, forestry and fishing",_L_TH_KWH_MN_KGS,14.32
+2007,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,71.8
+2008,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,46.0
+2009,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,40.1
+2010,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,33.1
+2011,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,30.0
+2012,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,41.2
+2013,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,35.0
+2014,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,43.0
+2015,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,31.8
+2016,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,26.3
+2017,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,25.0
+2018,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,25.5
+2019,Thousands,_L_KG_070301_2A,Industry (total),_L_TH_KWH_MN_KGS,23.61
+2007,Millions,_L_KG_070301_2B,,_L_KWH,158.9
+2008,Millions,_L_KG_070301_2B,,_L_KWH,146.9
+2009,Millions,_L_KG_070301_2B,,_L_KWH,168.8
+2010,Millions,_L_KG_070301_2B,,_L_KWH,180.5
+2011,Millions,_L_KG_070301_2B,,_L_KWH,174.7
+2012,Millions,_L_KG_070301_2B,,_L_KWH,155.2
+2013,Millions,_L_KG_070301_2B,,_L_KWH,160.3
+2014,Millions,_L_KG_070301_2B,,_L_KWH,130.9
+2015,Millions,_L_KG_070301_2B,,_L_KWH,207.6
+2016,Millions,_L_KG_070301_2B,,_L_KWH,248.3
+2017,Millions,_L_KG_070301_2B,,_L_KWH,260.3
+2018,Millions,_L_KG_070301_2B,,_L_KWH,202.9
+2019,Millions,_L_KG_070301_2B,,_L_KWH,200.5

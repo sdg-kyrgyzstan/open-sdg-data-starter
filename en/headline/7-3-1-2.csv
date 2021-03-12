@@ -1,27 +1,27 @@
-Year,Value,Units,Series
-2007,87.7,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2008,59.8,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2009,49.9,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2010,47.7,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2011,43.3,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2012,43.7,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2013,38.5,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2014,36.9,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2015,31.5,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2016,27.9,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2017,26.9,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2018,26.3,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2019,24.41,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2007,158.9,Kilowatt-hours,Power generation at small hydroelecric plant
-2008,146.9,Kilowatt-hours,Power generation at small hydroelecric plant
-2009,168.8,Kilowatt-hours,Power generation at small hydroelecric plant
-2010,180.5,Kilowatt-hours,Power generation at small hydroelecric plant
-2011,174.7,Kilowatt-hours,Power generation at small hydroelecric plant
-2012,155.2,Kilowatt-hours,Power generation at small hydroelecric plant
-2013,160.3,Kilowatt-hours,Power generation at small hydroelecric plant
-2014,130.9,Kilowatt-hours,Power generation at small hydroelecric plant
-2015,207.6,Kilowatt-hours,Power generation at small hydroelecric plant
-2016,248.3,Kilowatt-hours,Power generation at small hydroelecric plant
-2017,260.3,Kilowatt-hours,Power generation at small hydroelecric plant
-2018,202.9,Kilowatt-hours,Power generation at small hydroelecric plant
-2019,200.5,Kilowatt-hours,Power generation at small hydroelecric plant
+Year,Value,Units,Series,Unit multiplier
+2007,87.7,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2008,59.8,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2009,49.9,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2010,47.7,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2011,43.3,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2012,43.7,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2013,38.5,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2014,36.9,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2015,31.5,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2016,27.9,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2017,26.9,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2018,26.3,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2019,24.41,_L_KWH_MN_KGS,_L_KG_070301_2A,Units
+2007,158.9,_L_KWH,_L_KG_070301_2B,Millions
+2008,146.9,_L_KWH,_L_KG_070301_2B,Millions
+2009,168.8,_L_KWH,_L_KG_070301_2B,Millions
+2010,180.5,_L_KWH,_L_KG_070301_2B,Millions
+2011,174.7,_L_KWH,_L_KG_070301_2B,Millions
+2012,155.2,_L_KWH,_L_KG_070301_2B,Millions
+2013,160.3,_L_KWH,_L_KG_070301_2B,Millions
+2014,130.9,_L_KWH,_L_KG_070301_2B,Millions
+2015,207.6,_L_KWH,_L_KG_070301_2B,Millions
+2016,248.3,_L_KWH,_L_KG_070301_2B,Millions
+2017,260.3,_L_KWH,_L_KG_070301_2B,Millions
+2018,202.9,_L_KWH,_L_KG_070301_2B,Millions
+2019,200.5,_L_KWH,_L_KG_070301_2B,Millions

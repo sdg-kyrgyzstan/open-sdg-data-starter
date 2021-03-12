@@ -1,60 +1,60 @@
-Year,Территория,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Статус инвалидности,Value
-2014,,,,,,,42.0
-2018,,,,,,,67.4
-2014,Баткенская область,,,,,,45.0
-2018,Баткенская область,,,,,,48.6
-2014,Джалал-Абадская область,,,,,,31.4
-2018,Джалал-Абадская область,,,,,,56.2
-2014,Иссык-Кульская область,,,,,,46.0
-2018,Иссык-Кульская область,,,,,,65.1
-2014,Нарынская область,,,,,,58.9
-2018,Нарынская область,,,,,,79.8
-2014,Ошская область,,,,,,38.4
-2018,Ошская область,,,,,,71.1
-2014,Таласская область,,,,,,43.4
-2018,Таласская область,,,,,,79.1
-2014,Чуйская область,,,,,,47.8
-2018,Чуйская область,,,,,,70.7
-2014,г. Бишкек,,,,,,47.0
-2018,г. Бишкек,,,,,,69.6
-2014,г. Ош,,,,,,38.3
-2018,г. Ош,,,,,,71.3
-2014,,,Городская,,,,43.1
-2018,,,Городская,,,,68.6
-2014,,,Сельская,,,,41.4
-2018,,,Сельская,,,,66.7
-2014,,от 15 до 19 лет ,,,,,17.4
-2018,,от 15 до 19 лет ,,,,,31.7
-2014,,от 20 до 24 лет,,,,,28.9
-2018,,от 20 до 24 лет,,,,,53.8
-2014,,от 25 до 29 лет,,,,,39.2
-2018,,от 25 до 29 лет,,,,,59.9
-2014,,от 30 до 34 лет ,,,,,50.4
-2018,,от 30 до 34 лет ,,,,,76.2
-2014,,от 35 до 39 лет,,,,,57.2
-2018,,от 35 до 39 лет,,,,,74.5
-2014,,от 40 до 44 лет ,,,,,52.2
-2018,,от 40 до 44 лет ,,,,,68.7
-2014,,от 45 до 49 лет ,,,,,29.3
-2018,,от 45 до 49 лет ,,,,,66.0
-2014,,,,,Начальное образование,,20.4
-2014,,,,,Первый этап среднего образования,,36.5
-2018,,,,,Первый этап среднего образования,,67.8
-2014,,,,,Второй этап среднего образования,,42.1
-2018,,,,,Второй этап среднего образования,,62.9
-2014,,,,,Послесреднее нетретичное образование,,43.3
-2018,,,,,Послесреднее нетретичное образование,,66.2
-2014,,,,,Короткий цикл третичного образования,,43.7
-2018,,,,,Короткий цикл третичного образования,,74.3
-2018,,,,,,Лица с инвалидностью,81.6
-2018,,,,,,Лица без инвалидности,67.1
-2014,,,,Квинтиль 1 (беднейшие),,,42.5
-2018,,,,Квинтиль 1 (беднейшие),,,66.5
-2014,,,,Квинтиль 2,,,37.8
-2018,,,,Квинтиль 2,,,60.7
-2014,,,,Квинтиль 3,,,39.1
-2018,,,,Квинтиль 3,,,69.2
-2014,,,,Квинтиль 4,,,45.1
-2018,,,,Квинтиль 4,,,69.3
-2014,,,,Квинтиль 5 (богатейшие),,,45.3
-2018,,,,Квинтиль 5 (богатейшие),,,71.4
+Year,Сноски на уровне наблюдения,Территория,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Статус инвалидности,Value
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,,,42.0
+2018,"According to the cluster survey for many indicators, 2018.",,,,,,,67.4
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Баткенская область,,,,,,45.0
+2018,"According to the cluster survey for many indicators, 2018.",Баткенская область,,,,,,48.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Джалал-Абадская область,,,,,,31.4
+2018,"According to the cluster survey for many indicators, 2018.",Джалал-Абадская область,,,,,,56.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Иссык-Кульская область,,,,,,46.0
+2018,"According to the cluster survey for many indicators, 2018.",Иссык-Кульская область,,,,,,65.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Нарынская область,,,,,,58.9
+2018,"According to the cluster survey for many indicators, 2018.",Нарынская область,,,,,,79.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Ошская область,,,,,,38.4
+2018,"According to the cluster survey for many indicators, 2018.",Ошская область,,,,,,71.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Таласская область,,,,,,43.4
+2018,"According to the cluster survey for many indicators, 2018.",Таласская область,,,,,,79.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Чуйская область,,,,,,47.8
+2018,"According to the cluster survey for many indicators, 2018.",Чуйская область,,,,,,70.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",г. Бишкек,,,,,,47.0
+2018,"According to the cluster survey for many indicators, 2018.",г. Бишкек,,,,,,69.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",г. Ош,,,,,,38.3
+2018,"According to the cluster survey for many indicators, 2018.",г. Ош,,,,,,71.3
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,Городская,,,,43.1
+2018,"According to the cluster survey for many indicators, 2018.",,,Городская,,,,68.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,Сельская,,,,41.4
+2018,"According to the cluster survey for many indicators, 2018.",,,Сельская,,,,66.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 15 до 19 лет ,,,,,17.4
+2018,"According to the cluster survey for many indicators, 2018.",,от 15 до 19 лет ,,,,,31.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 20 до 24 лет,,,,,28.9
+2018,"According to the cluster survey for many indicators, 2018.",,от 20 до 24 лет,,,,,53.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 25 до 29 лет,,,,,39.2
+2018,"According to the cluster survey for many indicators, 2018.",,от 25 до 29 лет,,,,,59.9
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 30 до 34 лет ,,,,,50.4
+2018,"According to the cluster survey for many indicators, 2018.",,от 30 до 34 лет ,,,,,76.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 35 до 39 лет,,,,,57.2
+2018,"According to the cluster survey for many indicators, 2018.",,от 35 до 39 лет,,,,,74.5
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 40 до 44 лет ,,,,,52.2
+2018,"According to the cluster survey for many indicators, 2018.",,от 40 до 44 лет ,,,,,68.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,от 45 до 49 лет ,,,,,29.3
+2018,"According to the cluster survey for many indicators, 2018.",,от 45 до 49 лет ,,,,,66.0
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Начальное образование,,20.4
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Первый этап среднего образования,,36.5
+2018,"According to the cluster survey for many indicators, 2018.",,,,,Первый этап среднего образования,,67.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Второй этап среднего образования,,42.1
+2018,"According to the cluster survey for many indicators, 2018.",,,,,Второй этап среднего образования,,62.9
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Послесреднее нетретичное образование,,43.3
+2018,"According to the cluster survey for many indicators, 2018.",,,,,Послесреднее нетретичное образование,,66.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Короткий цикл третичного образования,,43.7
+2018,"According to the cluster survey for many indicators, 2018.",,,,,Короткий цикл третичного образования,,74.3
+2018,"According to the cluster survey for many indicators, 2018.",,,,,,Лица с инвалидностью,81.6
+2018,"According to the cluster survey for many indicators, 2018.",,,,,,Лица без инвалидности,67.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Квинтиль 1 (беднейшие),,,42.5
+2018,"According to the cluster survey for many indicators, 2018.",,,,Квинтиль 1 (беднейшие),,,66.5
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Квинтиль 2,,,37.8
+2018,"According to the cluster survey for many indicators, 2018.",,,,Квинтиль 2,,,60.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Квинтиль 3,,,39.1
+2018,"According to the cluster survey for many indicators, 2018.",,,,Квинтиль 3,,,69.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Квинтиль 4,,,45.1
+2018,"According to the cluster survey for many indicators, 2018.",,,,Квинтиль 4,,,69.3
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Квинтиль 5 (богатейшие),,,45.3
+2018,"According to the cluster survey for many indicators, 2018.",,,,Квинтиль 5 (богатейшие),,,71.4

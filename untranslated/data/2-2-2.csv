@@ -1,41 +1,41 @@
-Year,Series,concept.REF_AREA,Value
-2014,CL_SERIES.SH_STA_WAST,,2.8
-2018,CL_SERIES.SH_STA_WAST,,2.0
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG05,2.2
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG05,2.3
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG03,7.9
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG03,3.8
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG02,1.7
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG02,2.1
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG04,0.5
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG04,1.1
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG06,1.1
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG06,1.6
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG07,1.0
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG07,2.9
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG08,1.5
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG08,1.5
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG11,2.1
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG11,0.6
-2014,CL_SERIES.SH_STA_WAST,CL_AREA.KG21,2.4
-2018,CL_SERIES.SH_STA_WAST,CL_AREA.KG21,1.8
-2014,CL_SERIES.SN_STA_OVWGT,,7.0
-2018,CL_SERIES.SN_STA_OVWGT,,6.9
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG05,3.4
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG05,6.9
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG03,8.7
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG03,8.9
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG02,7.8
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG02,4.6
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG04,6.2
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG04,4.4
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG06,4.7
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG06,5.3
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG07,7.3
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG07,2.9
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG08,9.0
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG08,11.7
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG11,9.5
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG11,7.4
-2014,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG21,4.3
-2018,CL_SERIES.SN_STA_OVWGT,CL_AREA.KG21,3.3
+Year,COMMENT_OBS,Series,REF_AREA,Value
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,2.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,2.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG05,2.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG05,2.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG03,7.9
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG03,3.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG02,1.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG02,2.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG04,0.5
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG04,1.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG06,1.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG06,1.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG07,1.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG07,2.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG08,1.5
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG08,1.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG11,2.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG11,0.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,KG21,2.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,KG21,1.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,7.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,6.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG05,3.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG05,6.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG03,8.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG03,8.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG02,7.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG02,4.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG04,6.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG04,4.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG06,4.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG06,5.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG07,7.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG07,2.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG08,9.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG08,11.7
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG11,9.5
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG11,7.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,KG21,4.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,KG21,3.3

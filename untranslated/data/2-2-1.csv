@@ -1,62 +1,62 @@
-Year,concept.REF_AREA,concept.SEX,concept.AGE,concept.URBANISATION,concept.INCOME_WEALTH_QUANTILE,concept.EDUCATION_LEV,Value
-2014,,,,,,,12.9
-2018,,,,,,,11.8
-2014,CL_AREA.KG05,,,,,,13.6
-2018,CL_AREA.KG05,,,,,,11.9
-2014,CL_AREA.KG03,,,,,,21.3
-2018,CL_AREA.KG03,,,,,,15.5
-2014,CL_AREA.KG02,,,,,,14.1
-2018,CL_AREA.KG02,,,,,,14.2
-2014,CL_AREA.KG04,,,,,,16.4
-2018,CL_AREA.KG04,,,,,,6.5
-2014,CL_AREA.KG06,,,,,,10.6
-2018,CL_AREA.KG06,,,,,,13.7
-2014,CL_AREA.KG07,,,,,,11.0
-2018,CL_AREA.KG07,,,,,,10.0
-2014,CL_AREA.KG08,,,,,,7.6
-2018,CL_AREA.KG08,,,,,,10.1
-2014,CL_AREA.KG11,,,,,,7.6
-2018,CL_AREA.KG11,,,,,,5.9
-2014,CL_AREA.KG21,,,,,,12.1
-2018,CL_AREA.KG21,,,,,,10.9
-2014,,CL_SEX.M,,,,,13.8
-2018,,CL_SEX.M,,,,,12.5
-2014,,CL_SEX.F,,,,,12.0
-2018,,CL_SEX.F,,,,,10.9
-2014,,,,CL_URBANISATION.U,,,11.8
-2018,,,,CL_URBANISATION.U,,,8.8
-2014,,,,CL_URBANISATION.R,,,13.4
-2018,,,,CL_URBANISATION.R,,,13.1
-2014,,,CL_AGE.M0T5,,,,5.3
-2018,,,CL_AGE.M0T5,,,,5.4
-2014,,,CL_AGE.M6T11,,,,7.2
-2018,,,CL_AGE.M6T11,,,,9.3
-2014,,,CL_AGE.M12T17,,,,11.2
-2018,,,CL_AGE.M12T17,,,,12.1
-2014,,,CL_AGE.M18T23,,,,18.2
-2018,,,CL_AGE.M18T23,,,,17.2
-2014,,,CL_AGE.M24T35,,,,18.6
-2018,,,CL_AGE.M24T35,,,,13.2
-2014,,,CL_AGE.M36T47,,,,14.6
-2018,,,CL_AGE.M36T47,,,,11.2
-2014,,,CL_AGE.M48T59,,,,10.5
-2018,,,CL_AGE.M48T59,,,,12.7
-2014,,,,,,CL_EDUCATION_LEV.ISCED11_1,26.5
-2014,,,,,,CL_EDUCATION_LEV.ISCED11_2,17.1
-2018,,,,,,CL_EDUCATION_LEV.ISCED11_2,14.8
-2014,,,,,,CL_EDUCATION_LEV.ISCED11_3,13.5
-2018,,,,,,CL_EDUCATION_LEV.ISCED11_3,12.0
-2014,,,,,,CL_EDUCATION_LEV.ISCED11_4,11.8
-2018,,,,,,CL_EDUCATION_LEV.ISCED11_4,12.2
-2014,,,,,,CL_EDUCATION_LEV.ISCED11_5,9.8
-2018,,,,,,CL_EDUCATION_LEV.ISCED11_5,10.0
-2014,,,,,CL_QUANTILE.Q1,,17.7
-2018,,,,,CL_QUANTILE.Q1,,14.0
-2014,,,,,CL_QUANTILE.Q2,,14.2
-2018,,,,,CL_QUANTILE.Q2,,13.8
-2014,,,,,CL_QUANTILE.Q3,,10.1
-2018,,,,,CL_QUANTILE.Q3,,12.0
-2014,,,,,CL_QUANTILE.Q4,,10.7
-2018,,,,,CL_QUANTILE.Q4,,8.2
-2014,,,,,CL_QUANTILE.Q5,,10.7
-2018,,,,,CL_QUANTILE.Q5,,9.2
+Year,COMMENT_OBS,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,Value
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,,,12.9
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,,,11.8
+2014,"According to Multiple Indicator Cluster Survey,2014",KG05,,,,,,13.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG05,,,,,,11.9
+2014,"According to Multiple Indicator Cluster Survey,2014",KG03,,,,,,21.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG03,,,,,,15.5
+2014,"According to Multiple Indicator Cluster Survey,2014",KG02,,,,,,14.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG02,,,,,,14.2
+2014,"According to Multiple Indicator Cluster Survey,2014",KG04,,,,,,16.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG04,,,,,,6.5
+2014,"According to Multiple Indicator Cluster Survey,2014",KG06,,,,,,10.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG06,,,,,,13.7
+2014,"According to Multiple Indicator Cluster Survey,2014",KG07,,,,,,11.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG07,,,,,,10.0
+2014,"According to Multiple Indicator Cluster Survey,2014",KG08,,,,,,7.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG08,,,,,,10.1
+2014,"According to Multiple Indicator Cluster Survey,2014",KG11,,,,,,7.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG11,,,,,,5.9
+2014,"According to Multiple Indicator Cluster Survey,2014",KG21,,,,,,12.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",KG21,,,,,,10.9
+2014,"According to Multiple Indicator Cluster Survey,2014",,M,,,,,13.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,M,,,,,12.5
+2014,"According to Multiple Indicator Cluster Survey,2014",,F,,,,,12.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,F,,,,,10.9
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,U,,,11.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,U,,,8.8
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,R,,,13.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,R,,,13.1
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M0T5,,,,5.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M0T5,,,,5.4
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M6T11,,,,7.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M6T11,,,,9.3
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M12T17,,,,11.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M12T17,,,,12.1
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M18T23,,,,18.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M18T23,,,,17.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M24T35,,,,18.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M24T35,,,,13.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M36T47,,,,14.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M36T47,,,,11.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,M48T59,,,,10.5
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M48T59,,,,12.7
+2014,Education of mother,,,,,,ISCED11_1,26.5
+2014,Education of mother,,,,,,ISCED11_2,17.1
+2018,Education of mother,,,,,,ISCED11_2,14.8
+2014,Education of mother,,,,,,ISCED11_3,13.5
+2018,Education of mother,,,,,,ISCED11_3,12.0
+2014,Education of mother,,,,,,ISCED11_4,11.8
+2018,Education of mother,,,,,,ISCED11_4,12.2
+2014,Education of mother,,,,,,ISCED11_5,9.8
+2018,Education of mother,,,,,,ISCED11_5,10.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,Q1,,17.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,Q1,,14.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,Q2,,14.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,Q2,,13.8
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,Q3,,10.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,Q3,,12.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,Q4,,10.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,Q4,,8.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,,,Q5,,10.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,,,Q5,,9.2

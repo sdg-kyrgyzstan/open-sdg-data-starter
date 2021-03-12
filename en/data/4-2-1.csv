@@ -1,43 +1,43 @@
-Year,Reference area,Sex,Income or wealth quantile,Education level,Value
-2014,,,,,78.3
-2018,,,,,71.7
-2014,Batken,,,,81.2
-2018,Batken,,,,83.3
-2014,Jalal-Abad,,,,87.1
-2018,Jalal-Abad,,,,63.9
-2014,Issyk-Kul,,,,81.6
-2018,Issyk-Kul,,,,79.8
-2014,Naryn,,,,80.6
-2018,Naryn,,,,72.4
-2014,Osh,,,,69.6
-2018,Osh,,,,65.8
-2014,Talas,,,,84.9
-2018,Talas,,,,65.1
-2014,Chui,,,,73.5
-2018,Chui,,,,72.0
-2014,Bishkek (city),,,,87.4
-2018,Bishkek (city),,,,81.3
-2014,Osh (city),,,,52.0
-2018,Osh (city),,,,71.5
-2014,,Male,,,76.1
-2018,,Male,,,68.2
-2014,,Female,,,80.6
-2018,,Female,,,75.0
-2014,,,,Lower secondary education,70.1
-2018,,,,Lower secondary education,71.0
-2014,,,,Upper secondary education,77.2
-2018,,,,Upper secondary education,73.8
-2014,,,,Post-secondary non-tertiary education,80.8
-2018,,,,Post-secondary non-tertiary education,70.6
-2014,,,,Short-cycle tertiary education,81.8
-2018,,,,Short-cycle tertiary education,69.6
-2014,,,Quintile 1 (poorest),,76.5
-2018,,,Quintile 1 (poorest),,72.5
-2014,,,Quintile 2,,80.3
-2018,,,Quintile 2,,70.6
-2014,,,Quintile 3,,73.0
-2018,,,Quintile 3,,67.2
-2014,,,Quintile 4,,79.3
-2018,,,Quintile 4,,71.0
-2014,,,Quintile 5 (richest),,84.3
-2018,,,Quintile 5 (richest),,78.0
+Year,Observation-level footnotes,Reference area,Sex,Income or wealth quantile,Education level,Value
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,78.3
+2018,"According to the cluster survey for many indicators, 2018.",,,,,71.7
+2014,"According to Multiple Indicator Cluster Survey, 2014",Batken,,,,81.2
+2018,"According to the cluster survey for many indicators, 2018.",Batken,,,,83.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",Jalal-Abad,,,,87.1
+2018,"According to the cluster survey for many indicators, 2018.",Jalal-Abad,,,,63.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",Issyk-Kul,,,,81.6
+2018,"According to the cluster survey for many indicators, 2018.",Issyk-Kul,,,,79.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",Naryn,,,,80.6
+2018,"According to the cluster survey for many indicators, 2018.",Naryn,,,,72.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",Osh,,,,69.6
+2018,"According to the cluster survey for many indicators, 2018.",Osh,,,,65.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",Talas,,,,84.9
+2018,"According to the cluster survey for many indicators, 2018.",Talas,,,,65.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",Chui,,,,73.5
+2018,"According to the cluster survey for many indicators, 2018.",Chui,,,,72.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",Bishkek (city),,,,87.4
+2018,"According to the cluster survey for many indicators, 2018.",Bishkek (city),,,,81.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",Osh (city),,,,52.0
+2018,"According to the cluster survey for many indicators, 2018.",Osh (city),,,,71.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Male,,,76.1
+2018,"According to the cluster survey for many indicators, 2018.",,Male,,,68.2
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Female,,,80.6
+2018,"According to the cluster survey for many indicators, 2018.",,Female,,,75.0
+2014,education of mother,,,,Lower secondary education,70.1
+2018,education of mother,,,,Lower secondary education,71.0
+2014,education of mother,,,,Upper secondary education,77.2
+2018,education of mother,,,,Upper secondary education,73.8
+2014,education of mother,,,,Post-secondary non-tertiary education,80.8
+2018,education of mother,,,,Post-secondary non-tertiary education,70.6
+2014,education of mother,,,,Short-cycle tertiary education,81.8
+2018,education of mother,,,,Short-cycle tertiary education,69.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 1 (poorest),,76.5
+2018,"According to the cluster survey for many indicators, 2018.",,,Quintile 1 (poorest),,72.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 2,,80.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Quintile 2,,70.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 3,,73.0
+2018,"According to the cluster survey for many indicators, 2018.",,,Quintile 3,,67.2
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 4,,79.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Quintile 4,,71.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,Quintile 5 (richest),,84.3
+2018,"According to the cluster survey for many indicators, 2018.",,,Quintile 5 (richest),,78.0

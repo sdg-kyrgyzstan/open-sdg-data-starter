@@ -1,23 +1,23 @@
-Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,,,,,19.2
-2018,,Urban,,,47.5
-2018,,Rural,,,3.2
-2018,Batken,,,,2.8
-2018,Jalal-Abad,,,,15.9
-2018,Issyk-Kul,,,,13.6
-2018,Naryn,,,,7.1
-2018,Osh,,,,1.3
-2018,Talas,,,,8.8
-2018,Chui,,,,11.1
-2018,Bishkek (city),,,,59.9
-2018,Osh (city),,,,32.1
-2018,,,,Primary education,6.8
-2018,,,,Lower secondary education,10.5
-2018,,,,Upper secondary education,11.4
-2018,,,,Post-secondary non-tertiary education,19.7
-2018,,,,Tertiary education (Bachelor’s and Master's or equivalent),38.9
-2018,,,Quintile 1 (poorest),,1.0
-2018,,,Quintile 2,,2.6
-2018,,,Quintile 3,,6.1
-2018,,,Quintile 4,,9.3
-2018,,,Quintile 5 (richest),,76.9
+Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Observation-level footnotes,Value
+2018,,,,,,19.2
+2018,,Urban,,,,47.5
+2018,,Rural,,,,3.2
+2018,Batken,,,,,2.8
+2018,Jalal-Abad,,,,,15.9
+2018,Issyk-Kul,,,,,13.6
+2018,Naryn,,,,,7.1
+2018,Osh,,,,,1.3
+2018,Talas,,,,,8.8
+2018,Chui,,,,,11.1
+2018,Bishkek (city),,,,,59.9
+2018,Osh (city),,,,,32.1
+2018,,,,Primary education,Education of head houshold,6.8
+2018,,,,Lower secondary education,Education of head houshold,10.5
+2018,,,,Upper secondary education,Education of head houshold,11.4
+2018,,,,Post-secondary non-tertiary education,Education of head houshold,19.7
+2018,,,,Tertiary education (Bachelor’s and Master's or equivalent),Education of head houshold,38.9
+2018,,,Quintile 1 (poorest),,,1.0
+2018,,,Quintile 2,,,2.6
+2018,,,Quintile 3,,,6.1
+2018,,,Quintile 4,,,9.3
+2018,,,Quintile 5 (richest),,,76.9
