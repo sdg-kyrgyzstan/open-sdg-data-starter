@@ -25,7 +25,8 @@ inputs:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
       REF_AREA|KG: ''
-    drop_dimensions: SOURCE_DETAIL
+    drop_dimensions: 
+      - SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
   - class: InputCsvData
@@ -87,8 +88,9 @@ indicator_downloads:
     source_pattern: excel_files/*.xlsx
     indicator_id_pattern: (.*)
     output_folder: data-excel
-indicator_downloads:
   - button_label: indicator.download_source_sdmx
     source_pattern: data/*.xml
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
+  
+
