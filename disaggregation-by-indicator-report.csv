@@ -14,7 +14,6 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"REF_AREA, SEX, INCOME_WEALTH_QUANTILE, URBANISATION, AGE",5
 #10-3-1,"Территория, Местность, Возраст (лет), Уровень образования, Функциональные трудности (возраст: 18-49лет), Квинтиль индекса благосостояния",6
 #11-2-1,"REF_AREA, SEX, EDUCATION_LEV, INCOME_WEALTH_QUANTILE, URBANISATION, AGE",6
-#11-5-1,"Территория, Пол",2
 #11-5-2,REF_AREA,1
 #11-6-1-1a,COMPOSITE_BREAKDOWN,1
 #11-7-1-1a,REF_AREA,1
