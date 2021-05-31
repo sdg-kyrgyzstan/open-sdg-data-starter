@@ -1,52 +1,52 @@
-Year,Территория,Пол,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Статус инвалидности,Value
-2014,,,,,,,57.1
-2018,,,,,,,74.3
-2014,,Мужчины,,,,,59.9
-2018,,Мужчины,,,,,75.5
-2014,,Женщины,,,,,54.4
-2018,,Женщины,,,,,73.0
-2014,,,,Городская,,,60.0
-2018,,,,Городская,,,76.9
-2014,,,,Сельская,,,56.0
-2018,,,,Сельская,,,73.1
-2014,Баткенская область,,,,,,49.4
-2018,Баткенская область,,,,,,46.8
-2014,Джалал-Абадская область,,,,,,42.9
-2018,Джалал-Абадская область,,,,,,65.5
-2014,Иссык-Кульская область,,,,,,48.2
-2018,Иссык-Кульская область,,,,,,80.9
-2014,Нарынская область,,,,,,58.0
-2018,Нарынская область,,,,,,74.0
-2014,Ошская область,,,,,,57.8
-2018,Ошская область,,,,,,74.4
-2014,Таласская область,,,,,,71.1
-2018,Таласская область,,,,,,79.9
-2014,Чуйская область,,,,,,66.8
-2018,Чуйская область,,,,,,83.5
-2014,г. Бишкек,,,,,,70.3
-2018,г. Бишкек,,,,,,80.5
-2014,г. Ош,,,,,,71.1
-2018,г. Ош,,,,,,85.6
-2014,,,от 1 до 2 лет,,,,45.5
-2018,,,от 1 до 2 лет,,,,55.3
-2014,,,от 3 до 4 лет,,,,67.1
-2018,,,от 3 до 4 лет,,,,71.2
-2014,,,от 5 до 9 лет ,,,,61.9
-2018,,,от 5 до 9 лет ,,,,79.4
-2014,,,от 10 до 14 лет,,,,52.7
-2018,,,от 10 до 14 лет,,,,78.8
-2018,,,,,,Ребенок с инвалидностью,83.7
-2018,,,,,,Ребенок без инвалидности,75.6
-2018,,,,,,Наличие инвалидности у матери,92.4
-2018,,,,,,Отсутствие инвалидности у матери,74.4
-2018,,,,,,Нет информации,69.8
-2014,,,,,Квинтиль 1 (беднейшие),,55.1
-2018,,,,,Квинтиль 1 (беднейшие),,70.9
-2014,,,,,Квинтиль 2,,58.1
-2018,,,,,Квинтиль 2,,70.6
-2014,,,,,Квинтиль 3,,54.7
-2018,,,,,Квинтиль 3,,73.1
-2014,,,,,Квинтиль 4,,56.5
-2018,,,,,Квинтиль 4,,81.4
-2014,,,,,Квинтиль 5 (богатейшие),,62.5
-2018,,,,,Квинтиль 5 (богатейшие),,77.4
+Year,Сноски на уровне наблюдения,Территория,Пол,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Статус инвалидности,Value
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,,,57.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,,74.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Мужчины,,,,,59.9
+2018,"According to Multiple Indicator Cluster Survey, 2018",,Мужчины,,,,,75.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",,Женщины,,,,,54.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,Женщины,,,,,73.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,Городская,,,60.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Городская,,,76.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,Сельская,,,56.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Сельская,,,73.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",Баткенская область,,,,,,49.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",Баткенская область,,,,,,46.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",Джалал-Абадская область,,,,,,42.9
+2018,"According to Multiple Indicator Cluster Survey, 2018",Джалал-Абадская область,,,,,,65.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",Иссык-Кульская область,,,,,,48.2
+2018,"According to Multiple Indicator Cluster Survey, 2018",Иссык-Кульская область,,,,,,80.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",Нарынская область,,,,,,58.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",Нарынская область,,,,,,74.0
+2014,"According to Multiple Indicator Cluster Survey, 2014",Ошская область,,,,,,57.8
+2018,"According to Multiple Indicator Cluster Survey, 2018",Ошская область,,,,,,74.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",Таласская область,,,,,,71.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",Таласская область,,,,,,79.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",Чуйская область,,,,,,66.8
+2018,"According to Multiple Indicator Cluster Survey, 2018",Чуйская область,,,,,,83.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",г. Бишкек,,,,,,70.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",г. Бишкек,,,,,,80.5
+2014,"According to Multiple Indicator Cluster Survey, 2014",г. Ош,,,,,,71.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",г. Ош,,,,,,85.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,от 1 до 2 лет,,,,45.5
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,от 1 до 2 лет,,,,55.3
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,от 3 до 4 лет,,,,67.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,от 3 до 4 лет,,,,71.2
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,от 5 до 9 лет ,,,,61.9
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,от 5 до 9 лет ,,,,79.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,от 10 до 14 лет,,,,52.7
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,от 10 до 14 лет,,,,78.8
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Ребенок с инвалидностью,83.7
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Ребенок без инвалидности,75.6
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Наличие инвалидности у матери,92.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Отсутствие инвалидности у матери,74.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Нет информации,69.8
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Квинтиль 1 (беднейшие),,55.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Квинтиль 1 (беднейшие),,70.9
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Квинтиль 2,,58.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Квинтиль 2,,70.6
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Квинтиль 3,,54.7
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Квинтиль 3,,73.1
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Квинтиль 4,,56.5
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Квинтиль 4,,81.4
+2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Квинтиль 5 (богатейшие),,62.5
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Квинтиль 5 (богатейшие),,77.4
