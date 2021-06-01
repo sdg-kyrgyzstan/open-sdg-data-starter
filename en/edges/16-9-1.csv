@@ -1,2 +1,8 @@
 From,To
+Age,Reference area
+Age,Sex
+Age,Degree of urbanisation
+Age,Income or wealth quantile
+Age,Education level
+Age,Disability status
 Education level,Observation-level footnotes
