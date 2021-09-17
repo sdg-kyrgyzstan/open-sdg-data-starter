@@ -1,0 +1,188 @@
+Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
+2009,,,,,2093
+2010,,,,,1789
+2011,,,,,1809
+2012,,,,,2415
+2013,,,,,2339
+2014,,,,,2629
+2015,,,,,3333
+2016,,,,,7005
+2017,,,,,7323
+2018,,,,,7178
+2019,,,,,6145
+2009,Female,,,,1927
+2010,Female,,,,1659
+2011,Female,,,,1714
+2012,Female,,,,2341
+2013,Female,,,,2269
+2014,Female,,,,2531
+2015,Female,,,,3229
+2016,Female,,,,6795
+2017,Female,,,,6966
+2018,Female,,,,6562
+2019,Female,,,,5659
+2009,Male,,,,166
+2010,Male,,,,130
+2011,Male,,,,95
+2012,Male,,,,74
+2013,Male,,,,70
+2014,Male,,,,98
+2015,Male,,,,104
+2016,Male,,,,210
+2017,Male,,,,357
+2018,Male,,,,616
+2019,Male,,,,486
+2009,,under 20 years old,,,126
+2010,,under 20 years old,,,212
+2011,,under 20 years old,,,37
+2012,,under 20 years old,,,92
+2013,,under 20 years old,,,73
+2014,,under 20 years old,,,100
+2015,,under 20 years old,,,134
+2016,,under 20 years old,,,533
+2017,,under 20 years old,,,394
+2018,,under 20 years old,,,250
+2019,,under 20 years old,,,561
+2009,,21 to 30 years old,,,738
+2010,,21 to 30 years old,,,634
+2011,,21 to 30 years old,,,476
+2012,,21 to 30 years old,,,654
+2013,,21 to 30 years old,,,678
+2014,,21 to 30 years old,,,837
+2015,,21 to 30 years old,,,1054
+2016,,21 to 30 years old,,,2085
+2017,,21 to 30 years old,,,1888
+2018,,21 to 30 years old,,,2108
+2019,,21 to 30 years old,,,1879
+2009,,31 to 40 years old,,,762
+2010,,31 to 40 years old,,,552
+2011,,31 to 40 years old,,,687
+2012,,31 to 40 years old,,,1108
+2013,,31 to 40 years old,,,957
+2014,,31 to 40 years old,,,904
+2015,,31 to 40 years old,,,1264
+2016,,31 to 40 years old,,,2422
+2017,,31 to 40 years old,,,2531
+2018,,31 to 40 years old,,,2385
+2019,,31 to 40 years old,,,1974
+2009,,41 to 50 years old,,,336
+2010,,41 to 50 years old,,,283
+2011,,41 to 50 years old,,,461
+2012,,41 to 50 years old,,,424
+2013,,41 to 50 years old,,,463
+2014,,41 to 50 years old,,,482
+2015,,41 to 50 years old,,,625
+2016,,41 to 50 years old,,,1435
+2017,,41 to 50 years old,,,1496
+2018,,41 to 50 years old,,,1550
+2019,,41 to 50 years old,,,1121
+2009,,51 years old and over,,,131
+2010,,51 years old and over,,,108
+2011,,51 years old and over,,,148
+2012,,51 years old and over,,,137
+2013,,51 years old and over,,,168
+2014,,51 years old and over,,,296
+2015,,51 years old and over,,,256
+2016,,51 years old and over,,,530
+2017,,51 years old and over,,,1014
+2018,,51 years old and over,,,885
+2019,,51 years old and over,,,610
+2009,,,Master’s or equivalent level,,264
+2010,,,Master’s or equivalent level,,141
+2011,,,Master’s or equivalent level,,156
+2012,,,Master’s or equivalent level,,222
+2013,,,Master’s or equivalent level,,174
+2014,,,Master’s or equivalent level,,246
+2015,,,Master’s or equivalent level,,276
+2016,,,Master’s or equivalent level,,559
+2017,,,Master’s or equivalent level,,650
+2018,,,Master’s or equivalent level,,818
+2019,,,Master’s or equivalent level,,728
+2009,,,Bachelor’s or equivalent level,,131
+2010,,,Bachelor’s or equivalent level,,191
+2011,,,Bachelor’s or equivalent level,,164
+2012,,,Bachelor’s or equivalent level,,121
+2013,,,Bachelor’s or equivalent level,,87
+2014,,,Bachelor’s or equivalent level,,173
+2015,,,Bachelor’s or equivalent level,,159
+2016,,,Bachelor’s or equivalent level,,576
+2017,,,Bachelor’s or equivalent level,,585
+2018,,,Bachelor’s or equivalent level,,685
+2019,,,Bachelor’s or equivalent level,,407
+2009,,,Short-cycle tertiary education,,523
+2010,,,Short-cycle tertiary education,,495
+2011,,,Short-cycle tertiary education,,359
+2012,,,Short-cycle tertiary education,,421
+2013,,,Short-cycle tertiary education,,483
+2014,,,Short-cycle tertiary education,,318
+2015,,,Short-cycle tertiary education,,563
+2016,,,Short-cycle tertiary education,,1226
+2017,,,Short-cycle tertiary education,,1035
+2018,,,Short-cycle tertiary education,,1223
+2019,,,Short-cycle tertiary education,,1177
+2009,,,Upper secondary education,,1101
+2010,,,Upper secondary education,,795
+2011,,,Upper secondary education,,1072
+2012,,,Upper secondary education,,1647
+2013,,,Upper secondary education,,1588
+2014,,,Upper secondary education,,1839
+2015,,,Upper secondary education,,2195
+2016,,,Upper secondary education,,4436
+2017,,,Upper secondary education,,4793
+2018,,,Upper secondary education,,4228
+2019,,,Upper secondary education,,3381
+2009,,,,Education: Other,74
+2010,,,,Education: Other,167
+2011,,,,Education: Other,58
+2012,,,,Education: Other,4
+2013,,,,Education: Other,7
+2014,,,,Education: Other,42
+2015,,,,Education: Other,140
+2016,,,,Education: Other,208
+2017,,,,Education: Other,260
+2018,,,,Education: Other,224
+2019,,,,Education: Other,452
+2009,,,,Activity status: Working,533
+2010,,,,Activity status: Working,560
+2011,,,,Activity status: Working,493
+2012,,,,Activity status: Working,478
+2013,,,,Activity status: Working,383
+2014,,,,Activity status: Working,464
+2015,,,,Activity status: Working,646
+2016,,,,Activity status: Working,1658
+2017,,,,Activity status: Working,1516
+2018,,,,Activity status: Working,1818
+2019,,,,Activity status: Working,1178
+2009,,,,Activity status: Not working,1384
+2010,,,,Activity status: Not working,1106
+2011,,,,Activity status: Not working,1232
+2012,,,,Activity status: Not working,1814
+2013,,,,Activity status: Not working,1810
+2014,,,,Activity status: Not working,1916
+2015,,,,Activity status: Not working,2428
+2016,,,,Activity status: Not working,4906
+2017,,,,Activity status: Not working,5164
+2018,,,,Activity status: Not working,4681
+2019,,,,Activity status: Not working,4290
+2009,,,,Activity status: Students,82
+2010,,,,Activity status: Students,30
+2011,,,,Activity status: Students,14
+2012,,,,Activity status: Students,36
+2013,,,,Activity status: Students,61
+2014,,,,Activity status: Students,95
+2015,,,,Activity status: Students,94
+2016,,,,Activity status: Students,74
+2017,,,,Activity status: Students,120
+2018,,,,Activity status: Students,364
+2019,,,,Activity status: Students,318
+2009,,,,Activity status: Retirees,94
+2010,,,,Activity status: Retirees,93
+2011,,,,Activity status: Retirees,70
+2012,,,,Activity status: Retirees,87
+2013,,,,Activity status: Retirees,85
+2014,,,,Activity status: Retirees,143
+2015,,,,Activity status: Retirees,165
+2016,,,,Activity status: Retirees,367
+2017,,,,Activity status: Retirees,523
+2018,,,,Activity status: Retirees,315
+2019,,,,Activity status: Retirees,359

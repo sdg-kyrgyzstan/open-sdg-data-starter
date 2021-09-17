@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 17 лет",
+                "от 14 до 28 лет ",
+                "от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",
+                "58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Нижние 50%"
+              ]
+            },
+            "title": "Уровень дохода или квантиль благосостояния"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SI_POV_50MI",
+                "_L_KG_100201_1"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-2-1",
+  "title": "Доля людей с доходом ниже 50 процентов медианного дохода в разбивке по полу, возрасту и признаку инвалидности"
+}

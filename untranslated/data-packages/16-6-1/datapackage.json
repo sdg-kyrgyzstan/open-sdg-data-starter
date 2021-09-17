@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COFOG_GF01",
+                "_L_COFOG_GF04",
+                "_L_COFOG_GF05",
+                "_L_COFOG_GF06",
+                "_L_COFOG_GF07",
+                "_L_COFOG_GF08",
+                "_L_COFOG_GF09",
+                "_L_COFOG_GF10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-1",
+  "title": "global_indicators.16-6-1-title"
+}

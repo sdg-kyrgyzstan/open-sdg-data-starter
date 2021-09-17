@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-8-1",
+  "title": "Статус i) воспитания в духе всемирной гражданственности и ii) пропаганды устойчивого развития (включая просвещение по проблеме изменения климата) a) в национальной политике в сфере образования; b) в учебных программах; c) в программах подготовки учителей; и d) в системе аттестации учащихся"
+}

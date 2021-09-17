@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Вид избавления: Сжигание",
+                "Вид избавления: Закапывание",
+                "Вид избавления: Сбор грузовиком, контейнером",
+                "Вид избавления: Сброс в мусорные кучи",
+                "Вид избавления: Мусоропровод"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-1-1a",
+  "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
+}

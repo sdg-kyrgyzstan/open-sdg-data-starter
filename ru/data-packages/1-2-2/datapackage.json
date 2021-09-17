@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 18 лет",
+                "от 18 до 64 лет",
+                "65 лет и старше "
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-2",
+  "title": "Доля мужчин, женщин и детей всех возрастов, живущих в нищете во всех ее проявлениях, согласно национальным определениям"
+}

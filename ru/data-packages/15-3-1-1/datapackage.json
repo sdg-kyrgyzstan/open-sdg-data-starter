@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети",
+                "Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",
+                "Причина неиспользования: Засоление и заболоченность"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_KG_150301_1A",
+                "_L_KG_150301_1B"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-3-1-1",
+  "title": "Площадь пашни по причинам неиспользования"
+}

@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Виды: Амфибии и рептилии",
+                "Виды: Птицы",
+                "Виды: Млекопитающие"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-7-1-1",
+  "title": "Доля видов диких животных, являющихся объектом браконьерства или незаконного оборота, от общего количества видов соответствующих систематических групп (классов)"
+}

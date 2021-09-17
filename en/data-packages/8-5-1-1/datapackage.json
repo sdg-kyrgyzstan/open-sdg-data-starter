@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1-1",
+  "title": "Среднемесячная заработная плата женщин и мужчин по видам экономической деятельности"
+}

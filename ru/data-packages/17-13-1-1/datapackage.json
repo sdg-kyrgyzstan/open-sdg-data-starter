@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_KG_171301_1A",
+                "_L_KG_171301_1B",
+                "_L_KG_171301_1C",
+                "_L_KG_171301_1D",
+                "_L_KG_171301_1E",
+                "_L_KG_171301_1F",
+                "_L_KG_171301_1G",
+                "_L_KG_171301_1H"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Единицы",
+                "Миллионы"
+              ]
+            },
+            "title": "Множитель"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CUR_LCU",
+                "PT",
+                "USD"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-1",
+  "title": "Панель макроэкономических показателей"
+}

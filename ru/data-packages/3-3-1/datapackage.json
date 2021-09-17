@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 14 лет",
+                "от 15 до 24 лет ",
+                "25 лет и старше "
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-1",
+  "title": "Число новых заражений ВИЧ на 1000 неин­фицированных в разбивке по полу, возрасту и принадлежности к основным группам населения"
+}

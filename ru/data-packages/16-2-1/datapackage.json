@@ -1,0 +1,129 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "от 10 до 14 лет",
+                "от 1 до 2 лет",
+                "от 3 до 4 лет",
+                "от 5 до 9 лет "
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "According to Multiple Indicator Cluster Survey, 2014",
+                "According to Multiple Indicator Cluster Survey, 2018"
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ребенок с инвалидностью",
+                "Ребенок без инвалидности",
+                "Наличие инвалидности у матери",
+                "Отсутствие инвалидности у матери",
+                "Нет информации"
+              ]
+            },
+            "title": "Статус инвалидности"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Квинтиль 1 (беднейшие)",
+                "Квинтиль 2",
+                "Квинтиль 3",
+                "Квинтиль 4",
+                "Квинтиль 5 (богатейшие)"
+              ]
+            },
+            "title": "Уровень дохода или квантиль благосостояния"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-1",
+  "title": "Число  связанных с конфликтами смертей на 100 000 человек в разбивке по полу, возрасту и причине"
+}

@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_TS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CUR_LCU",
+                "PT"
+              ]
+            },
+            "title": "Сноски для временных рядов"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NV_IND_MANF",
+                "NV_IND_MANFPC"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Единицы",
+                "Тысячи"
+              ]
+            },
+            "title": "Множитель"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "CUR_LCU",
+                "PT"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-1",
+  "title": "Добавленная стоимость, создаваемая в обрабатывающей промышленности, в процентном отношении к ВВП и на душу населения"
+}

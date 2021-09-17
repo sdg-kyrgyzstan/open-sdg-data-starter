@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельское хозяйство, лесоводство и рыболовство",
+                "Промышленность",
+                "Строительство",
+                "Прочие виды деятельности в сфере услуг"
+              ]
+            },
+            "title": "Вид экономической деятельности"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "от 15 до 19 лет ",
+                "от 20 до 29 лет",
+                "от 30 до 39 лет ",
+                "от 40 до 49 лет ",
+                "от 50 до 59 лет",
+                "от 65 до 69 лет",
+                "70 лет и старше"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-3-1-1",
+  "title": "Занятость в неформальном секторе  в разбивке по полу, возрасту, город-село и отраслям экономики"
+}

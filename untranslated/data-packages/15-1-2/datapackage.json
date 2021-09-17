@@ -1,0 +1,38 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Показатель",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов, находящихся под охраной",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-2",
+  "title": "global_indicators.15-1-2-title"
+}

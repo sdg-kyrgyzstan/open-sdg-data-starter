@@ -1,0 +1,55 @@
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2018,,,,,,,48.5
+2019,,,,,,,52.2
+2018,,,,Urban,,,66.0
+2019,,,,Urban,,,63.6
+2018,,,,Rural,,,38.1
+2019,,,,Rural,,,45.5
+2018,,Male,,,,,47.9
+2019,,Male,,,,,53.3
+2018,,Female,,,,,49.0
+2019,,Female,,,,,51.3
+2018,Batken,,,,,,32.9
+2019,Batken,,,,,,58.7
+2018,Jalal-Abad,,,,,,18.3
+2019,Jalal-Abad,,,,,,28.9
+2018,Issyk-Kul,,,,,,72.5
+2019,Issyk-Kul,,,,,,74.6
+2018,Naryn,,,,,,39.3
+2019,Naryn,,,,,,47.0
+2018,Osh,,,,,,39.6
+2019,Osh,,,,,,48.5
+2018,Talas,,,,,,42.2
+2019,Talas,,,,,,44.5
+2018,Chui,,,,,,63.1
+2019,Chui,,,,,,54.5
+2018,Bishkek (city),,,,,,67.7
+2019,Bishkek (city),,,,,,59.8
+2018,Osh (city),,,,,,94.6
+2019,Osh (city),,,,,,95.0
+2018,,,15 to 28 years old,,,,48.4
+2019,,,15 to 28 years old,,,,53.0
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,48.9
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,52.8
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,48.1
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,49.0
+2018,,,,,,Primary education,48.2
+2019,,,,,,Primary education,51.5
+2018,,,,,,Lower secondary education,51.2
+2019,,,,,,Lower secondary education,52.7
+2018,,,,,,Upper secondary education,42.7
+2019,,,,,,Upper secondary education,48.7
+2018,,,,,,Post-secondary non-tertiary education,55.4
+2019,,,,,,Post-secondary non-tertiary education,55.3
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),56.0
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),58.3
+2018,,,,,Quintile 1 (poorest),,37.4
+2019,,,,,Quintile 1 (poorest),,40.1
+2018,,,,,Quintile 2,,46.5
+2019,,,,,Quintile 2,,50.8
+2018,,,,,Quintile 3,,48.4
+2019,,,,,Quintile 3,,52.0
+2018,,,,,Quintile 4,,51.1
+2019,,,,,Quintile 4,,55.9
+2018,,,,,Quintile 5 (richest),,55.3
+2019,,,,,Quintile 5 (richest),,58.2

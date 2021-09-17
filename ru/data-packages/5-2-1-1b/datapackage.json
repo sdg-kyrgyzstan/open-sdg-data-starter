@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 20 лет",
+                "от 21 до 30 лет",
+                "от 31 до 40 лет",
+                "от 41 до 50 лет",
+                "51 лет и старше"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Занятость: Не работают",
+                "Занятость: Пенсионеры",
+                "Занятость: Учащиеся, студенты",
+                "Занятость: Работают ",
+                "Образование: Другое"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Второй этап среднего образования",
+                "Короткий цикл третичного образования",
+                "Бакалавриат или его эквивалент",
+                "Магистратура или её эквивалент"
+              ]
+            },
+            "title": "Уровень образования"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1-1b",
+  "title": "Число пострадавших от семейного насилия"
+}

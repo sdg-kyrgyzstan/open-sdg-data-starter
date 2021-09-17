@@ -1,0 +1,132 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "от 15 до 19 лет ",
+                "от 20 до 24 лет",
+                "от 25 до 29 лет",
+                "от 30 до 34 лет ",
+                "от 35 до 39 лет",
+                "от 40 до 44 лет ",
+                "от 45 до 49 лет "
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "According to Multiple Indicator Cluster Survey, 2014.",
+                "According to Multiple Indicator Cluster Survey, 2018"
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Лица с инвалидностью",
+                "Лица без инвалидности"
+              ]
+            },
+            "title": "Статус инвалидности"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Начальное образование",
+                "Первый этап среднего образования",
+                "Второй этап среднего образования",
+                "Послесреднее нетретичное образование",
+                "Короткий цикл третичного образования"
+              ]
+            },
+            "title": "Уровень образования"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Квинтиль 1 (беднейшие)",
+                "Квинтиль 2",
+                "Квинтиль 3",
+                "Квинтиль 4",
+                "Квинтиль 5 (богатейшие)"
+              ]
+            },
+            "title": "Уровень дохода или квантиль благосостояния"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-1",
+  "title": "Доля женщин репродуктивного возраста (от 15 до 49 лет), чьи потребности по планированию семьи удовлетворяются современными методами"
+}

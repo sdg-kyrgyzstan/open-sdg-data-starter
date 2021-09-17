@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_B",
+                "ISIC4_C",
+                "ISIC4_D",
+                "ISIC4_E",
+                "ISIC4_F",
+                "ISIC4_G",
+                "ISIC4_H",
+                "ISIC4_I",
+                "ISIC4_J",
+                "ISIC4_K",
+                "ISIC4_L",
+                "ISIC4_M",
+                "ISIC4_N",
+                "ISIC4_O",
+                "ISIC4_P",
+                "ISIC4_Q",
+                "ISIC4_R",
+                "ISIC4_S",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1-1",
+  "title": "Среднемесячная заработная плата женщин и мужчин по видам экономической деятельности"
+}

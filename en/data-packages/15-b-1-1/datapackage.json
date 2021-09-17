@@ -1,0 +1,51 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Expenditure on Pollution control",
+                "Expenditure on Nature parks and reserves",
+                "Expenditure on Animal protection",
+                "Expenditure on Plant protection",
+                "Expenditure on Anti-epizootic measures",
+                "Expenditure on Veterinary diagnostics",
+                "Expenditure on Plant chemicals, protection and\nquarantine",
+                "Expenditure on Other services for the protection\nof biodiversity and landscape",
+                "Expenditure on Research and development work\nrelated to environmental protection",
+                "Expenditure on Environmental issues not classified elsewhere ",
+                "Expenditure on Other services on environmental\nprotection",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-b-1-1",
+  "title": "Объем государственных средств, выделяемых на охрану окружающей среды"
+}

@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Пол",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Территория",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г.Бишкек",
+                "г.Ош"
+              ]
+            },
+            "title": "Территория"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1",
+  "title": "Число погибших, пропавших без вести и пострадавших непосредственно в результате бедствий на 100 000 человек"
+}

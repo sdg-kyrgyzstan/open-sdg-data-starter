@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Meat and meat products in meat equivalent, including bacon and offal",
+                "Milk and dairy products in milk equivalent",
+                "Eggs",
+                "Sugar",
+                "Vegetable oils",
+                "Potatoes",
+                "Vegetables and gourds",
+                "Fruits and berries",
+                "Wheat and wheat products in flour equivalent",
+                "Fish and fish products",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-1-1e",
+  "title": "Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления"
+}

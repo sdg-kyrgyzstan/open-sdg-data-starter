@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "Y50T54",
+                "Y55T59",
+                "Y60T64",
+                "Y65T69",
+                "Y_GE70",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_B",
+                "ISIC4_C",
+                "ISIC4_D",
+                "ISIC4_E",
+                "ISIC4_F",
+                "ISIC4_G",
+                "ISIC4_H",
+                "ISIC4_I",
+                "ISIC4_J",
+                "ISIC4_K",
+                "ISIC4_L",
+                "ISIC4_M",
+                "ISIC4_N",
+                "ISIC4_O",
+                "ISIC4_P",
+                "ISIC4_Q",
+                "ISIC4_R",
+                "ISIC4_S",
+                "ISIC4_T",
+                "ISIC4_U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-1-1a",
+  "title": "Уровень бедности среди занятого населения"
+}

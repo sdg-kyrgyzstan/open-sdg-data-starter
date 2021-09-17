@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-a-1",
+  "title": "Число стран, в которых приняты национальные программы развития городов или региональные планы застройки, в которых a) учитывается динамика численности населения; b) предусмотрено сбалансированное территориальное развитие; и c) расширены возможности маневра бюджетными средствами"
+}

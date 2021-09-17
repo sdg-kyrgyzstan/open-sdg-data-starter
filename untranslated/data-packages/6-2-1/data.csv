@@ -1,0 +1,23 @@
+Year,REF_AREA,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,COMMENT_OBS,Value
+2018,,,,,,96.3
+2018,,U,,,,96.1
+2018,,R,,,,96.5
+2018,KG05,,,,,99.6
+2018,KG03,,,,,93.4
+2018,KG02,,,,,99.1
+2018,KG04,,,,,99.4
+2018,KG06,,,,,99.1
+2018,KG07,,,,,99.8
+2018,KG08,,,,,91.6
+2018,KG11,,,,,95.7
+2018,KG21,,,,,96.8
+2018,,,,ISCED11_1,household head education,92.1
+2018,,,,ISCED11_2,household head education,94.7
+2018,,,,ISCED11_3,household head education,97.4
+2018,,,,ISCED11_4,household head education,96.6
+2018,,,,ISCED11_5,household head education,95.1
+2018,,,Q1,,,97.2
+2018,,,Q2,,,95.9
+2018,,,Q3,,,96.5
+2018,,,Q4,,,96.4
+2018,,,Q5,,,95.7

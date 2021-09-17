@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Вид транспорта: Воздушный",
+                "Вид транспорта: Автобус",
+                "Вид транспорта: Трубопроводный",
+                "Вид транспорта: Железнодорожный",
+                "Вид транспорта: Автомобильный",
+                "Вид транспорта: Такси",
+                "Вид транспорта: Троллейбус",
+                "Вид транспорта: Водный"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IS_RDP_FRGVOL",
+                "IS_RDP_PFVOL"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Тысячи",
+                "Миллионы"
+              ]
+            },
+            "title": "Множитель"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "NUMBER",
+                "T"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Объем пассажирских и грузовых перевозок в разбивке по видам транспорта"
+}
