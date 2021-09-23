@@ -16,16 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_010301_1F2",
-                "_L_KG_010301_1F1",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

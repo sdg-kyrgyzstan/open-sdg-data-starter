@@ -28,28 +28,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "COMMENT_TS",

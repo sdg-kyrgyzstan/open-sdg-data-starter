@@ -16,16 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_IHR_PSRC",
-                "VC_IHR_PSRCN",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -47,16 +40,9 @@
             "title": "Reference area"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_100000_POP",
-                "NUMBER",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

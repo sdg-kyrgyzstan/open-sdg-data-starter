@@ -29,16 +29,9 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_070301_2A",
-                "_L_KG_070301_2B",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "ACTIVITY",
@@ -53,17 +46,9 @@
             "title": "Economic activity"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KWH_MN_KGS",
-                "_L_TH_KWH_MN_KGS",
-                "_L_KWH",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

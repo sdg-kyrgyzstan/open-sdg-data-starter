@@ -1,27 +1,27 @@
-Year,Series,Value
-2007,FB_CBK_BRCH,6.107469
-2008,FB_CBK_BRCH,6.545429
-2009,FB_CBK_BRCH,6.616596
-2010,FB_CBK_BRCH,5.693049
-2011,FB_CBK_BRCH,6.772418
-2012,FB_CBK_BRCH,7.28108
-2013,FB_CBK_BRCH,7.394386
-2014,FB_CBK_BRCH,7.425508
-2015,FB_CBK_BRCH,7.827334
-2016,FB_CBK_BRCH,7.94841
-2017,FB_CBK_BRCH,7.710477
-2018,FB_CBK_BRCH,7.640969
-2019,FB_CBK_BRCH,7.566574
-2007,FB_ATM_TOTL,2.471394
-2008,FB_ATM_TOTL,4.888003
-2009,FB_ATM_TOTL,8.720619
-2010,FB_ATM_TOTL,7.554757
-2011,FB_ATM_TOTL,12.265008
-2012,FB_ATM_TOTL,15.97647
-2013,FB_ATM_TOTL,21.075288
-2014,FB_ATM_TOTL,25.292345
-2015,FB_ATM_TOTL,30.81078
-2016,FB_ATM_TOTL,31.891768
-2017,FB_ATM_TOTL,34.153303
-2018,FB_ATM_TOTL,37.681164
-2019,FB_ATM_TOTL,40.105182
+Year,SERIES,Value
+2007,"Number of commercial bank branches per 100,000 adults",6.107469
+2008,"Number of commercial bank branches per 100,000 adults",6.545429
+2009,"Number of commercial bank branches per 100,000 adults",6.616596
+2010,"Number of commercial bank branches per 100,000 adults",5.693049
+2011,"Number of commercial bank branches per 100,000 adults",6.772418
+2012,"Number of commercial bank branches per 100,000 adults",7.28108
+2013,"Number of commercial bank branches per 100,000 adults",7.394386
+2014,"Number of commercial bank branches per 100,000 adults",7.425508
+2015,"Number of commercial bank branches per 100,000 adults",7.827334
+2016,"Number of commercial bank branches per 100,000 adults",7.94841
+2017,"Number of commercial bank branches per 100,000 adults",7.710477
+2018,"Number of commercial bank branches per 100,000 adults",7.640969
+2019,"Number of commercial bank branches per 100,000 adults",7.566574
+2007,"Number of automated teller machines (ATMs) per 100,000 adults",2.471394
+2008,"Number of automated teller machines (ATMs) per 100,000 adults",4.888003
+2009,"Number of automated teller machines (ATMs) per 100,000 adults",8.720619
+2010,"Number of automated teller machines (ATMs) per 100,000 adults",7.554757
+2011,"Number of automated teller machines (ATMs) per 100,000 adults",12.265008
+2012,"Number of automated teller machines (ATMs) per 100,000 adults",15.97647
+2013,"Number of automated teller machines (ATMs) per 100,000 adults",21.075288
+2014,"Number of automated teller machines (ATMs) per 100,000 adults",25.292345
+2015,"Number of automated teller machines (ATMs) per 100,000 adults",30.81078
+2016,"Number of automated teller machines (ATMs) per 100,000 adults",31.891768
+2017,"Number of automated teller machines (ATMs) per 100,000 adults",34.153303
+2018,"Number of automated teller machines (ATMs) per 100,000 adults",37.681164
+2019,"Number of automated teller machines (ATMs) per 100,000 adults",40.105182

@@ -26,26 +26,12 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_081002_2A",
-                "_L_KG_081002_2B",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                "CUR_LCU",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

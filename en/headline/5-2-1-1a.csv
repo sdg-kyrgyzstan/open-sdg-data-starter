@@ -1,50 +1,60 @@
-Year,Value,Series
-2010,1308,_L_KG_050201_1A1
-2011,1453,_L_KG_050201_1A1
-2012,1900,_L_KG_050201_1A1
-2013,1589,_L_KG_050201_1A1
-2014,1988,_L_KG_050201_1A1
-2015,936,_L_KG_050201_1A1
-2016,1172,_L_KG_050201_1A1
-2017,1382,_L_KG_050201_1A1
-2018,1305,_L_KG_050201_1A1
-2019,1764,_L_KG_050201_1A1
-2010,68,_L_KG_050201_1A2
-2011,155,_L_KG_050201_1A2
-2012,16,_L_KG_050201_1A2
-2013,48,_L_KG_050201_1A2
-2014,35,_L_KG_050201_1A2
-2015,12,_L_KG_050201_1A2
-2016,2,_L_KG_050201_1A2
-2017,1,_L_KG_050201_1A2
-2019,2,_L_KG_050201_1A2
-2010,401,_L_KG_050201_1A3
-2011,581,_L_KG_050201_1A3
-2012,509,_L_KG_050201_1A3
-2013,508,_L_KG_050201_1A3
-2014,495,_L_KG_050201_1A3
-2015,666,_L_KG_050201_1A3
-2016,657,_L_KG_050201_1A3
-2017,629,_L_KG_050201_1A3
-2018,555,_L_KG_050201_1A3
-2019,539,_L_KG_050201_1A3
-2010,414,_L_KG_050201_1A4
-2011,320,_L_KG_050201_1A4
-2012,498,_L_KG_050201_1A4
-2013,822,_L_KG_050201_1A4
-2014,570,_L_KG_050201_1A4
-2015,485,_L_KG_050201_1A4
-2016,372,_L_KG_050201_1A4
-2017,176,_L_KG_050201_1A4
-2018,47,_L_KG_050201_1A4
-2019,211,_L_KG_050201_1A4
-2010,445,_L_KG_050201_1A5
-2011,491,_L_KG_050201_1A5
-2012,504,_L_KG_050201_1A5
-2013,600,_L_KG_050201_1A5
-2014,731,_L_KG_050201_1A5
-2015,1896,_L_KG_050201_1A5
-2016,1404,_L_KG_050201_1A5
-2017,1084,_L_KG_050201_1A5
-2018,970,_L_KG_050201_1A5
-2019,939,_L_KG_050201_1A5
+Year,Value,SERIES
+2010,1308,Number of women who contacted forensic medical units due to domestic violence
+2011,1453,Number of women who contacted forensic medical units due to domestic violence
+2012,1900,Number of women who contacted forensic medical units due to domestic violence
+2013,1589,Number of women who contacted forensic medical units due to domestic violence
+2014,1988,Number of women who contacted forensic medical units due to domestic violence
+2015,936,Number of women who contacted forensic medical units due to domestic violence
+2016,1172,Number of women who contacted forensic medical units due to domestic violence
+2017,1382,Number of women who contacted forensic medical units due to domestic violence
+2018,1305,Number of women who contacted forensic medical units due to domestic violence
+2019,1764,Number of women who contacted forensic medical units due to domestic violence
+2010,68,Number of women who contacted paramedic-midwifery units due to domestic violence
+2011,155,Number of women who contacted paramedic-midwifery units due to domestic violence
+2012,16,Number of women who contacted paramedic-midwifery units due to domestic violence
+2013,48,Number of women who contacted paramedic-midwifery units due to domestic violence
+2014,35,Number of women who contacted paramedic-midwifery units due to domestic violence
+2015,12,Number of women who contacted paramedic-midwifery units due to domestic violence
+2016,2,Number of women who contacted paramedic-midwifery units due to domestic violence
+2017,1,Number of women who contacted paramedic-midwifery units due to domestic violence
+2019,2,Number of women who contacted paramedic-midwifery units due to domestic violence
+2010,401,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2011,581,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2012,509,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2013,508,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2014,495,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2015,666,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2016,657,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2017,629,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2018,555,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2019,539,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
+2010,414,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2011,320,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2012,498,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2013,822,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2014,570,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2015,485,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2016,372,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2017,176,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2018,47,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2019,211,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2010,445,Number of women treated for injuries resulting from domestic violence
+2011,491,Number of women treated for injuries resulting from domestic violence
+2012,504,Number of women treated for injuries resulting from domestic violence
+2013,600,Number of women treated for injuries resulting from domestic violence
+2014,731,Number of women treated for injuries resulting from domestic violence
+2015,1896,Number of women treated for injuries resulting from domestic violence
+2016,1404,Number of women treated for injuries resulting from domestic violence
+2017,1084,Number of women treated for injuries resulting from domestic violence
+2018,970,Number of women treated for injuries resulting from domestic violence
+2019,939,Number of women treated for injuries resulting from domestic violence

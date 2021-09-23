@@ -1,21 +1,21 @@
-Year,Series,Value
-2013,_L_KG_150201_1,1037.0
-2014,_L_KG_150201_1,778.0
-2015,_L_KG_150201_1,507.0
-2016,_L_KG_150201_1,616.0
-2017,_L_KG_150201_1,490.0
-2018,_L_KG_150201_1,400.0
-2019,_L_KG_150201_1,412.0
-2013,AG_LND_FRSTBIOPHA,26.7
-2013,AG_LND_FRSTPRCT,5.7
-2014,AG_LND_FRSTPRCT,5.7
-2015,AG_LND_FRSTPRCT,5.7
-2016,AG_LND_FRSTPRCT,5.7
-2017,AG_LND_FRSTPRCT,5.7
-2018,AG_LND_FRSTPRCT,5.8
-2013,AG_LND_FRSTMGT,74.6
-2014,AG_LND_FRSTMGT,76.4
-2015,AG_LND_FRSTMGT,78.0
-2016,AG_LND_FRSTMGT,79.6
-2017,AG_LND_FRSTMGT,81.3
-2018,AG_LND_FRSTMGT,82.6
+Year,SERIES,Value
+2013,"Rate of net change in forest area per year, ha",1037.0
+2014,"Rate of net change in forest area per year, ha",778.0
+2015,"Rate of net change in forest area per year, ha",507.0
+2016,"Rate of net change in forest area per year, ha",616.0
+2017,"Rate of net change in forest area per year, ha",490.0
+2018,"Rate of net change in forest area per year, ha",400.0
+2019,"Rate of net change in forest area per year, ha",412.0
+2013,Above-ground biomass in forest per hectare (tonnes per hectare),26.7
+2013,Proportion of forest area within legally established protected areas,5.7
+2014,Proportion of forest area within legally established protected areas,5.7
+2015,Proportion of forest area within legally established protected areas,5.7
+2016,Proportion of forest area within legally established protected areas,5.7
+2017,Proportion of forest area within legally established protected areas,5.7
+2018,Proportion of forest area within legally established protected areas,5.8
+2013,Proportion of forest area with a long-term management plan,74.6
+2014,Proportion of forest area with a long-term management plan,76.4
+2015,Proportion of forest area with a long-term management plan,78.0
+2016,Proportion of forest area with a long-term management plan,79.6
+2017,Proportion of forest area with a long-term management plan,81.3
+2018,Proportion of forest area with a long-term management plan,82.6

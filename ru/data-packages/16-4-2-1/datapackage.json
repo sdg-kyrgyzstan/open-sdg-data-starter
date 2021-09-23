@@ -11,16 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KG_160402_1A",
-                "_L_KG_160402_1B"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

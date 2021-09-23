@@ -16,17 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_DOM_TSPD",
-                "SL_DOM_TSPDDC",
-                "SL_DOM_TSPDCW",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

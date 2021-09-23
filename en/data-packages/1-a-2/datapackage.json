@@ -16,18 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_010A02_1",
-                "SD_XPD_ESED",
-                "SG_XPD_HLTH",
-                "SG_XPD_PROT",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

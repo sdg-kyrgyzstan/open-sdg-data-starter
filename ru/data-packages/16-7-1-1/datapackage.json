@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -21,19 +26,6 @@
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KG_160701_1A",
-                "_L_KG_160701_1B",
-                "_L_KG_160701_1C"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",

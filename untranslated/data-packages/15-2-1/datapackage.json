@@ -15,17 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_150201_1",
-                "AG_LND_FRSTBIOPHA",
-                "AG_LND_FRSTPRCT",
-                "AG_LND_FRSTMGT",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

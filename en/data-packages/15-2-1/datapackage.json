@@ -16,18 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_150201_1",
-                "AG_LND_FRSTBIOPHA",
-                "AG_LND_FRSTPRCT",
-                "AG_LND_FRSTMGT",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

@@ -1,27 +1,27 @@
-Year,Value,Series
-2007,43.5,_L_KG_070201_1A
-2008,360.0,_L_KG_070201_1A
-2009,35.6,_L_KG_070201_1A
-2010,38.7,_L_KG_070201_1A
-2011,410.0,_L_KG_070201_1A
-2012,37.1,_L_KG_070201_1A
-2013,33.3,_L_KG_070201_1A
-2014,36.7,_L_KG_070201_1A
-2015,30.6,_L_KG_070201_1A
-2016,31.6,_L_KG_070201_1A
-2017,36.5,_L_KG_070201_1A
-2018,33.9,_L_KG_070201_1A
-2019,35.7,_L_KG_070201_1A
-2007,14004.1,_L_KG_070201_1B
-2008,107591.0,_L_KG_070201_1B
-2009,100980.0,_L_KG_070201_1B
-2010,112547.0,_L_KG_070201_1B
-2011,143091.0,_L_KG_070201_1B
-2012,141790.0,_L_KG_070201_1B
-2013,130967.0,_L_KG_070201_1B
-2014,132976.0,_L_KG_070201_1B
-2015,110927.0,_L_KG_070201_1B
-2016,11497.8,_L_KG_070201_1B
-2017,14191.2,_L_KG_070201_1B
-2018,14318.3,_L_KG_070201_1B
-2019,13859.3,_L_KG_070201_1B
+Year,Value,SERIES
+2007,43.5,Share of renewable energy sources in the total energy consumption
+2008,360.0,Share of renewable energy sources in the total energy consumption
+2009,35.6,Share of renewable energy sources in the total energy consumption
+2010,38.7,Share of renewable energy sources in the total energy consumption
+2011,410.0,Share of renewable energy sources in the total energy consumption
+2012,37.1,Share of renewable energy sources in the total energy consumption
+2013,33.3,Share of renewable energy sources in the total energy consumption
+2014,36.7,Share of renewable energy sources in the total energy consumption
+2015,30.6,Share of renewable energy sources in the total energy consumption
+2016,31.6,Share of renewable energy sources in the total energy consumption
+2017,36.5,Share of renewable energy sources in the total energy consumption
+2018,33.9,Share of renewable energy sources in the total energy consumption
+2019,35.7,Share of renewable energy sources in the total energy consumption
+2007,14004.1,Electricity production by hydropower plants
+2008,107591.0,Electricity production by hydropower plants
+2009,100980.0,Electricity production by hydropower plants
+2010,112547.0,Electricity production by hydropower plants
+2011,143091.0,Electricity production by hydropower plants
+2012,141790.0,Electricity production by hydropower plants
+2013,130967.0,Electricity production by hydropower plants
+2014,132976.0,Electricity production by hydropower plants
+2015,110927.0,Electricity production by hydropower plants
+2016,11497.8,Electricity production by hydropower plants
+2017,14191.2,Electricity production by hydropower plants
+2018,14318.3,Electricity production by hydropower plants
+2019,13859.3,Electricity production by hydropower plants

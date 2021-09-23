@@ -15,15 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_IHR_PSRC",
-                "VC_IHR_PSRCN",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -44,15 +37,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_100000_POP",
-                "NUMBER",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

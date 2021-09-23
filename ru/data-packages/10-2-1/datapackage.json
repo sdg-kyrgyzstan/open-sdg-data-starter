@@ -55,6 +55,11 @@
             "title": "Территория"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -65,18 +70,6 @@
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SI_POV_50MI",
-                "_L_KG_100201_1"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "URBANISATION",

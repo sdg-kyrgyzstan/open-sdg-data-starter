@@ -16,17 +16,9 @@
             "title": "Year"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "IT_MOB_2GNTWK",
-                "IT_MOB_3GNTWK",
-                "IT_MOB_4GNTWK",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "Value",

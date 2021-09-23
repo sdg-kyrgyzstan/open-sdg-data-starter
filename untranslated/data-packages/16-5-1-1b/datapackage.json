@@ -15,15 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_160501_1B1",
-                "_L_KG_160501_1B2",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "SEX",

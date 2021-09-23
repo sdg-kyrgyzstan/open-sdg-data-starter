@@ -15,15 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_060401_2A",
-                "_L_KG_060401_2B",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -44,15 +37,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M_M3_PER_YR",
-                "PT",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

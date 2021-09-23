@@ -15,15 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",

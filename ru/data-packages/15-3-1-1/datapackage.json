@@ -24,16 +24,9 @@
             "title": "Составная разбивка"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KG_150301_1A",
-                "_L_KG_150301_1B"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

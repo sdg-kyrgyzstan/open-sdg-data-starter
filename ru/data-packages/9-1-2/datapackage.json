@@ -29,16 +29,14 @@
             "title": "Составная разбивка"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "IS_RDP_FRGVOL",
-                "IS_RDP_PFVOL"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
           },
           {
             "name": "UNIT_MULT",
@@ -51,18 +49,6 @@
               ]
             },
             "title": "Множитель"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NUMBER",
-                "T"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

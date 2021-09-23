@@ -28,16 +28,9 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "IS_RDP_PFVOL",
-                "IS_RDP_FRGVOL",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -58,16 +51,9 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                "T",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -28,16 +28,9 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_WAST",
-                "SN_STA_OVWGT",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",

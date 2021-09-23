@@ -28,35 +28,14 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_171301_1A",
-                "_L_KG_171301_1B",
-                "_L_KG_171301_1C",
-                "_L_KG_171301_1D",
-                "_L_KG_171301_1E",
-                "_L_KG_171301_1F",
-                "_L_KG_171301_1G",
-                "_L_KG_171301_1H",
-                ""
-              ]
-            },
-            "title": "Series"
+            "title": "SDG Series"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                "USD",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -15,16 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_DOM_TSPD",
-                "SL_DOM_TSPDDC",
-                "SL_DOM_TSPDCW",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

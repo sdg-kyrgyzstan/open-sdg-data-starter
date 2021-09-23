@@ -27,15 +27,8 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KG_070301_2A",
-                "_L_KG_070301_2B",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "ACTIVITY",
@@ -49,16 +42,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_KWH_MN_KGS",
-                "_L_TH_KWH_MN_KGS",
-                "_L_KWH",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -15,16 +15,8 @@
             "type": "string"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_ACS_DTP3",
-                "SH_ACS_MCV2",
-                "SH_ACS_PCV3",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "REF_AREA",

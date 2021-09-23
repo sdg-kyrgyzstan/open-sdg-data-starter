@@ -11,18 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SD_XPD_ESED",
-                "SG_XPD_HLTH",
-                "SG_XPD_PROT",
-                "_L_KG_010A02_1"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

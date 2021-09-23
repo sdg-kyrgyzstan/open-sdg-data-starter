@@ -11,17 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_DOM_TSPD",
-                "SL_DOM_TSPDCW",
-                "SL_DOM_TSPDDC"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

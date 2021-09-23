@@ -23,16 +23,14 @@
             "title": "Сноски для временных рядов"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NV_IND_MANF",
-                "NV_IND_MANFPC"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
           },
           {
             "name": "UNIT_MULT",
@@ -45,18 +43,6 @@
               ]
             },
             "title": "Множитель"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CUR_LCU",
-                "PT"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

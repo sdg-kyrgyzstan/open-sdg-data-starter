@@ -30,28 +30,14 @@
             "title": "Территория"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_IHR_PSRC",
-                "VC_IHR_PSRCN"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NUMBER",
-                "PER_100000_POP"
-              ]
-            },
-            "title": "Units"
+            "title": "Единица измерения"
           },
           {
             "name": "Value",

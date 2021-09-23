@@ -26,26 +26,12 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "COMMENT_TS",

@@ -1,37 +1,37 @@
-Year,Series,Sex,Value
-2014,_L_KG_160501_1B1,,378
-2015,_L_KG_160501_1B1,,336
-2016,_L_KG_160501_1B1,,351
-2017,_L_KG_160501_1B1,,234
-2018,_L_KG_160501_1B1,,342
-2019,_L_KG_160501_1B1,,242
-2014,_L_KG_160501_1B2,,62
-2015,_L_KG_160501_1B2,,69
-2016,_L_KG_160501_1B2,,72
-2017,_L_KG_160501_1B2,,52
-2018,_L_KG_160501_1B2,,56
-2019,_L_KG_160501_1B2,,79
-2014,_L_KG_160501_1B1,Male,323
-2015,_L_KG_160501_1B1,Male,278
-2016,_L_KG_160501_1B1,Male,286
-2017,_L_KG_160501_1B1,Male,196
-2018,_L_KG_160501_1B1,Male,297
-2019,_L_KG_160501_1B1,Male,210
-2014,_L_KG_160501_1B2,Male,57
-2015,_L_KG_160501_1B2,Male,65
-2016,_L_KG_160501_1B2,Male,61
-2017,_L_KG_160501_1B2,Male,44
-2018,_L_KG_160501_1B2,Male,53
-2019,_L_KG_160501_1B2,Male,68
-2014,_L_KG_160501_1B1,Female,55
-2015,_L_KG_160501_1B1,Female,58
-2016,_L_KG_160501_1B1,Female,65
-2017,_L_KG_160501_1B1,Female,38
-2018,_L_KG_160501_1B1,Female,45
-2019,_L_KG_160501_1B1,Female,32
-2014,_L_KG_160501_1B2,Female,5
-2015,_L_KG_160501_1B2,Female,4
-2016,_L_KG_160501_1B2,Female,11
-2017,_L_KG_160501_1B2,Female,8
-2018,_L_KG_160501_1B2,Female,3
-2019,_L_KG_160501_1B2,Female,11
+Year,SERIES,Sex,Value
+2014,Number of convictions for malfeasance,,378
+2015,Number of convictions for malfeasance,,336
+2016,Number of convictions for malfeasance,,351
+2017,Number of convictions for malfeasance,,234
+2018,Number of convictions for malfeasance,,342
+2019,Number of convictions for malfeasance,,242
+2014,Number of convictions for сorruption and bribery,,62
+2015,Number of convictions for сorruption and bribery,,69
+2016,Number of convictions for сorruption and bribery,,72
+2017,Number of convictions for сorruption and bribery,,52
+2018,Number of convictions for сorruption and bribery,,56
+2019,Number of convictions for сorruption and bribery,,79
+2014,Number of convictions for malfeasance,Male,323
+2015,Number of convictions for malfeasance,Male,278
+2016,Number of convictions for malfeasance,Male,286
+2017,Number of convictions for malfeasance,Male,196
+2018,Number of convictions for malfeasance,Male,297
+2019,Number of convictions for malfeasance,Male,210
+2014,Number of convictions for сorruption and bribery,Male,57
+2015,Number of convictions for сorruption and bribery,Male,65
+2016,Number of convictions for сorruption and bribery,Male,61
+2017,Number of convictions for сorruption and bribery,Male,44
+2018,Number of convictions for сorruption and bribery,Male,53
+2019,Number of convictions for сorruption and bribery,Male,68
+2014,Number of convictions for malfeasance,Female,55
+2015,Number of convictions for malfeasance,Female,58
+2016,Number of convictions for malfeasance,Female,65
+2017,Number of convictions for malfeasance,Female,38
+2018,Number of convictions for malfeasance,Female,45
+2019,Number of convictions for malfeasance,Female,32
+2014,Number of convictions for сorruption and bribery,Female,5
+2015,Number of convictions for сorruption and bribery,Female,4
+2016,Number of convictions for сorruption and bribery,Female,11
+2017,Number of convictions for сorruption and bribery,Female,8
+2018,Number of convictions for сorruption and bribery,Female,3
+2019,Number of convictions for сorruption and bribery,Female,11

@@ -70,16 +70,9 @@
             "title": "Территория"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

@@ -1,73 +1,73 @@
-Year,Series,Sex,Value
-2012,_L_KG_160701_1A,,30
-2013,_L_KG_160701_1A,,49
-2014,_L_KG_160701_1A,,31
-2015,_L_KG_160701_1A,,44
-2016,_L_KG_160701_1A,,45
-2017,_L_KG_160701_1A,,16
-2018,_L_KG_160701_1A,,13
-2019,_L_KG_160701_1A,,12
-2012,_L_KG_160701_1A,Male,39
-2013,_L_KG_160701_1A,Male,61
-2014,_L_KG_160701_1A,Male,57
-2015,_L_KG_160701_1A,Male,57
-2016,_L_KG_160701_1A,Male,59
-2017,_L_KG_160701_1A,Male,23
-2018,_L_KG_160701_1A,Male,20
-2019,_L_KG_160701_1A,Male,17
-2012,_L_KG_160701_1A,Female,16
-2013,_L_KG_160701_1A,Female,31
-2014,_L_KG_160701_1A,Female,26
-2015,_L_KG_160701_1A,Female,25
-2016,_L_KG_160701_1A,Female,26
-2017,_L_KG_160701_1A,Female,5
-2018,_L_KG_160701_1A,Female,4
-2019,_L_KG_160701_1A,Female,4
-2012,_L_KG_160701_1B,,24
-2013,_L_KG_160701_1B,,13
-2014,_L_KG_160701_1B,,9
-2015,_L_KG_160701_1B,,22
-2016,_L_KG_160701_1B,,26
-2017,_L_KG_160701_1B,,27
-2018,_L_KG_160701_1B,,26
-2019,_L_KG_160701_1B,,33
-2012,_L_KG_160701_1B,Male,27
-2013,_L_KG_160701_1B,Male,16
-2014,_L_KG_160701_1B,Male,22
-2015,_L_KG_160701_1B,Male,26
-2016,_L_KG_160701_1B,Male,28
-2017,_L_KG_160701_1B,Male,28
-2018,_L_KG_160701_1B,Male,27
-2019,_L_KG_160701_1B,Male,39
-2012,_L_KG_160701_1B,Female,20
-2013,_L_KG_160701_1B,Female,9
-2014,_L_KG_160701_1B,Female,17
-2015,_L_KG_160701_1B,Female,17
-2016,_L_KG_160701_1B,Female,23
-2017,_L_KG_160701_1B,Female,24
-2018,_L_KG_160701_1B,Female,25
-2019,_L_KG_160701_1B,Female,25
-2012,_L_KG_160701_1C,,946
-2013,_L_KG_160701_1C,,938
-2014,_L_KG_160701_1C,,960
-2015,_L_KG_160701_1C,,934
-2016,_L_KG_160701_1C,,928
-2017,_L_KG_160701_1C,,958
-2018,_L_KG_160701_1C,,961
-2019,_L_KG_160701_1C,,955
-2012,_L_KG_160701_1C,Male,933
-2013,_L_KG_160701_1C,Male,923
-2014,_L_KG_160701_1C,Male,922
-2015,_L_KG_160701_1C,Male,917
-2016,_L_KG_160701_1C,Male,913
-2017,_L_KG_160701_1C,Male,948
-2018,_L_KG_160701_1C,Male,954
-2019,_L_KG_160701_1C,Male,944
-2012,_L_KG_160701_1C,Female,964
-2013,_L_KG_160701_1C,Female,960
-2014,_L_KG_160701_1C,Female,957
-2015,_L_KG_160701_1C,Female,958
-2016,_L_KG_160701_1C,Female,951
-2017,_L_KG_160701_1C,Female,971
-2018,_L_KG_160701_1C,Female,972
-2019,_L_KG_160701_1C,Female,972
+Year,SERIES,Sex,Value
+2012,Proportion of positions in public institutions: in political positions,,30
+2013,Proportion of positions in public institutions: in political positions,,49
+2014,Proportion of positions in public institutions: in political positions,,31
+2015,Proportion of positions in public institutions: in political positions,,44
+2016,Proportion of positions in public institutions: in political positions,,45
+2017,Proportion of positions in public institutions: in political positions,,16
+2018,Proportion of positions in public institutions: in political positions,,13
+2019,Proportion of positions in public institutions: in political positions,,12
+2012,Proportion of positions in public institutions: in political positions,Male,39
+2013,Proportion of positions in public institutions: in political positions,Male,61
+2014,Proportion of positions in public institutions: in political positions,Male,57
+2015,Proportion of positions in public institutions: in political positions,Male,57
+2016,Proportion of positions in public institutions: in political positions,Male,59
+2017,Proportion of positions in public institutions: in political positions,Male,23
+2018,Proportion of positions in public institutions: in political positions,Male,20
+2019,Proportion of positions in public institutions: in political positions,Male,17
+2012,Proportion of positions in public institutions: in political positions,Female,16
+2013,Proportion of positions in public institutions: in political positions,Female,31
+2014,Proportion of positions in public institutions: in political positions,Female,26
+2015,Proportion of positions in public institutions: in political positions,Female,25
+2016,Proportion of positions in public institutions: in political positions,Female,26
+2017,Proportion of positions in public institutions: in political positions,Female,5
+2018,Proportion of positions in public institutions: in political positions,Female,4
+2019,Proportion of positions in public institutions: in political positions,Female,4
+2012,Proportion of positions in public institutions: in special positions,,24
+2013,Proportion of positions in public institutions: in special positions,,13
+2014,Proportion of positions in public institutions: in special positions,,9
+2015,Proportion of positions in public institutions: in special positions,,22
+2016,Proportion of positions in public institutions: in special positions,,26
+2017,Proportion of positions in public institutions: in special positions,,27
+2018,Proportion of positions in public institutions: in special positions,,26
+2019,Proportion of positions in public institutions: in special positions,,33
+2012,Proportion of positions in public institutions: in special positions,Male,27
+2013,Proportion of positions in public institutions: in special positions,Male,16
+2014,Proportion of positions in public institutions: in special positions,Male,22
+2015,Proportion of positions in public institutions: in special positions,Male,26
+2016,Proportion of positions in public institutions: in special positions,Male,28
+2017,Proportion of positions in public institutions: in special positions,Male,28
+2018,Proportion of positions in public institutions: in special positions,Male,27
+2019,Proportion of positions in public institutions: in special positions,Male,39
+2012,Proportion of positions in public institutions: in special positions,Female,20
+2013,Proportion of positions in public institutions: in special positions,Female,9
+2014,Proportion of positions in public institutions: in special positions,Female,17
+2015,Proportion of positions in public institutions: in special positions,Female,17
+2016,Proportion of positions in public institutions: in special positions,Female,23
+2017,Proportion of positions in public institutions: in special positions,Female,24
+2018,Proportion of positions in public institutions: in special positions,Female,25
+2019,Proportion of positions in public institutions: in special positions,Female,25
+2012,Proportion of positions in public institutions: in administrative positions,,946
+2013,Proportion of positions in public institutions: in administrative positions,,938
+2014,Proportion of positions in public institutions: in administrative positions,,960
+2015,Proportion of positions in public institutions: in administrative positions,,934
+2016,Proportion of positions in public institutions: in administrative positions,,928
+2017,Proportion of positions in public institutions: in administrative positions,,958
+2018,Proportion of positions in public institutions: in administrative positions,,961
+2019,Proportion of positions in public institutions: in administrative positions,,955
+2012,Proportion of positions in public institutions: in administrative positions,Male,933
+2013,Proportion of positions in public institutions: in administrative positions,Male,923
+2014,Proportion of positions in public institutions: in administrative positions,Male,922
+2015,Proportion of positions in public institutions: in administrative positions,Male,917
+2016,Proportion of positions in public institutions: in administrative positions,Male,913
+2017,Proportion of positions in public institutions: in administrative positions,Male,948
+2018,Proportion of positions in public institutions: in administrative positions,Male,954
+2019,Proportion of positions in public institutions: in administrative positions,Male,944
+2012,Proportion of positions in public institutions: in administrative positions,Female,964
+2013,Proportion of positions in public institutions: in administrative positions,Female,960
+2014,Proportion of positions in public institutions: in administrative positions,Female,957
+2015,Proportion of positions in public institutions: in administrative positions,Female,958
+2016,Proportion of positions in public institutions: in administrative positions,Female,951
+2017,Proportion of positions in public institutions: in administrative positions,Female,971
+2018,Proportion of positions in public institutions: in administrative positions,Female,972
+2019,Proportion of positions in public institutions: in administrative positions,Female,972

@@ -11,18 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "AG_LND_FRSTBIOPHA",
-                "AG_LND_FRSTMGT",
-                "AG_LND_FRSTPRCT",
-                "_L_KG_150201_1"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

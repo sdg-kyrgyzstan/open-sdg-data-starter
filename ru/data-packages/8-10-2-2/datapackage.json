@@ -11,16 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KG_081002_2A",
-                "_L_KG_081002_2B"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
           },
           {
             "name": "UNIT_MULT",
@@ -33,18 +31,6 @@
               ]
             },
             "title": "Множитель"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CUR_LCU",
-                "NUMBER"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

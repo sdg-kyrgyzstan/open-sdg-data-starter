@@ -30,6 +30,11 @@
             "title": "Территория"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -40,18 +45,6 @@
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "SL_EMP_FTLINJUR",
-                "SL_EMP_INJUR"
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",

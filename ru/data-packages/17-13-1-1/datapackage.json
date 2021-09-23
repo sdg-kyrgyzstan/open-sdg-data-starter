@@ -11,22 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_KG_171301_1A",
-                "_L_KG_171301_1B",
-                "_L_KG_171301_1C",
-                "_L_KG_171301_1D",
-                "_L_KG_171301_1E",
-                "_L_KG_171301_1F",
-                "_L_KG_171301_1G",
-                "_L_KG_171301_1H"
-              ]
-            },
-            "title": "Series"
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
           },
           {
             "name": "UNIT_MULT",
@@ -39,19 +31,6 @@
               ]
             },
             "title": "Множитель"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CUR_LCU",
-                "PT",
-                "USD"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
