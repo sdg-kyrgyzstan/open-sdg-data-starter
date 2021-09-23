@@ -22,8 +22,6 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dimension_map:
-      UNIT_MEASURE: 'Units'
-      SERIES: 'Series'
       REF_AREA|KG: ''
     drop_dimensions: 
       - SOURCE_DETAIL
