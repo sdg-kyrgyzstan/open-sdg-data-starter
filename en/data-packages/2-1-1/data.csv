@@ -19,6 +19,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,,,50.0267
 2018,,,46.4
 2019,,,46.3
+2020,,,45.3
 2000,,Urban,69.472742
 2001,,Urban,84.06804
 2002,,Urban,67.700173
@@ -39,6 +40,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,,Urban,55.5006
 2018,,Urban,51.6
 2019,,Urban,50.6
+2020,,Urban,48.2
 2000,,Rural,55.809151
 2001,,Rural,73.452418
 2002,,Rural,42.634369
@@ -59,6 +61,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,,Rural,47.0111
 2018,,Rural,43.5
 2019,,Rural,43.9
+2020,,Rural,43.6
 2000,Batken,,59.339716
 2001,Batken,,61.621051
 2002,Batken,,36.961393
@@ -79,6 +82,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Batken,,52.4614
 2018,Batken,,54.6
 2019,Batken,,52.6
+2020,Batken,,48.8
 2000,Jalal-Abad,,59.287149
 2001,Jalal-Abad,,81.005572
 2002,Jalal-Abad,,42.498122
@@ -99,6 +103,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Jalal-Abad,,41.1944
 2018,Jalal-Abad,,44.0
 2019,Jalal-Abad,,38.8
+2020,Jalal-Abad,,41.5
 2000,Issyk-Kul,,65.030908
 2001,Issyk-Kul,,78.831057
 2002,Issyk-Kul,,60.063825
@@ -119,6 +124,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Issyk-Kul,,51.7617
 2018,Issyk-Kul,,49.4
 2019,Issyk-Kul,,50.2
+2020,Issyk-Kul,,49.7
 2000,Naryn,,69.421773
 2001,Naryn,,83.854909
 2002,Naryn,,61.635086
@@ -139,6 +145,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Naryn,,41.3079
 2018,Naryn,,42.5
 2019,Naryn,,41.6
+2020,Naryn,,46.7
 2000,Osh,,61.998935
 2001,Osh,,79.954728
 2002,Osh,,54.70914
@@ -159,6 +166,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Osh,,42.7541
 2018,Osh,,41.5
 2019,Osh,,36.6
+2020,Osh,,36.5
 2000,Talas,,63.975403
 2001,Talas,,77.544184
 2002,Talas,,49.613657
@@ -179,6 +187,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Talas,,34.8662
 2018,Talas,,36.1
 2019,Talas,,37.0
+2020,Talas,,29.6
 2000,Chui,,46.583904
 2001,Chui,,64.318147
 2002,Chui,,39.251547
@@ -199,6 +208,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Chui,,58.4127
 2018,Chui,,41.2
 2019,Chui,,56.0
+2020,Chui,,54.7
 2000,Bishkek (city),,68.003731
 2001,Bishkek (city),,85.640504
 2002,Bishkek (city),,68.047002
@@ -219,6 +229,7 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Bishkek (city),,60.2912
 2018,Bishkek (city),,51.8
 2019,Bishkek (city),,53.7
+2020,Bishkek (city),,51.6
 2013,Osh (city),,69.262253
 2014,Osh (city),,67.223461
 2015,Osh (city),,67.700759
@@ -226,3 +237,4 @@ Year,Reference area,Degree of urbanisation,Value
 2017,Osh (city),,72.2366
 2018,Osh (city),,70.1
 2019,Osh (city),,59.3
+2020,Osh (city),,47.2

@@ -1,131 +1,361 @@
-Year,Reference area,Value
-2007,,21.062709
-2008,,19.633713
-2009,,18.141025
-2010,,16.397145
-2011,,15.346363
-2012,,14.627093
-2013,,14.891975
-2014,,15.641512
-2015,,13.997993
-2016,,12.670713
-2017,,11.795339
-2018,,12.0
-2019,,11.8
-2007,Batken,20.020582
-2008,Batken,20.371252
-2009,Batken,17.752959
-2010,Batken,17.905103
-2011,Batken,15.911964
-2012,Batken,13.333333
-2013,Batken,13.29229
-2014,Batken,12.498302
-2015,Batken,11.21983
-2016,Batken,10.61082
-2017,Batken,10.611457
-2018,Batken,9.3
-2019,Batken,10.5
-2007,Jalal-Abad,17.491993
-2008,Jalal-Abad,13.828495
-2009,Jalal-Abad,13.109231
-2010,Jalal-Abad,11.41671
-2011,Jalal-Abad,11.64604
-2012,Jalal-Abad,11.539979
-2013,Jalal-Abad,13.183481
-2014,Jalal-Abad,14.415326
-2015,Jalal-Abad,12.659814
-2016,Jalal-Abad,11.493097
-2017,Jalal-Abad,9.918574
-2018,Jalal-Abad,10.2
-2019,Jalal-Abad,11.7
-2007,Issyk-Kul,17.433752
-2008,Issyk-Kul,18.44146
-2009,Issyk-Kul,16.389014
-2010,Issyk-Kul,15.933099
-2011,Issyk-Kul,16.267429
-2012,Issyk-Kul,14.75265
-2013,Issyk-Kul,11.261052
-2014,Issyk-Kul,9.306183
-2015,Issyk-Kul,12.182109
-2016,Issyk-Kul,8.420139
-2017,Issyk-Kul,9.423503
-2018,Issyk-Kul,8.5
-2019,Issyk-Kul,9.5
-2007,Naryn,17.912773
-2008,Naryn,16.943931
-2009,Naryn,14.464366
-2010,Naryn,12.251149
-2011,Naryn,10.273497
-2012,Naryn,12.369975
-2013,Naryn,11.58413
-2014,Naryn,12.209828
-2015,Naryn,8.72093
-2016,Naryn,11.227763
-2017,Naryn,9.984399
-2018,Naryn,8.2
-2019,Naryn,6.6
-2007,Osh,12.608002
-2008,Osh,13.417951
-2009,Osh,10.630954
-2010,Osh,10.695524
-2011,Osh,8.214286
-2012,Osh,6.444122
-2013,Osh,5.10597
-2014,Osh,5.045162
-2015,Osh,4.312545
-2016,Osh,3.485959
-2017,Osh,3.098263
-2018,Osh,3.4
-2019,Osh,2.8
-2007,Talas,28.86102
-2008,Talas,24.548244
-2009,Talas,25.589948
-2010,Talas,19.147084
-2011,Talas,16.905249
-2012,Talas,15.341309
-2013,Talas,19.851852
-2014,Talas,16.656752
-2015,Talas,12.700333
-2016,Talas,12.33604
-2017,Talas,12.267905
-2018,Talas,16.7
-2019,Talas,14.8
-2007,Chui,21.918468
-2008,Chui,19.965577
-2009,Chui,18.539076
-2010,Chui,16.0724
-2011,Chui,15.37476
-2012,Chui,14.294878
-2013,Chui,14.537283
-2014,Chui,13.354037
-2015,Chui,12.614628
-2016,Chui,10.407594
-2017,Chui,6.655345
-2018,Chui,6.8
-2019,Chui,7.6
-2007,Bishkek (city),31.519613
-2008,Bishkek (city),29.87456
-2009,Bishkek (city),27.261589
-2010,Bishkek (city),25.128553
-2011,Bishkek (city),24.125336
-2012,Bishkek (city),21.38653
-2013,Bishkek (city),22.854904
-2014,Bishkek (city),25.985737
-2015,Bishkek (city),23.028611
-2016,Bishkek (city),22.846558
-2017,Bishkek (city),23.162225
-2018,Bishkek (city),22.9
-2019,Bishkek (city),19.9
-2007,Osh (city),49.506943
-2008,Osh (city),42.992096
-2009,Osh (city),49.784765
-2010,Osh (city),42.06501
-2011,Osh (city),46.632124
-2012,Osh (city),53.846154
-2013,Osh (city),55.639098
-2014,Osh (city),63.961301
-2015,Osh (city),61.963775
-2016,Osh (city),50.222162
-2017,Osh (city),46.864858
-2018,Osh (city),34.2
-2019,Osh (city),33.0
+Year,Reference area,Sex,Value
+2007,,,211
+2008,,,196
+2009,,,181
+2010,,,164
+2011,,,153
+2012,,,146
+2013,,,149
+2014,,,156
+2015,,,140
+2016,,,127
+2017,,,118
+2018,,,120
+2019,,,118
+2020,,,117
+2010,,Male,183
+2011,,Male,168
+2012,,Male,161
+2013,,Male,165
+2014,,Male,169
+2015,,Male,154
+2016,,Male,134
+2017,,Male,131
+2018,,Male,132
+2019,,Male,129
+2020,,Male,125
+2010,,Female,144
+2011,,Female,138
+2012,,Female,130
+2013,,Female,131
+2014,,Female,143
+2015,,Female,125
+2016,,Female,119
+2017,,Female,104
+2018,,Female,107
+2019,,Female,107
+2020,,Female,110
+2007,Batken,,200
+2008,Batken,,204
+2009,Batken,,178
+2010,Batken,,179
+2011,Batken,,159
+2012,Batken,,133
+2013,Batken,,133
+2014,Batken,,125
+2015,Batken,,112
+2016,Batken,,106
+2017,Batken,,106
+2018,Batken,,93
+2019,Batken,,105
+2020,Batken,,111
+2010,Batken,Male,195
+2011,Batken,Male,170
+2012,Batken,Male,151
+2013,Batken,Male,154
+2014,Batken,Male,147
+2015,Batken,Male,121
+2016,Batken,Male,104
+2017,Batken,Male,117
+2018,Batken,Male,104
+2019,Batken,Male,103
+2020,Batken,Male,119
+2010,Batken,Female,163
+2011,Batken,Female,148
+2012,Batken,Female,115
+2013,Batken,Female,111
+2014,Batken,Female,101
+2015,Batken,Female,103
+2016,Batken,Female,108
+2017,Batken,Female,94
+2018,Batken,Female,82
+2019,Batken,Female,106
+2020,Batken,Female,102
+2007,Jalal-Abad,,175
+2008,Jalal-Abad,,138
+2009,Jalal-Abad,,131
+2010,Jalal-Abad,,114
+2011,Jalal-Abad,,116
+2012,Jalal-Abad,,115
+2013,Jalal-Abad,,132
+2014,Jalal-Abad,,144
+2015,Jalal-Abad,,127
+2016,Jalal-Abad,,115
+2017,Jalal-Abad,,99
+2018,Jalal-Abad,,102
+2019,Jalal-Abad,,95
+2020,Jalal-Abad,,87
+2010,Jalal-Abad,Male,127
+2011,Jalal-Abad,Male,130
+2012,Jalal-Abad,Male,132
+2013,Jalal-Abad,Male,130
+2014,Jalal-Abad,Male,156
+2015,Jalal-Abad,Male,134
+2016,Jalal-Abad,Male,119
+2017,Jalal-Abad,Male,105
+2018,Jalal-Abad,Male,105
+2019,Jalal-Abad,Male,99
+2020,Jalal-Abad,Male,88
+2010,Jalal-Abad,Female,101
+2011,Jalal-Abad,Female,102
+2012,Jalal-Abad,Female,98
+2013,Jalal-Abad,Female,133
+2014,Jalal-Abad,Female,132
+2015,Jalal-Abad,Female,119
+2016,Jalal-Abad,Female,110
+2017,Jalal-Abad,Female,93
+2018,Jalal-Abad,Female,99
+2019,Jalal-Abad,Female,91
+2020,Jalal-Abad,Female,86
+2007,Issyk-Kul,,174
+2008,Issyk-Kul,,184
+2009,Issyk-Kul,,164
+2010,Issyk-Kul,,159
+2011,Issyk-Kul,,163
+2012,Issyk-Kul,,148
+2013,Issyk-Kul,,113
+2014,Issyk-Kul,,93
+2015,Issyk-Kul,,122
+2016,Issyk-Kul,,84
+2017,Issyk-Kul,,94
+2018,Issyk-Kul,,85
+2019,Issyk-Kul,,117
+2020,Issyk-Kul,,97
+2010,Issyk-Kul,Male,193
+2011,Issyk-Kul,Male,196
+2012,Issyk-Kul,Male,154
+2013,Issyk-Kul,Male,112
+2014,Issyk-Kul,Male,109
+2015,Issyk-Kul,Male,139
+2016,Issyk-Kul,Male,74
+2017,Issyk-Kul,Male,112
+2018,Issyk-Kul,Male,89
+2019,Issyk-Kul,Male,137
+2020,Issyk-Kul,Male,105
+2010,Issyk-Kul,Female,124
+2011,Issyk-Kul,Female,128
+2012,Issyk-Kul,Female,141
+2013,Issyk-Kul,Female,113
+2014,Issyk-Kul,Female,77
+2015,Issyk-Kul,Female,104
+2016,Issyk-Kul,Female,95
+2017,Issyk-Kul,Female,74
+2018,Issyk-Kul,Female,80
+2019,Issyk-Kul,Female,95
+2020,Issyk-Kul,Female,87
+2007,Naryn,,179
+2008,Naryn,,169
+2009,Naryn,,145
+2010,Naryn,,123
+2011,Naryn,,103
+2012,Naryn,,124
+2013,Naryn,,116
+2014,Naryn,,122
+2015,Naryn,,87
+2016,Naryn,,112
+2017,Naryn,,100
+2018,Naryn,,82
+2019,Naryn,,66
+2020,Naryn,,96
+2010,Naryn,Male,128
+2011,Naryn,Male,130
+2012,Naryn,Male,134
+2013,Naryn,Male,127
+2014,Naryn,Male,122
+2015,Naryn,Male,116
+2016,Naryn,Male,114
+2017,Naryn,Male,121
+2018,Naryn,Male,83
+2019,Naryn,Male,75
+2020,Naryn,Male,107
+2010,Naryn,Female,117
+2011,Naryn,Female,74
+2012,Naryn,Female,113
+2013,Naryn,Female,104
+2014,Naryn,Female,122
+2015,Naryn,Female,57
+2016,Naryn,Female,110
+2017,Naryn,Female,77
+2018,Naryn,Female,80
+2019,Naryn,Female,57
+2020,Naryn,Female,86
+2007,Osh,,126
+2008,Osh,,134
+2009,Osh,,106
+2010,Osh,,107
+2011,Osh,,82
+2012,Osh,,64
+2013,Osh,,51
+2014,Osh,,50
+2015,Osh,,43
+2016,Osh,,35
+2017,Osh,,31
+2018,Osh,,34
+2019,Osh,,28
+2020,Osh,,39
+2010,Osh,Male,129
+2011,Osh,Male,93
+2012,Osh,Male,70
+2013,Osh,Male,55
+2014,Osh,Male,54
+2015,Osh,Male,51
+2016,Osh,Male,39
+2017,Osh,Male,35
+2018,Osh,Male,41
+2019,Osh,Male,34
+2020,Osh,Male,41
+2010,Osh,Female,84
+2011,Osh,Female,70
+2012,Osh,Female,58
+2013,Osh,Female,47
+2014,Osh,Female,46
+2015,Osh,Female,35
+2016,Osh,Female,31
+2017,Osh,Female,27
+2018,Osh,Female,26
+2019,Osh,Female,22
+2020,Osh,Female,36
+2007,Talas,,289
+2008,Talas,,245
+2009,Talas,,256
+2010,Talas,,191
+2011,Talas,,169
+2012,Talas,,153
+2013,Talas,,199
+2014,Talas,,167
+2015,Talas,,127
+2016,Talas,,123
+2017,Talas,,123
+2018,Talas,,167
+2019,Talas,,148
+2020,Talas,,206
+2010,Talas,Male,222
+2011,Talas,Male,193
+2012,Talas,Male,171
+2013,Talas,Male,239
+2014,Talas,Male,193
+2015,Talas,Male,173
+2016,Talas,Male,113
+2017,Talas,Male,124
+2018,Talas,Male,195
+2019,Talas,Male,150
+2020,Talas,Male,236
+2010,Talas,Female,161
+2011,Talas,Female,143
+2012,Talas,Female,135
+2013,Talas,Female,156
+2014,Talas,Female,137
+2015,Talas,Female,78
+2016,Talas,Female,134
+2017,Talas,Female,121
+2018,Talas,Female,138
+2019,Talas,Female,147
+2020,Talas,Female,175
+2007,Chui,,219
+2008,Chui,,200
+2009,Chui,,185
+2010,Chui,,161
+2011,Chui,,154
+2012,Chui,,143
+2013,Chui,,145
+2014,Chui,,134
+2015,Chui,,126
+2016,Chui,,104
+2017,Chui,,67
+2018,Chui,,68
+2019,Chui,,76
+2020,Chui,,69
+2010,Chui,Male,184
+2011,Chui,Male,146
+2012,Chui,Male,160
+2013,Chui,Male,162
+2014,Chui,Male,139
+2015,Chui,Male,146
+2016,Chui,Male,110
+2017,Chui,Male,68
+2018,Chui,Male,75
+2019,Chui,Male,82
+2020,Chui,Male,78
+2010,Chui,Female,136
+2011,Chui,Female,162
+2012,Chui,Female,124
+2013,Chui,Female,127
+2014,Chui,Female,127
+2015,Chui,Female,105
+2016,Chui,Female,97
+2017,Chui,Female,65
+2018,Chui,Female,61
+2019,Chui,Female,69
+2020,Chui,Female,59
+2007,Bishkek (city),,315
+2008,Bishkek (city),,299
+2009,Bishkek (city),,273
+2010,Bishkek (city),,251
+2011,Bishkek (city),,241
+2012,Bishkek (city),,214
+2013,Bishkek (city),,229
+2014,Bishkek (city),,260
+2015,Bishkek (city),,230
+2016,Bishkek (city),,228
+2017,Bishkek (city),,232
+2018,Bishkek (city),,229
+2019,Bishkek (city),,199
+2020,Bishkek (city),,190
+2010,Bishkek (city),Male,257
+2011,Bishkek (city),Male,260
+2012,Bishkek (city),Male,222
+2013,Bishkek (city),Male,261
+2014,Bishkek (city),Male,276
+2015,Bishkek (city),Male,246
+2016,Bishkek (city),Male,253
+2017,Bishkek (city),Male,260
+2018,Bishkek (city),Male,250
+2019,Bishkek (city),Male,216
+2020,Bishkek (city),Male,197
+2010,Bishkek (city),Female,246
+2011,Bishkek (city),Female,222
+2012,Bishkek (city),Female,205
+2013,Bishkek (city),Female,195
+2014,Bishkek (city),Female,243
+2015,Bishkek (city),Female,213
+2016,Bishkek (city),Female,202
+2017,Bishkek (city),Female,202
+2018,Bishkek (city),Female,207
+2019,Bishkek (city),Female,181
+2020,Bishkek (city),Female,184
+2007,Osh (city),,495
+2008,Osh (city),,430
+2009,Osh (city),,498
+2010,Osh (city),,421
+2011,Osh (city),,466
+2012,Osh (city),,538
+2013,Osh (city),,556
+2014,Osh (city),,640
+2015,Osh (city),,620
+2016,Osh (city),,502
+2017,Osh (city),,469
+2018,Osh (city),,342
+2019,Osh (city),,330
+2020,Osh (city),,329
+2010,Osh (city),Male,462
+2011,Osh (city),Male,501
+2012,Osh (city),Male,613
+2013,Osh (city),Male,648
+2014,Osh (city),Male,674
+2015,Osh (city),Male,628
+2016,Osh (city),Male,551
+2017,Osh (city),Male,531
+2018,Osh (city),Male,387
+2019,Osh (city),Male,373
+2020,Osh (city),Male,355
+2010,Osh (city),Female,376
+2011,Osh (city),Female,429
+2012,Osh (city),Female,458
+2013,Osh (city),Female,452
+2014,Osh (city),Female,602
+2015,Osh (city),Female,611
+2016,Osh (city),Female,450
+2017,Osh (city),Female,400
+2018,Osh (city),Female,294
+2019,Osh (city),Female,284
+2020,Osh (city),Female,302
