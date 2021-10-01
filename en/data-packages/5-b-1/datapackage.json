@@ -51,6 +51,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15 years old and over",
                 "15 to 28 years old",
                 "29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",
                 "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",

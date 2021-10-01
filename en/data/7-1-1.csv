@@ -1,117 +1,141 @@
 Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2016,,,,,,,76.7
-2017,,,,,,,79.6
-2018,,,,,,,75.7
-2019,,,,,,,76.1
-2016,,,,Urban,,,86.9
-2017,,,,Urban,,,88.4
-2018,,,,Urban,,,88.6
-2019,,,,Urban,,,90.5
-2016,,,,Rural,,,71.1
-2017,,,,Rural,,,74.8
-2018,,,,Rural,,,68.7
-2019,,,,Rural,,,68.0
-2016,,Male,,,,,76.1
-2017,,Male,,,,,79.2
-2018,,Male,,,,,74.7
-2019,,Male,,,,,75.1
-2016,,Female,,,,,77.2
-2017,,Female,,,,,80.0
-2018,,Female,,,,,76.6
-2019,,Female,,,,,76.9
-2016,Batken,,,,,,75.8
-2017,Batken,,,,,,70.8
-2018,Batken,,,,,,71.8
-2019,Batken,,,,,,71.6
-2016,Jalal-Abad,,,,,,76.7
-2017,Jalal-Abad,,,,,,74.4
-2018,Jalal-Abad,,,,,,64.4
-2019,Jalal-Abad,,,,,,66.6
-2016,Issyk-Kul,,,,,,47.3
-2017,Issyk-Kul,,,,,,57.5
-2018,Issyk-Kul,,,,,,67.0
-2019,Issyk-Kul,,,,,,66.5
-2016,Naryn,,,,,,77.4
-2017,Naryn,,,,,,79.3
-2018,Naryn,,,,,,79.0
-2019,Naryn,,,,,,67.0
-2016,Osh,,,,,,74.6
-2017,Osh,,,,,,79.0
-2018,Osh,,,,,,66.6
-2019,Osh,,,,,,68.3
-2016,Talas,,,,,,73.7
-2017,Talas,,,,,,74.1
-2018,Talas,,,,,,54.0
-2019,Talas,,,,,,52.5
-2016,Chui,,,,,,72.3
-2017,Chui,,,,,,82.9
-2018,Chui,,,,,,88.4
-2019,Chui,,,,,,84.9
-2016,Bishkek (city),,,,,,92.0
-2017,Bishkek (city),,,,,,95.1
-2018,Bishkek (city),,,,,,93.9
-2019,Bishkek (city),,,,,,98.2
-2016,Osh (city),,,,,,100.0
-2017,Osh (city),,,,,,99.4
-2018,Osh (city),,,,,,100.0
-2019,Osh (city),,,,,,99.8
-2016,,,under 6 years old,,,,75.9
-2017,,,under 6 years old,,,,77.9
-2018,,,under 6 years old,,,,75.3
-2019,,,under 6 years old,,,,75.1
-2016,,,7 to 14 years old,,,,76.3
-2017,,,7 to 14 years old,,,,78.4
-2018,,,7 to 14 years old,,,,75.8
-2019,,,7 to 14 years old,,,,75.1
-2016,,,15 to 28 years old,,,,77.1
-2017,,,15 to 28 years old,,,,81.3
-2018,,,15 to 28 years old,,,,74.3
-2019,,,15 to 28 years old,,,,75.9
-2016,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,76.8
-2017,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,79.6
-2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,76.5
-2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,77.4
-2016,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,76.8
-2017,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,80.9
-2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,75.8
-2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,74.9
-2016,,,,,,Primary education,75.2
-2017,,,,,,Primary education,78.3
-2018,,,,,,Primary education,75.1
-2019,,,,,,Primary education,75.1
-2016,,,,,,Lower secondary education,80.2
-2017,,,,,,Lower secondary education,79.0
-2018,,,,,,Lower secondary education,76.5
-2019,,,,,,Lower secondary education,77.3
-2016,,,,,,Upper secondary education,75.0
-2017,,,,,,Upper secondary education,78.4
-2018,,,,,,Upper secondary education,72.1
-2019,,,,,,Upper secondary education,74.1
-2016,,,,,,Post-secondary non-tertiary education,78.4
-2017,,,,,,Post-secondary non-tertiary education,83.9
-2018,,,,,,Post-secondary non-tertiary education,80.2
-2019,,,,,,Post-secondary non-tertiary education,79.0
-2016,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),79.9
-2017,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),83.9
-2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),82.1
-2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),81.4
-2016,,,,,Quintile 1 (poorest),,72.5
-2017,,,,,Quintile 1 (poorest),,79.3
-2018,,,,,Quintile 1 (poorest),,74.7
-2019,,,,,Quintile 1 (poorest),,71.6
-2016,,,,,Quintile 2,,77.3
-2017,,,,,Quintile 2,,81.9
-2018,,,,,Quintile 2,,74.8
-2019,,,,,Quintile 2,,73.0
-2016,,,,,Quintile 3,,77.7
-2017,,,,,Quintile 3,,79.4
-2018,,,,,Quintile 3,,75.4
-2019,,,,,Quintile 3,,79.8
-2016,,,,,Quintile 4,,78.2
-2017,,,,,Quintile 4,,78.7
-2018,,,,,Quintile 4,,75.5
-2019,,,,,Quintile 4,,78.6
-2016,,,,,Quintile 5 (richest),,77.7
-2017,,,,,Quintile 5 (richest),,78.6
-2018,,,,,Quintile 5 (richest),,78.0
-2019,,,,,Quintile 5 (richest),,77.2
+2016,,,,,,,767.0
+2017,,,,,,,796.0
+2018,,,,,,,757.0
+2019,,,,,,,761.0
+2020,,,,,,,72.8
+2016,,,,Urban,,,869.0
+2017,,,,Urban,,,884.0
+2018,,,,Urban,,,886.0
+2019,,,,Urban,,,905.0
+2020,,,,Urban,,,88.5
+2016,,,,Rural,,,711.0
+2017,,,,Rural,,,748.0
+2018,,,,Rural,,,687.0
+2019,,,,Rural,,,680.0
+2020,,,,Rural,,,64.0
+2016,,Male,,,,,761.0
+2017,,Male,,,,,792.0
+2018,,Male,,,,,747.0
+2019,,Male,,,,,751.0
+2020,,Male,,,,,71.8
+2016,,Female,,,,,772.0
+2017,,Female,,,,,800.0
+2018,,Female,,,,,766.0
+2019,,Female,,,,,769.0
+2020,,Female,,,,,73.7
+2016,Batken,,,,,,758.0
+2017,Batken,,,,,,708.0
+2018,Batken,,,,,,718.0
+2019,Batken,,,,,,716.0
+2020,Batken,,,,,,71.0
+2016,Jalal-Abad,,,,,,767.0
+2017,Jalal-Abad,,,,,,744.0
+2018,Jalal-Abad,,,,,,644.0
+2019,Jalal-Abad,,,,,,666.0
+2020,Jalal-Abad,,,,,,52.6
+2016,Issyk-Kul,,,,,,473.0
+2017,Issyk-Kul,,,,,,575.0
+2018,Issyk-Kul,,,,,,670.0
+2019,Issyk-Kul,,,,,,665.0
+2020,Issyk-Kul,,,,,,48.6
+2016,Naryn,,,,,,774.0
+2017,Naryn,,,,,,793.0
+2018,Naryn,,,,,,790.0
+2019,Naryn,,,,,,670.0
+2020,Naryn,,,,,,77.4
+2016,Osh,,,,,,746.0
+2017,Osh,,,,,,790.0
+2018,Osh,,,,,,666.0
+2019,Osh,,,,,,683.0
+2020,Osh,,,,,,66.9
+2016,Talas,,,,,,737.0
+2017,Talas,,,,,,741.0
+2018,Talas,,,,,,540.0
+2019,Talas,,,,,,525.0
+2020,Talas,,,,,,53.6
+2016,Chui,,,,,,723.0
+2017,Chui,,,,,,829.0
+2018,Chui,,,,,,884.0
+2019,Chui,,,,,,849.0
+2020,Chui,,,,,,87.3
+2016,Bishkek (city),,,,,,920.0
+2017,Bishkek (city),,,,,,951.0
+2018,Bishkek (city),,,,,,939.0
+2019,Bishkek (city),,,,,,982.0
+2020,Bishkek (city),,,,,,99.6
+2016,Osh (city),,,,,,1000.0
+2017,Osh (city),,,,,,994.0
+2018,Osh (city),,,,,,1000.0
+2019,Osh (city),,,,,,998.0
+2020,Osh (city),,,,,,100.0
+2016,,,under 6 years old,,,,759.0
+2017,,,under 6 years old,,,,779.0
+2018,,,under 6 years old,,,,753.0
+2019,,,under 6 years old,,,,751.0
+2020,,,under 6 years old,,,,71.8
+2016,,,7 to 14 years old,,,,763.0
+2017,,,7 to 14 years old,,,,784.0
+2018,,,7 to 14 years old,,,,758.0
+2019,,,7 to 14 years old,,,,751.0
+2020,,,7 to 14 years old,,,,71.2
+2016,,,15 to 28 years old,,,,771.0
+2017,,,15 to 28 years old,,,,813.0
+2018,,,15 to 28 years old,,,,743.0
+2019,,,15 to 28 years old,,,,759.0
+2020,,,15 to 28 years old,,,,73.0
+2016,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,768.0
+2017,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,796.0
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,765.0
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,774.0
+2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,74.2
+2016,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,768.0
+2017,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,809.0
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,758.0
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,749.0
+2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,72.1
+2016,,,,,,Primary education,752.0
+2017,,,,,,Primary education,783.0
+2018,,,,,,Primary education,751.0
+2019,,,,,,Primary education,751.0
+2020,,,,,,Primary education,71.7
+2016,,,,,,Lower secondary education,802.0
+2017,,,,,,Lower secondary education,790.0
+2018,,,,,,Lower secondary education,765.0
+2019,,,,,,Lower secondary education,773.0
+2020,,,,,,Lower secondary education,73.8
+2016,,,,,,Upper secondary education,750.0
+2017,,,,,,Upper secondary education,784.0
+2018,,,,,,Upper secondary education,721.0
+2019,,,,,,Upper secondary education,741.0
+2020,,,,,,Upper secondary education,69.5
+2016,,,,,,Post-secondary non-tertiary education,784.0
+2017,,,,,,Post-secondary non-tertiary education,839.0
+2018,,,,,,Post-secondary non-tertiary education,802.0
+2019,,,,,,Post-secondary non-tertiary education,790.0
+2020,,,,,,Post-secondary non-tertiary education,77.1
+2016,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),799.0
+2017,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),839.0
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),821.0
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),814.0
+2020,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),80.4
+2016,,,,,Quintile 1 (poorest),,725.0
+2017,,,,,Quintile 1 (poorest),,793.0
+2018,,,,,Quintile 1 (poorest),,747.0
+2019,,,,,Quintile 1 (poorest),,716.0
+2016,,,,,Quintile 2,,773.0
+2017,,,,,Quintile 2,,819.0
+2018,,,,,Quintile 2,,748.0
+2019,,,,,Quintile 2,,730.0
+2016,,,,,Quintile 3,,777.0
+2017,,,,,Quintile 3,,794.0
+2018,,,,,Quintile 3,,754.0
+2019,,,,,Quintile 3,,798.0
+2016,,,,,Quintile 4,,782.0
+2017,,,,,Quintile 4,,787.0
+2018,,,,,Quintile 4,,755.0
+2019,,,,,Quintile 4,,786.0
+2016,,,,,Quintile 5 (richest),,777.0
+2017,,,,,Quintile 5 (richest),,786.0
+2018,,,,,Quintile 5 (richest),,780.0
+2019,,,,,Quintile 5 (richest),,772.0
