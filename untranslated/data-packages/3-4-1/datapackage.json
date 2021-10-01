@@ -33,6 +33,17 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {

@@ -1215,6 +1215,17 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2463,6 +2474,17 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
@@ -2772,6 +2794,17 @@
                 "KG08",
                 "KG11",
                 "KG21",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
                 ""
               ]
             }

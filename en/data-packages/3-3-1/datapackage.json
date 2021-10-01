@@ -35,6 +35,18 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {

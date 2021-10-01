@@ -33,6 +33,17 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {

@@ -44,6 +44,18 @@
             "title": "Территория"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -1,131 +1,421 @@
-Year,Reference area,Value
-2007,,18.4
-2008,,19.2
-2009,,17.6
-2010,,16.1
-2011,,16.9
-2012,,16.5
-2013,,17.9
-2014,,15.3
-2015,,15.6
-2016,,13.4
-2017,,13.7
-2018,,11.0
-2019,,12.0
-2007,Batken,8.3
-2008,Batken,13.7
-2009,Batken,15.8
-2010,Batken,13.0
-2011,Batken,12.6
-2012,Batken,12.8
-2013,Batken,14.6
-2014,Batken,12.0
-2015,Batken,15.8
-2016,Batken,11.0
-2017,Batken,13.6
-2018,Batken,9.0
-2019,Batken,10.2
-2007,Jalal-Abad,13.2
-2008,Jalal-Abad,16.7
-2009,Jalal-Abad,16.5
-2010,Jalal-Abad,12.9
-2011,Jalal-Abad,15.2
-2012,Jalal-Abad,17.5
-2013,Jalal-Abad,14.6
-2014,Jalal-Abad,11.8
-2015,Jalal-Abad,12.7
-2016,Jalal-Abad,11.1
-2017,Jalal-Abad,8.6
-2018,Jalal-Abad,7.9
-2019,Jalal-Abad,8.6
-2007,Issyk-Kul,32.5
-2008,Issyk-Kul,29.3
-2009,Issyk-Kul,23.2
-2010,Issyk-Kul,27.3
-2011,Issyk-Kul,32.5
-2012,Issyk-Kul,26.6
-2013,Issyk-Kul,35.3
-2014,Issyk-Kul,23.9
-2015,Issyk-Kul,27.8
-2016,Issyk-Kul,22.8
-2017,Issyk-Kul,25.8
-2018,Issyk-Kul,18.5
-2019,Issyk-Kul,19.5
-2007,Naryn,29.2
-2008,Naryn,26.4
-2009,Naryn,28.3
-2010,Naryn,27.6
-2011,Naryn,26.9
-2012,Naryn,27.0
-2013,Naryn,24.8
-2014,Naryn,28.9
-2015,Naryn,30.8
-2016,Naryn,19.7
-2017,Naryn,26.5
-2018,Naryn,24.9
-2019,Naryn,23.6
-2007,Osh,13.5
-2008,Osh,15.3
-2009,Osh,14.5
-2010,Osh,14.7
-2011,Osh,14.7
-2012,Osh,15.0
-2013,Osh,14.3
-2014,Osh,15.5
-2015,Osh,12.4
-2016,Osh,11.7
-2017,Osh,11.8
-2018,Osh,9.6
-2019,Osh,11.7
-2007,Talas,15.3
-2008,Talas,17.3
-2009,Talas,16.7
-2010,Talas,19.1
-2011,Talas,24.4
-2012,Talas,25.3
-2013,Talas,23.2
-2014,Talas,21.6
-2015,Talas,16.0
-2016,Talas,17.4
-2017,Talas,15.6
-2018,Talas,20.3
-2019,Talas,13.2
-2007,Chui,31.0
-2008,Chui,28.1
-2009,Chui,23.2
-2010,Chui,19.7
-2011,Chui,20.0
-2012,Chui,18.9
-2013,Chui,24.5
-2014,Chui,20.0
-2015,Chui,20.5
-2016,Chui,18.2
-2017,Chui,19.9
-2018,Chui,14.8
-2019,Chui,15.3
-2007,Bishkek (city),14.4
-2008,Bishkek (city),15.6
-2009,Bishkek (city),13.0
-2010,Bishkek (city),10.1
-2011,Bishkek (city),9.2
-2012,Bishkek (city),8.4
-2013,Bishkek (city),11.5
-2014,Bishkek (city),7.8
-2015,Bishkek (city),9.1
-2016,Bishkek (city),8.5
-2017,Bishkek (city),8.6
-2018,Bishkek (city),5.4
-2019,Bishkek (city),8.6
-2007,Osh (city),17.2
-2008,Osh (city),16.7
-2009,Osh (city),15.5
-2010,Osh (city),14.4
-2011,Osh (city),12.9
-2012,Osh (city),9.7
-2013,Osh (city),12.2
-2014,Osh (city),10.5
-2015,Osh (city),12.5
-2016,Osh (city),10.0
-2017,Osh (city),7.7
-2018,Osh (city),6.1
-2019,Osh (city),7.8
+Year,Reference area,Sex,Value
+2007,,,18.4
+2008,,,19.2
+2009,,,17.6
+2010,,,16.1
+2011,,,16.9
+2012,,,16.5
+2013,,,17.9
+2014,,,15.3
+2015,,,15.6
+2016,,,13.4
+2017,,,13.7
+2018,,,11.0
+2019,,,12.0
+2020,,,9.7
+2007,,Male,28.089888
+2008,,Male,30.111297
+2009,,Male,27.816464
+2010,,Male,24.728544
+2011,,Male,25.526132
+2012,,Male,25.41241
+2013,,Male,26.876967
+2014,,Male,23.34846
+2015,,Male,23.093357
+2016,,Male,19.889099
+2017,,Male,20.701777
+2018,,Male,16.264311
+2019,,Male,19.290798
+2020,,Male,14.7
+2007,,Female,8.915193
+2008,,Female,8.645319
+2009,,Female,7.555197
+2010,,Female,7.612281
+2011,,Female,8.524355
+2012,,Female,7.824616
+2013,,Female,9.127999
+2014,,Female,7.324268
+2015,,Female,8.2771
+2016,,Female,6.942407
+2017,,Female,6.909126
+2018,,Female,5.804104
+2019,,Female,4.826463
+2020,,Female,4.8
+2007,Batken,,8.3
+2008,Batken,,13.7
+2009,Batken,,15.8
+2010,Batken,,13.03155
+2011,Batken,,12.587098
+2012,Batken,,12.780961
+2013,Batken,,14.645703
+2014,Batken,,11.994949
+2015,Batken,,15.824085
+2016,Batken,,11.041959
+2017,Batken,,13.569322
+2018,Batken,,9.048903
+2019,Batken,,10.165663
+2020,Batken,,10.7
+2007,Batken,Male,11.676787
+2008,Batken,Male,21.759259
+2009,Batken,Male,23.744292
+2010,Batken,Male,21.1426
+2011,Batken,Male,18.600531
+2012,Batken,Male,19.097222
+2013,Batken,Male,22.467147
+2014,Batken,Male,19.453642
+2015,Batken,Male,25.050505
+2016,Batken,Male,16.969219
+2017,Batken,Male,20.865533
+2018,Batken,Male,14.36673
+2019,Batken,Male,17.36881
+2020,Batken,Male,17.7
+2007,Batken,Female,4.828585
+2008,Batken,Female,5.270724
+2009,Batken,Female,7.56859
+2010,Batken,Female,4.649
+2011,Batken,Female,6.389776
+2012,Batken,Female,6.266786
+2013,Batken,Female,6.567426
+2014,Batken,Female,4.280822
+2015,Batken,Female,6.273526
+2016,Batken,Female,4.903964
+2017,Batken,Female,6.007209
+2018,Batken,Female,3.530796
+2019,Batken,Female,2.686109
+2020,Batken,Female,3.4
+2007,Jalal-Abad,,13.2
+2008,Jalal-Abad,,16.7
+2009,Jalal-Abad,,16.5
+2010,Jalal-Abad,,12.913875
+2011,Jalal-Abad,,15.209489
+2012,Jalal-Abad,,17.456593
+2013,Jalal-Abad,,14.613971
+2014,Jalal-Abad,,11.793302
+2015,Jalal-Abad,,12.693935
+2016,Jalal-Abad,,11.05736
+2017,Jalal-Abad,,8.646266
+2018,Jalal-Abad,,7.900208
+2019,Jalal-Abad,,8.641774
+2020,Jalal-Abad,,6.2
+2007,Jalal-Abad,Male,21.453147
+2008,Jalal-Abad,Male,27.6
+2009,Jalal-Abad,Male,25.989368
+2010,Jalal-Abad,Male,19.592629
+2011,Jalal-Abad,Male,23.118074
+2012,Jalal-Abad,Male,25.857223
+2013,Jalal-Abad,Male,21.272694
+2014,Jalal-Abad,Male,18.847604
+2015,Jalal-Abad,Male,18.437226
+2016,Jalal-Abad,Male,16.678129
+2017,Jalal-Abad,Male,12.814028
+2018,Jalal-Abad,Male,10.745578
+2019,Jalal-Abad,Male,13.933895
+2020,Jalal-Abad,Male,8.4
+2007,Jalal-Abad,Female,4.859283
+2008,Jalal-Abad,Female,5.805806
+2009,Jalal-Abad,Female,6.901992
+2010,Jalal-Abad,Female,6.22084
+2011,Jalal-Abad,Female,7.279693
+2012,Jalal-Abad,Female,9.02595
+2013,Jalal-Abad,Female,7.923346
+2014,Jalal-Abad,Female,4.695684
+2015,Jalal-Abad,Female,6.903877
+2016,Jalal-Abad,Female,5.381944
+2017,Jalal-Abad,Female,4.432322
+2018,Jalal-Abad,Female,5.02008
+2019,Jalal-Abad,Female,3.281917
+2020,Jalal-Abad,Female,3.9
+2007,Issyk-Kul,,32.5
+2008,Issyk-Kul,,29.3
+2009,Issyk-Kul,,23.2
+2010,Issyk-Kul,,27.319937
+2011,Issyk-Kul,,32.489357
+2012,Issyk-Kul,,26.62525
+2013,Issyk-Kul,,35.307018
+2014,Issyk-Kul,,23.850824
+2015,Issyk-Kul,,27.837259
+2016,Issyk-Kul,,22.813688
+2017,Issyk-Kul,,25.838716
+2018,Issyk-Kul,,18.503289
+2019,Issyk-Kul,,19.476567
+2020,Issyk-Kul,,17.2
+2007,Issyk-Kul,Male,53.295933
+2008,Issyk-Kul,Male,44.588946
+2009,Issyk-Kul,Male,39.576622
+2010,Issyk-Kul,Male,43.79562
+2011,Issyk-Kul,Male,47.468354
+2012,Issyk-Kul,Male,39.373602
+2013,Issyk-Kul,Male,51.701281
+2014,Issyk-Kul,Male,35.371179
+2015,Issyk-Kul,Male,42.672414
+2016,Issyk-Kul,Male,36.53356
+2017,Issyk-Kul,Male,41.457286
+2018,Issyk-Kul,Male,29.727498
+2019,Issyk-Kul,Male,32.179226
+2020,Issyk-Kul,Male,25.4
+2007,Issyk-Kul,Female,12.26158
+2008,Issyk-Kul,Female,14.473089
+2009,Issyk-Kul,Female,7.20072
+2010,Issyk-Kul,Female,11.175682
+2011,Issyk-Kul,Female,17.76988
+2012,Issyk-Kul,Female,14.084507
+2013,Issyk-Kul,Female,19.15542
+2014,Issyk-Kul,Female,12.489233
+2015,Issyk-Kul,Female,13.191489
+2016,Issyk-Kul,Female,9.243697
+2017,Issyk-Kul,Female,10.369141
+2018,Issyk-Kul,Female,7.371007
+2019,Issyk-Kul,Female,6.871463
+2020,Issyk-Kul,Female,9.2
+2007,Naryn,,29.2
+2008,Naryn,,26.4
+2009,Naryn,,28.3
+2010,Naryn,,27.617952
+2011,Naryn,,26.93475
+2012,Naryn,,27.016886
+2013,Naryn,,24.842418
+2014,Naryn,,28.937729
+2015,Naryn,,30.785947
+2016,Naryn,,19.685039
+2017,Naryn,,26.548673
+2018,Naryn,,24.877365
+2019,Naryn,,23.586542
+2020,Naryn,,16.5
+2007,Naryn,Male,43.947571
+2008,Naryn,Male,43.879908
+2009,Naryn,Male,43.644717
+2010,Naryn,Male,43.939394
+2011,Naryn,Male,39.670659
+2012,Naryn,Male,45.857988
+2013,Naryn,Male,37.98393
+2014,Naryn,Male,40.433213
+2015,Naryn,Male,42.112777
+2016,Naryn,Male,30.324401
+2017,Naryn,Male,36.211699
+2018,Naryn,Male,37.190083
+2019,Naryn,Male,41.581459
+2020,Naryn,Male,20.9
+2007,Naryn,Female,14.128728
+2008,Naryn,Female,8.647799
+2009,Naryn,Female,12.529366
+2010,Naryn,Female,10.878011
+2011,Naryn,Female,13.846154
+2012,Naryn,Female,7.616146
+2013,Naryn,Female,11.295181
+2014,Naryn,Female,17.100372
+2015,Naryn,Female,19.117647
+2016,Naryn,Female,8.72093
+2017,Naryn,Female,16.558675
+2018,Naryn,Female,12.125535
+2019,Naryn,Female,4.943503
+2020,Naryn,Female,11.9
+2007,Osh,,13.5
+2008,Osh,,15.3
+2009,Osh,,14.5
+2010,Osh,,14.674493
+2011,Osh,,14.745897
+2012,Osh,,14.993537
+2013,Osh,,14.326648
+2014,Osh,,15.484721
+2015,Osh,,12.379421
+2016,Osh,,11.699121
+2017,Osh,,11.761993
+2018,Osh,,9.638554
+2019,Osh,,11.660517
+2020,Osh,,8.8
+2007,Osh,Male,20.213157
+2008,Osh,Male,25.42219
+2009,Osh,Male,22.174535
+2010,Osh,Male,22.245763
+2011,Osh,Male,23.709902
+2012,Osh,Male,23.442847
+2013,Osh,Male,23.084644
+2014,Osh,Male,24.677235
+2015,Osh,Male,17.697704
+2016,Osh,Male,17.74043
+2017,Osh,Male,16.291108
+2018,Osh,Male,14.309137
+2019,Osh,Male,19.562044
+2020,Osh,Male,14.0
+2007,Osh,Female,6.721434
+2008,Osh,Female,4.979712
+2009,Osh,Female,6.723605
+2010,Osh,Female,6.989247
+2011,Osh,Female,5.656709
+2012,Osh,Female,6.422496
+2013,Osh,Female,5.434783
+2014,Osh,Female,6.144138
+2015,Osh,Female,6.971466
+2016,Osh,Female,5.546751
+2017,Osh,Female,7.142857
+2018,Osh,Female,4.869883
+2019,Osh,Female,3.58209
+2020,Osh,Female,3.4
+2007,Talas,,15.3
+2008,Talas,,17.3
+2009,Talas,,16.7
+2010,Talas,,19.097222
+2011,Talas,,24.400685
+2012,Talas,,25.273799
+2013,Talas,,23.198012
+2014,Talas,,21.606196
+2015,Talas,,16.044926
+2016,Talas,,17.377567
+2017,Talas,,15.564202
+2018,Talas,,20.290965
+2019,Talas,,13.187641
+2020,Talas,,12.6
+2007,Talas,Male,21.563342
+2008,Talas,Male,26.642984
+2009,Talas,Male,25.438596
+2010,Talas,Male,29.437229
+2011,Talas,Male,38.363171
+2012,Talas,Male,41.038526
+2013,Talas,Male,35.390947
+2014,Talas,Male,36.407767
+2015,Talas,Male,23.847377
+2016,Talas,Male,26.583268
+2017,Talas,Male,27.734977
+2018,Talas,Male,29.545455
+2019,Talas,Male,20.119225
+2020,Talas,Male,20.6
+2007,Talas,Female,8.976661
+2008,Talas,Female,8.007117
+2009,Talas,Female,7.922535
+2010,Talas,Female,8.70322
+2011,Talas,Female,10.318143
+2012,Talas,Female,9.322034
+2013,Talas,Female,10.842369
+2014,Talas,Female,6.573541
+2015,Talas,Female,8.097166
+2016,Talas,Female,7.980846
+2017,Talas,Female,3.144654
+2018,Talas,Female,10.835913
+2019,Talas,Female,6.097561
+2020,Talas,Female,4.5
+2007,Chui,,31.0
+2008,Chui,,28.1
+2009,Chui,,23.2
+2010,Chui,,19.714145
+2011,Chui,,20.031758
+2012,Chui,,18.904275
+2013,Chui,,24.468085
+2014,Chui,,19.953596
+2015,Chui,,20.480146
+2016,Chui,,18.185875
+2017,Chui,,19.923372
+2018,Chui,,14.816405
+2019,Chui,,15.255129
+2020,Chui,,13.3
+2007,Chui,Male,46.846847
+2008,Chui,Male,43.123246
+2009,Chui,Male,38.957754
+2010,Chui,Male,29.588766
+2011,Chui,Male,29.813665
+2012,Chui,Male,29.116712
+2013,Chui,Male,36.014406
+2014,Chui,Male,29.688973
+2015,Chui,Male,30.036969
+2016,Chui,Male,26.959674
+2017,Chui,Male,29.124055
+2018,Chui,Male,20.71522
+2019,Chui,Male,22.426314
+2020,Chui,Male,21.0
+2007,Chui,Female,15.632754
+2008,Chui,Female,13.533465
+2009,Chui,Female,8.056641
+2010,Chui,Female,10.174419
+2011,Chui,Female,10.57184
+2012,Chui,Female,9.009009
+2013,Chui,Female,13.271246
+2014,Chui,Female,10.511883
+2015,Chui,Female,11.208249
+2016,Chui,Female,9.672455
+2017,Chui,Female,10.99849
+2018,Chui,Female,9.094755
+2019,Chui,Female,8.293593
+2020,Chui,Female,5.9
+2007,Bishkek (city),,14.4
+2008,Bishkek (city),,15.6
+2009,Bishkek (city),,13.0
+2010,Bishkek (city),,10.080881
+2011,Bishkek (city),,9.226156
+2012,Bishkek (city),,8.366309
+2013,Bishkek (city),,11.490443
+2014,Bishkek (city),,7.771182
+2015,Bishkek (city),,9.072687
+2016,Bishkek (city),,8.458841
+2017,Bishkek (city),,8.575464
+2018,Bishkek (city),,5.420321
+2019,Bishkek (city),,8.552758
+2020,Bishkek (city),,6.3
+2007,Bishkek (city),Male,21.047093
+2008,Bishkek (city),Male,21.892103
+2009,Bishkek (city),Male,19.784173
+2010,Bishkek (city),Male,14.650164
+2011,Bishkek (city),Male,12.416191
+2012,Bishkek (city),Male,11.916342
+2013,Bishkek (city),Male,16.8566
+2014,Bishkek (city),Male,10.655548
+2015,Bishkek (city),Male,13.110307
+2016,Bishkek (city),Male,10.154525
+2017,Bishkek (city),Male,13.805004
+2018,Bishkek (city),Male,7.789474
+2019,Bishkek (city),Male,12.297602
+2020,Bishkek (city),Male,8.8
+2007,Bishkek (city),Female,8.683729
+2008,Bishkek (city),Female,10.144274
+2009,Bishkek (city),Female,7.106374
+2010,Bishkek (city),Female,6.124234
+2011,Bishkek (city),Female,6.459948
+2012,Bishkek (city),Female,5.282062
+2013,Bishkek (city),Female,6.819591
+2014,Bishkek (city),Female,5.254648
+2015,Bishkek (city),Female,5.53907
+2016,Bishkek (city),Female,6.97134
+2017,Bishkek (city),Female,3.980288
+2018,Bishkek (city),Female,3.335186
+2019,Bishkek (city),Female,5.246969
+2020,Bishkek (city),Female,4.1
+2007,Osh (city),,17.2
+2008,Osh (city),,16.7
+2009,Osh (city),,15.5
+2010,Osh (city),,14.368932
+2011,Osh (city),,12.900704
+2012,Osh (city),,9.686168
+2013,Osh (city),,12.17656
+2014,Osh (city),,10.45947
+2015,Osh (city),,12.454212
+2016,Osh (city),,10.043042
+2017,Osh (city),,7.708479
+2018,Osh (city),,6.120367
+2019,Osh (city),,7.843137
+2020,Osh (city),,6.0
+2007,Osh (city),Male,26.037429
+2008,Osh (city),Male,23.481781
+2009,Osh (city),Male,22.544283
+2010,Osh (city),Male,21.84466
+2011,Osh (city),Male,18.760196
+2012,Osh (city),Male,14.53958
+2013,Osh (city),Male,15.835313
+2014,Osh (city),Male,13.188518
+2015,Osh (city),Male,20.516717
+2016,Osh (city),Male,12.630015
+2017,Osh (city),Male,12.327774
+2018,Osh (city),Male,9.831461
+2019,Osh (city),Male,12.811868
+2020,Osh (city),Male,8.4
+2007,Osh (city),Female,8.995502
+2008,Osh (city),Female,10.447761
+2009,Osh (city),Female,8.928571
+2010,Osh (city),Female,7.46826
+2011,Osh (city),Female,7.507508
+2012,Osh (city),Female,5.212211
+2013,Osh (city),Female,8.791209
+2014,Osh (city),Female,7.925072
+2015,Osh (city),Female,4.950495
+2016,Osh (city),Female,7.628294
+2017,Osh (city),Female,3.389831
+2018,Osh (city),Female,2.636783
+2019,Osh (city),Female,3.170577
+2020,Osh (city),Female,3.7
