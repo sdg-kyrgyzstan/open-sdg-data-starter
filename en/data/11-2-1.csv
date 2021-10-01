@@ -1,55 +1,77 @@
 Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
 2018,,,,,,,48.5
-2019,,,,,,,52.2
-2018,,,,Urban,,,66.0
-2019,,,,Urban,,,63.6
-2018,,,,Rural,,,38.1
-2019,,,,Rural,,,45.5
-2018,,Male,,,,,47.9
-2019,,Male,,,,,53.3
-2018,,Female,,,,,49.0
-2019,,Female,,,,,51.3
-2018,Batken,,,,,,32.9
-2019,Batken,,,,,,58.7
-2018,Jalal-Abad,,,,,,18.3
-2019,Jalal-Abad,,,,,,28.9
-2018,Issyk-Kul,,,,,,72.5
-2019,Issyk-Kul,,,,,,74.6
-2018,Naryn,,,,,,39.3
-2019,Naryn,,,,,,47.0
-2018,Osh,,,,,,39.6
-2019,Osh,,,,,,48.5
-2018,Talas,,,,,,42.2
-2019,Talas,,,,,,44.5
-2018,Chui,,,,,,63.1
-2019,Chui,,,,,,54.5
-2018,Bishkek (city),,,,,,67.7
-2019,Bishkek (city),,,,,,59.8
-2018,Osh (city),,,,,,94.6
-2019,Osh (city),,,,,,95.0
-2018,,,15 to 28 years old,,,,48.4
-2019,,,15 to 28 years old,,,,53.0
-2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,48.9
-2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,52.8
-2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,48.1
-2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,49.0
-2018,,,,,,Primary education,48.2
-2019,,,,,,Primary education,51.5
-2018,,,,,,Lower secondary education,51.2
-2019,,,,,,Lower secondary education,52.7
-2018,,,,,,Upper secondary education,42.7
-2019,,,,,,Upper secondary education,48.7
-2018,,,,,,Post-secondary non-tertiary education,55.4
-2019,,,,,,Post-secondary non-tertiary education,55.3
-2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),56.0
-2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),58.3
-2018,,,,,Quintile 1 (poorest),,37.4
-2019,,,,,Quintile 1 (poorest),,40.1
-2018,,,,,Quintile 2,,46.5
-2019,,,,,Quintile 2,,50.8
-2018,,,,,Quintile 3,,48.4
-2019,,,,,Quintile 3,,52.0
-2018,,,,,Quintile 4,,51.1
-2019,,,,,Quintile 4,,55.9
-2018,,,,,Quintile 5 (richest),,55.3
-2019,,,,,Quintile 5 (richest),,58.2
+2019,,,,,,,522.0
+2020,,,,,,,507.0
+2018,,,,Urban,,,660.0
+2019,,,,Urban,,,636.0
+2020,,,,Urban,,,634.0
+2018,,,,Rural,,,381.0
+2019,,,,Rural,,,455.0
+2020,,,,Rural,,,429.0
+2018,,Male,,,,,479.0
+2019,,Male,,,,,533.0
+2020,,Male,,,,,512.0
+2018,,Female,,,,,490.0
+2019,,Female,,,,,513.0
+2020,,Female,,,,,503.0
+2018,Batken,,,,,,329.0
+2019,Batken,,,,,,587.0
+2020,Batken,,,,,,593.0
+2018,Jalal-Abad,,,,,,183.0
+2019,Jalal-Abad,,,,,,289.0
+2020,Jalal-Abad,,,,,,314.0
+2018,Issyk-Kul,,,,,,725.0
+2019,Issyk-Kul,,,,,,746.0
+2020,Issyk-Kul,,,,,,703.0
+2018,Naryn,,,,,,393.0
+2019,Naryn,,,,,,470.0
+2020,Naryn,,,,,,450.0
+2018,Osh,,,,,,396.0
+2019,Osh,,,,,,485.0
+2020,Osh,,,,,,385.0
+2018,Talas,,,,,,422.0
+2019,Talas,,,,,,445.0
+2020,Talas,,,,,,470.0
+2018,Chui,,,,,,631.0
+2019,Chui,,,,,,545.0
+2020,Chui,,,,,,546.0
+2018,Bishkek (city),,,,,,677.0
+2019,Bishkek (city),,,,,,598.0
+2020,Bishkek (city),,,,,,613.0
+2018,Osh (city),,,,,,946.0
+2019,Osh (city),,,,,,950.0
+2020,Osh (city),,,,,,932.0
+2018,,,15 to 28 years old,,,,484.0
+2019,,,15 to 28 years old,,,,530.0
+2020,,,15 to 28 years old,,,,510.0
+2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,489.0
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,528.0
+2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,515.0
+2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,481.0
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,490.0
+2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,479.0
+2018,,,,,,Primary education,482.0
+2019,,,,,,Primary education,515.0
+2020,,,,,,Primary education,493.0
+2018,,,,,,Lower secondary education,512.0
+2019,,,,,,Lower secondary education,527.0
+2020,,,,,,Lower secondary education,524.0
+2018,,,,,,Upper secondary education,427.0
+2019,,,,,,Upper secondary education,487.0
+2020,,,,,,Upper secondary education,466.0
+2018,,,,,,Post-secondary non-tertiary education,554.0
+2019,,,,,,Post-secondary non-tertiary education,553.0
+2020,,,,,,Post-secondary non-tertiary education,552.0
+2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),560.0
+2019,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),583.0
+2020,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),566.0
+2018,,,,,Quintile 1 (poorest),,374.0
+2019,,,,,Quintile 1 (poorest),,401.0
+2018,,,,,Quintile 2,,465.0
+2019,,,,,Quintile 2,,508.0
+2018,,,,,Quintile 3,,484.0
+2019,,,,,Quintile 3,,520.0
+2018,,,,,Quintile 4,,511.0
+2019,,,,,Quintile 4,,559.0
+2018,,,,,Quintile 5 (richest),,553.0
+2019,,,,,Quintile 5 (richest),,582.0
