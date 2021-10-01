@@ -12,6 +12,7 @@ Year,Reference area,Value
 2017,,5.9
 2018,,6.3
 2019,,5.5
+2020,,5.0
 2007,Batken,1.4
 2008,Batken,2.8
 2009,Batken,3.5
@@ -25,6 +26,7 @@ Year,Reference area,Value
 2017,Batken,3.3
 2018,Batken,1.2
 2019,Batken,3.4
+2020,Batken,3.5
 2007,Jalal-Abad,2.3
 2008,Jalal-Abad,1.4
 2009,Jalal-Abad,1.5
@@ -38,6 +40,7 @@ Year,Reference area,Value
 2017,Jalal-Abad,2.5
 2018,Jalal-Abad,2.4
 2019,Jalal-Abad,2.7
+2020,Jalal-Abad,1.8
 2007,Issyk-Kul,34.1
 2008,Issyk-Kul,35.1
 2009,Issyk-Kul,26.2
@@ -51,6 +54,7 @@ Year,Reference area,Value
 2017,Issyk-Kul,23.5
 2018,Issyk-Kul,26.7
 2019,Issyk-Kul,29.4
+2020,Issyk-Kul,24.4
 2007,Naryn,12.4
 2008,Naryn,9.3
 2009,Naryn,9.7
@@ -64,6 +68,7 @@ Year,Reference area,Value
 2017,Naryn,8.1
 2018,Naryn,10.9
 2019,Naryn,7.3
+2020,Naryn,7.2
 2007,Osh,1.0
 2008,Osh,2.4
 2009,Osh,2.7
@@ -77,6 +82,7 @@ Year,Reference area,Value
 2017,Osh,2.3
 2018,Osh,3.4
 2019,Osh,2.1
+2020,Osh,2.9
 2007,Talas,3.6
 2008,Talas,4.4
 2009,Talas,4.4
@@ -90,6 +96,7 @@ Year,Reference area,Value
 2017,Talas,2.3
 2018,Talas,5.7
 2019,Talas,9.0
+2020,Talas,7.4
 2007,Chui,15.8
 2008,Chui,16.0
 2009,Chui,11.9
@@ -103,6 +110,7 @@ Year,Reference area,Value
 2017,Chui,7.9
 2018,Chui,7.1
 2019,Chui,4.8
+2020,Chui,4.0
 2007,Bishkek (city),24.1
 2008,Bishkek (city),24.3
 2009,Bishkek (city),21.0
@@ -116,6 +124,7 @@ Year,Reference area,Value
 2017,Bishkek (city),6.6
 2018,Bishkek (city),6.5
 2019,Bishkek (city),3.3
+2020,Bishkek (city),3.2
 2007,Osh (city),1.6
 2008,Osh (city),3.5
 2009,Osh (city),3.1
@@ -129,3 +138,4 @@ Year,Reference area,Value
 2017,Osh (city),3.5
 2018,Osh (city),2.7
 2019,Osh (city),1.6
+2020,Osh (city),3.5
