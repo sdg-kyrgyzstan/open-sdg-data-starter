@@ -12,6 +12,7 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2017,709.9,Millions,Number,Passenger volume (passenger kilometres)
 2018,731.6,Millions,Number,Passenger volume (passenger kilometres)
 2019,756.6,Millions,Number,Passenger volume (passenger kilometres)
+2020,435.1,Millions,Number,Passenger volume (passenger kilometres)
 2007,30.0,Millions,Metric Tons,Freight volume (tonne kilometres)
 2008,34.3,Millions,Metric Tons,Freight volume (tonne kilometres)
 2009,36.3,Millions,Metric Tons,Freight volume (tonne kilometres)
@@ -25,3 +26,4 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2017,31.9,Millions,Metric Tons,Freight volume (tonne kilometres)
 2018,33.0,Millions,Metric Tons,Freight volume (tonne kilometres)
 2019,34.2,Millions,Metric Tons,Freight volume (tonne kilometres)
+2020,24.7,Millions,Metric Tons,Freight volume (tonne kilometres)

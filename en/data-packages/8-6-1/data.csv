@@ -12,6 +12,7 @@ Year,Sex,Value
 2017,,21.0
 2018,,20.5
 2019,,21.0
+2020,,211.0
 2007,Male,10.7
 2008,Male,12.8
 2009,Male,12.3
@@ -25,6 +26,7 @@ Year,Sex,Value
 2017,Male,12.3
 2018,Male,12.0
 2019,Male,12.6
+2020,Male,129.0
 2007,Female,22.8
 2008,Female,21.3
 2009,Female,23.5
@@ -38,3 +40,4 @@ Year,Sex,Value
 2017,Female,30.1
 2018,Female,29.4
 2019,Female,29.6
+2020,Female,296.0
