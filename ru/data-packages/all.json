@@ -101,6 +101,43 @@
       "title": "Заболеваемость малярией на 1000 человек"
     },
     {
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
+                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
+                "Скорость интернета: 10 Мбит / с или выше"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Число стационарных абонентов широкополосного\nИнтернета в разбивке по скорости"
+    },
+    {
       "path": "3-9-1-1/data.csv",
       "name": "3-9-1-1",
       "profile": "tabular-data-resource",
@@ -5617,43 +5654,6 @@
         ]
       },
       "title": "Коэффициент неонатальной смертности"
-    },
-    {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
-                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
-                "Скорость интернета: 10 Мбит / с или выше"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Число стационарных абонентов широкополосного\nИнтернета в разбивке по скорости"
     },
     {
       "path": "8-7-1/data.csv",

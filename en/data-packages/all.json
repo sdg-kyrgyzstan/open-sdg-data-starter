@@ -101,6 +101,43 @@
       "title": "Malaria incidence per 1,000 population"
     },
     {
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 10 Mbit/s or above",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+    },
+    {
       "path": "3-9-1-1/data.csv",
       "name": "3-9-1-1",
       "profile": "tabular-data-resource",
@@ -5617,43 +5654,6 @@
         ]
       },
       "title": "Neonatal mortality rate"
-    },
-    {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                "Internet speed: 10 Mbit/s or above",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "8-7-1/data.csv",
