@@ -1,77 +1,77 @@
 Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
 2018,,,15 years old and over,,,,91.8
-2019,,,15 years old and over,,,,912.0
-2020,,,15 years old and over,,,,926.0
+2019,,,15 years old and over,,,,91.178938
+2020,,,15 years old and over,,,,92.6
 2018,,,15 years old and over,Urban,,,94.9
-2019,,,15 years old and over,Urban,,,956.0
-2020,,,15 years old and over,Urban,,,960.0
+2019,,,15 years old and over,Urban,,,95.590033
+2020,,,15 years old and over,Urban,,,96.0
 2018,,,15 years old and over,Rural,,,89.9
-2019,,,15 years old and over,Rural,,,886.0
-2020,,,15 years old and over,Rural,,,905.0
+2019,,,15 years old and over,Rural,,,88.555506
+2020,,,15 years old and over,Rural,,,90.5
 2018,,Male,15 years old and over,,,,92.8
-2019,,Male,15 years old and over,,,,921.0
-2020,,Male,15 years old and over,,,,932.0
-2018,,Female,15 years old and over,,,,910.0
-2019,,Female,15 years old and over,,,,904.0
-2020,,Female,15 years old and over,,,,920.0
-2018,Batken,,15 years old and over,,,,911.0
-2019,Batken,,15 years old and over,,,,925.0
-2020,Batken,,15 years old and over,,,,935.0
-2018,Jalal-Abad,,15 years old and over,,,,906.0
-2019,Jalal-Abad,,15 years old and over,,,,830.0
-2020,Jalal-Abad,,15 years old and over,,,,835.0
-2018,Issyk-Kul,,15 years old and over,,,,921.0
-2019,Issyk-Kul,,15 years old and over,,,,934.0
-2020,Issyk-Kul,,15 years old and over,,,,952.0
-2018,Naryn,,15 years old and over,,,,894.0
-2019,Naryn,,15 years old and over,,,,892.0
-2020,Naryn,,15 years old and over,,,,922.0
-2018,Osh,,15 years old and over,,,,876.0
-2019,Osh,,15 years old and over,,,,893.0
-2020,Osh,,15 years old and over,,,,932.0
-2018,Talas,,15 years old and over,,,,915.0
-2019,Talas,,15 years old and over,,,,909.0
-2020,Talas,,15 years old and over,,,,926.0
-2018,Chui,,15 years old and over,,,,946.0
-2019,Chui,,15 years old and over,,,,959.0
-2020,Chui,,15 years old and over,,,,960.0
-2018,Bishkek (city),,15 years old and over,,,,970.0
-2019,Bishkek (city),,15 years old and over,,,,973.0
-2020,Bishkek (city),,15 years old and over,,,,979.0
-2018,Osh (city),,15 years old and over,,,,883.0
-2019,Osh (city),,15 years old and over,,,,918.0
-2020,Osh (city),,15 years old and over,,,,919.0
+2019,,Male,15 years old and over,,,,92.137465
+2020,,Male,15 years old and over,,,,93.2
+2018,,Female,15 years old and over,,,,91.0
+2019,,Female,15 years old and over,,,,90.379166
+2020,,Female,15 years old and over,,,,92.0
+2018,Batken,,15 years old and over,,,,91.1
+2019,Batken,,15 years old and over,,,,92.501775
+2020,Batken,,15 years old and over,,,,93.5
+2018,Jalal-Abad,,15 years old and over,,,,90.6
+2019,Jalal-Abad,,15 years old and over,,,,82.95577
+2020,Jalal-Abad,,15 years old and over,,,,83.5
+2018,Issyk-Kul,,15 years old and over,,,,92.1
+2019,Issyk-Kul,,15 years old and over,,,,93.390895
+2020,Issyk-Kul,,15 years old and over,,,,95.2
+2018,Naryn,,15 years old and over,,,,89.4
+2019,Naryn,,15 years old and over,,,,89.199874
+2020,Naryn,,15 years old and over,,,,92.2
+2018,Osh,,15 years old and over,,,,87.6
+2019,Osh,,15 years old and over,,,,89.256132
+2020,Osh,,15 years old and over,,,,93.2
+2018,Talas,,15 years old and over,,,,91.5
+2019,Talas,,15 years old and over,,,,90.937706
+2020,Talas,,15 years old and over,,,,92.6
+2018,Chui,,15 years old and over,,,,94.6
+2019,Chui,,15 years old and over,,,,95.858208
+2020,Chui,,15 years old and over,,,,96.0
+2018,Bishkek (city),,15 years old and over,,,,97.0
+2019,Bishkek (city),,15 years old and over,,,,97.2808
+2020,Bishkek (city),,15 years old and over,,,,97.9
+2018,Osh (city),,15 years old and over,,,,88.3
+2019,Osh (city),,15 years old and over,,,,91.838606
+2020,Osh (city),,15 years old and over,,,,91.9
 2018,,,15 to 28 years old,,,,90.9
-2019,,,15 to 28 years old,,,,894.0
-2020,,,15 to 28 years old,,,,901.0
+2019,,,15 to 28 years old,,,,89.361139
+2020,,,15 to 28 years old,,,,90.1
 2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,95.9
-2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,953.0
-2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,961.0
+2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,95.334863
+2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,96.1
 2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,78.8
-2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,806.0
-2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,856.0
-2018,,,15 years old and over,,,Primary education,581.0
-2019,,,15 years old and over,,,Primary education,607.0
-2020,,,15 years old and over,,,Primary education,687.0
-2018,,,15 years old and over,,,Lower secondary education,840.0
-2019,,,15 years old and over,,,Lower secondary education,827.0
-2020,,,15 years old and over,,,Lower secondary education,856.0
-2018,,,15 years old and over,,,Upper secondary education,928.0
-2019,,,15 years old and over,,,Upper secondary education,920.0
-2020,,,15 years old and over,,,Upper secondary education,929.0
-2018,,,15 years old and over,,,Post-secondary non-tertiary education,964.0
-2019,,,15 years old and over,,,Post-secondary non-tertiary education,960.0
-2020,,,15 years old and over,,,Post-secondary non-tertiary education,968.0
-2018,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),981.0
-2019,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),975.0
-2020,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),984.0
-2018,,,15 years old and over,,Quintile 1 (poorest),,889.0
-2019,,,15 years old and over,,Quintile 1 (poorest),,862.0
-2018,,,15 years old and over,,Quintile 2,,902.0
-2019,,,15 years old and over,,Quintile 2,,909.0
-2018,,,15 years old and over,,Quintile 3,,919.0
-2019,,,15 years old and over,,Quintile 3,,905.0
-2018,,,15 years old and over,,Quintile 4,,919.0
-2019,,,15 years old and over,,Quintile 4,,933.0
-2018,,,15 years old and over,,Quintile 5 (richest),,946.0
-2019,,,15 years old and over,,Quintile 5 (richest),,934.0
+2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,80.597836
+2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,85.6
+2018,,,15 years old and over,,,Primary education,58.1
+2019,,,15 years old and over,,,Primary education,60.727949
+2020,,,15 years old and over,,,Primary education,68.7
+2018,,,15 years old and over,,,Lower secondary education,84.0
+2019,,,15 years old and over,,,Lower secondary education,82.680604
+2020,,,15 years old and over,,,Lower secondary education,85.6
+2018,,,15 years old and over,,,Upper secondary education,92.8
+2019,,,15 years old and over,,,Upper secondary education,92.037394
+2020,,,15 years old and over,,,Upper secondary education,92.9
+2018,,,15 years old and over,,,Post-secondary non-tertiary education,96.4
+2019,,,15 years old and over,,,Post-secondary non-tertiary education,96.037143
+2020,,,15 years old and over,,,Post-secondary non-tertiary education,96.8
+2018,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),98.1
+2019,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),97.488857
+2020,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),98.4
+2018,,,15 years old and over,,Quintile 1 (poorest),,88.941427
+2019,,,15 years old and over,,Quintile 1 (poorest),,86.235104
+2018,,,15 years old and over,,Quintile 2,,90.234584
+2019,,,15 years old and over,,Quintile 2,,90.9333
+2018,,,15 years old and over,,Quintile 3,,91.864446
+2019,,,15 years old and over,,Quintile 3,,90.460037
+2018,,,15 years old and over,,Quintile 4,,91.919084
+2019,,,15 years old and over,,Quintile 4,,93.289778
+2018,,,15 years old and over,,Quintile 5 (richest),,94.603144
+2019,,,15 years old and over,,Quintile 5 (richest),,93.356497
