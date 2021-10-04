@@ -22,10 +22,9 @@ inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: data/*.xml
     dimension_map:
-      UNIT_MEASURE: 'Units'
-      SERIES: 'Series'
       REF_AREA|KG: ''
-    drop_dimensions: SOURCE_DETAIL
+    drop_dimensions: 
+      - SOURCE_DETAIL
     dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG.xml'
     import_translation_keys: true
   - class: InputCsvData
@@ -50,7 +49,7 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
+    tag: 1.4.0
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputCsv
@@ -87,8 +86,9 @@ indicator_downloads:
     source_pattern: excel_files/*.xlsx
     indicator_id_pattern: (.*)
     output_folder: data-excel
-indicator_downloads:
   - button_label: indicator.download_source_sdmx
     source_pattern: data/*.xml
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
+  
+
