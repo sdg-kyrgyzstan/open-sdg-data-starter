@@ -1,106 +1,106 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Value
-2015,"Median value, som per month per capita",,,,,,33902
-2016,"Median value, som per month per capita",,,,,,35725
-2017,"Median value, som per month per capita",,,,,,39919
-2018,"Median value, som per month per capita",,,,,,44664
-2019,"Median value, som per month per capita",,,,,,47742
-2020,"Median value, som per month per capita",,,,,,47005
-2015,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,120
-2016,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,116
-2017,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,110
-2018,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,119
-2019,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,111
-2020,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,105
-2015,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,82
-2016,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,85
-2017,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,79
-2018,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,81
-2019,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,87
-2020,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,84
-2015,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,141
-2016,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,133
-2017,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,127
-2018,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,140
-2019,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,125
-2020,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,116
-2015,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,117
-2016,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,114
-2017,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,109
-2018,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,118
-2019,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,110
-2020,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,106
-2015,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,123
-2016,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,119
-2017,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,112
-2018,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,120
-2019,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,112
-2020,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,103
-2015,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,195
-2016,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,176
-2017,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,174
-2018,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,185
-2019,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,176
-2020,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,163
-2015,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,121
-2016,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,125
-2017,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,114
-2018,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,135
-2019,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,107
-2020,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,108
-2015,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,123
-2016,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,126
-2017,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,117
-2018,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,122
-2019,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,110
-2020,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,107
-2015,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,78
-2016,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,78
-2017,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,75
-2018,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,84
-2019,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,88
-2020,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,82
-2015,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,94
-2016,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,122
-2017,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,170
-2018,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,127
-2019,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,131
-2015,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,164
-2016,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,167
-2017,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,167
-2018,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,176
-2019,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,174
-2015,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,172
-2016,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,165
-2017,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,170
-2018,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,147
-2019,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,150
-2015,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,313
-2016,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,308
-2017,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,308
-2018,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,317
-2019,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,290
-2015,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,103
-2016,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,63
-2017,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,42
-2018,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,88
-2019,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,74
-2015,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,176
-2016,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,163
-2017,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,170
-2018,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,176
-2019,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,151
-2015,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,83
-2016,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,95
-2017,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,60
-2018,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,55
-2019,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,50
-2015,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,63
-2016,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,60
-2017,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,53
-2018,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,68
-2019,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,63
-2015,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,44
-2016,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,88
-2017,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,88
-2018,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,102
-2019,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,83
+2015,"Median value, som per month per capita",,,,,,3390.2
+2016,"Median value, som per month per capita",,,,,,3572.5
+2017,"Median value, som per month per capita",,,,,,3991.9
+2018,"Median value, som per month per capita",,,,,,4466.4
+2019,"Median value, som per month per capita",,,,,,4774.194444
+2020,"Median value, som per month per capita",,,,,,4700.5
+2015,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,12.0
+2016,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.6
+2017,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.0
+2018,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.9
+2019,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.108723
+2020,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,10.5
+2015,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.2
+2016,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.5
+2017,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,7.9
+2018,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.1
+2019,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.666083
+2020,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.4
+2015,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,14.1
+2016,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,13.3
+2017,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,12.7
+2018,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,14.0
+2019,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,12.479204
+2020,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,11.6
+2015,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.7
+2016,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.4
+2017,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,10.9
+2018,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.8
+2019,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.025078
+2020,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,10.6
+2015,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,12.3
+2016,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.9
+2017,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.2
+2018,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,12.0
+2019,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.203036
+2020,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,10.3
+2015,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,19.5
+2016,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.6
+2017,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.4
+2018,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,18.5
+2019,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.616827
+2020,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,16.3
+2015,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,12.1
+2016,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,12.5
+2017,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,11.4
+2018,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,13.5
+2019,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,10.728478
+2020,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,10.8
+2015,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.3
+2016,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.6
+2017,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,11.7
+2018,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.2
+2019,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,10.997778
+2020,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,10.7
+2015,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.8
+2016,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.8
+2017,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.5
+2018,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.4
+2019,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.786411
+2020,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.2
+2015,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,9.432768
+2016,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,12.156859
+2017,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,17.0
+2018,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,12.7
+2019,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,13.148975
+2015,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.445544
+2016,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.724154
+2017,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.7
+2018,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,17.6
+2019,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,17.383491
+2015,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,17.230053
+2016,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,16.543761
+2017,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,17.0
+2018,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,14.7
+2019,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,14.950191
+2015,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,31.283961
+2016,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,30.792373
+2017,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,30.8
+2018,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,31.7
+2019,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,29.020992
+2015,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,10.295311
+2016,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,6.259579
+2017,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,4.2
+2018,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,8.8
+2019,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,7.362662
+2015,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.628776
+2016,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,16.289548
+2017,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.0
+2018,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.6
+2019,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,15.083486
+2015,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,8.324989
+2016,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,9.54309
+2017,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,6.0
+2018,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,5.5
+2019,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,4.972738
+2015,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.300161
+2016,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,5.9524
+2017,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,5.3
+2018,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.8
+2019,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.252085
+2015,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,4.356925
+2016,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.77669
+2017,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.8
+2018,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,10.2
+2019,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.254219
