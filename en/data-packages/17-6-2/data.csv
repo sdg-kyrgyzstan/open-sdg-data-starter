@@ -7,6 +7,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Internet speed: 256 kbit/s to less than 2 Mbit/s,274280
 2018,Internet speed: 256 kbit/s to less than 2 Mbit/s,125210
 2019,Internet speed: 256 kbit/s to less than 2 Mbit/s,205560
+2020,Internet speed: 256 kbit/s to less than 2 Mbit/s,80750
 2012,Internet speed: 2 Mbit/s to less than 10 Mbit/s,65300
 2013,Internet speed: 2 Mbit/s to less than 10 Mbit/s,439430
 2014,Internet speed: 2 Mbit/s to less than 10 Mbit/s,653450
@@ -15,6 +16,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1017860
 2018,Internet speed: 2 Mbit/s to less than 10 Mbit/s,730990
 2019,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1749880
+2020,Internet speed: 2 Mbit/s to less than 10 Mbit/s,795530
 2012,Internet speed: 10 Mbit/s or above,193510
 2013,Internet speed: 10 Mbit/s or above,140650
 2014,Internet speed: 10 Mbit/s or above,140320
@@ -23,3 +25,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Internet speed: 10 Mbit/s or above,1287990
 2018,Internet speed: 10 Mbit/s or above,696620
 2019,Internet speed: 10 Mbit/s or above,735470
+2020,Internet speed: 10 Mbit/s or above,1815550
