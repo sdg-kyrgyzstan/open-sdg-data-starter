@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1633093352822</message:ID>
+    <message:ID>IREF1633338934683</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-10-01T13:02:32Z</message:Prepared>
-    <message:Sender id="NSC_KG">
+    <message:Prepared>2021-10-04T09:15:34Z</message:Prepared>
+    <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_6" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -24,7 +24,7 @@
     <Obs TIME_PERIOD="2017" OBS_VALUE="2015.49" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="1878.49" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="1720.426152" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="115457" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="11545.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
