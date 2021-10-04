@@ -12,6 +12,7 @@ Year,Reference area,Sex,Value
 2017,,,141
 2018,,,18
 2019,,,17
+2020,,,51
 2007,,Male,74
 2008,,Male,184
 2009,,Male,48
@@ -25,6 +26,7 @@ Year,Reference area,Sex,Value
 2017,,Male,85
 2018,,Male,14
 2019,,Male,8
+2020,,Male,29
 2007,,Female,19
 2008,,Female,97
 2009,,Female,23
@@ -38,6 +40,7 @@ Year,Reference area,Sex,Value
 2017,,Female,56
 2018,,Female,4
 2019,,Female,9
+2020,,Female,22
 2007,Batken,,8
 2008,Batken,,9
 2010,Batken,,15
@@ -48,6 +51,7 @@ Year,Reference area,Sex,Value
 2015,Batken,,1
 2016,Batken,,9
 2019,Batken,,6
+2020,Batken,,5
 2007,Batken,Male,6
 2008,Batken,Male,9
 2010,Batken,Male,11
@@ -58,12 +62,14 @@ Year,Reference area,Sex,Value
 2015,Batken,Male,1
 2016,Batken,Male,7
 2019,Batken,Male,4
+2020,Batken,Male,3
 2007,Batken,Female,2
 2010,Batken,Female,4
 2011,Batken,Female,3
 2012,Batken,Female,2
 2016,Batken,Female,2
 2019,Batken,Female,2
+2020,Batken,Female,2
 2007,Jalal-Abad,,5
 2008,Jalal-Abad,,25
 2009,Jalal-Abad,,39
@@ -76,6 +82,7 @@ Year,Reference area,Sex,Value
 2016,Jalal-Abad,,13
 2017,Jalal-Abad,,43
 2018,Jalal-Abad,,4
+2020,Jalal-Abad,,15
 2007,Jalal-Abad,Male,5
 2008,Jalal-Abad,Male,18
 2009,Jalal-Abad,Male,27
@@ -88,6 +95,7 @@ Year,Reference area,Sex,Value
 2016,Jalal-Abad,Male,9
 2017,Jalal-Abad,Male,29
 2018,Jalal-Abad,Male,4
+2020,Jalal-Abad,Male,9
 2008,Jalal-Abad,Female,7
 2009,Jalal-Abad,Female,12
 2010,Jalal-Abad,Female,11
@@ -98,6 +106,7 @@ Year,Reference area,Sex,Value
 2015,Jalal-Abad,Female,6
 2016,Jalal-Abad,Female,4
 2017,Jalal-Abad,Female,14
+2020,Jalal-Abad,Female,5
 2007,Issyk-Kul,,14
 2008,Issyk-Kul,,42
 2009,Issyk-Kul,,11
@@ -170,6 +179,7 @@ Year,Reference area,Sex,Value
 2016,Osh,,1
 2017,Osh,,35
 2018,Osh,,1
+2020,Osh,,7
 2007,Osh,Male,6
 2008,Osh,Male,50
 2009,Osh,Male,2
@@ -181,6 +191,7 @@ Year,Reference area,Sex,Value
 2016,Osh,Male,1
 2017,Osh,Male,17
 2018,Osh,Male,1
+2020,Osh,Male,7
 2008,Osh,Female,46
 2010,Osh,Female,7
 2011,Osh,Female,5
@@ -212,6 +223,7 @@ Year,Reference area,Sex,Value
 2017,Chui,,55
 2018,Chui,,10
 2019,Chui,,6
+2020,Chui,,24
 2007,Chui,Male,28
 2008,Chui,Male,76
 2009,Chui,Male,12
@@ -225,6 +237,7 @@ Year,Reference area,Sex,Value
 2017,Chui,Male,31
 2018,Chui,Male,7
 2019,Chui,Male,2
+2020,Chui,Male,10
 2007,Chui,Female,7
 2008,Chui,Female,26
 2009,Chui,Female,7
@@ -238,6 +251,7 @@ Year,Reference area,Sex,Value
 2017,Chui,Female,24
 2018,Chui,Female,3
 2019,Chui,Female,4
+2020,Chui,Female,14
 2007,Bishkek (city),,12
 2008,Bishkek (city),,1
 2010,Bishkek (city),,14
