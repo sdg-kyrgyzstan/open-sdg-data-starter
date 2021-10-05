@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1633345223351</message:ID>
+    <message:ID>IREF1633426880227</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-10-04T11:00:23Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2021-10-05T09:41:20Z</message:Prepared>
+    <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_6" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -130,22 +130,27 @@
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_SNS_WALN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q1" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="52.386927" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="55.414275" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="58.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_SNS_WALN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q2" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="58.140586" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="63.171549" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="69.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_SNS_WALN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q3" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="57.911249" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="65.795777" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="71.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_SNS_WALN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q4" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="60.870536" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="69.928679" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="68.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_SNS_WALN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q5" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="59.232205" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="65.727946" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="67.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
