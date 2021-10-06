@@ -9,6 +9,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,,248.2
 2018,,283.6
 2019,,251.6
+2020,,253.276648
 2010,Pollutants: Solid,74.5
 2011,Pollutants: Solid,90.6
 2012,Pollutants: Solid,90.9
@@ -19,6 +20,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Pollutants: Solid,126.1
 2018,Pollutants: Solid,91.0
 2019,Pollutants: Solid,76.5
+2020,Pollutants: Solid,93.236078
 2010,Pollutants: Gaseous and liquid,79.0
 2011,Pollutants: Gaseous and liquid,121.8
 2012,Pollutants: Gaseous and liquid,126.8
@@ -29,6 +31,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Pollutants: Gaseous and liquid,122.1
 2018,Pollutants: Gaseous and liquid,192.6
 2019,Pollutants: Gaseous and liquid,175.1
+2020,Pollutants: Gaseous and liquid,160.0
 2010,Pollutants: Sulphur dioxide,39.5
 2011,Pollutants: Sulphur dioxide,47.0
 2012,Pollutants: Sulphur dioxide,27.1
@@ -39,6 +42,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Pollutants: Sulphur dioxide,39.0
 2018,Pollutants: Sulphur dioxide,90.3
 2019,Pollutants: Sulphur dioxide,75.5
+2020,Pollutants: Sulphur dioxide,69.0
 2010,Pollutants: Carbon monoxide,17.0
 2011,Pollutants: Carbon monoxide,48.4
 2012,Pollutants: Carbon monoxide,49.8
@@ -49,6 +53,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Pollutants: Carbon monoxide,47.1
 2018,Pollutants: Carbon monoxide,60.7
 2019,Pollutants: Carbon monoxide,48.0
+2020,Pollutants: Carbon monoxide,48.5
 2010,Pollutants: Nitrogen oxide ,12.5
 2011,Pollutants: Nitrogen oxide ,15.4
 2012,Pollutants: Nitrogen oxide ,17.6
@@ -59,3 +64,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Pollutants: Nitrogen oxide ,19.5
 2018,Pollutants: Nitrogen oxide ,22.8
 2019,Pollutants: Nitrogen oxide ,25.5
+2020,Pollutants: Nitrogen oxide ,22.8
