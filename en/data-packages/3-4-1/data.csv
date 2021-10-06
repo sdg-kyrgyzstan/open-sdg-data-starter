@@ -446,6 +446,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,,Male,Non-communicable disease: Cancer,65.881128
 2018,,Male,Non-communicable disease: Cancer,67.25771
 2019,,Male,Non-communicable disease: Cancer,66.331627
+2020,,Male,Non-communicable disease: Cancer,67.6
 2007,,Female,Non-communicable disease: Cancer,53.49116
 2008,,Female,Non-communicable disease: Cancer,55.693666
 2009,,Female,Non-communicable disease: Cancer,55.417003
@@ -459,6 +460,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,,Female,Non-communicable disease: Cancer,58.599623
 2018,,Female,Non-communicable disease: Cancer,63.939261
 2019,,Female,Non-communicable disease: Cancer,61.883243
+2020,,Female,Non-communicable disease: Cancer,60.0
 2007,Batken,,Non-communicable disease: Cancer,32.3
 2008,Batken,,Non-communicable disease: Cancer,26.4
 2009,Batken,,Non-communicable disease: Cancer,30.2
@@ -486,6 +488,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Batken,Male,Non-communicable disease: Cancer,28.979907
 2018,Batken,Male,Non-communicable disease: Cancer,38.185255
 2019,Batken,Male,Non-communicable disease: Cancer,38.433112
+2020,Batken,Male,Non-communicable disease: Cancer,32.9
 2007,Batken,Female,Non-communicable disease: Cancer,33.800097
 2008,Batken,Female,Non-communicable disease: Cancer,21.562051
 2009,Batken,Female,Non-communicable disease: Cancer,26.017029
@@ -499,6 +502,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Batken,Female,Non-communicable disease: Cancer,36.443732
 2018,Batken,Female,Non-communicable disease: Cancer,48.646528
 2019,Batken,Female,Non-communicable disease: Cancer,36.454336
+2020,Batken,Female,Non-communicable disease: Cancer,35.3
 2007,Jalal-Abad,,Non-communicable disease: Cancer,36.3
 2008,Jalal-Abad,,Non-communicable disease: Cancer,42.0
 2009,Jalal-Abad,,Non-communicable disease: Cancer,47.8
@@ -526,6 +530,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Jalal-Abad,Male,Non-communicable disease: Cancer,57.831732
 2018,Jalal-Abad,Male,Non-communicable disease: Cancer,45.627376
 2019,Jalal-Abad,Male,Non-communicable disease: Cancer,51.523007
+2020,Jalal-Abad,Male,Non-communicable disease: Cancer,49.3
 2007,Jalal-Abad,Female,Non-communicable disease: Cancer,35.634744
 2008,Jalal-Abad,Female,Non-communicable disease: Cancer,38.838839
 2009,Jalal-Abad,Female,Non-communicable disease: Cancer,46.539144
@@ -539,6 +544,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Jalal-Abad,Female,Non-communicable disease: Cancer,43.811797
 2018,Jalal-Abad,Female,Non-communicable disease: Cancer,53.380187
 2019,Jalal-Abad,Female,Non-communicable disease: Cancer,50.213325
+2020,Jalal-Abad,Female,Non-communicable disease: Cancer,51.7
 2007,Issyk-Kul,,Non-communicable disease: Cancer,74.6
 2008,Issyk-Kul,,Non-communicable disease: Cancer,72.4
 2009,Issyk-Kul,,Non-communicable disease: Cancer,78.7
@@ -566,6 +572,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Issyk-Kul,Male,Non-communicable disease: Cancer,88.358459
 2018,Issyk-Kul,Male,Non-communicable disease: Cancer,93.311313
 2019,Issyk-Kul,Male,Non-communicable disease: Cancer,92.87169
+2020,Issyk-Kul,Male,Non-communicable disease: Cancer,99.0
 2007,Issyk-Kul,Female,Non-communicable disease: Cancer,70.390554
 2008,Issyk-Kul,Female,Non-communicable disease: Cancer,75.983718
 2009,Issyk-Kul,Female,Non-communicable disease: Cancer,67.056706
@@ -579,6 +586,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Issyk-Kul,Female,Non-communicable disease: Cancer,73.413521
 2018,Issyk-Kul,Female,Non-communicable disease: Cancer,87.633088
 2019,Issyk-Kul,Female,Non-communicable disease: Cancer,82.053355
+2020,Issyk-Kul,Female,Non-communicable disease: Cancer,72.3
 2007,Naryn,,Non-communicable disease: Cancer,70.8
 2008,Naryn,,Non-communicable disease: Cancer,72.0
 2009,Naryn,,Non-communicable disease: Cancer,72.0
@@ -606,6 +614,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Naryn,Male,Non-communicable disease: Cancer,80.779944
 2018,Naryn,Male,Non-communicable disease: Cancer,101.928375
 2019,Naryn,Male,Non-communicable disease: Cancer,89.97955
+2020,Naryn,Male,Non-communicable disease: Cancer,93.9
 2007,Naryn,Female,Non-communicable disease: Cancer,63.579278
 2008,Naryn,Female,Non-communicable disease: Cancer,68.396226
 2009,Naryn,Female,Non-communicable disease: Cancer,64.212999
@@ -619,6 +628,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Naryn,Female,Non-communicable disease: Cancer,82.793377
 2018,Naryn,Female,Non-communicable disease: Cancer,73.466476
 2019,Naryn,Female,Non-communicable disease: Cancer,76.977401
+2020,Naryn,Female,Non-communicable disease: Cancer,66.5
 2007,Osh,,Non-communicable disease: Cancer,38.1
 2008,Osh,,Non-communicable disease: Cancer,36.4
 2009,Osh,,Non-communicable disease: Cancer,40.7
@@ -646,6 +656,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Osh,Male,Non-communicable disease: Cancer,54.811206
 2018,Osh,Male,Non-communicable disease: Cancer,55.298852
 2019,Osh,Male,Non-communicable disease: Cancer,57.810219
+2020,Osh,Male,Non-communicable disease: Cancer,56.5
 2007,Osh,Female,Non-communicable disease: Cancer,32.673637
 2008,Osh,Female,Non-communicable disease: Cancer,31.907045
 2009,Osh,Female,Non-communicable disease: Cancer,31.255679
@@ -659,6 +670,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Osh,Female,Non-communicable disease: Cancer,43.322981
 2018,Osh,Female,Non-communicable disease: Cancer,46.568254
 2019,Osh,Female,Non-communicable disease: Cancer,47.61194
+2020,Osh,Female,Non-communicable disease: Cancer,47.2
 2007,Talas,,Non-communicable disease: Cancer,47.2
 2008,Talas,,Non-communicable disease: Cancer,54.7
 2009,Talas,,Non-communicable disease: Cancer,59.7
@@ -686,6 +698,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Talas,Male,Non-communicable disease: Cancer,70.878274
 2018,Talas,Male,Non-communicable disease: Cancer,61.363636
 2019,Talas,Male,Non-communicable disease: Cancer,58.122206
+2020,Talas,Male,Non-communicable disease: Cancer,85.2
 2007,Talas,Female,Non-communicable disease: Cancer,42.190305
 2008,Talas,Female,Non-communicable disease: Cancer,60.498221
 2009,Talas,Female,Non-communicable disease: Cancer,50.176056
@@ -699,6 +712,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Talas,Female,Non-communicable disease: Cancer,54.245283
 2018,Talas,Female,Non-communicable disease: Cancer,58.049536
 2019,Talas,Female,Non-communicable disease: Cancer,64.02439
+2020,Talas,Female,Non-communicable disease: Cancer,65.4
 2007,Chui,,Non-communicable disease: Cancer,88.1
 2008,Chui,,Non-communicable disease: Cancer,91.2
 2009,Chui,,Non-communicable disease: Cancer,95.3
@@ -726,6 +740,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Chui,Male,Non-communicable disease: Cancer,99.599822
 2018,Chui,Male,Non-communicable disease: Cancer,105.538596
 2019,Chui,Male,Non-communicable disease: Cancer,101.452371
+2020,Chui,Male,Non-communicable disease: Cancer,103.9
 2007,Chui,Female,Non-communicable disease: Cancer,78.163772
 2008,Chui,Female,Non-communicable disease: Cancer,88.82874
 2009,Chui,Female,Non-communicable disease: Cancer,93.261719
@@ -739,6 +754,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Chui,Female,Non-communicable disease: Cancer,83.243476
 2018,Chui,Female,Non-communicable disease: Cancer,89.678511
 2019,Chui,Female,Non-communicable disease: Cancer,91.851545
+2020,Chui,Female,Non-communicable disease: Cancer,83.1
 2007,Bishkek (city),,Non-communicable disease: Cancer,82.3
 2008,Bishkek (city),,Non-communicable disease: Cancer,82.6
 2009,Bishkek (city),,Non-communicable disease: Cancer,75.8
@@ -766,6 +782,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Bishkek (city),Male,Non-communicable disease: Cancer,68.593615
 2018,Bishkek (city),Male,Non-communicable disease: Cancer,66.947368
 2019,Bishkek (city),Male,Non-communicable disease: Cancer,63.74257
+2020,Bishkek (city),Male,Non-communicable disease: Cancer,67.3
 2007,Bishkek (city),Female,Non-communicable disease: Cancer,80.210238
 2008,Bishkek (city),Female,Non-communicable disease: Cancer,79.125338
 2009,Bishkek (city),Female,Non-communicable disease: Cancer,71.952032
@@ -779,6 +796,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Bishkek (city),Female,Non-communicable disease: Cancer,69.560273
 2018,Bishkek (city),Female,Non-communicable disease: Cancer,71.335927
 2019,Bishkek (city),Female,Non-communicable disease: Cancer,64.592003
+2020,Bishkek (city),Female,Non-communicable disease: Cancer,70.2
 2007,Osh (city),,Non-communicable disease: Cancer,46.8
 2008,Osh (city),,Non-communicable disease: Cancer,50.5
 2009,Osh (city),,Non-communicable disease: Cancer,50.3
@@ -806,6 +824,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Osh (city),Male,Non-communicable disease: Cancer,44.234953
 2018,Osh (city),Male,Non-communicable disease: Cancer,73.033708
 2019,Osh (city),Male,Non-communicable disease: Cancer,55.967633
+2020,Osh (city),Male,Non-communicable disease: Cancer,52.6
 2007,Osh (city),Female,Non-communicable disease: Cancer,43.478261
 2008,Osh (city),Female,Non-communicable disease: Cancer,40.298507
 2009,Osh (city),Female,Non-communicable disease: Cancer,40.178571
@@ -819,6 +838,7 @@ Year,Reference area,Sex,COMPOSITE_BREAKDOWN,Value
 2017,Osh (city),Female,Non-communicable disease: Cancer,61.694915
 2018,Osh (city),Female,Non-communicable disease: Cancer,58.009229
 2019,Osh (city),Female,Non-communicable disease: Cancer,61.509195
+2020,Osh (city),Female,Non-communicable disease: Cancer,51.4
 2007,,,Non-communicable disease: Diabetes,6.890137
 2008,,,Non-communicable disease: Diabetes,6.843778
 2009,,,Non-communicable disease: Diabetes,6.222949
