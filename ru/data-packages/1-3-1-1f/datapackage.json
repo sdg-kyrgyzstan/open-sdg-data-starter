@@ -16,6 +16,11 @@
             "title": "Ряды ЦУР"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

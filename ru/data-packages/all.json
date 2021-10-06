@@ -4170,6 +4170,11 @@
             "title": "Ряды ЦУР"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7074,6 +7079,11 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
           {
             "name": "Value",
             "type": "number",

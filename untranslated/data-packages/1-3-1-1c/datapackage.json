@@ -15,6 +15,10 @@
             "type": "string"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -11,6 +11,11 @@
       "schema": {
         "fields": [
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

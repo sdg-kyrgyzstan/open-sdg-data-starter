@@ -1,27 +1,29 @@
-Year,SERIES,Value
-2007,Number of people with disabilities receiving pensions Monthly Social Allowance,114961.0
-2008,Number of people with disabilities receiving pensions Monthly Social Allowance,120274.0
-2009,Number of people with disabilities receiving pensions Monthly Social Allowance,124751.0
-2010,Number of people with disabilities receiving pensions Monthly Social Allowance,133398.0
-2011,Number of people with disabilities receiving pensions Monthly Social Allowance,142897.0
-2012,Number of people with disabilities receiving pensions Monthly Social Allowance,150206.0
-2013,Number of people with disabilities receiving pensions Monthly Social Allowance,162967.0
-2014,Number of people with disabilities receiving pensions Monthly Social Allowance,168679.0
-2015,Number of people with disabilities receiving pensions Monthly Social Allowance,174693.0
-2016,Number of people with disabilities receiving pensions Monthly Social Allowance,178944.0
-2017,Number of people with disabilities receiving pensions Monthly Social Allowance,183330.0
-2018,Number of people with disabilities receiving pensions Monthly Social Allowance,187313.0
-2019,Number of people with disabilities receiving pensions Monthly Social Allowance,194364.0
-2007,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.190749
-2008,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.273953
-2009,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.326232
-2010,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.46199
-2011,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.608742
-2012,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.705494
-2013,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.821172
-2014,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.861361
-2015,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.902128
-2016,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.914302
-2017,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.930125
-2018,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.931575
-2019,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,2.931575
+Year,SERIES,UNIT_MEASURE,Value
+2007,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,114961.0
+2008,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,120274.0
+2009,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,124751.0
+2010,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,133398.0
+2011,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,142897.0
+2012,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,150206.0
+2013,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,162967.0
+2014,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,168679.0
+2015,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,174693.0
+2016,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,178944.0
+2017,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,183330.0
+2018,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,187313.0
+2019,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,194364.0
+2020,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,197792.0
+2007,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.190749
+2008,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.273953
+2009,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.326232
+2010,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.46199
+2011,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.608742
+2012,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.705494
+2013,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.821172
+2014,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.861361
+2015,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.902128
+2016,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.914302
+2017,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.930125
+2018,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.931575
+2019,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.931575
+2020,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.97943
