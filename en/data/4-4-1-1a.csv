@@ -7,6 +7,7 @@ Year,Sex,Education level,Value
 2017,,Secondary and post-secondary non-tertiary education (intermediate),766
 2018,,Secondary and post-secondary non-tertiary education (intermediate),924
 2019,,Secondary and post-secondary non-tertiary education (intermediate),911
+2020,,Secondary and post-secondary non-tertiary education (intermediate),1004
 2010,,Short-cycle tertiary education,2544
 2013,,Short-cycle tertiary education,2663
 2014,,Short-cycle tertiary education,5189
@@ -15,6 +16,7 @@ Year,Sex,Education level,Value
 2017,,Short-cycle tertiary education,5106
 2018,,Short-cycle tertiary education,5870
 2019,,Short-cycle tertiary education,6794
+2020,,Short-cycle tertiary education,8279
 2010,Female,Short-cycle tertiary education,1244
 2013,Female,Short-cycle tertiary education,1347
 2014,Female,Short-cycle tertiary education,1873
@@ -23,6 +25,7 @@ Year,Sex,Education level,Value
 2017,Female,Short-cycle tertiary education,1380
 2018,Female,Short-cycle tertiary education,1449
 2019,Female,Short-cycle tertiary education,1675
+2020,Female,Short-cycle tertiary education,1752
 2010,Male,Short-cycle tertiary education,1300
 2013,Male,Short-cycle tertiary education,1316
 2014,Male,Short-cycle tertiary education,3316
@@ -31,6 +34,7 @@ Year,Sex,Education level,Value
 2017,Male,Short-cycle tertiary education,3722
 2018,Male,Short-cycle tertiary education,4421
 2019,Male,Short-cycle tertiary education,5119
+2020,Male,Short-cycle tertiary education,6527
 2010,,Tertiary education (Bachelor’s and Master's or equivalent),12291
 2013,,Tertiary education (Bachelor’s and Master's or equivalent),8890
 2014,,Tertiary education (Bachelor’s and Master's or equivalent),9214
@@ -39,6 +43,7 @@ Year,Sex,Education level,Value
 2017,,Tertiary education (Bachelor’s and Master's or equivalent),8522
 2018,,Tertiary education (Bachelor’s and Master's or equivalent),9516
 2019,,Tertiary education (Bachelor’s and Master's or equivalent),9511
+2020,,Tertiary education (Bachelor’s and Master's or equivalent),10324
 2010,Female,Tertiary education (Bachelor’s and Master's or equivalent),5530
 2013,Female,Tertiary education (Bachelor’s and Master's or equivalent),4469
 2014,Female,Tertiary education (Bachelor’s and Master's or equivalent),4096
@@ -47,6 +52,7 @@ Year,Sex,Education level,Value
 2017,Female,Tertiary education (Bachelor’s and Master's or equivalent),4023
 2018,Female,Tertiary education (Bachelor’s and Master's or equivalent),4361
 2019,Female,Tertiary education (Bachelor’s and Master's or equivalent),3982
+2020,Female,Tertiary education (Bachelor’s and Master's or equivalent),4131
 2010,Male,Tertiary education (Bachelor’s and Master's or equivalent),6761
 2013,Male,Tertiary education (Bachelor’s and Master's or equivalent),4421
 2014,Male,Tertiary education (Bachelor’s and Master's or equivalent),5118
@@ -55,3 +61,4 @@ Year,Sex,Education level,Value
 2017,Male,Tertiary education (Bachelor’s and Master's or equivalent),4491
 2018,Male,Tertiary education (Bachelor’s and Master's or equivalent),5155
 2019,Male,Tertiary education (Bachelor’s and Master's or equivalent),5529
+2020,Male,Tertiary education (Bachelor’s and Master's or equivalent),6193
