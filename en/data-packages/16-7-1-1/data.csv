@@ -7,6 +7,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in political positions,,16
 2018,Proportion of positions in public institutions: in political positions,,13
 2019,Proportion of positions in public institutions: in political positions,,12
+2020,Proportion of positions in public institutions: in political positions,,12
 2012,Proportion of positions in public institutions: in political positions,Male,39
 2013,Proportion of positions in public institutions: in political positions,Male,61
 2014,Proportion of positions in public institutions: in political positions,Male,57
@@ -15,6 +16,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in political positions,Male,23
 2018,Proportion of positions in public institutions: in political positions,Male,20
 2019,Proportion of positions in public institutions: in political positions,Male,17
+2020,Proportion of positions in public institutions: in political positions,Male,17
 2012,Proportion of positions in public institutions: in political positions,Female,16
 2013,Proportion of positions in public institutions: in political positions,Female,31
 2014,Proportion of positions in public institutions: in political positions,Female,26
@@ -23,6 +25,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in political positions,Female,5
 2018,Proportion of positions in public institutions: in political positions,Female,4
 2019,Proportion of positions in public institutions: in political positions,Female,4
+2020,Proportion of positions in public institutions: in political positions,Female,4
 2012,Proportion of positions in public institutions: in special positions,,24
 2013,Proportion of positions in public institutions: in special positions,,13
 2014,Proportion of positions in public institutions: in special positions,,9
@@ -31,6 +34,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in special positions,,27
 2018,Proportion of positions in public institutions: in special positions,,26
 2019,Proportion of positions in public institutions: in special positions,,33
+2020,Proportion of positions in public institutions: in special positions,,33
 2012,Proportion of positions in public institutions: in special positions,Male,27
 2013,Proportion of positions in public institutions: in special positions,Male,16
 2014,Proportion of positions in public institutions: in special positions,Male,22
@@ -39,6 +43,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in special positions,Male,28
 2018,Proportion of positions in public institutions: in special positions,Male,27
 2019,Proportion of positions in public institutions: in special positions,Male,39
+2020,Proportion of positions in public institutions: in special positions,Male,39
 2012,Proportion of positions in public institutions: in special positions,Female,20
 2013,Proportion of positions in public institutions: in special positions,Female,9
 2014,Proportion of positions in public institutions: in special positions,Female,17
@@ -47,6 +52,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in special positions,Female,24
 2018,Proportion of positions in public institutions: in special positions,Female,25
 2019,Proportion of positions in public institutions: in special positions,Female,25
+2020,Proportion of positions in public institutions: in special positions,Female,24
 2012,Proportion of positions in public institutions: in administrative positions,,946
 2013,Proportion of positions in public institutions: in administrative positions,,938
 2014,Proportion of positions in public institutions: in administrative positions,,960
@@ -55,6 +61,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in administrative positions,,958
 2018,Proportion of positions in public institutions: in administrative positions,,961
 2019,Proportion of positions in public institutions: in administrative positions,,955
+2020,Proportion of positions in public institutions: in administrative positions,,955
 2012,Proportion of positions in public institutions: in administrative positions,Male,933
 2013,Proportion of positions in public institutions: in administrative positions,Male,923
 2014,Proportion of positions in public institutions: in administrative positions,Male,922
@@ -63,6 +70,7 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in administrative positions,Male,948
 2018,Proportion of positions in public institutions: in administrative positions,Male,954
 2019,Proportion of positions in public institutions: in administrative positions,Male,944
+2020,Proportion of positions in public institutions: in administrative positions,Male,944
 2012,Proportion of positions in public institutions: in administrative positions,Female,964
 2013,Proportion of positions in public institutions: in administrative positions,Female,960
 2014,Proportion of positions in public institutions: in administrative positions,Female,957
@@ -71,3 +79,4 @@ Year,SERIES,Sex,Value
 2017,Proportion of positions in public institutions: in administrative positions,Female,971
 2018,Proportion of positions in public institutions: in administrative positions,Female,972
 2019,Proportion of positions in public institutions: in administrative positions,Female,972
+2020,Proportion of positions in public institutions: in administrative positions,Female,972
