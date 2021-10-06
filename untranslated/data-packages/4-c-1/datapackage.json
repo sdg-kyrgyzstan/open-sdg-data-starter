@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_TCH_PR_SCH_EDU",
+                "_L_TCH_PR_SCH_1_4",
+                "_L_TCH_PR_SEC_SCH_5_11",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
