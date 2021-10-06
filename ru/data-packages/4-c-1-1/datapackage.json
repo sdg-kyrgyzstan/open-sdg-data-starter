@@ -11,26 +11,13 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Учителя: b) в начальной школе (1-4 класс)",
-                "Учителя: a) в дошкольных образовательных организациях",
-                "Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс)"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
           }
         ]

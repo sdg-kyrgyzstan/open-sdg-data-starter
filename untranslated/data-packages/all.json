@@ -275,40 +275,6 @@
       "title": "Площадь пашни по причинам неиспользования"
     },
     {
-      "path": "4-c-1-1/data.csv",
-      "name": "4-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_TCH_PR_SCH_EDU",
-                "_L_TCH_PR_SCH_1_4",
-                "_L_TCH_PR_SEC_SCH_5_11",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Доля дипломированных учителей в образовательных учреждениях"
-    },
-    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -8828,6 +8794,28 @@
         ]
       },
       "title": "global_indicators.9-4-1-title"
+    },
+    {
+      "path": "4-c-1-1/data.csv",
+      "name": "4-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Доля дипломированных учителей в образовательных учреждениях"
     },
     {
       "path": "5-a-1/data.csv",

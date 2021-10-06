@@ -299,43 +299,6 @@
       "title": "Площадь пашни по причинам неиспользования"
     },
     {
-      "path": "4-c-1-1/data.csv",
-      "name": "4-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Учителя: b) в начальной школе (1-4 класс)",
-                "Учителя: a) в дошкольных образовательных организациях",
-                "Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс)"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Доля дипломированных учителей в образовательных учреждениях"
-    },
-    {
       "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
@@ -9578,6 +9541,30 @@
         ]
       },
       "title": "Выбросы CO2 на единицу добавленной стоимости"
+    },
+    {
+      "path": "4-c-1-1/data.csv",
+      "name": "4-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Доля дипломированных учителей в образовательных учреждениях"
     },
     {
       "path": "5-a-1/data.csv",
