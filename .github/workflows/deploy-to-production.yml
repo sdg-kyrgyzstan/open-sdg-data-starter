@@ -44,7 +44,7 @@ jobs:
       run: |
         python scripts/check_and_build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@4.1.5
       with:
         REPOSITORY_NAME: sustainabledevelopment-kyrgyzstan/sdg-data
         ACCESS_TOKEN: ${{ secrets.token }}
