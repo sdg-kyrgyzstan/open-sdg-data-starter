@@ -6,6 +6,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Plants and mushrooms,1.07
 2018,Species: Plants and mushrooms,1.07
 2019,Species: Plants and mushrooms,1.07
+2020,Species: Plants and mushrooms,1.07
 2013,Species: Mammals,25.3
 2014,Species: Mammals,25.3
 2015,Species: Mammals,25.3
@@ -13,6 +14,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Mammals,25.3
 2018,Species: Mammals,25.3
 2019,Species: Mammals,25.27
+2020,Species: Mammals,25.27
 2013,Species: Birds,14.0
 2014,Species: Birds,14.0
 2015,Species: Birds,14.0
@@ -20,6 +22,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Birds,14.0
 2018,Species: Birds,14.0
 2019,Species: Birds,14.0
+2020,Species: Birds,14.0
 2013,Species: Insects,0.12
 2014,Species: Insects,0.12
 2015,Species: Insects,0.12
@@ -27,6 +30,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Insects,0.12
 2018,Species: Insects,0.12
 2019,Species: Insects,0.12
+2020,Species: Insects,0.12
 2013,Species: Amphibians and Reptiles,21.7
 2014,Species: Amphibians and Reptiles,21.7
 2015,Species: Amphibians and Reptiles,21.7
@@ -34,6 +38,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Amphibians and Reptiles,21.7
 2018,Species: Amphibians and Reptiles,21.7
 2019,Species: Amphibians and Reptiles,21.74
+2020,Species: Amphibians and Reptiles,21.74
 2013,Species: Fish,9.5
 2014,Species: Fish,9.5
 2015,Species: Fish,9.5
@@ -41,3 +46,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2017,Species: Fish,9.5
 2018,Species: Fish,9.5
 2019,Species: Fish,9.46
+2020,Species: Fish,9.46
