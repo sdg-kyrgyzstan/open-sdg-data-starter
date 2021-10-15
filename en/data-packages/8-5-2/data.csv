@@ -1,5 +1,10 @@
 Year,Reference area,Sex,Age,Value
+2007,,,,8.2
+2008,,,,8.2
+2009,,,,8.4
 2010,,,,8.6
+2011,,,,8.5
+2012,,,,8.4
 2013,,,,8.3
 2014,,,,8.0
 2015,,,,7.6
@@ -8,7 +13,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,,6.2
 2019,,,,5.5
 2020,,,,5.8
+2007,,Female,,9.0
+2008,,Female,,9.4
+2009,,Female,,9.8
 2010,,Female,,9.9
+2011,,Female,,9.9
+2012,,Female,,9.5
 2013,,Female,,9.7
 2014,,Female,,9.5
 2015,,Female,,9.0
@@ -17,7 +27,12 @@ Year,Reference area,Sex,Age,Value
 2018,,Female,,6.9
 2019,,Female,,6.2
 2020,,Female,,6.7
+2007,,Male,,7.6
+2008,,Male,,7.3
+2009,,Male,,7.4
 2010,,Male,,7.7
+2011,,Male,,7.6
+2012,,Male,,7.7
 2013,,Male,,7.4
 2014,,Male,,7.0
 2015,,Male,,6.5
@@ -266,7 +281,12 @@ Year,Reference area,Sex,Age,Value
 2018,Osh (city),Male,,2.7
 2019,Osh (city),Male,,1.5
 2020,Osh (city),Male,,2.3
-2010,,,15 to 19 years old,19.1
+2007,,,15 to 19 years old,15.1
+2008,,,15 to 19 years old,13.3
+2009,,,15 to 19 years old,16.8
+2010,,,15 to 19 years old,19.072445
+2011,,,15 to 19 years old,18.9
+2012,,,15 to 19 years old,21.3
 2013,,,15 to 19 years old,16.2
 2014,,,15 to 19 years old,17.7
 2015,,,15 to 19 years old,17.3
@@ -275,7 +295,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,15 to 19 years old,13.9
 2019,,,15 to 19 years old,13.9
 2020,,,15 to 19 years old,13.7
-2010,,,20 to 29 years old,12.4
+2007,,,20 to 29 years old,10.2
+2008,,,20 to 29 years old,11.4
+2009,,,20 to 29 years old,12.7
+2010,,,20 to 29 years old,12.397261
+2011,,,20 to 29 years old,12.5
+2012,,,20 to 29 years old,11.9
 2013,,,20 to 29 years old,10.4
 2014,,,20 to 29 years old,10.2
 2015,,,20 to 29 years old,10.5
@@ -284,7 +309,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,20 to 29 years old,9.5
 2019,,,20 to 29 years old,9.3
 2020,,,20 to 29 years old,8.9
-2010,,,30 to 39 years old,6.2
+2007,,,30 to 39 years old,7.2
+2008,,,30 to 39 years old,7.3
+2009,,,30 to 39 years old,6.1
+2010,,,30 to 39 years old,6.198562
+2011,,,30 to 39 years old,6.5
+2012,,,30 to 39 years old,7.0
 2013,,,30 to 39 years old,7.2
 2014,,,30 to 39 years old,6.7
 2015,,,30 to 39 years old,6.2
@@ -293,7 +323,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,30 to 39 years old,4.6
 2019,,,30 to 39 years old,4.0
 2020,,,30 to 39 years old,5.1
-2010,,,40 to 49 years old,5.9
+2007,,,40 to 49 years old,6.2
+2008,,,40 to 49 years old,6.2
+2009,,,40 to 49 years old,5.2
+2010,,,40 to 49 years old,5.90176
+2011,,,40 to 49 years old,5.5
+2012,,,40 to 49 years old,4.9
 2013,,,40 to 49 years old,6.4
 2014,,,40 to 49 years old,6.7
 2015,,,40 to 49 years old,5.8
@@ -302,7 +337,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,40 to 49 years old,4.3
 2019,,,40 to 49 years old,3.6
 2020,,,40 to 49 years old,4.4
-2010,,,50 to 59 years old,4.8
+2007,,,50 to 59 years old,5.7
+2008,,,50 to 59 years old,4.5
+2009,,,50 to 59 years old,4.6
+2010,,,50 to 59 years old,4.823213
+2011,,,50 to 59 years old,4.6
+2012,,,50 to 59 years old,4.8
 2013,,,50 to 59 years old,6.1
 2014,,,50 to 59 years old,5.1
 2015,,,50 to 59 years old,4.2
@@ -311,7 +351,12 @@ Year,Reference area,Sex,Age,Value
 2018,,,50 to 59 years old,4.2
 2019,,,50 to 59 years old,3.1
 2020,,,50 to 59 years old,3.1
-2010,,,60 to 69 years old,2.3
+2007,,,60 to 69 years old,2.9
+2008,,,60 to 69 years old,0.8
+2009,,,60 to 69 years old,1.5
+2010,,,60 to 69 years old,2.319915
+2011,,,60 to 69 years old,2.5
+2012,,,60 to 69 years old,2.8
 2013,,,60 to 69 years old,3.2
 2014,,,60 to 69 years old,2.6
 2015,,,60 to 69 years old,2.8
@@ -320,7 +365,8 @@ Year,Reference area,Sex,Age,Value
 2018,,,60 to 69 years old,2.7
 2019,,,60 to 69 years old,1.1
 2020,,,60 to 69 years old,1.8
-2010,,,70 years old and over,0.6
+2010,,,70 years old and over,0.561023
+2011,,,70 years old and over,0.7
 2013,,,70 years old and over,1.6
 2014,,,70 years old and over,2.8
 2015,,,70 years old and over,1.4
