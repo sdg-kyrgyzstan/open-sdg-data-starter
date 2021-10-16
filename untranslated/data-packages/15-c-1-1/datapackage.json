@@ -12,19 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_SPC_MAMM",
-                "_L_SPC_BIRD",
-                "_L_SPC_AMPH_REP",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

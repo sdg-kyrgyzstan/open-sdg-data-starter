@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Species: Mammals",
-                "Species: Birds",
-                "Species: Amphibians and Reptiles",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
           },
           {
             "name": "Value",

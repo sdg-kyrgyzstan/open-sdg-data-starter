@@ -7126,43 +7126,6 @@
       "title": "Число  связанных с конфликтами смертей на 100 000 человек в разбивке по полу, возрасту и причине"
     },
     {
-      "path": "15-c-1-1/data.csv",
-      "name": "15-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Виды: Амфибии и рептилии",
-                "Виды: Птицы",
-                "Виды: Млекопитающие"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота от всех видов соответствующего класса"
-    },
-    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -10295,6 +10258,30 @@
         ]
       },
       "title": "Доля женщин в возрасте от 15 до 49 лет, самостоятельно принимающих обдуманные решения о сексуальных отношениях, применении противозачаточных средств и обращении за услугами по охране репродуктивного здоровья"
+    },
+    {
+      "path": "15-c-1-1/data.csv",
+      "name": "15-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота от всех видов соответствующего класса"
     },
     {
       "path": "15-5-1/data.csv",
