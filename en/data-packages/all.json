@@ -1841,6 +1841,41 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
+      "path": "15-1-2/data.csv",
+      "name": "15-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Показатель",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов, находящихся под охраной",
+                ""
+              ]
+            },
+            "title": "Показатель"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+    },
+    {
       "path": "2-c-1-1b/data.csv",
       "name": "2-c-1-1b",
       "profile": "tabular-data-resource",
@@ -7387,41 +7422,6 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
-      "path": "15-1-2/data.csv",
-      "name": "15-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Показатель",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов, находящихся под охраной",
-                ""
-              ]
-            },
-            "title": "Показатель"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
       "path": "10-3-1/data.csv",
