@@ -1,11 +1,45 @@
-Year,Value
-2010,21
-2011,5
-2012,6
-2013,9
-2014,19
-2015,8
-2016,10
-2017,5
-2018,8
-2019,5
+Year,Reference area,Value
+2011,,5
+2012,,6
+2013,,9
+2014,,19
+2015,,8
+2016,,10
+2017,,5
+2018,,8
+2019,,5
+2020,,2
+2012,Batken,1
+2013,Batken,2
+2014,Batken,1
+2013,Jalal-Abad,1
+2014,Jalal-Abad,1
+2015,Jalal-Abad,1
+2013,Issyk-Kul,1
+2014,Issyk-Kul,1
+2015,Naryn,1
+2019,Naryn,1
+2013,Osh,1
+2014,Osh,6
+2017,Osh,2
+2018,Osh,1
+2020,Osh,1
+2019,Talas,1
+2012,Chui,2
+2013,Chui,3
+2014,Chui,3
+2015,Chui,3
+2016,Chui,6
+2017,Chui,3
+2012,Bishkek (city),3
+2014,Bishkek (city),2
+2015,Bishkek (city),1
+2016,Bishkek (city),4
+2018,Bishkek (city),7
+2019,Bishkek (city),2
+2020,Bishkek (city),1
+2011,Osh (city),5
+2013,Osh (city),1
+2014,Osh (city),5
+2015,Osh (city),2
+2019,Osh (city),1
