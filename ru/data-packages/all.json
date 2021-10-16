@@ -4948,7 +4948,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -11530,30 +11530,6 @@
         ]
       },
       "title": "Доля  молодых женщин и мужчин в возрасте от 18 до 29 лет, подвергшихся сексуальному насилию до достижения ими 18-летнего возраста"
-    },
-    {
-      "path": "15-c-1-1/data.csv",
-      "name": "15-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "15-c-1-1"
     }
   ]
 }
