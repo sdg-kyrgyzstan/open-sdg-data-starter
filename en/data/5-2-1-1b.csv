@@ -10,6 +10,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2017,,,,,7323
 2018,,,,,7178
 2019,,,,,6145
+2020,,,,,8254
 2009,Female,,,,1927
 2010,Female,,,,1659
 2011,Female,,,,1714
@@ -21,6 +22,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2017,Female,,,,6966
 2018,Female,,,,6562
 2019,Female,,,,5659
+2020,Female,,,,7891
 2009,Male,,,,166
 2010,Male,,,,130
 2011,Male,,,,95
@@ -32,6 +34,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2017,Male,,,,357
 2018,Male,,,,616
 2019,Male,,,,486
+2020,Male,,,,363
 2009,,under 20 years old,,,126
 2010,,under 20 years old,,,212
 2011,,under 20 years old,,,37
