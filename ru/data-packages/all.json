@@ -8335,30 +8335,6 @@
       "title": "Доля занятых в индустрии устойчивого туризма\nв общем числе рабочих мест в отрасли"
     },
     {
-      "path": "4-c-1-1/data.csv",
-      "name": "4-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Доля дипломированных учителей в образовательных учреждениях"
-    },
-    {
       "path": "14-6-1/data.csv",
       "name": "14-6-1",
       "profile": "tabular-data-resource",
