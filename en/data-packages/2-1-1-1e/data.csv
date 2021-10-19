@@ -8,7 +8,8 @@ Year,Type of product,Value
 2016,"Meat and meat products in meat equivalent, including bacon and offal",63.132137
 2017,"Meat and meat products in meat equivalent, including bacon and offal",62.805873
 2018,"Meat and meat products in meat equivalent, including bacon and offal",65.742251
-2019,"Meat and meat products in meat equivalent, including bacon and offal",69.168026
+2019,"Meat and meat products in meat equivalent, including bacon and offal",68.4
+2020,"Meat and meat products in meat equivalent, including bacon and offal",68.5
 2010,Milk and dairy products in milk equivalent,106.2
 2011,Milk and dairy products in milk equivalent,106.5
 2012,Milk and dairy products in milk equivalent,105.75
@@ -18,7 +19,8 @@ Year,Type of product,Value
 2016,Milk and dairy products in milk equivalent,112.25
 2017,Milk and dairy products in milk equivalent,111.65
 2018,Milk and dairy products in milk equivalent,109.4
-2019,Milk and dairy products in milk equivalent,109.85
+2019,Milk and dairy products in milk equivalent,108.2
+2020,Milk and dairy products in milk equivalent,106.7
 2010,Eggs,43.506849
 2011,Eggs,45.041096
 2012,Eggs,44.273973
@@ -28,7 +30,8 @@ Year,Type of product,Value
 2016,Eggs,43.835616
 2017,Eggs,47.123288
 2018,Eggs,47.342466
-2019,Eggs,52.219178
+2019,Eggs,51.7
+2020,Eggs,53.2
 2010,Sugar,83.203125
 2011,Sugar,83.59375
 2012,Sugar,78.125
@@ -38,7 +41,8 @@ Year,Type of product,Value
 2016,Sugar,85.9375
 2017,Sugar,89.0625
 2018,Sugar,115.234375
-2019,Sugar,98.4375
+2019,Sugar,97.7
+2020,Sugar,49.6
 2010,Vegetable oils,131.393493
 2011,Vegetable oils,129.24425
 2012,Vegetable oils,118.291347
@@ -47,8 +51,9 @@ Year,Type of product,Value
 2015,Vegetable oils,140.197152
 2016,Vegetable oils,116.100767
 2017,Vegetable oils,112.814896
-2018,Vegetable oils,104.052574
-2019,Vegetable oils,106.243154
+2018,Vegetable oils,105.6
+2019,Vegetable oils,106.7
+2020,Vegetable oils,108.9
 2010,Potatoes,98.181818
 2011,Potatoes,99.494949
 2012,Potatoes,99.393939
@@ -57,8 +62,9 @@ Year,Type of product,Value
 2015,Potatoes,108.282828
 2016,Potatoes,108.282828
 2017,Potatoes,107.7
-2018,Potatoes,141.4
-2019,Potatoes,125.557809
+2018,Potatoes,141.98783
+2019,Potatoes,124.2
+2020,Potatoes,107.8
 2010,Vegetables and gourds,131.3
 2011,Vegetables and gourds,131.2
 2012,Vegetables and gourds,131.052632
@@ -67,8 +73,9 @@ Year,Type of product,Value
 2015,Vegetables and gourds,139.473684
 2016,Vegetables and gourds,141.403509
 2017,Vegetables and gourds,153.0
-2018,Vegetables and gourds,159.3
-2019,Vegetables and gourds,140.244969
+2018,Vegetables and gourds,158.88014
+2019,Vegetables and gourds,138.8
+2020,Vegetables and gourds,155.7
 2010,Fruits and berries,24.193548
 2011,Fruits and berries,23.225806
 2012,Fruits and berries,19.274194
@@ -77,8 +84,9 @@ Year,Type of product,Value
 2015,Fruits and berries,25.16129
 2016,Fruits and berries,34.919355
 2017,Fruits and berries,34.5
-2018,Fruits and berries,27.0
-2019,Fruits and berries,34.195635
+2018,Fruits and berries,27.1
+2019,Fruits and berries,33.9
+2020,Fruits and berries,25.9
 2010,Wheat and wheat products in flour equivalent,146.666259
 2011,Wheat and wheat products in flour equivalent,146.492793
 2012,Wheat and wheat products in flour equivalent,145.712192
@@ -88,7 +96,8 @@ Year,Type of product,Value
 2016,Wheat and wheat products in flour equivalent,143.659907
 2017,Wheat and wheat products in flour equivalent,129.855851
 2018,Wheat and wheat products in flour equivalent,99.071586
-2019,Wheat and wheat products in flour equivalent,96.994869
+2019,Wheat and wheat products in flour equivalent,96.0
+2020,Wheat and wheat products in flour equivalent,103.5
 2010,Fish and fish products,16.483516
 2011,Fish and fish products,20.879121
 2012,Fish and fish products,20.879121
@@ -98,4 +107,5 @@ Year,Type of product,Value
 2016,Fish and fish products,9.602909
 2017,Fish and fish products,9.89011
 2018,Fish and fish products,8.791209
-2019,Fish and fish products,6.593407
+2019,Fish and fish products,7.7
+2020,Fish and fish products,11.0
