@@ -1,0 +1,123 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "от 15 до 17 лет ",
+                "от 15 до 19 лет ",
+                "от 15 до 49 лет ",
+                "от 18 до 19 лет ",
+                "от 18 до 49 лет",
+                "от 20 до 24 лет",
+                "от 25 до 29 лет",
+                "от 30 до 34 лет ",
+                "от 35 до 39 лет",
+                "от 40 до 44 лет ",
+                "от 45 до 49 лет "
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Лица с инвалидностью",
+                "Лица без инвалидности"
+              ]
+            },
+            "title": "Статус инвалидности"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Первый этап среднего образования",
+                "Второй этап среднего образования",
+                "Послесреднее нетретичное образование",
+                "Высшее образование (бакалавриат и магистратура или эквиваленты)"
+              ]
+            },
+            "title": "Уровень образования"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Квинтиль 1 (беднейшие)",
+                "Квинтиль 2",
+                "Квинтиль 3",
+                "Квинтиль 4",
+                "Квинтиль 5 (богатейшие)"
+              ]
+            },
+            "title": "Уровень дохода или квантиль благосостояния"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-b-1-1",
+  "title": "Proportion of women aged 15-49 reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+}
