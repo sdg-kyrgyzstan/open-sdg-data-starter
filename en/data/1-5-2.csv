@@ -11,6 +11,7 @@ Year,Reference area,Value
 2016,,1006.2
 2017,,1027.4
 2018,,1214.6
+2019,,323.8
 2007,Batken,17.8
 2008,Batken,130.4
 2009,Batken,25.4
@@ -23,6 +24,7 @@ Year,Reference area,Value
 2016,Batken,376.3
 2017,Batken,135.0
 2018,Batken,189.8
+2019,Batken,22.9
 2007,Jalal-Abad,66.7
 2008,Jalal-Abad,31.0
 2009,Jalal-Abad,3.7
@@ -35,6 +37,7 @@ Year,Reference area,Value
 2016,Jalal-Abad,232.3
 2017,Jalal-Abad,120.1
 2018,Jalal-Abad,72.9
+2019,Jalal-Abad,168.8
 2007,Issyk-Kul,0.5
 2008,Issyk-Kul,0.7
 2009,Issyk-Kul,9.5
@@ -47,6 +50,7 @@ Year,Reference area,Value
 2016,Issyk-Kul,102.7
 2017,Issyk-Kul,84.2
 2018,Issyk-Kul,74.2
+2019,Issyk-Kul,11.1
 2007,Naryn,0.6
 2008,Naryn,2.8
 2009,Naryn,0.6
@@ -71,6 +75,7 @@ Year,Reference area,Value
 2016,Osh,16.2
 2017,Osh,261.8
 2018,Osh,12.4
+2019,Osh,2.6
 2007,Talas,12.3
 2008,Talas,4.4
 2009,Talas,24.5
@@ -93,6 +98,7 @@ Year,Reference area,Value
 2016,Chui,93.2
 2017,Chui,207.5
 2018,Chui,6.1
+2019,Chui,2.0
 2007,Bishkek (city),32.2
 2008,Bishkek (city),41.5
 2013,Bishkek (city),0.7
@@ -100,6 +106,7 @@ Year,Reference area,Value
 2016,Bishkek (city),86.8
 2017,Bishkek (city),129.8
 2018,Bishkek (city),856.9
+2019,Bishkek (city),116.0
 2007,Osh (city),0.7
 2008,Osh (city),0.2
 2012,Osh (city),1.1
@@ -107,3 +114,4 @@ Year,Reference area,Value
 2015,Osh (city),139.1
 2016,Osh (city),0.3
 2017,Osh (city),61.5
+2019,Osh (city),0.4
