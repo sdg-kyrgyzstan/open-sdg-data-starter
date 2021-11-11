@@ -12,6 +12,7 @@ Year,Value,SERIES
 2017,135927.0,Number of pensioners who receive pensions below the subsistence level of the pensioner
 2018,138265.0,Number of pensioners who receive pensions below the subsistence level of the pensioner
 2019,147363.0,Number of pensioners who receive pensions below the subsistence level of the pensioner
+2020,160561.0,Number of pensioners who receive pensions below the subsistence level of the pensioner
 2007,5.968864,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
 2008,6.611241,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
 2009,5.109427,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
@@ -25,6 +26,7 @@ Year,Value,SERIES
 2017,2.172493,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
 2018,2.163941,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
 2019,2.259523,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
+2020,2.4,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population
 2007,59.241298,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
 2008,61.233202,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
 2009,48.534186,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
@@ -38,3 +40,4 @@ Year,Value,SERIES
 2017,20.190277,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
 2018,19.898854,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
 2019,20.5,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
+2020,21.8,Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners
