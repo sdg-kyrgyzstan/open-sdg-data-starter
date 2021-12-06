@@ -1,68 +1,73 @@
 Year,COMPOSITE_BREAKDOWN,Value
-2007,,25.4
-2008,,24.8
-2009,,27.6
-2010,,26.3
-2011,,27.2
-2012,,28.0
-2013,,28.7
-2014,,29.8
-2015,,29.8
-2016,,27.4
-2017,,28.2
-2018,,26.6
-2019,,28.4
-2007,Income: Tax revenues,18.7
-2008,Income: Tax revenues,19.1
-2009,Income: Tax revenues,17.9
-2010,Income: Tax revenues,17.9
-2011,Income: Tax revenues,18.5
-2012,Income: Tax revenues,20.6
-2013,Income: Tax revenues,20.5
-2014,Income: Tax revenues,20.6
-2015,Income: Tax revenues,19.7
-2016,Income: Tax revenues,19.7
-2017,Income: Tax revenues,19.5
-2018,Income: Tax revenues,20.5
-2019,Income: Tax revenues,20.6
-2016,Income: Contributions / deductions for social needs,0.0
-2017,Income: Contributions / deductions for social needs,0.5
-2007,Income: Received official transfers,1.3
-2008,Income: Received official transfers,0.7
-2009,Income: Received official transfers,5.1
-2010,Income: Received official transfers,3.2
-2011,Income: Received official transfers,3.1
-2012,Income: Received official transfers,1.8
-2013,Income: Received official transfers,2.6
-2014,Income: Received official transfers,2.5
-2015,Income: Received official transfers,2.2
-2016,Income: Received official transfers,2.1
-2017,Income: Received official transfers,2.5
-2018,Income: Received official transfers,1.6
-2019,Income: Received official transfers,2.3
-2007,Income: Non-tax revenues,5.1
-2008,Income: Non-tax revenues,4.4
-2009,Income: Non-tax revenues,4.5
-2010,Income: Non-tax revenues,5.0
-2011,Income: Non-tax revenues,5.5
-2012,Income: Non-tax revenues,5.6
-2013,Income: Non-tax revenues,5.6
-2014,Income: Non-tax revenues,6.7
-2015,Income: Non-tax revenues,8.0
-2016,Income: Non-tax revenues,5.6
-2017,Income: Non-tax revenues,5.7
-2018,Income: Non-tax revenues,4.5
-2019,Income: Non-tax revenues,5.5
-2007,Income: Income from sale of non-financial assets,0.3
-2008,Income: Income from sale of non-financial assets,0.6
-2009,Income: Income from sale of non-financial assets,0.1
-2010,Income: Income from sale of non-financial assets,0.3
-2011,Income: Income from sale of non-financial assets,0.2
-2012,Income: Income from sale of non-financial assets,0.1
-2013,Income: Income from sale of non-financial assets,0.0
-2014,Income: Income from sale of non-financial assets,0.0
-2015,Income: Income from sale of non-financial assets,0.0
-2016,Income: Income from sale of non-financial assets,0.0
-2017,Income: Income from sale of non-financial assets,0.0
-2018,Income: Income from sale of non-financial assets,0.0
-2019,Income: Income from sale of non-financial assets,0.0
+2007,,254
+2008,,248
+2009,,276
+2010,,263
+2011,,272
+2012,,280
+2013,,287
+2014,,298
+2015,,298
+2016,,274
+2017,,282
+2018,,266
+2019,,270
+2020,,253
+2007,Income: Tax revenues,187
+2008,Income: Tax revenues,191
+2009,Income: Tax revenues,179
+2010,Income: Tax revenues,179
+2011,Income: Tax revenues,185
+2012,Income: Tax revenues,206
+2013,Income: Tax revenues,205
+2014,Income: Tax revenues,206
+2015,Income: Tax revenues,197
+2016,Income: Tax revenues,197
+2017,Income: Tax revenues,195
+2018,Income: Tax revenues,205
+2019,Income: Tax revenues,196
+2020,Income: Tax revenues,178
+2016,Income: Contributions / deductions for social needs,0
+2017,Income: Contributions / deductions for social needs,5
+2007,Income: Received official transfers,13
+2008,Income: Received official transfers,7
+2009,Income: Received official transfers,51
+2010,Income: Received official transfers,32
+2011,Income: Received official transfers,31
+2012,Income: Received official transfers,18
+2013,Income: Received official transfers,26
+2014,Income: Received official transfers,25
+2015,Income: Received official transfers,22
+2016,Income: Received official transfers,21
+2017,Income: Received official transfers,25
+2018,Income: Received official transfers,16
+2019,Income: Received official transfers,22
+2020,Income: Received official transfers,20
+2007,Income: Non-tax revenues,51
+2008,Income: Non-tax revenues,44
+2009,Income: Non-tax revenues,45
+2010,Income: Non-tax revenues,50
+2011,Income: Non-tax revenues,55
+2012,Income: Non-tax revenues,56
+2013,Income: Non-tax revenues,56
+2014,Income: Non-tax revenues,67
+2015,Income: Non-tax revenues,80
+2016,Income: Non-tax revenues,56
+2017,Income: Non-tax revenues,57
+2018,Income: Non-tax revenues,45
+2019,Income: Non-tax revenues,52
+2020,Income: Non-tax revenues,55
+2007,Income: Income from sale of non-financial assets,3
+2008,Income: Income from sale of non-financial assets,6
+2009,Income: Income from sale of non-financial assets,1
+2010,Income: Income from sale of non-financial assets,3
+2011,Income: Income from sale of non-financial assets,2
+2012,Income: Income from sale of non-financial assets,1
+2013,Income: Income from sale of non-financial assets,0
+2014,Income: Income from sale of non-financial assets,0
+2015,Income: Income from sale of non-financial assets,0
+2016,Income: Income from sale of non-financial assets,0
+2017,Income: Income from sale of non-financial assets,0
+2018,Income: Income from sale of non-financial assets,0
+2019,Income: Income from sale of non-financial assets,0
+2020,Income: Income from sale of non-financial assets,0
