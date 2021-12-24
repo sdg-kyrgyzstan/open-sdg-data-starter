@@ -4179,6 +4179,30 @@
             "title": "Ряды ЦУР"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Женщины",
+                "Мужчины"
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Сельская",
+                "Городская"
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -19,6 +19,28 @@
             "type": "string"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
