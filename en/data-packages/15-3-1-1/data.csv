@@ -1,26 +1,31 @@
 Year,SERIES,COMPOSITE_BREAKDOWN,Value
-2015,Arable land,,1280570
-2016,Arable land,,1280570
-2017,Arable land,,1287859
-2018,Arable land,,1287810
-2019,Arable land,,1287584
-2015,Arable land for reasons of non-use,,89985
-2016,Arable land for reasons of non-use,,81920
-2017,Arable land for reasons of non-use,,74796
-2018,Arable land for reasons of non-use,,67337
-2019,Arable land for reasons of non-use,,63332
-2015,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,4958
-2016,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3840
-2017,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3288
-2018,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3103
-2019,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2792
-2015,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,13756
-2016,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,14039
-2017,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11954
-2018,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11774
-2019,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11105
-2015,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",394
-2016,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",352
-2017,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1035
-2018,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1539
-2019,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",512
+2015,Arable land,,"1 280,6"
+2016,Arable land,,1280.6
+2017,Arable land,,"1 287,9"
+2018,Arable land,,"1 287,8"
+2019,Arable land,,"1 287,6"
+2020,Arable land,,1287.4
+2015,Arable land for reasons of non-use,,90
+2016,Arable land for reasons of non-use,,81.9
+2017,Arable land for reasons of non-use,,74.8
+2018,Arable land for reasons of non-use,,67.3
+2019,Arable land for reasons of non-use,,63.3
+2020,Arable land for reasons of non-use,,56.6
+2015,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,5
+2016,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.8
+2017,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.3
+2018,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.1
+2019,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2.8
+2020,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2.5
+2015,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,13.8
+2016,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,14
+2017,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,12
+2018,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11.8
+2019,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11.1
+2020,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,9.3
+2015,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.4
+2016,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.4
+2017,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1
+2018,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1.5
+2019,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.5
+2020,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.9
