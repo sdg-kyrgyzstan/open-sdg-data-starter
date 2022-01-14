@@ -9,6 +9,7 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2017,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.7
 2018,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.8
 2019,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.6
+2020,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,91.6
 2010,Units,"The consumer price index, as a percentage of the previous year",Index,108.0
 2011,Units,"The consumer price index, as a percentage of the previous year",Index,116.6
 2012,Units,"The consumer price index, as a percentage of the previous year",Index,102.8
@@ -19,6 +20,7 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2017,Units,"The consumer price index, as a percentage of the previous year",Index,103.2
 2018,Units,"The consumer price index, as a percentage of the previous year",Index,101.5
 2019,Units,"The consumer price index, as a percentage of the previous year",Index,101.1
+2020,Units,"The consumer price index, as a percentage of the previous year",Index,106.3
 2010,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.79
 2011,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.02
 2012,Units,"Producer Price Indices, as a percentage of the previous year",Index,105.3
@@ -28,7 +30,8 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2016,Units,"Producer Price Indices, as a percentage of the previous year",Index,106.41
 2017,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.66
 2018,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.49
-2019,Units,"Producer Price Indices, as a percentage of the previous year",Index,104.1
+2019,Units,"Producer Price Indices, as a percentage of the previous year",Index,104.26
+2020,Units,"Producer Price Indices, as a percentage of the previous year",Index,121.27
 2010,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-10767.9787
 2011,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-13663.7111
 2012,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-20232.3134
@@ -39,6 +42,7 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2017,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-16476.1602
 2018,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-6188.9008
 2019,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-431.7092
+2020,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-19734.0366
 2010,Millions,"Volume of public debt, million soms",Local currency,131557.5
 2011,Millions,"Volume of public debt, million soms",Local currency,143154.1
 2012,Millions,"Volume of public debt, million soms",Local currency,156719.4
