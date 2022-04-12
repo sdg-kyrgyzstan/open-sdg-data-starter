@@ -1,1 +1,76 @@
-Year,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2018,,,,,,,83
+2019,,,,,,,81
+2020,,,,,,,76
+2018,,Male,,,,,177
+2019,,Male,,,,,172
+2020,,Male,,,,,160
+2018,,Female,,,,,5
+2019,,Female,,,,,4
+2020,,Female,,,,,5
+2018,,,,Urban,,,64
+2019,,,,Urban,,,62
+2020,,,,Urban,,,62
+2018,,,,Rural,,,95
+2019,,,,Rural,,,92
+2020,,,,Rural,,,85
+2018,Batken,,,,,,108
+2019,Batken,,,,,,109
+2020,Batken,,,,,,98
+2018,Jalal-Abad,,,,,,34
+2019,Jalal-Abad,,,,,,44
+2020,Jalal-Abad,,,,,,28
+2018,Issyk-Kul,,,,,,179
+2019,Issyk-Kul,,,,,,170
+2020,Issyk-Kul,,,,,,157
+2018,Naryn,,,,,,147
+2019,Naryn,,,,,,138
+2020,Naryn,,,,,,142
+2018,Osh,,,,,,67
+2019,Osh,,,,,,60
+2020,Osh,,,,,,62
+2018,Talas,,,,,,130
+2019,Talas,,,,,,137
+2020,Talas,,,,,,135
+2018,Chui,,,,,,122
+2019,Chui,,,,,,105
+2020,Chui,,,,,,94
+2018,Bishkek (city),,,,,,62
+2019,Bishkek (city),,,,,,63
+2020,Bishkek (city),,,,,,73
+2018,Osh (city),,,,,,18
+2019,Osh (city),,,,,,16
+2020,Osh (city),,,,,,13
+2018,,,15 to 24 years old,,,,4
+2019,,,15 to 24 years old,,,,3
+2020,,,15 to 24 years old,,,,4
+2018,,,,,,Primary education,28
+2019,,,,,,Primary education,34
+2020,,,,,,Primary education,28
+2018,,,,,,Lower secondary education,35
+2019,,,,,,Lower secondary education,29
+2020,,,,,,Lower secondary education,38
+2018,,,,,,Upper secondary education,98
+2019,,,,,,Upper secondary education,93
+2020,,,,,,Upper secondary education,88
+2018,,,,,,Post-secondary non-tertiary education,117
+2019,,,,,,Post-secondary non-tertiary education,118
+2020,,,,,,Post-secondary non-tertiary education,108
+2018,,,,,,Short-cycle tertiary education,56
+2019,,,,,,Short-cycle tertiary education,55
+2020,,,,,,Short-cycle tertiary education,49
+2018,,,,,Quintile 1 (poorest),,80
+2019,,,,,Quintile 1 (poorest),,82
+2020,,,,,Quintile 1 (poorest),,79
+2018,,,,,Quintile 2,,74
+2019,,,,,Quintile 2,,78
+2020,,,,,Quintile 2,,69
+2018,,,,,Quintile 3,,85
+2019,,,,,Quintile 3,,77
+2020,,,,,Quintile 3,,80
+2018,,,,,Quintile 4,,85
+2019,,,,,Quintile 4,,80
+2020,,,,,Quintile 4,,72
+2018,,,,,Quintile 5 (richest),,96
+2019,,,,,Quintile 5 (richest),,88
+2020,,,,,Quintile 5 (richest),,81
