@@ -7445,6 +7445,30 @@
       "title": "Доля  поступлений от экспорта товаров и услуг, расходуемая на обслуживание долга"
     },
     {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Выбросы CO2 на единицу добавленной стоимости"
+    },
+    {
       "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
@@ -9246,30 +9270,6 @@
         ]
       },
       "title": "Средняя доля застроенной городской территории, относящейся к открытым для всех общественным местам, с указанием доступности в разбивке по полу, возрасту и признаку инвалидности"
-    },
-    {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Выбросы CO2 на единицу добавленной стоимости"
     },
     {
       "path": "1-5-3/data.csv",
