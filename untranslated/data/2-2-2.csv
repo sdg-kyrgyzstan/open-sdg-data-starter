@@ -41,14 +41,14 @@ Year,COMMENT_OBS,SERIES,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDU
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,Y3T4,,,,1.3
 2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,M48T59,,,,2.7
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,M48T59,,,,0.6
-2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,,ISCED11_2,3.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,,,,ISCED11_2,2.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,,ISCED11_3,3.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,,,,ISCED11_3,1.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,,ISCED11_4,2.1
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,,,,ISCED11_4,2.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,,ISCED11_5,2.5
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,,,,ISCED11_5,1.8
+2014,Education of mother,SH_STA_WAST,,,,,,ISCED11_2,3.2
+2018,Education of mother,SH_STA_WAST,,,,,,ISCED11_2,2.8
+2014,Education of mother,SH_STA_WAST,,,,,,ISCED11_3,3.2
+2018,Education of mother,SH_STA_WAST,,,,,,ISCED11_3,1.8
+2014,Education of mother,SH_STA_WAST,,,,,,ISCED11_4,2.1
+2018,Education of mother,SH_STA_WAST,,,,,,ISCED11_4,2.4
+2014,Education of mother,SH_STA_WAST,,,,,,ISCED11_5,2.5
+2018,Education of mother,SH_STA_WAST,,,,,,ISCED11_5,1.8
 2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,Q1,,3.1
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SH_STA_WAST,,,,,Q1,,1.5
 2014,"According to Multiple Indicator Cluster Survey, 2014",SH_STA_WAST,,,,,Q2,,3.6
@@ -101,14 +101,14 @@ Year,COMMENT_OBS,SERIES,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDU
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,Y3T4,,,,4.6
 2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,M48T59,,,,3.3
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,M48T59,,,,5.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,,ISCED11_2,4.9
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,,,,ISCED11_2,7.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,,ISCED11_3,6.7
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,,,,ISCED11_3,6.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,,ISCED11_4,7.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,,,,ISCED11_4,8.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,,ISCED11_5,8.3
-2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,,,,ISCED11_5,6.9
+2014,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_2,4.9
+2018,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_2,7.4
+2014,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_3,6.7
+2018,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_3,6.1
+2014,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_4,7.2
+2018,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_4,8.5
+2014,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_5,8.3
+2018,Education of mother,SN_STA_OVWGT,,,,,,ISCED11_5,6.9
 2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,Q1,,6.2
 2018,"According to Multiple Indicator Cluster Survey, 2018.",SN_STA_OVWGT,,,,,Q1,,7.0
 2014,"According to Multiple Indicator Cluster Survey, 2014",SN_STA_OVWGT,,,,,Q2,,4.4

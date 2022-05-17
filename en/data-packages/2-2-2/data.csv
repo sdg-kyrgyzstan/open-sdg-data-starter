@@ -41,14 +41,14 @@ Year,Observation-level footnotes,SERIES,Reference area,Sex,Age,Degree of urbanis
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,3 to 4 years old,,,,1.3
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,48 to 59 months old,,,,2.7
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,48 to 59 months old,,,,0.6
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,,Lower secondary education,3.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,,,,Lower secondary education,2.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,,Upper secondary education,3.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,,,,Upper secondary education,1.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,,Post-secondary non-tertiary education,2.1
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,,,,Post-secondary non-tertiary education,2.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,,Short-cycle tertiary education,2.5
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,,,,Short-cycle tertiary education,1.8
+2014,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Lower secondary education,3.2
+2018,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Lower secondary education,2.8
+2014,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Upper secondary education,3.2
+2018,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Upper secondary education,1.8
+2014,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Post-secondary non-tertiary education,2.1
+2018,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Post-secondary non-tertiary education,2.4
+2014,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Short-cycle tertiary education,2.5
+2018,Education of mother,Proportion of children moderately or severely wasted (number),,,,,,Short-cycle tertiary education,1.8
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,Quintile 1 (poorest),,3.1
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely wasted (number),,,,,Quintile 1 (poorest),,1.5
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely wasted (number),,,,,Quintile 2,,3.6
@@ -101,14 +101,14 @@ Year,Observation-level footnotes,SERIES,Reference area,Sex,Age,Degree of urbanis
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,3 to 4 years old,,,,4.6
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,48 to 59 months old,,,,3.3
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,48 to 59 months old,,,,5.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,,Lower secondary education,4.9
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,,,,Lower secondary education,7.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,,Upper secondary education,6.7
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,,,,Upper secondary education,6.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,,Post-secondary non-tertiary education,7.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,,,,Post-secondary non-tertiary education,8.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,,Short-cycle tertiary education,8.3
-2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,,,,Short-cycle tertiary education,6.9
+2014,Education of mother,Proportion of children moderately or severely overweight,,,,,,Lower secondary education,4.9
+2018,Education of mother,Proportion of children moderately or severely overweight,,,,,,Lower secondary education,7.4
+2014,Education of mother,Proportion of children moderately or severely overweight,,,,,,Upper secondary education,6.7
+2018,Education of mother,Proportion of children moderately or severely overweight,,,,,,Upper secondary education,6.1
+2014,Education of mother,Proportion of children moderately or severely overweight,,,,,,Post-secondary non-tertiary education,7.2
+2018,Education of mother,Proportion of children moderately or severely overweight,,,,,,Post-secondary non-tertiary education,8.5
+2014,Education of mother,Proportion of children moderately or severely overweight,,,,,,Short-cycle tertiary education,8.3
+2018,Education of mother,Proportion of children moderately or severely overweight,,,,,,Short-cycle tertiary education,6.9
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,Quintile 1 (poorest),,6.2
 2018,"According to Multiple Indicator Cluster Survey, 2018.",Proportion of children moderately or severely overweight,,,,,Quintile 1 (poorest),,7.0
 2014,"According to Multiple Indicator Cluster Survey, 2014",Proportion of children moderately or severely overweight,,,,,Quintile 2,,4.4
