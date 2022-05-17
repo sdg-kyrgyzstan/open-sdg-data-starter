@@ -52,6 +52,76 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 to 5 months old",
+                "6 to 11 months old",
+                "12 to 17 months old",
+                "18 to 23 months old",
+                "24 to 35 months old",
+                "3 to 4 years old",
+                "48 to 59 months old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Short-cycle tertiary education",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
