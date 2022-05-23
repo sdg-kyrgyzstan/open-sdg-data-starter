@@ -6028,6 +6028,30 @@
       "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
     },
     {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Показатель потенциала в области статистики для отслеживания хода достижения целей в области устойчивого развития"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -9881,30 +9905,6 @@
         ]
       },
       "title": "Установленные в развивающихся странах генерирующие мощности на основе возобновляемых энергоносителей (в ваттах на душу населения) (повторяется в предлагаемой замене показателя 12.a.1, приведенной далее)"
-    },
-    {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Показатель потенциала в области статистики для отслеживания хода достижения целей в области устойчивого развития"
     },
     {
       "path": "1-a-1/data.csv",
