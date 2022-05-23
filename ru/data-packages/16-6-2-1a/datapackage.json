@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "FREQ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Годовая",
+                "Полугодовая, семестр"
+              ]
+            },
+            "title": "Частота наблюдений"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -31,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
