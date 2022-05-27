@@ -11179,6 +11179,30 @@
       "title": "Охват лечением расстройств, вызванных употреблением психоактивных веществ (медикаментозные, психосоциальные и реабилитационные услуги и услуги по последующему уходу)"
     },
     {
+      "path": "2-1-2-1d/data.csv",
+      "name": "2-1-2-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
+    },
+    {
       "path": "16-4-2/data.csv",
       "name": "16-4-2",
       "profile": "tabular-data-resource",
