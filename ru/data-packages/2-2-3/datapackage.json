@@ -11,13 +11,49 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 14 лет",
+                "15 лет и старше"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

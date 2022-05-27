@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Бытовая электронная техника (аудио и видео оборудование)",
+                "Коммуникационное оборудование (оборудование электросвязи)",
+                "Компьютерное и периферийное оборудование",
+                "Прочие электронные компоненты и товары сферы ИКТ"
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-11-1-1a",
+  "title": "ICT goods import as a percentage of total goods import"
+}

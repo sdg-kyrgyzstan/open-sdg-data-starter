@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grain and processed products",
+                "Wheat and wheat products in flour equivalent",
+                "Fruits-berries and processed products ",
+                "Potatoes and processed products",
+                "Vegetables and processed products",
+                "Meat and meat products in meat equivalent, including bacon and offal",
+                "Milk and dairy products in milk equivalent",
+                "Eggs and their processed products",
+                "Sugar",
+                "Vegetable oils",
+                "Fish and their processed products",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "* Предварительные данные",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

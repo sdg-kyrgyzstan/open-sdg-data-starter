@@ -259,6 +259,41 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
+      "path": "17-11-1-1a/data.csv",
+      "name": "17-11-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "ICT goods import as a percentage of total goods import"
+    },
+    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -279,6 +314,32 @@
         ]
       },
       "title": "global_indicators.5-5-1-title"
+    },
+    {
+      "path": "2-4-1-1/data.csv",
+      "name": "2-4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of ​​agricultural crops fertilized with mineral fertilizers"
     },
     {
       "path": "9-5-2/data.csv",
@@ -3171,6 +3232,38 @@
       "title": "global_indicators.8-2-1-title"
     },
     {
+      "path": "2-3-3-1c/data.csv",
+      "name": "2-3-3-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "* Предварительные данные",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Баланс потребления рыбной продукции на душу населения"
+    },
+    {
       "path": "3-9-2/data.csv",
       "name": "3-9-2",
       "profile": "tabular-data-resource",
@@ -3491,6 +3584,49 @@
         ]
       },
       "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
+    },
+    {
+      "path": "2-3-2-1/data.csv",
+      "name": "2-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_CROP_PROD",
+                "_L_LIVEST_PROD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "* Предварительные данные",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of product produced by agricultural cooperatives to total volume of products produced in the country"
     },
     {
       "path": "1-b-1-1/data.csv",
@@ -4867,6 +5003,58 @@
       "title": "global_indicators.7-1-1-title"
     },
     {
+      "path": "2-1-2-1d/data.csv",
+      "name": "2-1-2-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_AGG_GRAIN_PROCESS",
+                "_L_AGG_WHEATS",
+                "_L_AGG_BERRIES_PROCESS",
+                "_L_AGG_POT_PROCESS",
+                "_L_AGG_VEGS_PROCESS",
+                "_L_AGG_MEATS",
+                "_L_AGG_DAIRY",
+                "_L_AGG_EGGS_PROCESS",
+                "_L_AGG_SUGAR",
+                "_L_AGG_VEGOILS",
+                "_L_AGG_FISH_PROCESS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "* Предварительные данные",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
+    },
+    {
       "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
@@ -5215,6 +5403,46 @@
         ]
       },
       "title": "global_indicators.3-2-1-title"
+    },
+    {
+      "path": "4-1-1-1b/data.csv",
+      "name": "4-1-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Completion rate of primary education"
     },
     {
       "path": "9-3-1/data.csv",
@@ -5965,6 +6193,61 @@
         ]
       },
       "title": "global_indicators.17-1-2-title"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T14",
+                "Y_GE15",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-3-title"
     },
     {
       "path": "5-2-1-1b/data.csv",
@@ -8251,28 +8534,6 @@
       "title": "global_indicators.12-7-1-title"
     },
     {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-3-title"
-    },
-    {
       "path": "11-6-1/data.csv",
       "name": "11-6-1",
       "profile": "tabular-data-resource",
@@ -10295,50 +10556,6 @@
         ]
       },
       "title": "global_indicators.3-5-1-title"
-    },
-    {
-      "path": "2-1-2-1d/data.csv",
-      "name": "2-1-2-1d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
-    },
-    {
-      "path": "2-3-3-1c/data.csv",
-      "name": "2-3-3-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Баланс потребления рыбной продукции на душу населения"
     },
     {
       "path": "16-4-2/data.csv",

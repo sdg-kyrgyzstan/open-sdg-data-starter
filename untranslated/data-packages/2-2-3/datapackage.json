@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T14",
+                "Y_GE15",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

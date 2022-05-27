@@ -282,6 +282,44 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
+      "path": "17-11-1-1a/data.csv",
+      "name": "17-11-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Бытовая электронная техника (аудио и видео оборудование)",
+                "Коммуникационное оборудование (оборудование электросвязи)",
+                "Компьютерное и периферийное оборудование",
+                "Прочие электронные компоненты и товары сферы ИКТ"
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "ICT goods import as a percentage of total goods import"
+    },
+    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -304,6 +342,35 @@
         ]
       },
       "title": "Доля мест, занимаемых женщинами в a) национальных парламентах и b) местных органах власти"
+    },
+    {
+      "path": "2-4-1-1/data.csv",
+      "name": "2-4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of ​​agricultural crops fertilized with mineral fertilizers"
     },
     {
       "path": "9-5-2/data.csv",
@@ -2791,7 +2858,7 @@
                 "Сахар",
                 "Растительное масло",
                 "Овощи и бахчевые",
-                " Пшеница и продукты ее переработки  , в муке"
+                " Пшеница и продукты ее переработки, в муке"
               ]
             },
             "title": "Тип продукта"
@@ -3438,6 +3505,41 @@
       "title": "Ежегодные темпы роста реального ВВП на каждого занятого"
     },
     {
+      "path": "2-3-3-1c/data.csv",
+      "name": "2-3-3-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "* Предварительные данные"
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Баланс потребления рыбной продукции на душу населения"
+    },
+    {
       "path": "3-9-2/data.csv",
       "name": "3-9-2",
       "profile": "tabular-data-resource",
@@ -3787,6 +3889,53 @@
         ]
       },
       "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
+    },
+    {
+      "path": "2-3-2-1/data.csv",
+      "name": "2-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "* Предварительные данные"
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Доля произведенной продукции растениеводства",
+                "Доля произведенной продукции животноводства"
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of product produced by agricultural cooperatives to total volume of products produced in the country"
     },
     {
       "path": "1-b-1-1/data.csv",
@@ -5276,6 +5425,62 @@
       "title": "Доля населения, имеющего доступ к электроэнергии"
     },
     {
+      "path": "2-1-2-1d/data.csv",
+      "name": "2-1-2-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "* Предварительные данные"
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Плоды-ягоды и продукты их переработки ",
+                "Молоко и молочные продукты (в пересчете на молоко)",
+                "Яйца  и продукты их переработки",
+                "Рыба и продукты их переработки",
+                "Зерно и продукты их переработки",
+                "Мясо и мясопродукты в пересчете на мясо (включая сало и субпродукты)",
+                "Картофель и продукты их переработки ",
+                "Сахар",
+                "Растительное масло",
+                "Овощебахчевые и продукты их переработки",
+                " Пшеница и продукты ее переработки, в муке"
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
+    },
+    {
       "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
@@ -5651,6 +5856,49 @@
         ]
       },
       "title": "Коэффициент смертности детей в возрасте до пяти лет"
+    },
+    {
+      "path": "4-1-1-1b/data.csv",
+      "name": "4-1-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Completion rate of primary education"
     },
     {
       "path": "9-3-1/data.csv",
@@ -6466,6 +6714,66 @@
         ]
       },
       "title": "Доля  национального бюджета, финансируемая за счет внутренних налогов"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "до 14 лет",
+                "15 лет и старше"
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Иссык-Кульская область",
+                "Джалал-Абадская область",
+                "Нарынская область",
+                "Баткенская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош"
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
     },
     {
       "path": "5-2-1-1b/data.csv",
@@ -8947,30 +9255,6 @@
       "title": "Число стран, осуществляющих стратегии и планы действий по экологизации государственных закупок"
     },
     {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
-    },
-    {
       "path": "11-6-1/data.csv",
       "name": "11-6-1",
       "profile": "tabular-data-resource",
@@ -11177,54 +11461,6 @@
         ]
       },
       "title": "Охват лечением расстройств, вызванных употреблением психоактивных веществ (медикаментозные, психосоциальные и реабилитационные услуги и услуги по последующему уходу)"
-    },
-    {
-      "path": "2-1-2-1d/data.csv",
-      "name": "2-1-2-1d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
-    },
-    {
-      "path": "2-3-3-1c/data.csv",
-      "name": "2-3-3-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Баланс потребления рыбной продукции на душу населения"
     },
     {
       "path": "16-4-2/data.csv",

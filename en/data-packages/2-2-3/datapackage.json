@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 14 years old",
+                "15 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",
