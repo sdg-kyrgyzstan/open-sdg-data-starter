@@ -282,44 +282,6 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
-      "path": "17-11-1-1a/data.csv",
-      "name": "17-11-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Бытовая электронная техника (аудио и видео оборудование)",
-                "Коммуникационное оборудование (оборудование электросвязи)",
-                "Компьютерное и периферийное оборудование",
-                "Прочие электронные компоненты и товары сферы ИКТ"
-              ]
-            },
-            "title": "Тип продукта"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "ICT goods import as a percentage of total goods import"
-    },
-    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -3117,6 +3079,44 @@
         ]
       },
       "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
+    },
+    {
+      "path": "17-11-1-1a/data.csv",
+      "name": "17-11-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Бытовая электронная техника (аудио и видео оборудование)",
+                "Коммуникационное оборудование (оборудование электросвязи)",
+                "Компьютерное и периферийное оборудование",
+                "Прочие электронные компоненты и товары сферы ИКТ"
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "ICT goods import as a percentage of total goods import"
     },
     {
       "path": "8-10-2-2/data.csv",

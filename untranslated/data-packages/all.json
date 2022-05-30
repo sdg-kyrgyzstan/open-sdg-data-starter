@@ -259,41 +259,6 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
-      "path": "17-11-1-1a/data.csv",
-      "name": "17-11-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_COMP_PER_EQUIP",
-                "_L_COMM_EQUIP",
-                "_L_COMM_ELECT",
-                "_L_OTHER_ELECT_COMP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "ICT goods import as a percentage of total goods import"
-    },
-    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -2874,6 +2839,41 @@
         ]
       },
       "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
+    },
+    {
+      "path": "17-11-1-1a/data.csv",
+      "name": "17-11-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "ICT goods import as a percentage of total goods import"
     },
     {
       "path": "8-10-2-2/data.csv",
