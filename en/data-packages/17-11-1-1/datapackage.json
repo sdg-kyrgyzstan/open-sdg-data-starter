@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Computer and peripheral equipment",
+                "Communication equipment (telecommunication equipment)",
+                "Consumer electronics (audio and video equipment)",
+                "Other electronic components and ICT products",
+                ""
+              ]
+            },
+            "title": "Type of product"
           },
           {
             "name": "Value",

@@ -2841,8 +2841,8 @@
       "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
     },
     {
-      "path": "17-11-1-1a/data.csv",
-      "name": "17-11-1-1a",
+      "path": "17-11-1-1/data.csv",
+      "name": "17-11-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2873,7 +2873,7 @@
           }
         ]
       },
-      "title": "ICT goods import as a percentage of total goods import"
+      "title": "Импорт и экспорт товаров ИКТ в процентах к совокупному объему импорта/экспорта товаров"
     },
     {
       "path": "8-10-2-2/data.csv",
@@ -10864,28 +10864,6 @@
         ]
       },
       "title": "global_indicators.16-5-2-title"
-    },
-    {
-      "path": "17-11-1-1/data.csv",
-      "name": "17-11-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Импорт и экспорт товаров ИКТ в процентах к совокупному объему импорта/экспорта товаров"
     },
     {
       "path": "17-12-1/data.csv",
