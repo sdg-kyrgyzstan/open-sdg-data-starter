@@ -10,7 +10,7 @@ Year,Reference area,Value
 2015,,0.532092
 2016,,0.21124
 2017,,0.193675
-2018,,0.21
+2018,,0.213318
 2019,,0.052302
 2020,,0.044166
 2007,Batken,0.358951
@@ -24,7 +24,7 @@ Year,Reference area,Value
 2015,Batken,3.438047
 2016,Batken,2.2105
 2017,Batken,0.753563
-2018,Batken,1.04
+2018,Batken,1.035207
 2019,Batken,0.113897
 2020,Batken,0.361854
 2007,Jalal-Abad,0.412118
@@ -38,7 +38,7 @@ Year,Reference area,Value
 2015,Jalal-Abad,0.172868
 2016,Jalal-Abad,0.441517
 2017,Jalal-Abad,0.196222
-2018,Jalal-Abad,0.11
+2018,Jalal-Abad,0.108852
 2019,Jalal-Abad,0.23463
 2020,Jalal-Abad,0.274087
 2007,Issyk-Kul,0.003239
@@ -52,7 +52,7 @@ Year,Reference area,Value
 2015,Issyk-Kul,0.015296
 2016,Issyk-Kul,0.169567
 2017,Issyk-Kul,0.130728
-2018,Issyk-Kul,0.11
+2018,Issyk-Kul,0.110363
 2019,Issyk-Kul,0.013155
 2020,Issyk-Kul,0.000467
 2007,Naryn,0.009569
@@ -66,7 +66,7 @@ Year,Reference area,Value
 2015,Naryn,0.214395
 2016,Naryn,0.157299
 2017,Naryn,0.091702
-2018,Naryn,0.01
+2018,Naryn,0.009951
 2020,Naryn,0.086033
 2007,Osh,0.042933
 2008,Osh,5.639406
@@ -79,7 +79,7 @@ Year,Reference area,Value
 2015,Osh,4.302561
 2016,Osh,0.049422
 2017,Osh,0.702855
-2018,Osh,0.03
+2018,Osh,0.029149
 2019,Osh,0.005898
 2007,Talas,0.210978
 2008,Talas,0.051951
@@ -92,7 +92,7 @@ Year,Reference area,Value
 2015,Talas,0.061365
 2016,Talas,0.517318
 2017,Talas,0.092032
-2018,Talas,0.0
+2018,Talas,0.004733
 2007,Chui,0.035582
 2010,Chui,0.005701
 2011,Chui,0.01326
@@ -102,16 +102,16 @@ Year,Reference area,Value
 2015,Chui,0.033197
 2016,Chui,0.118862
 2017,Chui,0.234678
-2018,Chui,0.01
+2018,Chui,0.007343
 2019,Chui,0.00233
-2020,Chui,1.2e-05
+2020,Chui,0.0
 2007,Bishkek (city),0.063779
 2008,Bishkek (city),0.060758
 2013,Bishkek (city),0.00051
 2015,Bishkek (city),0.028178
 2016,Bishkek (city),0.047988
 2017,Bishkek (city),0.006461
-2018,Bishkek (city),0.37
+2018,Bishkek (city),0.372554
 2019,Bishkek (city),0.046929
 2007,Osh (city),0.01574
 2008,Osh (city),0.003371
