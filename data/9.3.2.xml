@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1653881450225</message:ID>
+    <message:ID>IREF1655099080760</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-05-30T03:30:50Z</message:Prepared>
+    <message:Prepared>2022-06-13T05:44:40Z</message:Prepared>
     <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -18,19 +18,19 @@
   </message:Header>
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="FC_ACC_SSID" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2008" OBS_VALUE="14.485166" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008"></Obs>
-    <Obs TIME_PERIOD="2009" OBS_VALUE="14.654688" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2009"></Obs>
-    <Obs TIME_PERIOD="2010" OBS_VALUE="15.301479" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="15.384615" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="15.257958" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="13.88601" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="13.41165" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="14.776471" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="14.851485" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="14.966314" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="13.297207" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="12.325142" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="12.367362" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="14.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="14.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="13.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="12.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="11.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="10.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="10.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="10.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="10.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="10.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="10.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="9.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="9.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
