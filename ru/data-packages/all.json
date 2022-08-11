@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -82,7 +82,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -106,7 +106,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -149,7 +149,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -229,7 +229,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -352,7 +352,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -424,7 +424,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -491,7 +491,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Income or wealth quantile",
@@ -526,7 +526,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -550,7 +550,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -599,7 +599,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -716,7 +716,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -753,7 +753,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -796,7 +796,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -851,7 +851,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -906,7 +906,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1017,7 +1017,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1072,7 +1072,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1123,7 +1123,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1178,7 +1178,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1273,7 +1273,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -1313,7 +1313,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1409,7 +1409,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Age",
@@ -1464,7 +1464,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1501,7 +1501,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1538,7 +1538,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1593,7 +1593,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1636,7 +1636,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Occupation",
@@ -1674,7 +1674,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1712,7 +1712,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -1736,7 +1736,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -1773,7 +1773,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1881,7 +1881,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1924,7 +1924,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -1967,7 +1967,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -1991,7 +1991,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -2027,7 +2027,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -2089,7 +2089,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -2145,7 +2145,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -2181,7 +2181,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Type of product",
@@ -2219,7 +2219,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -2262,7 +2262,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -2311,7 +2311,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -2437,7 +2437,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -2473,7 +2473,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -2559,7 +2559,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -2676,7 +2676,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -2743,7 +2743,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -2832,7 +2832,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -2856,7 +2856,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -2880,7 +2880,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -2904,7 +2904,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Economic activity",
@@ -2956,7 +2956,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -3017,7 +3017,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -3041,7 +3041,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3083,7 +3083,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3195,7 +3195,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -3296,7 +3296,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -3320,7 +3320,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -3362,7 +3362,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3417,7 +3417,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -3441,7 +3441,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -3465,7 +3465,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -3513,7 +3513,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3556,7 +3556,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -3621,7 +3621,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -3660,7 +3660,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -3798,7 +3798,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -3845,7 +3845,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3888,7 +3888,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -3943,7 +3943,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4023,7 +4023,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4066,7 +4066,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Frequency of observation",
@@ -4121,7 +4121,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -4145,7 +4145,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4188,7 +4188,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Показатель",
@@ -4223,7 +4223,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -4263,7 +4263,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4306,7 +4306,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4361,7 +4361,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4416,7 +4416,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -4440,7 +4440,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4483,7 +4483,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4526,7 +4526,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4580,7 +4580,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4621,7 +4621,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Degree of urbanisation",
@@ -4657,7 +4657,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "UNIT_MULT",
@@ -4729,7 +4729,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -4790,7 +4790,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -4825,7 +4825,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -4868,7 +4868,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -4892,7 +4892,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -4916,7 +4916,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5027,7 +5027,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "UNIT_MULT",
@@ -5101,7 +5101,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -5138,7 +5138,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -5177,7 +5177,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5232,7 +5232,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -5299,7 +5299,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -5336,7 +5336,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5391,7 +5391,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5457,7 +5457,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "UNIT_MULT",
@@ -5535,7 +5535,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -5559,7 +5559,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -5583,7 +5583,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5649,7 +5649,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5718,7 +5718,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -5761,7 +5761,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -5797,7 +5797,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -5821,7 +5821,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -5857,7 +5857,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -5924,7 +5924,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -6021,7 +6021,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6064,7 +6064,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6168,7 +6168,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6278,7 +6278,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -6302,7 +6302,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -6341,7 +6341,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6377,7 +6377,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6413,7 +6413,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -6437,7 +6437,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Type of product",
@@ -6493,7 +6493,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -6517,7 +6517,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6572,7 +6572,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6620,7 +6620,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6663,7 +6663,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6715,7 +6715,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6826,7 +6826,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -6894,7 +6894,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6931,7 +6931,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -6967,7 +6967,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -6991,7 +6991,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -7130,7 +7130,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -7185,7 +7185,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -7319,7 +7319,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -7364,7 +7364,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -7402,7 +7402,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "COMMENT_OBS",
@@ -7530,7 +7530,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "UNIT_MULT",
@@ -7590,7 +7590,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -7633,7 +7633,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "UNIT_MULT",
@@ -7701,7 +7701,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Sex",
@@ -7780,7 +7780,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Type of product",
@@ -7824,7 +7824,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -7905,7 +7905,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -7944,7 +7944,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Composite breakdown",
@@ -7981,7 +7981,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -8091,7 +8091,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8115,7 +8115,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "SDG Series",
@@ -8151,7 +8151,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Reference area",
@@ -8247,7 +8247,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Территория",
@@ -8362,7 +8362,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Территория",
@@ -8417,7 +8417,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Показатель",
@@ -8515,7 +8515,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Показатель",
@@ -8651,7 +8651,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Территория",
@@ -8706,7 +8706,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8730,7 +8730,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8754,7 +8754,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8778,7 +8778,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8802,7 +8802,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8826,7 +8826,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8850,7 +8850,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8874,7 +8874,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8898,7 +8898,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8922,7 +8922,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8946,7 +8946,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8970,7 +8970,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -8994,7 +8994,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9018,7 +9018,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9042,7 +9042,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9066,7 +9066,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9090,7 +9090,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9114,7 +9114,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9138,7 +9138,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9162,7 +9162,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9186,7 +9186,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9210,7 +9210,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9234,7 +9234,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9258,7 +9258,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9282,7 +9282,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9306,7 +9306,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9330,7 +9330,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9354,7 +9354,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9378,7 +9378,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9402,7 +9402,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9426,7 +9426,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9450,7 +9450,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9474,7 +9474,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9498,7 +9498,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9522,7 +9522,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9546,7 +9546,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9570,7 +9570,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9594,7 +9594,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9618,7 +9618,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9642,7 +9642,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9666,7 +9666,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9690,7 +9690,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9714,7 +9714,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9738,7 +9738,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9762,7 +9762,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9786,7 +9786,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9810,7 +9810,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9834,7 +9834,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9858,7 +9858,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9882,7 +9882,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9906,7 +9906,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9930,7 +9930,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9954,7 +9954,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -9978,7 +9978,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10002,7 +10002,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10026,7 +10026,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10050,7 +10050,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10074,7 +10074,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10098,7 +10098,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10122,7 +10122,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10146,7 +10146,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10170,7 +10170,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10194,7 +10194,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10218,7 +10218,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10242,7 +10242,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10266,7 +10266,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10290,7 +10290,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10314,7 +10314,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10338,7 +10338,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10362,7 +10362,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10386,7 +10386,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10410,7 +10410,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10434,7 +10434,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10458,7 +10458,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10482,7 +10482,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10506,7 +10506,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10530,7 +10530,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10554,7 +10554,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10578,7 +10578,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10602,7 +10602,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10626,7 +10626,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10650,7 +10650,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10674,7 +10674,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10698,7 +10698,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10722,7 +10722,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10746,7 +10746,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10770,7 +10770,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10794,7 +10794,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10818,7 +10818,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10842,7 +10842,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10866,7 +10866,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10890,7 +10890,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10914,7 +10914,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10938,7 +10938,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10962,7 +10962,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -10986,7 +10986,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11010,7 +11010,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11034,7 +11034,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11058,7 +11058,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11082,7 +11082,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11106,7 +11106,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11130,7 +11130,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11154,7 +11154,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11178,7 +11178,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11202,7 +11202,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11226,7 +11226,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11250,7 +11250,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11274,7 +11274,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11298,7 +11298,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11322,7 +11322,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11346,7 +11346,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11370,7 +11370,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11394,7 +11394,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11418,7 +11418,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11442,7 +11442,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11466,7 +11466,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11490,7 +11490,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11514,7 +11514,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11538,7 +11538,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11562,7 +11562,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11586,7 +11586,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11610,7 +11610,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11634,7 +11634,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11658,7 +11658,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11682,7 +11682,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11706,7 +11706,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11730,7 +11730,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11754,7 +11754,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11778,7 +11778,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11802,7 +11802,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11826,7 +11826,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11850,7 +11850,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11874,7 +11874,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11898,7 +11898,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11922,7 +11922,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11946,7 +11946,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11970,7 +11970,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -11994,7 +11994,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12018,7 +12018,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12042,7 +12042,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12066,7 +12066,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12090,7 +12090,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12114,7 +12114,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12138,7 +12138,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12162,7 +12162,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12186,7 +12186,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12210,7 +12210,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12234,7 +12234,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12258,7 +12258,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12282,7 +12282,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12306,7 +12306,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12330,7 +12330,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12354,7 +12354,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
@@ -12378,7 +12378,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Год"
           },
           {
             "name": "Value",
