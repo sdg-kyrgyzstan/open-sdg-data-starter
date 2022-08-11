@@ -12,15 +12,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_CROP_PROD",
-                "_L_LIVEST_PROD",
+                "Share of crop production",
+                "Share of livestock production",
                 ""
               ]
             }

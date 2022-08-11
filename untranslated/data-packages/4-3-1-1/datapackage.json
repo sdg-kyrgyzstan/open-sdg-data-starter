@@ -12,39 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T17",
-                "Y17T20",
-                "Y17T24",
+                "15 to 17 years old",
+                "17 to 20 years old",
+                "17 to 24 years old",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_3_4",
-                "ISCED11_5",
-                "ISCED11_6_7",
+                "Secondary and post-secondary non-tertiary education (intermediate)",
+                "Short-cycle tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
                 ""
               ]
             }

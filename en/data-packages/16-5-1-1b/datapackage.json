@@ -12,16 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of convictions for malfeasance",
+                "Number of convictions for сorruption and bribery",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [

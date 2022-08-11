@@ -12,16 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)",
+                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)",
+                "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3)",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [

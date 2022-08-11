@@ -1,28 +1,28 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2012,IS_256KT2M,22233
-2013,IS_256KT2M,77877
-2014,IS_256KT2M,105680
-2015,IS_256KT2M,46408
-2016,IS_256KT2M,27317
-2017,IS_256KT2M,27428
-2018,IS_256KT2M,22654
-2019,IS_256KT2M,20556
-2020,IS_256KT2M,8075
-2012,IS_2MT10M,6530
-2013,IS_2MT10M,43943
-2014,IS_2MT10M,65345
-2015,IS_2MT10M,59377
-2016,IS_2MT10M,91834
-2017,IS_2MT10M,101786
-2018,IS_2MT10M,158296
-2019,IS_2MT10M,174988
-2020,IS_2MT10M,79553
-2012,IS_GE10M,19351
-2013,IS_GE10M,14065
-2014,IS_GE10M,14032
-2015,IS_GE10M,105739
-2016,IS_GE10M,115047
-2017,IS_GE10M,128799
-2018,IS_GE10M,69662
-2019,IS_GE10M,73547
-2020,IS_GE10M,181557
+Year,Composite breakdown,Value
+2012,Internet speed: 256 kbit/s to less than 2 Mbit/s,22233
+2013,Internet speed: 256 kbit/s to less than 2 Mbit/s,77877
+2014,Internet speed: 256 kbit/s to less than 2 Mbit/s,105680
+2015,Internet speed: 256 kbit/s to less than 2 Mbit/s,46408
+2016,Internet speed: 256 kbit/s to less than 2 Mbit/s,27317
+2017,Internet speed: 256 kbit/s to less than 2 Mbit/s,27428
+2018,Internet speed: 256 kbit/s to less than 2 Mbit/s,22654
+2019,Internet speed: 256 kbit/s to less than 2 Mbit/s,20556
+2020,Internet speed: 256 kbit/s to less than 2 Mbit/s,8075
+2012,Internet speed: 2 Mbit/s to less than 10 Mbit/s,6530
+2013,Internet speed: 2 Mbit/s to less than 10 Mbit/s,43943
+2014,Internet speed: 2 Mbit/s to less than 10 Mbit/s,65345
+2015,Internet speed: 2 Mbit/s to less than 10 Mbit/s,59377
+2016,Internet speed: 2 Mbit/s to less than 10 Mbit/s,91834
+2017,Internet speed: 2 Mbit/s to less than 10 Mbit/s,101786
+2018,Internet speed: 2 Mbit/s to less than 10 Mbit/s,158296
+2019,Internet speed: 2 Mbit/s to less than 10 Mbit/s,174988
+2020,Internet speed: 2 Mbit/s to less than 10 Mbit/s,79553
+2012,Internet speed: 10 Mbit/s or above,19351
+2013,Internet speed: 10 Mbit/s or above,14065
+2014,Internet speed: 10 Mbit/s or above,14032
+2015,Internet speed: 10 Mbit/s or above,105739
+2016,Internet speed: 10 Mbit/s or above,115047
+2017,Internet speed: 10 Mbit/s or above,128799
+2018,Internet speed: 10 Mbit/s or above,69662
+2019,Internet speed: 10 Mbit/s or above,73547
+2020,Internet speed: 10 Mbit/s or above,181557

@@ -1,60 +1,60 @@
-Year,COMMENT_OBS,REF_AREA,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,DISABILITY_STATUS,Value
+Year,COMMENT_OBS,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
 2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,,,42.0
 2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,,67.4
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG05,,,,,,45.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG05,,,,,,48.6
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG03,,,,,,31.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG03,,,,,,56.2
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG02,,,,,,46.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG02,,,,,,65.1
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG04,,,,,,58.9
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG04,,,,,,79.8
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG06,,,,,,38.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG06,,,,,,71.1
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG07,,,,,,43.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG07,,,,,,79.1
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG08,,,,,,47.8
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG08,,,,,,70.7
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG11,,,,,,47.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG11,,,,,,69.6
-2014,"According to Multiple Indicator Cluster Survey, 2014.",KG21,,,,,,38.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",KG21,,,,,,71.3
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,U,,,,43.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,U,,,,68.6
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,R,,,,41.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,R,,,,66.7
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y15T19,,,,,17.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y15T19,,,,,31.7
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y20T24,,,,,28.9
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y20T24,,,,,53.8
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y25T29,,,,,39.2
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y25T29,,,,,59.9
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y30T34,,,,,50.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y30T34,,,,,76.2
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y35T39,,,,,57.2
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y35T39,,,,,74.5
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y40T44,,,,,52.2
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y40T44,,,,,68.7
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,Y45T49,,,,,29.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Y45T49,,,,,66.0
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,ISCED11_1,,20.4
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,ISCED11_2,,36.5
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,ISCED11_2,,67.8
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,ISCED11_3,,42.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,ISCED11_3,,62.9
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,ISCED11_4,,43.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,ISCED11_4,,66.2
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,ISCED11_5,,43.7
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,ISCED11_5,,74.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,PD,81.6
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,PWD,67.1
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Q1,,,42.5
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Q1,,,66.5
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Q2,,,37.8
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Q2,,,60.7
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Q3,,,39.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Q3,,,69.2
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Q4,,,45.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Q4,,,69.3
-2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Q5,,,45.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Q5,,,71.4
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Batken,,,,,,45.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",Batken,,,,,,48.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Jalal-Abad,,,,,,31.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",Jalal-Abad,,,,,,56.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Issyk-Kul,,,,,,46.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",Issyk-Kul,,,,,,65.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Naryn,,,,,,58.9
+2018,"According to Multiple Indicator Cluster Survey, 2018",Naryn,,,,,,79.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Osh,,,,,,38.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",Osh,,,,,,71.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Talas,,,,,,43.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",Talas,,,,,,79.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Chui,,,,,,47.8
+2018,"According to Multiple Indicator Cluster Survey, 2018",Chui,,,,,,70.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Bishkek (city),,,,,,47.0
+2018,"According to Multiple Indicator Cluster Survey, 2018",Bishkek (city),,,,,,69.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",Osh (city),,,,,,38.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",Osh (city),,,,,,71.3
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,Urban,,,,43.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,Urban,,,,68.6
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,Rural,,,,41.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,Rural,,,,66.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,15 to 19 years old,,,,,17.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,15 to 19 years old,,,,,31.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,20 to 24 years old,,,,,28.9
+2018,"According to Multiple Indicator Cluster Survey, 2018",,20 to 24 years old,,,,,53.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,25 to 29 years old,,,,,39.2
+2018,"According to Multiple Indicator Cluster Survey, 2018",,25 to 29 years old,,,,,59.9
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,30 to 34 years old,,,,,50.4
+2018,"According to Multiple Indicator Cluster Survey, 2018",,30 to 34 years old,,,,,76.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,35 to 39 years old,,,,,57.2
+2018,"According to Multiple Indicator Cluster Survey, 2018",,35 to 39 years old,,,,,74.5
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,40 to 44 years old,,,,,52.2
+2018,"According to Multiple Indicator Cluster Survey, 2018",,40 to 44 years old,,,,,68.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,45 to 49 years old,,,,,29.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",,45 to 49 years old,,,,,66.0
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Primary education,,20.4
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Lower secondary education,,36.5
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Lower secondary education,,67.8
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Upper secondary education,,42.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Upper secondary education,,62.9
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Post-secondary non-tertiary education,,43.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Post-secondary non-tertiary education,,66.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,,Short-cycle tertiary education,,43.7
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Short-cycle tertiary education,,74.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Persons with disability,81.6
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Persons without disability,67.1
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Quintile 1 (poorest),,,42.5
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Quintile 1 (poorest),,,66.5
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Quintile 2,,,37.8
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Quintile 2,,,60.7
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Quintile 3,,,39.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Quintile 3,,,69.2
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Quintile 4,,,45.1
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Quintile 4,,,69.3
+2014,"According to Multiple Indicator Cluster Survey, 2014.",,,,Quintile 5 (richest),,,45.3
+2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Quintile 5 (richest),,,71.4

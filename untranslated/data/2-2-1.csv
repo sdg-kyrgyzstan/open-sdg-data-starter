@@ -1,62 +1,62 @@
-Year,COMMENT_OBS,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,Value
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,,,12.9
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,,,11.8
-2014,"According to Multiple Indicator Cluster Survey,2014",KG05,,Y0T4,,,,13.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG05,,Y0T4,,,,11.9
-2014,"According to Multiple Indicator Cluster Survey,2014",KG03,,Y0T4,,,,21.3
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG03,,Y0T4,,,,15.5
-2014,"According to Multiple Indicator Cluster Survey,2014",KG02,,Y0T4,,,,14.1
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG02,,Y0T4,,,,14.2
-2014,"According to Multiple Indicator Cluster Survey,2014",KG04,,Y0T4,,,,16.4
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG04,,Y0T4,,,,6.5
-2014,"According to Multiple Indicator Cluster Survey,2014",KG06,,Y0T4,,,,10.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG06,,Y0T4,,,,13.7
-2014,"According to Multiple Indicator Cluster Survey,2014",KG07,,Y0T4,,,,11.0
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG07,,Y0T4,,,,10.0
-2014,"According to Multiple Indicator Cluster Survey,2014",KG08,,Y0T4,,,,7.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG08,,Y0T4,,,,10.1
-2014,"According to Multiple Indicator Cluster Survey,2014",KG11,,Y0T4,,,,7.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG11,,Y0T4,,,,5.9
-2014,"According to Multiple Indicator Cluster Survey,2014",KG21,,Y0T4,,,,12.1
-2018,"According to Multiple Indicator Cluster Survey, 2018.",KG21,,Y0T4,,,,10.9
-2014,"According to Multiple Indicator Cluster Survey,2014",,M,Y0T4,,,,13.8
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,M,Y0T4,,,,12.5
-2014,"According to Multiple Indicator Cluster Survey,2014",,F,Y0T4,,,,12.0
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,F,Y0T4,,,,10.9
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,U,,,11.8
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,U,,,8.8
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,R,,,13.4
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,R,,,13.1
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M0T5,,,,5.3
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M0T5,,,,5.4
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M6T11,,,,7.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M6T11,,,,9.3
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M12T17,,,,11.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M12T17,,,,12.1
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M18T23,,,,18.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M18T23,,,,17.2
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M24T35,,,,18.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M24T35,,,,13.2
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M36T47,,,,14.6
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M36T47,,,,11.2
-2014,"According to Multiple Indicator Cluster Survey,2014",,,M48T59,,,,10.5
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,M48T59,,,,12.7
-2014,Education of mother,,,Y0T4,,,ISCED11_1,26.5
-2014,Education of mother,,,Y0T4,,,ISCED11_2,17.1
-2018,Education of mother,,,Y0T4,,,ISCED11_2,14.8
-2014,Education of mother,,,Y0T4,,,ISCED11_3,13.5
-2018,Education of mother,,,Y0T4,,,ISCED11_3,12.0
-2014,Education of mother,,,Y0T4,,,ISCED11_4,11.8
-2018,Education of mother,,,Y0T4,,,ISCED11_4,12.2
-2014,Education of mother,,,Y0T4,,,ISCED11_5,9.8
-2018,Education of mother,,,Y0T4,,,ISCED11_5,10.0
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,Q1,,17.7
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,Q1,,14.0
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,Q2,,14.2
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,Q2,,13.8
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,Q3,,10.1
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,Q3,,12.0
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,Q4,,10.7
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,Q4,,8.2
-2014,"According to Multiple Indicator Cluster Survey,2014",,,Y0T4,,Q5,,10.7
-2018,"According to Multiple Indicator Cluster Survey, 2018.",,,Y0T4,,Q5,,9.2
+Year,COMMENT_OBS,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,,,12.9
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,,,11.8
+2014,"According to Multiple Indicator Cluster Survey,2014",Batken,,under 5 years old,,,,13.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Batken,,under 5 years old,,,,11.9
+2014,"According to Multiple Indicator Cluster Survey,2014",Jalal-Abad,,under 5 years old,,,,21.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Jalal-Abad,,under 5 years old,,,,15.5
+2014,"According to Multiple Indicator Cluster Survey,2014",Issyk-Kul,,under 5 years old,,,,14.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Issyk-Kul,,under 5 years old,,,,14.2
+2014,"According to Multiple Indicator Cluster Survey,2014",Naryn,,under 5 years old,,,,16.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Naryn,,under 5 years old,,,,6.5
+2014,"According to Multiple Indicator Cluster Survey,2014",Osh,,under 5 years old,,,,10.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Osh,,under 5 years old,,,,13.7
+2014,"According to Multiple Indicator Cluster Survey,2014",Talas,,under 5 years old,,,,11.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Talas,,under 5 years old,,,,10.0
+2014,"According to Multiple Indicator Cluster Survey,2014",Chui,,under 5 years old,,,,7.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Chui,,under 5 years old,,,,10.1
+2014,"According to Multiple Indicator Cluster Survey,2014",Bishkek (city),,under 5 years old,,,,7.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Bishkek (city),,under 5 years old,,,,5.9
+2014,"According to Multiple Indicator Cluster Survey,2014",Osh (city),,under 5 years old,,,,12.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",Osh (city),,under 5 years old,,,,10.9
+2014,"According to Multiple Indicator Cluster Survey,2014",,Male,under 5 years old,,,,13.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,Male,under 5 years old,,,,12.5
+2014,"According to Multiple Indicator Cluster Survey,2014",,Female,under 5 years old,,,,12.0
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,Female,under 5 years old,,,,10.9
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,Urban,,,11.8
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,Urban,,,8.8
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,Rural,,,13.4
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,Rural,,,13.1
+2014,"According to Multiple Indicator Cluster Survey,2014",,,0 to 5 months old,,,,5.3
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,0 to 5 months old,,,,5.4
+2014,"According to Multiple Indicator Cluster Survey,2014",,,6 to 11 months old,,,,7.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,6 to 11 months old,,,,9.3
+2014,"According to Multiple Indicator Cluster Survey,2014",,,12 to 17 months old,,,,11.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,12 to 17 months old,,,,12.1
+2014,"According to Multiple Indicator Cluster Survey,2014",,,18 to 23 months old,,,,18.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,18 to 23 months old,,,,17.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,24 to 35 months old,,,,18.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,24 to 35 months old,,,,13.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,36 to 47 months old,,,,14.6
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,36 to 47 months old,,,,11.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,48 to 59 months old,,,,10.5
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,48 to 59 months old,,,,12.7
+2014,Education of mother,,,under 5 years old,,,Primary education,26.5
+2014,Education of mother,,,under 5 years old,,,Lower secondary education,17.1
+2018,Education of mother,,,under 5 years old,,,Lower secondary education,14.8
+2014,Education of mother,,,under 5 years old,,,Upper secondary education,13.5
+2018,Education of mother,,,under 5 years old,,,Upper secondary education,12.0
+2014,Education of mother,,,under 5 years old,,,Post-secondary non-tertiary education,11.8
+2018,Education of mother,,,under 5 years old,,,Post-secondary non-tertiary education,12.2
+2014,Education of mother,,,under 5 years old,,,Short-cycle tertiary education,9.8
+2018,Education of mother,,,under 5 years old,,,Short-cycle tertiary education,10.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,Quintile 1 (poorest),,17.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,Quintile 1 (poorest),,14.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,Quintile 2,,14.2
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,Quintile 2,,13.8
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,Quintile 3,,10.1
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,Quintile 3,,12.0
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,Quintile 4,,10.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,Quintile 4,,8.2
+2014,"According to Multiple Indicator Cluster Survey,2014",,,under 5 years old,,Quintile 5 (richest),,10.7
+2018,"According to Multiple Indicator Cluster Survey, 2018.",,,under 5 years old,,Quintile 5 (richest),,9.2

@@ -12,19 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_CNT_RU",
-                "_L_CNT_BY",
-                "_L_CNT_KZ",
-                "_L_CNT_TJ",
-                "_L_CNT_CN",
-                "_L_CNT_HU",
+                "Country: Russian Federation",
+                "Country: Republic of Belarus ",
+                "Country: Republic of Kazakhstan",
+                "Country: Republic of Tajikistan",
+                "Country: People's Republic of China",
+                "Country: Hungary",
                 ""
               ]
             }

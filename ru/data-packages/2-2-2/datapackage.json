@@ -11,121 +11,128 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "от 0 до 5 месяцев",
-                "от 12 до 17 месяцев",
-                "от 18 до 23 месяцев",
-                "от 24 до 35 месяцев",
-                "от 48 до 59 месяцев",
-                "от 6 до 11 месяцев",
-                "от 3 до 4 лет"
-              ]
-            },
-            "title": "Возраст"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "According to Multiple Indicator Cluster Survey, 2014",
                 "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother"
+                "Education of mother",
+                ""
               ]
             },
             "title": "Сноски на уровне наблюдения"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Короткий цикл третичного образования"
+                "Proportion of children moderately or severely wasted (number)",
+                "Proportion of children moderately or severely overweight",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "SDG Series"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Квинтиль 1 (беднейшие)",
-                "Квинтиль 2",
-                "Квинтиль 3",
-                "Квинтиль 4",
-                "Квинтиль 5 (богатейшие)"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Уровень дохода или квантиль благосостояния"
+            "title": "Reference area"
           },
           {
-            "name": "REF_AREA",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Sex"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "SEX",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "0 to 5 months old",
+                "6 to 11 months old",
+                "12 to 17 months old",
+                "18 to 23 months old",
+                "24 to 35 months old",
+                "3 to 4 years old",
+                "48 to 59 months old",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Short-cycle tertiary education",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

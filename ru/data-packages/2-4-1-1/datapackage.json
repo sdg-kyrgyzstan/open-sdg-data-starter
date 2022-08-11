@@ -11,19 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Proportion of ​​agricultural crops fertilized with mineral fertilizers",
+                "Proportion of ​​agricultural crops fertilized with organic fertilizers",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

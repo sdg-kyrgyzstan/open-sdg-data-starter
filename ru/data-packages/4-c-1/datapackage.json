@@ -11,27 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Учителя: b) в начальной школе (1-4 класс)",
-                "Учителя: a) в дошкольных образовательных организациях",
-                "Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс)"
+                "Teachers: a) in pre-school educational institutions",
+                "Teachers: b) in primary school (grades 1-4)",
+                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

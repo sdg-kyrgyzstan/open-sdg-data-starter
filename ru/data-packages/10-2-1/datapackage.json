@@ -11,87 +11,94 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "до 17 лет",
-                "от 14 до 28 лет ",
-                "от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",
-                "58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)"
+                "Median value, som per month per capita",
+                "Proportion of people living below 50 percent of median income",
+                ""
               ]
             },
-            "title": "Возраст"
+            "title": "SDG Series"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Нижние 50%"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Уровень дохода или квантиль благосостояния"
+            "title": "Reference area"
           },
           {
-            "name": "REF_AREA",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Sex"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "SEX",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "under 17 years old",
+                "14 to 28 years old",
+                "16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",
+                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 50%",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

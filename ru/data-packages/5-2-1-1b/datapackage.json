@@ -11,70 +11,70 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "до 20 лет",
-                "от 21 до 30 лет",
-                "от 31 до 40 лет",
-                "от 41 до 50 лет",
-                "51 лет и старше"
-              ]
-            },
-            "title": "Возраст"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Занятость: Не работают",
-                "Занятость: Пенсионеры",
-                "Занятость: Учащиеся, студенты",
-                "Занятость: Работают ",
-                "Образование: Другое"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Sex"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Второй этап среднего образования",
-                "Короткий цикл третичного образования",
-                "Бакалавриат или его эквивалент",
-                "Магистратура или её эквивалент"
+                "under 20 years old",
+                "21 to 30 years old",
+                "31 to 40 years old",
+                "41 to 50 years old",
+                "51 years old and over",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Age"
           },
           {
-            "name": "SEX",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Master’s or equivalent level",
+                "Bachelor’s or equivalent level",
+                "Short-cycle tertiary education",
+                "Upper secondary education",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Education level"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Education: Other",
+                "Activity status: Working",
+                "Activity status: Not working",
+                "Activity status: Students",
+                "Activity status: Retirees",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

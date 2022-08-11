@@ -12,16 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the population",
+                "Prevalence of severe food insecurity in the population",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +47,7 @@
             "title": "Reference area"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [

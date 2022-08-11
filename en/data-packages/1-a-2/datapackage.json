@@ -12,12 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services (education, health and social protection)",
+                "Proportion of total government spending on essential services, education",
+                "Proportion of total government spending on health",
+                "Proportion of total government spending on social protection",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

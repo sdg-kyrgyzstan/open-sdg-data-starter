@@ -11,49 +11,64 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Сельское хозяйство, лесоводство и рыболовство",
-                "Промышленность"
-              ]
-            },
-            "title": "Вид экономической деятельности"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Единица измерения"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Единицы",
                 "Тысячи",
-                "Миллионы"
+                "Миллионы",
+                ""
               ]
             },
             "title": "Множитель"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power intensity of GDP by indusry",
+                "Power generation at small hydroelecric plant",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Industry (total)",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilowatt-hours per 1mn som",
+                "Thousands kilowatt-hours per 1mn som",
+                "Kilowatt-hours",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

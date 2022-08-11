@@ -1,33 +1,33 @@
-Year,REF_AREA,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,DISABILITY_STATUS,Value
-2018,,Y15T49,,,,,7.7
-2018,,Y15T49,U,,,,7.9
-2018,,Y15T49,R,,,,7.6
-2018,KG05,Y15T49,,,,,0.4
-2018,KG03,Y15T49,,,,,7.3
-2018,KG02,Y15T49,,,,,1.7
-2018,KG04,Y15T49,,,,,2.8
-2018,KG06,Y15T49,,,,,6.5
-2018,KG07,Y15T49,,,,,50.0
-2018,KG08,Y15T49,,,,,166.0
-2018,KG11,Y15T49,,,,,87.0
-2018,KG21,Y15T49,,,,,70.0
-2018,,Y15T19,,,,,65.0
-2018,,Y15T17,,,,,57.0
-2018,,Y18T19,,,,,83.0
-2018,,Y20T24,,,,,91.0
-2018,,Y25T29,,,,,71.0
-2018,,Y30T34,,,,,88.0
-2018,,Y35T39,,,,,87.0
-2018,,Y40T44,,,,,64.0
-2018,,Y45T49,,,,,70.0
-2018,,Y15T49,,,ISCED11_2,,140.0
-2018,,Y15T49,,,ISCED11_3,,59.0
-2018,,Y15T49,,,ISCED11_4,,69.0
-2018,,Y15T49,,,ISCED11_6_7,,82.0
-2018,,Y18T49,,,,PD,207.0
-2018,,Y18T49,,,,PWD,76.0
-2018,,Y15T49,,Q1,,,60.0
-2018,,Y15T49,,Q2,,,67.0
-2018,,Y15T49,,Q3,,,97.0
-2018,,Y15T49,,Q4,,,71.0
-2018,,Y15T49,,Q5,,,88.0
+Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,Value
+2018,,15 to 49 years old,,,,,7.7
+2018,,15 to 49 years old,Urban,,,,7.9
+2018,,15 to 49 years old,Rural,,,,7.6
+2018,Batken,15 to 49 years old,,,,,0.4
+2018,Jalal-Abad,15 to 49 years old,,,,,7.3
+2018,Issyk-Kul,15 to 49 years old,,,,,1.7
+2018,Naryn,15 to 49 years old,,,,,2.8
+2018,Osh,15 to 49 years old,,,,,6.5
+2018,Talas,15 to 49 years old,,,,,50.0
+2018,Chui,15 to 49 years old,,,,,166.0
+2018,Bishkek (city),15 to 49 years old,,,,,87.0
+2018,Osh (city),15 to 49 years old,,,,,70.0
+2018,,15 to 19 years old,,,,,65.0
+2018,,15 to 17 years old,,,,,57.0
+2018,,18 to 19 years old,,,,,83.0
+2018,,20 to 24 years old,,,,,91.0
+2018,,25 to 29 years old,,,,,71.0
+2018,,30 to 34 years old,,,,,88.0
+2018,,35 to 39 years old,,,,,87.0
+2018,,40 to 44 years old,,,,,64.0
+2018,,45 to 49 years old,,,,,70.0
+2018,,15 to 49 years old,,,Lower secondary education,,140.0
+2018,,15 to 49 years old,,,Upper secondary education,,59.0
+2018,,15 to 49 years old,,,Post-secondary non-tertiary education,,69.0
+2018,,15 to 49 years old,,,Tertiary education (Bachelor’s and Master's or equivalent),,82.0
+2018,,18 to 49 years old,,,,Persons with disability,207.0
+2018,,18 to 49 years old,,,,Persons without disability,76.0
+2018,,15 to 49 years old,,Quintile 1 (poorest),,,60.0
+2018,,15 to 49 years old,,Quintile 2,,,67.0
+2018,,15 to 49 years old,,Quintile 3,,,97.0
+2018,,15 to 49 years old,,Quintile 4,,,71.0
+2018,,15 to 49 years old,,Quintile 5 (richest),,,88.0

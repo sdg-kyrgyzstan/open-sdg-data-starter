@@ -12,17 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "PRODUCT",
+            "name": "Type of product",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_COMP_PER_EQUIP",
-                "_L_COMM_EQUIP",
-                "_L_COMM_ELECT",
-                "_L_OTHER_ELECT_COMP",
+                "Computer and peripheral equipment",
+                "Communication equipment (telecommunication equipment)",
+                "Consumer electronics (audio and video equipment)",
+                "Other electronic components and ICT products",
                 ""
               ]
             }

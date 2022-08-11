@@ -7,83 +7,83 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "от 15 до 17 лет ",
-                "от 15 до 19 лет ",
-                "от 15 до 49 лет ",
-                "от 18 до 19 лет ",
-                "от 20 до 24 лет",
-                "от 25 до 29 лет",
-                "от 30 до 34 лет ",
-                "от 35 до 39 лет",
-                "от 40 до 44 лет ",
-                "от 45 до 49 лет "
-              ]
-            },
-            "title": "Возраст"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Высшее образование (бакалавриат и магистратура или эквиваленты)"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Reference area"
           },
           {
-            "name": "REF_AREA",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "15 to 49 years old",
+                "15 to 19 years old",
+                "15 to 17 years old",
+                "18 to 19 years old",
+                "20 to 24 years old",
+                "25 to 29 years old",
+                "30 to 34 years old",
+                "35 to 39 years old",
+                "40 to 44 years old",
+                "45 to 49 years old",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

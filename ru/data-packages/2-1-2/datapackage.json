@@ -11,50 +11,57 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Prevalence of moderate or severe food insecurity in the population",
+                "Prevalence of severe food insecurity in the population",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "SDG Series"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "URBANISATION",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Reference area"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

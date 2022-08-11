@@ -1,4 +1,4 @@
-Year,REF_AREA,Value
+Year,Reference area,Value
 2011,,5
 2012,,6
 2013,,9
@@ -9,37 +9,37 @@ Year,REF_AREA,Value
 2018,,8
 2019,,5
 2020,,2
-2012,KG05,1
-2013,KG05,2
-2014,KG05,1
-2013,KG03,1
-2014,KG03,1
-2015,KG03,1
-2013,KG02,1
-2014,KG02,1
-2015,KG04,1
-2019,KG04,1
-2013,KG06,1
-2014,KG06,6
-2017,KG06,2
-2018,KG06,1
-2020,KG06,1
-2019,KG07,1
-2012,KG08,2
-2013,KG08,3
-2014,KG08,3
-2015,KG08,3
-2016,KG08,6
-2017,KG08,3
-2012,KG11,3
-2014,KG11,2
-2015,KG11,1
-2016,KG11,4
-2018,KG11,7
-2019,KG11,2
-2020,KG11,1
-2011,KG21,5
-2013,KG21,1
-2014,KG21,5
-2015,KG21,2
-2019,KG21,1
+2012,Batken,1
+2013,Batken,2
+2014,Batken,1
+2013,Jalal-Abad,1
+2014,Jalal-Abad,1
+2015,Jalal-Abad,1
+2013,Issyk-Kul,1
+2014,Issyk-Kul,1
+2015,Naryn,1
+2019,Naryn,1
+2013,Osh,1
+2014,Osh,6
+2017,Osh,2
+2018,Osh,1
+2020,Osh,1
+2019,Talas,1
+2012,Chui,2
+2013,Chui,3
+2014,Chui,3
+2015,Chui,3
+2016,Chui,6
+2017,Chui,3
+2012,Bishkek (city),3
+2014,Bishkek (city),2
+2015,Bishkek (city),1
+2016,Bishkek (city),4
+2018,Bishkek (city),7
+2019,Bishkek (city),2
+2020,Bishkek (city),1
+2011,Osh (city),5
+2013,Osh (city),1
+2014,Osh (city),5
+2015,Osh (city),2
+2019,Osh (city),1

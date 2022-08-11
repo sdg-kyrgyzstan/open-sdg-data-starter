@@ -11,31 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Number of convictions for malfeasance",
+                "Number of convictions for сorruption and bribery",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

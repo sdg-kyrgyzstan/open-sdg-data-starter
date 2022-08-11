@@ -11,43 +11,57 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Number of victims of intentional homicide per 100,000 population",
+                "Number of victims of intentional homicide",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "SDG Series"
           },
           {
-            "name": "SERIES",
+            "name": "Reference area",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
-            "title": "Единица измерения"
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

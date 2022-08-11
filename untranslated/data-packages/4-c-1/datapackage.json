@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_TCH_PR_SCH_EDU",
-                "_L_TCH_PR_SCH_1_4",
-                "_L_TCH_PR_SEC_SCH_5_11",
+                "Teachers: a) in pre-school educational institutions",
+                "Teachers: b) in primary school (grades 1-4)",
+                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)",
                 ""
               ]
             }

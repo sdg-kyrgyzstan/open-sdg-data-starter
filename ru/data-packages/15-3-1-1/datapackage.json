@@ -11,35 +11,42 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Причина: Экономическая нецелесообразность",
-                "Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети",
-                "Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",
-                "Причина: Другие (под промышленность, расширения населенных пунктов и другие)",
-                "Причина: Отдаленность и каменистость",
-                "Причина неиспользования: Засоление и заболоченность"
+                "Arable land",
+                "Arable land for reasons of non-use",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "SDG Series"
           },
           {
-            "name": "SERIES",
+            "name": "Composite breakdown",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Cause of non-use: Salinization and waterlogging",
+                "Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network",
+                "Cause of non-use: Prone to natural disasters (landslides, mudslides)",
+                "Cause of non-use: Economic inexpediency",
+                "Cause of non-use: Remoteness and stony",
+                "Cause of non-use: Others (for industry, expansion of settlements and others)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

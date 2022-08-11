@@ -12,91 +12,91 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG05",
-                "KG03",
-                "KG02",
-                "KG04",
-                "KG06",
-                "KG07",
-                "KG08",
-                "KG11",
-                "KG21",
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T49",
-                "Y15T19",
-                "Y15T17",
-                "Y18T19",
-                "Y20T24",
-                "Y25T29",
-                "Y30T34",
-                "Y35T39",
-                "Y40T44",
-                "Y45T49",
-                "Y18T49",
+                "15 to 49 years old",
+                "15 to 19 years old",
+                "15 to 17 years old",
+                "18 to 19 years old",
+                "20 to 24 years old",
+                "25 to 29 years old",
+                "30 to 34 years old",
+                "35 to 39 years old",
+                "40 to 44 years old",
+                "45 to 49 years old",
+                "18 to 49 years old",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
-                "ISCED11_4",
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
                 ""
               ]
             }
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [
-                "PD",
-                "PWD",
+                "Persons with disability",
+                "Persons without disability",
                 ""
               ]
             }

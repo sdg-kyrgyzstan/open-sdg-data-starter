@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
             "title": "Reference area"
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -55,7 +55,7 @@
             "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -67,7 +67,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [

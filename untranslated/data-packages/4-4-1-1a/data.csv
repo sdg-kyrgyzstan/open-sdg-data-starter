@@ -1,64 +1,64 @@
-Year,SEX,EDUCATION_LEV,Value
-2010,,AGG_3_4,1432
-2013,,AGG_3_4,1551
-2014,,AGG_3_4,1272
-2015,,AGG_3_4,1236
-2016,,AGG_3_4,891
-2017,,AGG_3_4,766
-2018,,AGG_3_4,924
-2019,,AGG_3_4,911
-2020,,AGG_3_4,1004
-2010,,ISCED11_5,2544
-2013,,ISCED11_5,2663
-2014,,ISCED11_5,5189
-2015,,ISCED11_5,4961
-2016,,ISCED11_5,4754
-2017,,ISCED11_5,5106
-2018,,ISCED11_5,5870
-2019,,ISCED11_5,6794
-2020,,ISCED11_5,8279
-2010,F,ISCED11_5,1244
-2013,F,ISCED11_5,1347
-2014,F,ISCED11_5,1873
-2015,F,ISCED11_5,1785
-2016,F,ISCED11_5,3050
-2017,F,ISCED11_5,1380
-2018,F,ISCED11_5,1449
-2019,F,ISCED11_5,1675
-2020,F,ISCED11_5,1752
-2010,M,ISCED11_5,1300
-2013,M,ISCED11_5,1316
-2014,M,ISCED11_5,3316
-2015,M,ISCED11_5,3176
-2016,M,ISCED11_5,1704
-2017,M,ISCED11_5,3722
-2018,M,ISCED11_5,4421
-2019,M,ISCED11_5,5119
-2020,M,ISCED11_5,6527
-2010,,ISCED11_6_7,12291
-2013,,ISCED11_6_7,8890
-2014,,ISCED11_6_7,9214
-2015,,ISCED11_6_7,8551
-2016,,ISCED11_6_7,7089
-2017,,ISCED11_6_7,8522
-2018,,ISCED11_6_7,9516
-2019,,ISCED11_6_7,9511
-2020,,ISCED11_6_7,10324
-2010,F,ISCED11_6_7,5530
-2013,F,ISCED11_6_7,4469
-2014,F,ISCED11_6_7,4096
-2015,F,ISCED11_6_7,3916
-2016,F,ISCED11_6_7,3020
-2017,F,ISCED11_6_7,4023
-2018,F,ISCED11_6_7,4361
-2019,F,ISCED11_6_7,3982
-2020,F,ISCED11_6_7,4131
-2010,M,ISCED11_6_7,6761
-2013,M,ISCED11_6_7,4421
-2014,M,ISCED11_6_7,5118
-2015,M,ISCED11_6_7,4635
-2016,M,ISCED11_6_7,4069
-2017,M,ISCED11_6_7,4491
-2018,M,ISCED11_6_7,5155
-2019,M,ISCED11_6_7,5529
-2020,M,ISCED11_6_7,6193
+Year,Sex,Education level,Value
+2010,,Secondary and post-secondary non-tertiary education (intermediate),1432
+2013,,Secondary and post-secondary non-tertiary education (intermediate),1551
+2014,,Secondary and post-secondary non-tertiary education (intermediate),1272
+2015,,Secondary and post-secondary non-tertiary education (intermediate),1236
+2016,,Secondary and post-secondary non-tertiary education (intermediate),891
+2017,,Secondary and post-secondary non-tertiary education (intermediate),766
+2018,,Secondary and post-secondary non-tertiary education (intermediate),924
+2019,,Secondary and post-secondary non-tertiary education (intermediate),911
+2020,,Secondary and post-secondary non-tertiary education (intermediate),1004
+2010,,Short-cycle tertiary education,2544
+2013,,Short-cycle tertiary education,2663
+2014,,Short-cycle tertiary education,5189
+2015,,Short-cycle tertiary education,4961
+2016,,Short-cycle tertiary education,4754
+2017,,Short-cycle tertiary education,5106
+2018,,Short-cycle tertiary education,5870
+2019,,Short-cycle tertiary education,6794
+2020,,Short-cycle tertiary education,8279
+2010,Female,Short-cycle tertiary education,1244
+2013,Female,Short-cycle tertiary education,1347
+2014,Female,Short-cycle tertiary education,1873
+2015,Female,Short-cycle tertiary education,1785
+2016,Female,Short-cycle tertiary education,3050
+2017,Female,Short-cycle tertiary education,1380
+2018,Female,Short-cycle tertiary education,1449
+2019,Female,Short-cycle tertiary education,1675
+2020,Female,Short-cycle tertiary education,1752
+2010,Male,Short-cycle tertiary education,1300
+2013,Male,Short-cycle tertiary education,1316
+2014,Male,Short-cycle tertiary education,3316
+2015,Male,Short-cycle tertiary education,3176
+2016,Male,Short-cycle tertiary education,1704
+2017,Male,Short-cycle tertiary education,3722
+2018,Male,Short-cycle tertiary education,4421
+2019,Male,Short-cycle tertiary education,5119
+2020,Male,Short-cycle tertiary education,6527
+2010,,Tertiary education (Bachelor’s and Master's or equivalent),12291
+2013,,Tertiary education (Bachelor’s and Master's or equivalent),8890
+2014,,Tertiary education (Bachelor’s and Master's or equivalent),9214
+2015,,Tertiary education (Bachelor’s and Master's or equivalent),8551
+2016,,Tertiary education (Bachelor’s and Master's or equivalent),7089
+2017,,Tertiary education (Bachelor’s and Master's or equivalent),8522
+2018,,Tertiary education (Bachelor’s and Master's or equivalent),9516
+2019,,Tertiary education (Bachelor’s and Master's or equivalent),9511
+2020,,Tertiary education (Bachelor’s and Master's or equivalent),10324
+2010,Female,Tertiary education (Bachelor’s and Master's or equivalent),5530
+2013,Female,Tertiary education (Bachelor’s and Master's or equivalent),4469
+2014,Female,Tertiary education (Bachelor’s and Master's or equivalent),4096
+2015,Female,Tertiary education (Bachelor’s and Master's or equivalent),3916
+2016,Female,Tertiary education (Bachelor’s and Master's or equivalent),3020
+2017,Female,Tertiary education (Bachelor’s and Master's or equivalent),4023
+2018,Female,Tertiary education (Bachelor’s and Master's or equivalent),4361
+2019,Female,Tertiary education (Bachelor’s and Master's or equivalent),3982
+2020,Female,Tertiary education (Bachelor’s and Master's or equivalent),4131
+2010,Male,Tertiary education (Bachelor’s and Master's or equivalent),6761
+2013,Male,Tertiary education (Bachelor’s and Master's or equivalent),4421
+2014,Male,Tertiary education (Bachelor’s and Master's or equivalent),5118
+2015,Male,Tertiary education (Bachelor’s and Master's or equivalent),4635
+2016,Male,Tertiary education (Bachelor’s and Master's or equivalent),4069
+2017,Male,Tertiary education (Bachelor’s and Master's or equivalent),4491
+2018,Male,Tertiary education (Bachelor’s and Master's or equivalent),5155
+2019,Male,Tertiary education (Bachelor’s and Master's or equivalent),5529
+2020,Male,Tertiary education (Bachelor’s and Master's or equivalent),6193

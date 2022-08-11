@@ -12,11 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of drinking water samples that do not meet established sanitary-chemical standards",
+                "Proportion of drinking water samples that do not meet established microbiological standards",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

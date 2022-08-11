@@ -11,69 +11,69 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Сельское хозяйство, лесоводство и рыболовство",
-                "Промышленность",
-                "Строительство",
-                "Прочие виды деятельности в сфере услуг"
-              ]
-            },
-            "title": "Вид экономической деятельности"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "AGE",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "от 15 до 19 лет ",
-                "от 20 до 29 лет",
-                "от 30 до 39 лет ",
-                "от 40 до 49 лет ",
-                "от 50 до 59 лет",
-                "от 65 до 69 лет",
-                "70 лет и старше"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Возраст"
+            "title": "Sex"
           },
           {
-            "name": "SEX",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "15 to 19 years old",
+                "20 to 29 years old",
+                "30 to 39 years old",
+                "40 to 49 years old",
+                "50 to 59 years old",
+                "65 to 69 years old",
+                "70 years old and over",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Industry (total)",
+                "Construction",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Economic activity"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -1,13 +1,9 @@
-Year,SERIES,Value
-2018,"Доля площади сельскохозяйственных культур удобренная минеральными удобрениями 
-",36.4
-2019,"Доля площади сельскохозяйственных культур удобренная минеральными удобрениями 
-",35.4
-2020,"Доля площади сельскохозяйственных культур удобренная минеральными удобрениями 
-",35.9
-2021,"Доля площади сельскохозяйственных культур удобренная минеральными удобрениями 
-",35.6
-2018,Доля площади сельскохозяйственных культур удобренная органическими удобрениями,2.5
-2019,Доля площади сельскохозяйственных культур удобренная органическими удобрениями,2.5
-2020,Доля площади сельскохозяйственных культур удобренная органическими удобрениями,2.2
-2021,Доля площади сельскохозяйственных культур удобренная органическими удобрениями,2.5
+Year,SDG Series,Value
+2018,Proportion of ​​agricultural crops fertilized with mineral fertilizers,36.4
+2019,Proportion of ​​agricultural crops fertilized with mineral fertilizers,35.4
+2020,Proportion of ​​agricultural crops fertilized with mineral fertilizers,35.9
+2021,Proportion of ​​agricultural crops fertilized with mineral fertilizers,35.6
+2018,Proportion of ​​agricultural crops fertilized with organic fertilizers,2.5
+2019,Proportion of ​​agricultural crops fertilized with organic fertilizers,2.5
+2020,Proportion of ​​agricultural crops fertilized with organic fertilizers,2.2
+2021,Proportion of ​​agricultural crops fertilized with organic fertilizers,2.5

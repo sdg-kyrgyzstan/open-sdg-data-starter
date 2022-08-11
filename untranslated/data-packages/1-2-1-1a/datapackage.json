@@ -12,77 +12,77 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T19",
-                "Y20T24",
-                "Y25T29",
-                "Y30T34",
-                "Y35T39",
-                "Y40T44",
-                "Y45T49",
-                "Y50T54",
-                "Y55T59",
-                "Y60T64",
-                "Y65T69",
-                "Y_GE70",
+                "15 to 19 years old",
+                "20 to 24 years old",
+                "25 to 29 years old",
+                "30 to 34 years old",
+                "35 to 39 years old",
+                "40 to 44 years old",
+                "45 to 49 years old",
+                "50 to 54 years old",
+                "55 to 59 years old",
+                "60 to 64 years old",
+                "65 to 69 years old",
+                "70 years old and over",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "ACTIVITY",
+            "name": "Economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISIC4_A",
-                "ISIC4_B",
-                "ISIC4_C",
-                "ISIC4_D",
-                "ISIC4_E",
-                "ISIC4_F",
-                "ISIC4_G",
-                "ISIC4_H",
-                "ISIC4_I",
-                "ISIC4_J",
-                "ISIC4_K",
-                "ISIC4_L",
-                "ISIC4_M",
-                "ISIC4_N",
-                "ISIC4_O",
-                "ISIC4_P",
-                "ISIC4_Q",
-                "ISIC4_R",
-                "ISIC4_S",
-                "ISIC4_T",
-                "ISIC4_U",
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+                "Activities of extraterritorial organisations and bodies",
                 ""
               ]
             }

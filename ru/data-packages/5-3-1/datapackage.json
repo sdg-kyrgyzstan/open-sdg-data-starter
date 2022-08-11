@@ -11,78 +11,85 @@
       "schema": {
         "fields": [
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Лица без инвалидности"
+                "Proportion of women aged 20-24 years who were married or in a union before age 15",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18",
+                ""
               ]
             },
-            "title": "Статус инвалидности"
+            "title": "SDG Series"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Короткий цикл третичного образования"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Reference area"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Квинтиль 1 (беднейшие)",
-                "Квинтиль 2",
-                "Квинтиль 3",
-                "Квинтиль 4",
-                "Квинтиль 5 (богатейшие)"
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
               ]
             },
-            "title": "Уровень дохода или квантиль благосостояния"
+            "title": "Income or wealth quantile"
           },
           {
-            "name": "REF_AREA",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Short-cycle tertiary education",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Education level"
           },
           {
-            "name": "SERIES",
+            "name": "Disability status",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Persons without disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of product",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Молоко и молочные продукты (в пересчете на молоко)",
-                "Яйца",
-                "Рыба и рыбопродукты",
-                "Фрукты и ягоды",
-                "Мясо и мясопродукты в пересчете на мясо (включая сало и субпродукты)",
-                "Картофель",
-                "Сахар",
-                "Растительное масло",
-                "Овощи и бахчевые",
-                " Пшеница и продукты ее переработки, в муке"
+                "Meat and meat products in meat equivalent, including bacon and offal",
+                "Milk and dairy products in milk equivalent",
+                "Eggs",
+                "Sugar",
+                "Vegetable oils",
+                "Potatoes",
+                "Vegetables and gourds",
+                "Fruits and berries",
+                "Wheat and wheat products in flour equivalent",
+                "Fish and fish products",
+                ""
               ]
             },
-            "title": "Тип продукта"
+            "title": "Type of product"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

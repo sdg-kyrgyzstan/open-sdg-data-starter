@@ -11,27 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Виды: Амфибии и рептилии",
-                "Виды: Птицы",
-                "Виды: Млекопитающие"
+                "Species: Mammals",
+                "Species: Birds",
+                "Species: Amphibians and Reptiles",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

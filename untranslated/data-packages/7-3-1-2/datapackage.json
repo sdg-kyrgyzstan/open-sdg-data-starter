@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MULT",
@@ -27,23 +27,38 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "ACTIVITY",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISIC4_A",
-                "ISIC4_BTE",
+                "Power intensity of GDP by indusry",
+                "Power generation at small hydroelecric plant",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Industry (total)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilowatt-hours per 1mn som",
+                "Thousands kilowatt-hours per 1mn som",
+                "Kilowatt-hours",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

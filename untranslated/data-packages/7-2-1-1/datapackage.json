@@ -12,11 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of renewable energy sources in the total energy consumption",
+                "Electricity production by hydropower plants",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,12 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of firearms voluntarily surrendered",
+                "Number of firearms seized",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

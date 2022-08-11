@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -27,88 +27,95 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG05",
-                "KG03",
-                "KG02",
-                "KG04",
-                "KG06",
-                "KG07",
-                "KG08",
-                "KG11",
-                "KG21",
+                "Proportion of children moderately or severely wasted (number)",
+                "Proportion of children moderately or severely overweight",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M0T5",
-                "M6T11",
-                "M12T17",
-                "M18T23",
-                "M24T35",
-                "Y3T4",
-                "M48T59",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "0 to 5 months old",
+                "6 to 11 months old",
+                "12 to 17 months old",
+                "18 to 23 months old",
+                "24 to 35 months old",
+                "3 to 4 years old",
+                "48 to 59 months old",
                 ""
               ]
             }
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
-                "ISCED11_4",
-                "ISCED11_5",
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Short-cycle tertiary education",
                 ""
               ]
             }

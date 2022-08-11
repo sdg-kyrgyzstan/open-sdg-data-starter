@@ -11,34 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сектор: Экономические вопросы",
-                "Сектор: Жилищно-коммунальные услуги",
-                "Сектор: Здравоохранение",
-                "Сектор: Образование",
-                "Сектор: всего"
+                "Proportion of government recurrent expenditure to sectors",
+                "Proportion of government capital expenditure to sectors",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "SDG Series"
           },
           {
-            "name": "SERIES",
+            "name": "Composite breakdown",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Sector: Total",
+                "Sector: Economic affairs",
+                "Sector: Health",
+                "Sector: Education",
+                "Sector: Housing and community amenities",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

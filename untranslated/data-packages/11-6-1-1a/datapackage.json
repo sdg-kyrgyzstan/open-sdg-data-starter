@@ -12,18 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_WR_GAR_CH",
-                "_L_WR_COL_TR",
-                "_L_WR_DUM_GAR",
-                "_L_WR_BURN",
-                "_L_WR_BURYING",
+                "Waste removal: Garbage chute",
+                "Waste removal: Collection by truck, container",
+                "Waste removal: Dumping into garbage heaps",
+                "Waste removal: Burning",
+                "Waste removal: Burying",
                 ""
               ]
             }

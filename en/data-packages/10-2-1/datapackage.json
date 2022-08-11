@@ -12,16 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Median value, som per month per capita",
+                "Proportion of people living below 50 percent of median income",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +47,7 @@
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +59,7 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +73,7 @@
             "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -78,7 +85,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [

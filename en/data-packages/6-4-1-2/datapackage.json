@@ -12,16 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Water loss at transportation (volume)",
+                "Water loss at transportation as proportion of total water withdrawal",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,8 +47,15 @@
             "title": "Reference area"
           },
           {
-            "name": "UNIT_MEASURE",
+            "name": "Unit of measure",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Million of cubic metres per annum",
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

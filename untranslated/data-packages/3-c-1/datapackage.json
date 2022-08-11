@@ -12,17 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "OCCUPATION",
+            "name": "Occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCO08_221",
-                "ISCO08_2261",
-                "ISCO08_2262",
-                "ISCO88_223",
+                "Medical doctors",
+                "Dentists",
+                "Pharmacists",
+                "Nursing and midwifery professionals",
                 ""
               ]
             }

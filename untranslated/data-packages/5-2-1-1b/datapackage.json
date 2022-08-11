@@ -12,56 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T20",
-                "Y21T30",
-                "Y31T40",
-                "Y41T50",
-                "Y_GE51",
+                "under 20 years old",
+                "21 to 30 years old",
+                "31 to 40 years old",
+                "41 to 50 years old",
+                "51 years old and over",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_7",
-                "ISCED11_6",
-                "ISCED11_5",
-                "ISCED11_3",
+                "Master’s or equivalent level",
+                "Bachelor’s or equivalent level",
+                "Short-cycle tertiary education",
+                "Upper secondary education",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_EDU_OTH",
-                "_L_ACS_WORK",
-                "_L_ACS_NOWORK",
-                "_L_ACS_STUDENT",
-                "_L_ACS_RETIRED",
+                "Education: Other",
+                "Activity status: Working",
+                "Activity status: Not working",
+                "Activity status: Students",
+                "Activity status: Retirees",
                 ""
               ]
             }

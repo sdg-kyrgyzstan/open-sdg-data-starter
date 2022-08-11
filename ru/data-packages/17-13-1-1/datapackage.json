@@ -11,36 +11,58 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Единица измерения"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Единицы",
-                "Миллионы"
+                "Миллионы",
+                ""
               ]
             },
             "title": "Множитель"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GDP growth rate (decline), as a percentage of the previous year",
+                "The consumer price index, as a percentage of the previous year",
+                "Producer Price Indices, as a percentage of the previous year",
+                "Budget deficit and sources of financing, milllion soms",
+                "Volume of public debt, million soms",
+                "Foreign trade, as a percentage of the previous year",
+                "Export, million USD",
+                "Import, million USD",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Index",
+                "Local currency",
+                "USD",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

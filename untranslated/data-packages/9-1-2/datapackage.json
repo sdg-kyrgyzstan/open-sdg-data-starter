@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MULT",
@@ -26,29 +26,43 @@
             }
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "MOT_RAI",
-                "MOT_BUS",
-                "MOT_TRO",
-                "MOT_TAX",
-                "MOT_AIR",
-                "MOT_ROA",
-                "MOT_PIP",
-                "MOT_WAT",
+                "Passenger volume (passenger kilometres)",
+                "Freight volume (tonne kilometres)",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mode of Transport: Rail",
+                "Mode of Transport: Bus",
+                "Mode of Transport: Trolley bus",
+                "Mode of Transport: Taxi",
+                "Mode of Transport: Air",
+                "Mode of Transport: Road",
+                "Mode of Transport: Pipeline",
+                "Mode of Transport: Water",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Metric Tons",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

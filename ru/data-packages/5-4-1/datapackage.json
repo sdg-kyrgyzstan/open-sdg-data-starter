@@ -11,43 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Proportion of time spent on unpaid domestic chores and care work",
+                "Proportion of time spent on unpaid domestic chores",
+                "Proportion of time spent on unpaid care work",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "SDG Series"
           },
           {
-            "name": "URBANISATION",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Sex"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

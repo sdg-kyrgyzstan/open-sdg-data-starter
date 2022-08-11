@@ -11,37 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of crop production",
+                "Share of livestock production",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "* Предварительные данные"
+                "* Предварительные данные",
+                ""
               ]
             },
             "title": "Сноски на уровне наблюдения"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Доля произведенной продукции растениеводства",
-                "Доля произведенной продукции животноводства"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

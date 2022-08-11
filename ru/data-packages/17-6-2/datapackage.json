@@ -11,27 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
-                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
-                "Скорость интернета: 10 Мбит / с или выше"
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 10 Mbit/s or above",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

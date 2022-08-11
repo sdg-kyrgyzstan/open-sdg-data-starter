@@ -11,30 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Страна: Республика Беларусь",
-                "Страна: Китайская Народная Республика",
-                "Страна: Венгрия",
-                "Страна: Республика Казахстан",
-                "Страна: Российская Федерация",
-                "Страна: Республика Таджикистан"
+                "Country: Russian Federation",
+                "Country: Republic of Belarus ",
+                "Country: Republic of Kazakhstan",
+                "Country: Republic of Tajikistan",
+                "Country: People's Republic of China",
+                "Country: Hungary",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -1,7 +1,8 @@
 From,To
-COMMENT_OBS,REF_AREA
-COMMENT_OBS,SEX
-COMMENT_OBS,AGE
-COMMENT_OBS,URBANISATION
-COMMENT_OBS,INCOME_WEALTH_QUANTILE
-COMMENT_OBS,EDUCATION_LEV
+COMMENT_OBS,SDG Series
+SDG Series,Reference area
+SDG Series,Sex
+SDG Series,Age
+SDG Series,Degree of urbanisation
+SDG Series,Income or wealth quantile
+SDG Series,Education level

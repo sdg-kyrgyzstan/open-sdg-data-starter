@@ -1,29 +1,29 @@
-Year,SERIES,Value
-2007,Число филиалов коммерческих банков на 100 000 взрослых,6.107469
-2008,Число филиалов коммерческих банков на 100 000 взрослых,6.545429
-2009,Число филиалов коммерческих банков на 100 000 взрослых,6.616596
-2010,Число филиалов коммерческих банков на 100 000 взрослых,5.693049
-2011,Число филиалов коммерческих банков на 100 000 взрослых,6.772418
-2012,Число филиалов коммерческих банков на 100 000 взрослых,7.28108
-2013,Число филиалов коммерческих банков на 100 000 взрослых,7.394386
-2014,Число филиалов коммерческих банков на 100 000 взрослых,7.425508
-2015,Число филиалов коммерческих банков на 100 000 взрослых,7.827334
-2016,Число филиалов коммерческих банков на 100 000 взрослых,7.94841
-2017,Число филиалов коммерческих банков на 100 000 взрослых,7.710477
-2018,Число филиалов коммерческих банков на 100 000 взрослых,7.640969
-2019,Число филиалов коммерческих банков на 100 000 взрослых,7.566574
-2020,Число филиалов коммерческих банков на 100 000 взрослых,7.19289
-2007,Число банкоматов на 100 000 взрослых,2.471394
-2008,Число банкоматов на 100 000 взрослых,4.888003
-2009,Число банкоматов на 100 000 взрослых,8.720619
-2010,Число банкоматов на 100 000 взрослых,7.554757
-2011,Число банкоматов на 100 000 взрослых,12.265008
-2012,Число банкоматов на 100 000 взрослых,15.97647
-2013,Число банкоматов на 100 000 взрослых,21.075288
-2014,Число банкоматов на 100 000 взрослых,25.292345
-2015,Число банкоматов на 100 000 взрослых,30.81078
-2016,Число банкоматов на 100 000 взрослых,31.891768
-2017,Число банкоматов на 100 000 взрослых,34.153303
-2018,Число банкоматов на 100 000 взрослых,37.681164
-2019,Число банкоматов на 100 000 взрослых,40.105182
-2020,Число банкоматов на 100 000 взрослых,42.788471
+Year,SDG Series,Value
+2007,"Number of commercial bank branches per 100,000 adults",6.107469
+2008,"Number of commercial bank branches per 100,000 adults",6.545429
+2009,"Number of commercial bank branches per 100,000 adults",6.616596
+2010,"Number of commercial bank branches per 100,000 adults",5.693049
+2011,"Number of commercial bank branches per 100,000 adults",6.772418
+2012,"Number of commercial bank branches per 100,000 adults",7.28108
+2013,"Number of commercial bank branches per 100,000 adults",7.394386
+2014,"Number of commercial bank branches per 100,000 adults",7.425508
+2015,"Number of commercial bank branches per 100,000 adults",7.827334
+2016,"Number of commercial bank branches per 100,000 adults",7.94841
+2017,"Number of commercial bank branches per 100,000 adults",7.710477
+2018,"Number of commercial bank branches per 100,000 adults",7.640969
+2019,"Number of commercial bank branches per 100,000 adults",7.566574
+2020,"Number of commercial bank branches per 100,000 adults",7.19289
+2007,"Number of automated teller machines (ATMs) per 100,000 adults",2.471394
+2008,"Number of automated teller machines (ATMs) per 100,000 adults",4.888003
+2009,"Number of automated teller machines (ATMs) per 100,000 adults",8.720619
+2010,"Number of automated teller machines (ATMs) per 100,000 adults",7.554757
+2011,"Number of automated teller machines (ATMs) per 100,000 adults",12.265008
+2012,"Number of automated teller machines (ATMs) per 100,000 adults",15.97647
+2013,"Number of automated teller machines (ATMs) per 100,000 adults",21.075288
+2014,"Number of automated teller machines (ATMs) per 100,000 adults",25.292345
+2015,"Number of automated teller machines (ATMs) per 100,000 adults",30.81078
+2016,"Number of automated teller machines (ATMs) per 100,000 adults",31.891768
+2017,"Number of automated teller machines (ATMs) per 100,000 adults",34.153303
+2018,"Number of automated teller machines (ATMs) per 100,000 adults",37.681164
+2019,"Number of automated teller machines (ATMs) per 100,000 adults",40.105182
+2020,"Number of automated teller machines (ATMs) per 100,000 adults",42.788471

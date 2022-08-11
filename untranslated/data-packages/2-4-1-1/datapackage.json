@@ -12,11 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of ​​agricultural crops fertilized with mineral fertilizers",
+                "Proportion of ​​agricultural crops fertilized with organic fertilizers",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

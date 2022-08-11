@@ -11,129 +11,129 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "от 12 до 23 месяцев",
-                "от 24 до 35 месяцев",
-                "от 48 до 59 месяцев",
-                "до 1 года",
-                "до 5 лет",
-                "от 18 до 49 лет",
-                "от 3 до 4 лет"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Возраст"
+            "title": "Reference area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 5 years old",
+                "under 1 year old",
+                "12 to 23 months old",
+                "24 to 35 months old",
+                "3 to 4 years old",
+                "48 to 59 months old",
+                "18 to 49 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Child with disability",
+                "Child without disability",
+                "Mother with disability",
+                "Mother without disability",
+                "No information",
+                ""
+              ]
+            },
+            "title": "Disability status"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Education of mother"
+                "Education of mother",
+                ""
               ]
             },
             "title": "Сноски на уровне наблюдения"
           },
           {
-            "name": "DISABILITY_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Ребенок с инвалидностью",
-                "Ребенок без инвалидности",
-                "Наличие инвалидности у матери",
-                "Отсутствие инвалидности у матери",
-                "Нет информации"
-              ]
-            },
-            "title": "Статус инвалидности"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Высшее образование (бакалавриат и магистратура или эквиваленты)"
-              ]
-            },
-            "title": "Уровень образования"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Квинтиль 1 (беднейшие)",
-                "Квинтиль 2",
-                "Квинтиль 3",
-                "Квинтиль 4",
-                "Квинтиль 5 (богатейшие)"
-              ]
-            },
-            "title": "Уровень дохода или квантиль благосостояния"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
-              ]
-            },
-            "title": "Территория"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Сельская",
-                "Городская"
-              ]
-            },
-            "title": "Тип местности"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

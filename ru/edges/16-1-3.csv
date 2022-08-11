@@ -1,4 +1,4 @@
 From,To
-Возраст,Территория
-Возраст,Тип местности
-Возраст,Уровень образования
+Age,Reference area
+Age,Degree of urbanisation
+Age,Education level

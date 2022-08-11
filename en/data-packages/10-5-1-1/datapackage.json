@@ -12,12 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Assets to GDP",
+                "Deposits to GDP",
+                "Loans to GDP",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

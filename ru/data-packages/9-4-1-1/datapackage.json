@@ -11,29 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Загрязняющие вещества: окись углерода",
-                "Загрязняющие вещества: газообразные и жидкие",
-                "Загрязняющие вещества: окислы азота",
-                "Загрязняющие вещества: сернистый ангидрид",
-                "Загрязняющие вещества: твердые"
+                "Pollutants: Solid",
+                "Pollutants: Gaseous and liquid",
+                "Pollutants: Sulphur dioxide",
+                "Pollutants: Carbon monoxide",
+                "Pollutants: Nitrogen oxide ",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

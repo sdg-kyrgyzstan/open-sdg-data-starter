@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,7 +47,7 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
@@ -64,7 +64,7 @@
             "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -76,7 +76,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +91,7 @@
             "title": "Income or wealth quantile"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -105,7 +105,7 @@
             "title": "Education level"
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [

@@ -11,29 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Вид избавления: Сжигание",
-                "Вид избавления: Закапывание",
-                "Вид избавления: Сбор грузовиком, контейнером",
-                "Вид избавления: Сброс в мусорные кучи",
-                "Вид избавления: Мусоропровод"
+                "Waste removal: Garbage chute",
+                "Waste removal: Collection by truck, container",
+                "Waste removal: Dumping into garbage heaps",
+                "Waste removal: Burning",
+                "Waste removal: Burying",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

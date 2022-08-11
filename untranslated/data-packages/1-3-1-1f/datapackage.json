@@ -12,15 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of people with disabilities receiving pensions Monthly Social Allowance",
+                "Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population",
+                ""
+              ]
+            }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

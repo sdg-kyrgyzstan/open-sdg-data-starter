@@ -11,28 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "PRODUCT",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of product",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Бытовая электронная техника (аудио и видео оборудование)",
-                "Коммуникационное оборудование (оборудование электросвязи)",
-                "Компьютерное и периферийное оборудование",
-                "Прочие электронные компоненты и товары сферы ИКТ"
+                "Computer and peripheral equipment",
+                "Communication equipment (telecommunication equipment)",
+                "Consumer electronics (audio and video equipment)",
+                "Other electronic components and ICT products",
+                ""
               ]
             },
-            "title": "Тип продукта"
+            "title": "Type of product"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

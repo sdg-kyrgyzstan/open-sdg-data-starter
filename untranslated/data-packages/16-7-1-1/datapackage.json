@@ -12,19 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Proportion of positions in public institutions: in political positions",
+                "Proportion of positions in public institutions: in special positions",
+                "Proportion of positions in public institutions: in administrative positions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
                 ""
               ]
             }

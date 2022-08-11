@@ -12,30 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "SEX",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Proportion of time spent on unpaid domestic chores and care work",
+                "Proportion of time spent on unpaid domestic chores",
+                "Proportion of time spent on unpaid care work",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
                 ""
               ]
             }

@@ -12,39 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_CSE_MATDIFF",
-                "_L_CSE_PARENTS",
-                "_L_CSE_NODOC",
-                "_L_CSE_DOM",
-                "_L_CSE_UNWILL",
-                "_L_CSE_FAMILY",
-                "_L_CSE_NOLANG",
-                "_L_CSE_MARR",
-                "_L_CSE_WORK",
-                "_L_CSE_TRANSPORT",
-                "_L_CSE_SEASWORK",
-                "_L_CSE_AGE",
-                "_L_CSE_SICK",
-                "_L_CSE_DISAB",
-                "_L_CSE_OTHER",
+                "Cause: material difficulty",
+                "Cause: unwillingness of parents",
+                "Cause: lack of the necessary documents ( birth certificates, registration)",
+                "Cause: for domestic reasons",
+                "Cause: no wishes to learn",
+                "Cause: troubled families",
+                "Cause: lack knowledge of language",
+                "Cause: married, pregnant, they became parents ( mother, father )",
+                "Cause: working",
+                "Cause: lack of transportation (school too far from home)",
+                "Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",
+                "Cause: does not match the age of the given class",
+                "Cause: because of sickness ",
+                "Cause: Children with disabilities",
+                "Cause: other reasons",
                 ""
               ]
             }

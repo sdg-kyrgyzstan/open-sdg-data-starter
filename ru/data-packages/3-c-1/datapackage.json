@@ -11,28 +11,28 @@
       "schema": {
         "fields": [
           {
-            "name": "OCCUPATION",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Врачи",
-                "Стоматологи",
-                "Фармацевты",
-                "Специалисты по медицинскому уходу и акушерству "
+                "Medical doctors",
+                "Dentists",
+                "Pharmacists",
+                "Nursing and midwifery professionals",
+                ""
               ]
             },
-            "title": "Род занятий"
+            "title": "Occupation"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

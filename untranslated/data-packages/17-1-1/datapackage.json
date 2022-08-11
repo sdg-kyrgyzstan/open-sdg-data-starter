@@ -12,18 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_INC_TAX",
-                "_L_INC_CONT_DED",
-                "_L_INC_OFF_TRANS",
-                "_L_INC_NON_TAX",
-                "_L_INC_NON_FIN",
+                "Income: Tax revenues",
+                "Income: Contributions / deductions for social needs",
+                "Income: Received official transfers",
+                "Income: Non-tax revenues",
+                "Income: Income from sale of non-financial assets",
                 ""
               ]
             }

@@ -11,19 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Number of pensioners who receive pensions below the subsistence level of the pensioner",
+                "Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population",
+                "Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,26 +11,26 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

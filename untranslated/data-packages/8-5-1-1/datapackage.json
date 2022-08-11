@@ -12,43 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "ACTIVITY",
+            "name": "Economic activity",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISIC4_A",
-                "ISIC4_B",
-                "ISIC4_C",
-                "ISIC4_D",
-                "ISIC4_E",
-                "ISIC4_F",
-                "ISIC4_G",
-                "ISIC4_H",
-                "ISIC4_I",
-                "ISIC4_J",
-                "ISIC4_K",
-                "ISIC4_L",
-                "ISIC4_M",
-                "ISIC4_N",
-                "ISIC4_O",
-                "ISIC4_P",
-                "ISIC4_Q",
-                "ISIC4_R",
-                "ISIC4_S",
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
                 ""
               ]
             }

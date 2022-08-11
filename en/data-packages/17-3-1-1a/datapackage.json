@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "ACTIVITY",
+            "name": "Economic activity",
             "type": "string",
             "constraints": {
               "enum": [

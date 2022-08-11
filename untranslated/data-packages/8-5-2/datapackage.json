@@ -12,49 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG05",
-                "KG03",
-                "KG02",
-                "KG04",
-                "KG06",
-                "KG07",
-                "KG08",
-                "KG11",
-                "KG21",
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T19",
-                "Y20T29",
-                "Y30T39",
-                "Y40T49",
-                "Y50T59",
-                "Y60T69",
-                "Y_GE70",
+                "15 to 19 years old",
+                "20 to 29 years old",
+                "30 to 39 years old",
+                "40 to 49 years old",
+                "50 to 59 years old",
+                "60 to 69 years old",
+                "70 years old and over",
                 ""
               ]
             }

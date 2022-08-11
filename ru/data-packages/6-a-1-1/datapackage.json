@@ -11,27 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Вид помощи: Инвестиционный грант",
-                "Вид помощи: Инвестиционный кредит",
-                "Вид помощи: Инвестиционный кредит и грант"
+                "Type of assistance: Investment loan",
+                "Type of assistance: Investment grant",
+                "Type of assistance: Investment loan and grant",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

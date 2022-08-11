@@ -1,4 +1,4 @@
-Year,COMPOSITE_BREAKDOWN,Value
+Year,Composite breakdown,Value
 2010,,576.9
 2011,,587.5
 2012,,526.0
@@ -10,109 +10,147 @@ Year,COMPOSITE_BREAKDOWN,Value
 2018,,962.4
 2019,,798.7
 2020,,588.7
-2010,Расходы на борьбу с загрязнением окружающей среды,39.2
-2011,Расходы на борьбу с загрязнением окружающей среды,41.2
-2012,Расходы на борьбу с загрязнением окружающей среды,28.2
-2013,Расходы на борьбу с загрязнением окружающей среды,22.4
-2014,Расходы на борьбу с загрязнением окружающей среды,56.2
-2015,Расходы на борьбу с загрязнением окружающей среды,71.5
-2016,Расходы на борьбу с загрязнением окружающей среды,60.4
-2017,Расходы на борьбу с загрязнением окружающей среды,52.7
-2018,Расходы на борьбу с загрязнением окружающей среды,64.1
-2019,Расходы на борьбу с загрязнением окружающей среды,72.2
-2020,Расходы на борьбу с загрязнением окружающей среды,62.2
-2010,Расходы на природные заповедники и природные парки ,69.1
-2011,Расходы на природные заповедники и природные парки ,68.5
-2012,Расходы на природные заповедники и природные парки ,73.2
-2013,Расходы на природные заповедники и природные парки ,80.9
-2014,Расходы на природные заповедники и природные парки ,93.3
-2015,Расходы на природные заповедники и природные парки ,114.1
-2016,Расходы на природные заповедники и природные парки ,145.8
-2017,Расходы на природные заповедники и природные парки ,131.7
-2018,Расходы на природные заповедники и природные парки ,136.5
-2019,Расходы на природные заповедники и природные парки ,136.9
-2020,Расходы на природные заповедники и природные парки ,99.4
-2010,Расходы на охрану животных ,3.6
-2011,Расходы на охрану животных ,6.8
-2012,Расходы на охрану животных ,4.9
-2013,Расходы на охрану животных ,6.5
-2014,Расходы на охрану животных ,8.4
-2015,Расходы на охрану животных ,9.4
-2016,Расходы на охрану животных ,10.4
-2017,Расходы на охрану животных ,9.8
-2018,Расходы на охрану животных ,10.4
-2019,Расходы на охрану животных ,12.3
-2020,Расходы на охрану животных ,6.1
-2010,Расходы на охрану растений,1.4
-2011,Расходы на охрану растений,1.3
-2012,Расходы на охрану растений,1.3
-2013,Расходы на охрану растений,1.2
-2014,Расходы на охрану растений,1.6
-2015,Расходы на охрану растений,1.5
-2016,Расходы на охрану растений,1.5
-2010,Расходы на противоэпизоотические мероприятия,29.6
-2011,Расходы на противоэпизоотические мероприятия,36.4
-2012,Расходы на противоэпизоотические мероприятия,26.6
-2013,Расходы на противоэпизоотические мероприятия,63.2
-2014,Расходы на противоэпизоотические мероприятия,61.2
-2015,Расходы на противоэпизоотические мероприятия,46.6
-2016,Расходы на противоэпизоотические мероприятия,109.3
-2017,Расходы на противоэпизоотические мероприятия,105.6
-2018,Расходы на противоэпизоотические мероприятия,153.6
-2019,Расходы на противоэпизоотические мероприятия,64.7
-2020,Расходы на противоэпизоотические мероприятия,71.0
-2010,Расходы на ветеринарную диагностику,190.9
-2011,Расходы на ветеринарную диагностику,190.1
-2012,Расходы на ветеринарную диагностику,158.7
-2013,Расходы на ветеринарную диагностику,90.9
-2014,Расходы на ветеринарную диагностику,109.3
-2015,Расходы на ветеринарную диагностику,107.2
-2016,Расходы на ветеринарную диагностику,150.8
-2017,Расходы на ветеринарную диагностику,134.6
-2018,Расходы на ветеринарную диагностику,245.1
-2019,Расходы на ветеринарную диагностику,169.4
-2020,Расходы на ветеринарную диагностику,136.3
-2010,"Расходы на химизацию, защиты и карантин растений",72.3
-2011,"Расходы на химизацию, защиты и карантин растений",50.0
-2012,"Расходы на химизацию, защиты и карантин растений",29.3
-2013,"Расходы на химизацию, защиты и карантин растений",43.9
-2014,"Расходы на химизацию, защиты и карантин растений",42.5
-2015,"Расходы на химизацию, защиты и карантин растений",60.1
-2016,"Расходы на химизацию, защиты и карантин растений",88.8
-2017,"Расходы на химизацию, защиты и карантин растений",85.9
-2018,"Расходы на химизацию, защиты и карантин растений",132.2
-2019,"Расходы на химизацию, защиты и карантин растений",131.5
-2020,"Расходы на химизацию, защиты и карантин растений",103.3
-2010,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,150.6
-2011,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,175.6
-2012,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,189.3
-2013,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,235.6
-2014,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,277.1
-2015,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,392.6
-2016,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,358.6
-2017,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,231.4
-2018,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,212.8
-2019,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,197.7
-2020,Расходы на прочие услуги по защите биоразнообразия и охране ландшафта,103.2
-2010,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",2.9
-2011,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",4.3
-2012,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",4.6
-2013,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",6.2
-2014,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",6.7
-2015,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",7.1
-2016,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",6.3
-2017,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",6.3
-2019,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",1.8
-2020,"Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",1.8
-2010,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",11.0
-2011,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",11.2
-2012,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",9.8
-2013,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",11.2
-2014,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",9.6
-2017,"Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",163.5
-2010,Расходы на другие услуги по охране окружающей среды,6.3
-2011,Расходы на другие услуги по охране окружающей среды,2.2
-2016,Расходы на другие услуги по охране окружающей среды,2.6
-2018,Расходы на другие услуги по охране окружающей среды,7.7
-2019,Расходы на другие услуги по охране окружающей среды,12.2
-2020,Расходы на другие услуги по охране окружающей среды,5.4
+2010,Expenditure on Pollution control,39.2
+2011,Expenditure on Pollution control,41.2
+2012,Expenditure on Pollution control,28.2
+2013,Expenditure on Pollution control,22.4
+2014,Expenditure on Pollution control,56.2
+2015,Expenditure on Pollution control,71.5
+2016,Expenditure on Pollution control,60.4
+2017,Expenditure on Pollution control,52.7
+2018,Expenditure on Pollution control,64.1
+2019,Expenditure on Pollution control,72.2
+2020,Expenditure on Pollution control,62.2
+2010,Expenditure on Nature parks and reserves,69.1
+2011,Expenditure on Nature parks and reserves,68.5
+2012,Expenditure on Nature parks and reserves,73.2
+2013,Expenditure on Nature parks and reserves,80.9
+2014,Expenditure on Nature parks and reserves,93.3
+2015,Expenditure on Nature parks and reserves,114.1
+2016,Expenditure on Nature parks and reserves,145.8
+2017,Expenditure on Nature parks and reserves,131.7
+2018,Expenditure on Nature parks and reserves,136.5
+2019,Expenditure on Nature parks and reserves,136.9
+2020,Expenditure on Nature parks and reserves,99.4
+2010,Expenditure on Animal protection,3.6
+2011,Expenditure on Animal protection,6.8
+2012,Expenditure on Animal protection,4.9
+2013,Expenditure on Animal protection,6.5
+2014,Expenditure on Animal protection,8.4
+2015,Expenditure on Animal protection,9.4
+2016,Expenditure on Animal protection,10.4
+2017,Expenditure on Animal protection,9.8
+2018,Expenditure on Animal protection,10.4
+2019,Expenditure on Animal protection,12.3
+2020,Expenditure on Animal protection,6.1
+2010,Expenditure on Plant protection,1.4
+2011,Expenditure on Plant protection,1.3
+2012,Expenditure on Plant protection,1.3
+2013,Expenditure on Plant protection,1.2
+2014,Expenditure on Plant protection,1.6
+2015,Expenditure on Plant protection,1.5
+2016,Expenditure on Plant protection,1.5
+2010,Expenditure on Anti-epizootic measures,29.6
+2011,Expenditure on Anti-epizootic measures,36.4
+2012,Expenditure on Anti-epizootic measures,26.6
+2013,Expenditure on Anti-epizootic measures,63.2
+2014,Expenditure on Anti-epizootic measures,61.2
+2015,Expenditure on Anti-epizootic measures,46.6
+2016,Expenditure on Anti-epizootic measures,109.3
+2017,Expenditure on Anti-epizootic measures,105.6
+2018,Expenditure on Anti-epizootic measures,153.6
+2019,Expenditure on Anti-epizootic measures,64.7
+2020,Expenditure on Anti-epizootic measures,71.0
+2010,Expenditure on Veterinary diagnostics,190.9
+2011,Expenditure on Veterinary diagnostics,190.1
+2012,Expenditure on Veterinary diagnostics,158.7
+2013,Expenditure on Veterinary diagnostics,90.9
+2014,Expenditure on Veterinary diagnostics,109.3
+2015,Expenditure on Veterinary diagnostics,107.2
+2016,Expenditure on Veterinary diagnostics,150.8
+2017,Expenditure on Veterinary diagnostics,134.6
+2018,Expenditure on Veterinary diagnostics,245.1
+2019,Expenditure on Veterinary diagnostics,169.4
+2020,Expenditure on Veterinary diagnostics,136.3
+2010,"Expenditure on Plant chemicals, protection and
+quarantine",72.3
+2011,"Expenditure on Plant chemicals, protection and
+quarantine",50.0
+2012,"Expenditure on Plant chemicals, protection and
+quarantine",29.3
+2013,"Expenditure on Plant chemicals, protection and
+quarantine",43.9
+2014,"Expenditure on Plant chemicals, protection and
+quarantine",42.5
+2015,"Expenditure on Plant chemicals, protection and
+quarantine",60.1
+2016,"Expenditure on Plant chemicals, protection and
+quarantine",88.8
+2017,"Expenditure on Plant chemicals, protection and
+quarantine",85.9
+2018,"Expenditure on Plant chemicals, protection and
+quarantine",132.2
+2019,"Expenditure on Plant chemicals, protection and
+quarantine",131.5
+2020,"Expenditure on Plant chemicals, protection and
+quarantine",103.3
+2010,"Expenditure on Other services for the protection
+of biodiversity and landscape",150.6
+2011,"Expenditure on Other services for the protection
+of biodiversity and landscape",175.6
+2012,"Expenditure on Other services for the protection
+of biodiversity and landscape",189.3
+2013,"Expenditure on Other services for the protection
+of biodiversity and landscape",235.6
+2014,"Expenditure on Other services for the protection
+of biodiversity and landscape",277.1
+2015,"Expenditure on Other services for the protection
+of biodiversity and landscape",392.6
+2016,"Expenditure on Other services for the protection
+of biodiversity and landscape",358.6
+2017,"Expenditure on Other services for the protection
+of biodiversity and landscape",231.4
+2018,"Expenditure on Other services for the protection
+of biodiversity and landscape",212.8
+2019,"Expenditure on Other services for the protection
+of biodiversity and landscape",197.7
+2020,"Expenditure on Other services for the protection
+of biodiversity and landscape",103.2
+2010,"Expenditure on Research and development work
+related to environmental protection",2.9
+2011,"Expenditure on Research and development work
+related to environmental protection",4.3
+2012,"Expenditure on Research and development work
+related to environmental protection",4.6
+2013,"Expenditure on Research and development work
+related to environmental protection",6.2
+2014,"Expenditure on Research and development work
+related to environmental protection",6.7
+2015,"Expenditure on Research and development work
+related to environmental protection",7.1
+2016,"Expenditure on Research and development work
+related to environmental protection",6.3
+2017,"Expenditure on Research and development work
+related to environmental protection",6.3
+2019,"Expenditure on Research and development work
+related to environmental protection",1.8
+2020,"Expenditure on Research and development work
+related to environmental protection",1.8
+2010,Expenditure on Environmental issues not classified elsewhere ,11.0
+2011,Expenditure on Environmental issues not classified elsewhere ,11.2
+2012,Expenditure on Environmental issues not classified elsewhere ,9.8
+2013,Expenditure on Environmental issues not classified elsewhere ,11.2
+2014,Expenditure on Environmental issues not classified elsewhere ,9.6
+2017,Expenditure on Environmental issues not classified elsewhere ,163.5
+2010,"Expenditure on Other services on environmental
+protection",6.3
+2011,"Expenditure on Other services on environmental
+protection",2.2
+2016,"Expenditure on Other services on environmental
+protection",2.6
+2018,"Expenditure on Other services on environmental
+protection",7.7
+2019,"Expenditure on Other services on environmental
+protection",12.2
+2020,"Expenditure on Other services on environmental
+protection",5.4

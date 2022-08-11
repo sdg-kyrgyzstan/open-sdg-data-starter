@@ -1,51 +1,51 @@
-Year,FREQ,REF_AREA,Value
-2015,A,,235
-2016,A,,285
-2017,A,,311
-2018,A,,273
-2019,S,,273
-2015,A,KG05,294
-2016,A,KG05,479
-2017,A,KG05,462
-2018,A,KG05,426
-2019,S,KG05,400
-2015,A,KG11,436
-2016,A,KG11,372
-2017,A,KG11,354
-2018,A,KG11,327
-2019,S,KG11,360
-2015,A,KG08,-15
-2016,A,KG08,166
-2017,A,KG08,295
-2018,A,KG08,195
-2019,S,KG08,252
-2015,A,KG02,206
-2016,A,KG02,199
-2017,A,KG02,285
-2018,A,KG02,307
-2019,S,KG02,375
-2015,A,KG03,343
-2016,A,KG03,309
-2017,A,KG03,327
-2018,A,KG03,279
-2019,S,KG03,307
-2015,A,KG04,364
-2016,A,KG04,341
-2017,A,KG04,312
-2018,A,KG04,341
-2019,S,KG04,355
-2015,A,KG06,314
-2016,A,KG06,256
-2017,A,KG06,385
-2018,A,KG06,355
-2019,S,KG06,325
-2015,A,KG21,96
-2016,A,KG21,126
-2017,A,KG21,163
-2018,A,KG21,129
-2019,S,KG21,113
-2015,A,KG07,169
-2016,A,KG07,408
-2017,A,KG07,429
-2018,A,KG07,383
-2019,S,KG07,366
+Year,Frequency of observation,Reference area,Value
+2015,Annual,,235
+2016,Annual,,285
+2017,Annual,,311
+2018,Annual,,273
+2019,"Half-yearly, semester",,273
+2015,Annual,Batken,294
+2016,Annual,Batken,479
+2017,Annual,Batken,462
+2018,Annual,Batken,426
+2019,"Half-yearly, semester",Batken,400
+2015,Annual,Bishkek (city),436
+2016,Annual,Bishkek (city),372
+2017,Annual,Bishkek (city),354
+2018,Annual,Bishkek (city),327
+2019,"Half-yearly, semester",Bishkek (city),360
+2015,Annual,Chui,-15
+2016,Annual,Chui,166
+2017,Annual,Chui,295
+2018,Annual,Chui,195
+2019,"Half-yearly, semester",Chui,252
+2015,Annual,Issyk-Kul,206
+2016,Annual,Issyk-Kul,199
+2017,Annual,Issyk-Kul,285
+2018,Annual,Issyk-Kul,307
+2019,"Half-yearly, semester",Issyk-Kul,375
+2015,Annual,Jalal-Abad,343
+2016,Annual,Jalal-Abad,309
+2017,Annual,Jalal-Abad,327
+2018,Annual,Jalal-Abad,279
+2019,"Half-yearly, semester",Jalal-Abad,307
+2015,Annual,Naryn,364
+2016,Annual,Naryn,341
+2017,Annual,Naryn,312
+2018,Annual,Naryn,341
+2019,"Half-yearly, semester",Naryn,355
+2015,Annual,Osh,314
+2016,Annual,Osh,256
+2017,Annual,Osh,385
+2018,Annual,Osh,355
+2019,"Half-yearly, semester",Osh,325
+2015,Annual,Osh (city),96
+2016,Annual,Osh (city),126
+2017,Annual,Osh (city),163
+2018,Annual,Osh (city),129
+2019,"Half-yearly, semester",Osh (city),113
+2015,Annual,Talas,169
+2016,Annual,Talas,408
+2017,Annual,Talas,429
+2018,Annual,Talas,383
+2019,"Half-yearly, semester",Talas,366

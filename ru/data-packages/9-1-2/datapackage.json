@@ -11,54 +11,68 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Вид транспорта: Воздушный",
-                "Вид транспорта: Автобус",
-                "Вид транспорта: Трубопроводный",
-                "Вид транспорта: Железнодорожный",
-                "Вид транспорта: Автомобильный",
-                "Вид транспорта: Такси",
-                "Вид транспорта: Троллейбус",
-                "Вид транспорта: Водный"
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Единица измерения"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Миллионы",
                 "Тысячи",
-                "Миллионы"
+                ""
               ]
             },
             "title": "Множитель"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Passenger volume (passenger kilometres)",
+                "Freight volume (tonne kilometres)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mode of Transport: Rail",
+                "Mode of Transport: Bus",
+                "Mode of Transport: Trolley bus",
+                "Mode of Transport: Taxi",
+                "Mode of Transport: Air",
+                "Mode of Transport: Road",
+                "Mode of Transport: Pipeline",
+                "Mode of Transport: Water",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Metric Tons",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

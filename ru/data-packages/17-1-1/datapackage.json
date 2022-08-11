@@ -11,29 +11,29 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Доходы: Взносы/отчисления на социальные нужды",
-                "Доходы: Доходы от продажи нефинансовых активов",
-                "Доходы: Неналоговые доходы",
-                "Доходы: Полученные официальные трансферты",
-                "Доходы: Налоговые доходы"
+                "Income: Tax revenues",
+                "Income: Contributions / deductions for social needs",
+                "Income: Received official transfers",
+                "Income: Non-tax revenues",
+                "Income: Income from sale of non-financial assets",
+                ""
               ]
             },
-            "title": "Составная разбивка"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

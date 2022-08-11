@@ -7,111 +7,111 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "от 15 до 17 лет ",
-                "от 15 до 19 лет ",
-                "от 15 до 49 лет ",
-                "от 18 до 19 лет ",
-                "от 18 до 49 лет",
-                "от 20 до 24 лет",
-                "от 25 до 29 лет",
-                "от 30 до 34 лет ",
-                "от 35 до 39 лет",
-                "от 40 до 44 лет ",
-                "от 45 до 49 лет "
-              ]
-            },
-            "title": "Возраст"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Лица с инвалидностью",
-                "Лица без инвалидности"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Статус инвалидности"
+            "title": "Reference area"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Высшее образование (бакалавриат и магистратура или эквиваленты)"
+                "15 to 49 years old",
+                "15 to 19 years old",
+                "15 to 17 years old",
+                "18 to 19 years old",
+                "20 to 24 years old",
+                "25 to 29 years old",
+                "30 to 34 years old",
+                "35 to 39 years old",
+                "40 to 44 years old",
+                "45 to 49 years old",
+                "18 to 49 years old",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Age"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Квинтиль 1 (беднейшие)",
-                "Квинтиль 2",
-                "Квинтиль 3",
-                "Квинтиль 4",
-                "Квинтиль 5 (богатейшие)"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Уровень дохода или квантиль благосостояния"
+            "title": "Degree of urbanisation"
           },
           {
-            "name": "REF_AREA",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Income or wealth quantile"
           },
           {
-            "name": "URBANISATION",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Education level"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with disability",
+                "Persons without disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

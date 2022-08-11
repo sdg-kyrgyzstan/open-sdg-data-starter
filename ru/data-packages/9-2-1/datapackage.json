@@ -11,48 +11,62 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_TS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "CUR_LCU",
-                "PT"
-              ]
-            },
-            "title": "Сноски для временных рядов"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Единица измерения"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Единицы",
-                "Тысячи"
+                "Тысячи",
+                ""
               ]
             },
             "title": "Множитель"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP",
+                "Manufacturing value added per capita",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Local currency",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Time series-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "CUR_LCU",
+                ""
+              ]
+            },
+            "title": "Time series-level footnotes"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

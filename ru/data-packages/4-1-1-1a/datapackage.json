@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Причина: не соответствие возраста данному классу",
-                "Причина: дети с ограниченными возможностями здоровья",
-                "Причина: по семейным обстоятельствам",
-                "Причина: неблагополучные семьи",
-                "Причина: состоит в браке, беременна, стали родителями (матерью, отцом)",
-                "Причина: материальные трудности",
-                "Причина: отсутствие необходимых документов (свидетельства о рождении, прописки)",
-                "Причина: не владеют языком ",
-                "Причина: по другим причинам",
-                "Причина: нежелание родителей",
-                "Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)",
-                "Причина: по болезни",
-                "Причина: отсутствие транспорта (школа расположена далеко от дома)",
-                "Причина: нет желания учиться",
-                "Причина: работают"
-              ]
-            },
-            "title": "Составная разбивка"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Sex"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cause: material difficulty",
+                "Cause: unwillingness of parents",
+                "Cause: lack of the necessary documents ( birth certificates, registration)",
+                "Cause: for domestic reasons",
+                "Cause: no wishes to learn",
+                "Cause: troubled families",
+                "Cause: lack knowledge of language",
+                "Cause: married, pregnant, they became parents ( mother, father )",
+                "Cause: working",
+                "Cause: lack of transportation (school too far from home)",
+                "Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",
+                "Cause: does not match the age of the given class",
+                "Cause: because of sickness ",
+                "Cause: Children with disabilities",
+                "Cause: other reasons",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

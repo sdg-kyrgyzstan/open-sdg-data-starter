@@ -12,19 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_SPC_PLANT_MUSH",
-                "_L_SPC_MAMM",
-                "_L_SPC_BIRD",
-                "_L_SPC_INSEC",
-                "_L_SPC_AMPH_REP",
-                "_L_SPC_FISH",
+                "Species: Plants and mushrooms",
+                "Species: Mammals",
+                "Species: Birds",
+                "Species: Insects",
+                "Species: Amphibians and Reptiles",
+                "Species: Fish",
                 ""
               ]
             }

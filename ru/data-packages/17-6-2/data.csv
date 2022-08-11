@@ -1,28 +1,28 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2012,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,22233
-2013,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,77877
-2014,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,105680
-2015,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,46408
-2016,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,27317
-2017,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,27428
-2018,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,22654
-2019,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,20556
-2020,Скорость интернета: от 256 кбит / с до менее 2 Мбит / с,8075
-2012,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,6530
-2013,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,43943
-2014,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,65345
-2015,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,59377
-2016,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,91834
-2017,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,101786
-2018,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,158296
-2019,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,174988
-2020,Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с,79553
-2012,Скорость интернета: 10 Мбит / с или выше,19351
-2013,Скорость интернета: 10 Мбит / с или выше,14065
-2014,Скорость интернета: 10 Мбит / с или выше,14032
-2015,Скорость интернета: 10 Мбит / с или выше,105739
-2016,Скорость интернета: 10 Мбит / с или выше,115047
-2017,Скорость интернета: 10 Мбит / с или выше,128799
-2018,Скорость интернета: 10 Мбит / с или выше,69662
-2019,Скорость интернета: 10 Мбит / с или выше,73547
-2020,Скорость интернета: 10 Мбит / с или выше,181557
+Year,Composite breakdown,Value
+2012,Internet speed: 256 kbit/s to less than 2 Mbit/s,22233
+2013,Internet speed: 256 kbit/s to less than 2 Mbit/s,77877
+2014,Internet speed: 256 kbit/s to less than 2 Mbit/s,105680
+2015,Internet speed: 256 kbit/s to less than 2 Mbit/s,46408
+2016,Internet speed: 256 kbit/s to less than 2 Mbit/s,27317
+2017,Internet speed: 256 kbit/s to less than 2 Mbit/s,27428
+2018,Internet speed: 256 kbit/s to less than 2 Mbit/s,22654
+2019,Internet speed: 256 kbit/s to less than 2 Mbit/s,20556
+2020,Internet speed: 256 kbit/s to less than 2 Mbit/s,8075
+2012,Internet speed: 2 Mbit/s to less than 10 Mbit/s,6530
+2013,Internet speed: 2 Mbit/s to less than 10 Mbit/s,43943
+2014,Internet speed: 2 Mbit/s to less than 10 Mbit/s,65345
+2015,Internet speed: 2 Mbit/s to less than 10 Mbit/s,59377
+2016,Internet speed: 2 Mbit/s to less than 10 Mbit/s,91834
+2017,Internet speed: 2 Mbit/s to less than 10 Mbit/s,101786
+2018,Internet speed: 2 Mbit/s to less than 10 Mbit/s,158296
+2019,Internet speed: 2 Mbit/s to less than 10 Mbit/s,174988
+2020,Internet speed: 2 Mbit/s to less than 10 Mbit/s,79553
+2012,Internet speed: 10 Mbit/s or above,19351
+2013,Internet speed: 10 Mbit/s or above,14065
+2014,Internet speed: 10 Mbit/s or above,14032
+2015,Internet speed: 10 Mbit/s or above,105739
+2016,Internet speed: 10 Mbit/s or above,115047
+2017,Internet speed: 10 Mbit/s or above,128799
+2018,Internet speed: 10 Mbit/s or above,69662
+2019,Internet speed: 10 Mbit/s or above,73547
+2020,Internet speed: 10 Mbit/s or above,181557

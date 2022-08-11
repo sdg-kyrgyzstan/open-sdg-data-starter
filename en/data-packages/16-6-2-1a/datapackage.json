@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "FREQ",
+            "name": "Frequency of observation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
             "title": "Frequency of observation"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [

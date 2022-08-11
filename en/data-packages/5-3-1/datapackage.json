@@ -12,16 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married or in a union before age 15",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +47,7 @@
             "title": "Reference area"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
@@ -55,7 +62,7 @@
             "title": "Income or wealth quantile"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +76,7 @@
             "title": "Education level"
           },
           {
-            "name": "DISABILITY_STATUS",
+            "name": "Disability status",
             "type": "string",
             "constraints": {
               "enum": [

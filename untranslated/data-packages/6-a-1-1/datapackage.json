@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_ASS_LOAN",
-                "_L_ASS_GRANT",
-                "_L_ASS_LOAN_GRANT",
+                "Type of assistance: Investment loan",
+                "Type of assistance: Investment grant",
+                "Type of assistance: Investment loan and grant",
                 ""
               ]
             }

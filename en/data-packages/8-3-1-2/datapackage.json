@@ -12,12 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "SERIES",
+            "name": "SDG Series",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of employed in small enterprises in total employment",
+                "Share of employed in medium enterprises in total employment",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

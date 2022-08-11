@@ -11,101 +11,101 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "от 15 до 28 лет",
-                "от 29 до 62 лет (население трудоспособного возраста: женщины до 57 лет, мужчины до 62 лет)",
-                "15 лет и старше",
-                "58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)"
-              ]
-            },
-            "title": "Возраст"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Начальное образование",
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Высшее образование (бакалавриат и магистратура или эквиваленты)"
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
               ]
             },
-            "title": "Уровень образования"
+            "title": "Reference area"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Квинтиль 1 (беднейшие)",
-                "Квинтиль 2",
-                "Квинтиль 3",
-                "Квинтиль 4",
-                "Квинтиль 5 (богатейшие)"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Уровень дохода или квантиль благосостояния"
+            "title": "Sex"
           },
           {
-            "name": "REF_AREA",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "15 years old and over",
+                "15 to 28 years old",
+                "29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",
+                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Age"
           },
           {
-            "name": "SEX",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Degree of urbanisation"
           },
           {
-            "name": "URBANISATION",
+            "name": "Income or wealth quantile",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

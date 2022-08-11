@@ -1,43 +1,43 @@
-Year,SERIES,Пол,Value
-2014,Число осужденных по факту должностных преступлений,,378
-2015,Число осужденных по факту должностных преступлений,,336
-2016,Число осужденных по факту должностных преступлений,,351
-2017,Число осужденных по факту должностных преступлений,,234
-2018,Число осужденных по факту должностных преступлений,,342
-2019,Число осужденных по факту должностных преступлений,,242
-2020,Число осужденных по факту должностных преступлений,,200
-2014,Число осужденных по факту коррупции и взяточничества,,62
-2015,Число осужденных по факту коррупции и взяточничества,,69
-2016,Число осужденных по факту коррупции и взяточничества,,72
-2017,Число осужденных по факту коррупции и взяточничества,,52
-2018,Число осужденных по факту коррупции и взяточничества,,56
-2019,Число осужденных по факту коррупции и взяточничества,,79
-2020,Число осужденных по факту коррупции и взяточничества,,73
-2014,Число осужденных по факту должностных преступлений,Мужчины,323
-2015,Число осужденных по факту должностных преступлений,Мужчины,278
-2016,Число осужденных по факту должностных преступлений,Мужчины,286
-2017,Число осужденных по факту должностных преступлений,Мужчины,196
-2018,Число осужденных по факту должностных преступлений,Мужчины,297
-2019,Число осужденных по факту должностных преступлений,Мужчины,210
-2020,Число осужденных по факту должностных преступлений,Мужчины,174
-2014,Число осужденных по факту коррупции и взяточничества,Мужчины,57
-2015,Число осужденных по факту коррупции и взяточничества,Мужчины,65
-2016,Число осужденных по факту коррупции и взяточничества,Мужчины,61
-2017,Число осужденных по факту коррупции и взяточничества,Мужчины,44
-2018,Число осужденных по факту коррупции и взяточничества,Мужчины,53
-2019,Число осужденных по факту коррупции и взяточничества,Мужчины,68
-2020,Число осужденных по факту коррупции и взяточничества,Мужчины,67
-2014,Число осужденных по факту должностных преступлений,Женщины,55
-2015,Число осужденных по факту должностных преступлений,Женщины,58
-2016,Число осужденных по факту должностных преступлений,Женщины,65
-2017,Число осужденных по факту должностных преступлений,Женщины,38
-2018,Число осужденных по факту должностных преступлений,Женщины,45
-2019,Число осужденных по факту должностных преступлений,Женщины,32
-2020,Число осужденных по факту должностных преступлений,Женщины,26
-2014,Число осужденных по факту коррупции и взяточничества,Женщины,5
-2015,Число осужденных по факту коррупции и взяточничества,Женщины,4
-2016,Число осужденных по факту коррупции и взяточничества,Женщины,11
-2017,Число осужденных по факту коррупции и взяточничества,Женщины,8
-2018,Число осужденных по факту коррупции и взяточничества,Женщины,3
-2019,Число осужденных по факту коррупции и взяточничества,Женщины,11
-2020,Число осужденных по факту коррупции и взяточничества,Женщины,6
+Year,SDG Series,Sex,Value
+2014,Number of convictions for malfeasance,,378
+2015,Number of convictions for malfeasance,,336
+2016,Number of convictions for malfeasance,,351
+2017,Number of convictions for malfeasance,,234
+2018,Number of convictions for malfeasance,,342
+2019,Number of convictions for malfeasance,,242
+2020,Number of convictions for malfeasance,,200
+2014,Number of convictions for сorruption and bribery,,62
+2015,Number of convictions for сorruption and bribery,,69
+2016,Number of convictions for сorruption and bribery,,72
+2017,Number of convictions for сorruption and bribery,,52
+2018,Number of convictions for сorruption and bribery,,56
+2019,Number of convictions for сorruption and bribery,,79
+2020,Number of convictions for сorruption and bribery,,73
+2014,Number of convictions for malfeasance,Male,323
+2015,Number of convictions for malfeasance,Male,278
+2016,Number of convictions for malfeasance,Male,286
+2017,Number of convictions for malfeasance,Male,196
+2018,Number of convictions for malfeasance,Male,297
+2019,Number of convictions for malfeasance,Male,210
+2020,Number of convictions for malfeasance,Male,174
+2014,Number of convictions for сorruption and bribery,Male,57
+2015,Number of convictions for сorruption and bribery,Male,65
+2016,Number of convictions for сorruption and bribery,Male,61
+2017,Number of convictions for сorruption and bribery,Male,44
+2018,Number of convictions for сorruption and bribery,Male,53
+2019,Number of convictions for сorruption and bribery,Male,68
+2020,Number of convictions for сorruption and bribery,Male,67
+2014,Number of convictions for malfeasance,Female,55
+2015,Number of convictions for malfeasance,Female,58
+2016,Number of convictions for malfeasance,Female,65
+2017,Number of convictions for malfeasance,Female,38
+2018,Number of convictions for malfeasance,Female,45
+2019,Number of convictions for malfeasance,Female,32
+2020,Number of convictions for malfeasance,Female,26
+2014,Number of convictions for сorruption and bribery,Female,5
+2015,Number of convictions for сorruption and bribery,Female,4
+2016,Number of convictions for сorruption and bribery,Female,11
+2017,Number of convictions for сorruption and bribery,Female,8
+2018,Number of convictions for сorruption and bribery,Female,3
+2019,Number of convictions for сorruption and bribery,Female,11
+2020,Number of convictions for сorruption and bribery,Female,6

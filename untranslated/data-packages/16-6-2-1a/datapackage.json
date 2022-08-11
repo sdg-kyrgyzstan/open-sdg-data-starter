@@ -12,33 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "FREQ",
+            "name": "Frequency of observation",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "S",
+                "Annual",
+                "Half-yearly, semester",
                 ""
               ]
             }
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG05",
-                "KG11",
-                "KG08",
-                "KG02",
-                "KG03",
-                "KG04",
-                "KG06",
-                "KG21",
-                "KG07",
+                "Batken",
+                "Bishkek (city)",
+                "Chui",
+                "Issyk-Kul",
+                "Jalal-Abad",
+                "Naryn",
+                "Osh",
+                "Osh (city)",
+                "Talas",
                 ""
               ]
             }

@@ -11,19 +11,27 @@
       "schema": {
         "fields": [
           {
-            "name": "SERIES",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SDG Series",
             "type": "string",
-            "title": "Ряды ЦУР"
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by at least a 2G mobile network",
+                "Proportion of population covered by at least a 3G mobile network",
+                "Proportion of population covered by at least a 4G mobile network",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

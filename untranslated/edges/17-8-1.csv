@@ -1,6 +1,6 @@
 From,To
-AGE,REF_AREA
-AGE,SEX
-AGE,URBANISATION
-AGE,INCOME_WEALTH_QUANTILE
-AGE,EDUCATION_LEV
+Age,Reference area
+Age,Sex
+Age,Degree of urbanisation
+Age,Income or wealth quantile
+Age,Education level

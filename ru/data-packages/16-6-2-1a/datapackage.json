@@ -11,45 +11,45 @@
       "schema": {
         "fields": [
           {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Годовая",
-                "Полугодовая, семестр"
-              ]
-            },
-            "title": "Частота наблюдений"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "Frequency of observation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Иссык-Кульская область",
-                "Джалал-Абадская область",
-                "Нарынская область",
-                "Баткенская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош"
+                "Annual",
+                "Half-yearly, semester",
+                ""
               ]
             },
-            "title": "Территория"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Bishkek (city)",
+                "Chui",
+                "Issyk-Kul",
+                "Jalal-Abad",
+                "Naryn",
+                "Osh",
+                "Osh (city)",
+                "Talas",
+                ""
+              ]
+            },
+            "title": "Reference area"
           },
           {
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

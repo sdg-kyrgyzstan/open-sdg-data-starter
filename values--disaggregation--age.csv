@@ -1,60 +1,60 @@
 Value,Disaggregation combinations using this value,Number of indicators
-M0T5,6,2
-M12T17,6,2
-M12T23,1,1
-M18T23,6,2
-M24T35,7,3
-M36T47,2,1
-M48T59,7,3
-M6T11,6,2
-Y0,1,1
-Y0T14,2,2
-Y0T17,2,2
-Y0T18,1,1
-Y0T20,1,1
-Y0T4,68,2
-Y0T5,1,1
-Y10T14,2,1
-Y12T14,1,1
-Y14T28,2,2
-Y15T17,7,5
-Y15T19,8,7
-Y15T24,11,3
-Y15T28,6,6
-Y15T49,67,4
-Y16T62,2,2
-Y17T20,3,1
-Y17T24,3,1
-Y18T19,3,3
-Y18T49,7,3
-Y18T64,1,1
-Y1T2,2,1
-Y20T24,6,5
-Y20T29,2,2
-Y21T30,1,1
-Y25T29,6,5
-Y29T62,6,6
-Y30T34,6,5
-Y30T39,2,2
-Y31T40,1,1
-Y35T39,6,5
-Y3T4,7,3
-Y40T44,6,5
-Y40T49,2,2
-Y41T50,1,1
-Y45T49,6,5
-Y50T54,1,1
-Y50T59,2,2
-Y55T59,1,1
-Y5T11,1,1
-Y5T9,2,1
-Y60T64,1,1
-Y60T69,1,1
-Y65T69,2,2
-Y7T14,1,1
-Y_GE15,73,4
-Y_GE25,1,1
-Y_GE51,1,1
-Y_GE58,8,8
-Y_GE65,1,1
-Y_GE70,3,3
+0 to 5 months old,6,2
+1 to 2 years old,2,1
+10 to 14 years old,2,1
+12 to 14 years old,1,1
+12 to 17 months old,6,2
+12 to 23 months old,1,1
+14 to 28 years old,2,2
+15 to 17 years old,7,5
+15 to 19 years old,8,7
+15 to 24 years old,11,3
+15 to 28 years old,6,6
+15 to 49 years old,67,4
+15 years old and over,73,4
+"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",2,2
+17 to 20 years old,3,1
+17 to 24 years old,3,1
+18 to 19 years old,3,3
+18 to 23 months old,6,2
+18 to 49 years old,7,3
+18 to 64 years old,1,1
+20 to 24 years old,6,5
+20 to 29 years old,2,2
+21 to 30 years old,1,1
+24 to 35 months old,7,3
+25 to 29 years old,6,5
+25 years old and over,1,1
+"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",6,6
+3 to 4 years old,7,3
+30 to 34 years old,6,5
+30 to 39 years old,2,2
+31 to 40 years old,1,1
+35 to 39 years old,6,5
+36 to 47 months old,2,1
+40 to 44 years old,6,5
+40 to 49 years old,2,2
+41 to 50 years old,1,1
+45 to 49 years old,6,5
+48 to 59 months old,7,3
+5 to 11 years old,1,1
+5 to 9 years old,2,1
+50 to 54 years old,1,1
+50 to 59 years old,2,2
+51 years old and over,1,1
+55 to 59 years old,1,1
+"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",8,8
+6 to 11 months old,6,2
+60 to 64 years old,1,1
+60 to 69 years old,1,1
+65 to 69 years old,2,2
+65 years old and over,1,1
+7 to 14 years old,1,1
+70 years old and over,3,3
+under 1 year old,1,1
+under 14 years old,2,2
+under 17 years old,2,2
+under 18 years old,1,1
+under 20 years old,1,1
+under 5 years old,68,2
+under 6 years old,1,1

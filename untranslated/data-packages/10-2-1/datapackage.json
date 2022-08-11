@@ -12,71 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "REF_AREA",
+            "name": "SDG Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG05",
-                "KG03",
-                "KG02",
-                "KG04",
-                "KG06",
-                "KG07",
-                "KG08",
-                "KG11",
-                "KG21",
+                "Median value, som per month per capita",
+                "Proportion of people living below 50 percent of median income",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T17",
-                "Y14T28",
-                "Y16T62",
-                "Y_GE58",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "under 17 years old",
+                "14 to 28 years old",
+                "16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",
+                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
                 ""
               ]
             }
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "B50",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 50%",
                 ""
               ]
             }

@@ -11,91 +11,91 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Сельское хозяйство, лесоводство и рыболовство",
-                "Горнодобывающая промышленность и разработка карьеров",
-                "Обрабатывающая промышленность",
-                "Снабжение электричеством, газом, паром и кондиционированным воздухом",
-                "Водоснабжение; системы канализации, удаление отходов и меры по восстановлению окружающей среды",
-                "Строительство",
-                "Оптовая и розничная торговля; ремонт автомобилей и мотоциклов",
-                "Транспорт и складское хозяйство",
-                "Размещение и общественное питание",
-                "Информация и связь",
-                "Финансовая деятельность и страхование",
-                "Операции с недвижимым имуществом",
-                "Профессиональная, научная и техническая деятельность",
-                "Деятельность в сфере административных и вспомогательных услуг",
-                "Государственное управление и оборона; обязательное социальное страхование",
-                "Образование",
-                "Деятельность в сфере здравоохранения и социальных услуг",
-                "Искусство, сфера развлечений и отдыха",
-                "Прочие виды деятельности в сфере услуг",
-                "Деятельность домашних хозяйств в качестве работодателей; недифференцированная деятельность домашних хозяйств по производству товаров и услуг для собственного использования",
-                "Деятельность экстерриториальных организаций и органов"
-              ]
-            },
-            "title": "Вид экономической деятельности"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "AGE",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "от 15 до 19 лет ",
-                "от 20 до 24 лет",
-                "от 25 до 29 лет",
-                "от 30 до 34 лет ",
-                "от 35 до 39 лет",
-                "от 40 до 44 лет ",
-                "от 45 до 49 лет ",
-                "от 50 до 54 лет",
-                "от 55 до 59 лет",
-                "от 60 до 64 лет ",
-                "от 65 до 69 лет",
-                "70 лет и старше"
+                "Male",
+                "Female",
+                ""
               ]
             },
-            "title": "Возраст"
+            "title": "Sex"
           },
           {
-            "name": "SEX",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Женщины",
-                "Мужчины"
+                "15 to 19 years old",
+                "20 to 24 years old",
+                "25 to 29 years old",
+                "30 to 34 years old",
+                "35 to 39 years old",
+                "40 to 44 years old",
+                "45 to 49 years old",
+                "50 to 54 years old",
+                "55 to 59 years old",
+                "60 to 64 years old",
+                "65 to 69 years old",
+                "70 years old and over",
+                ""
               ]
             },
-            "title": "Пол"
+            "title": "Age"
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Сельская",
-                "Городская"
+                "Urban",
+                "Rural",
+                ""
               ]
             },
-            "title": "Тип местности"
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+                "Activities of extraterritorial organisations and bodies",
+                ""
+              ]
+            },
+            "title": "Economic activity"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

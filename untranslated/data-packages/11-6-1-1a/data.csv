@@ -1,41 +1,41 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2013,_L_WR_GAR_CH,0.3
-2014,_L_WR_GAR_CH,0.2
-2015,_L_WR_GAR_CH,0.1
-2016,_L_WR_GAR_CH,0.1
-2017,_L_WR_GAR_CH,0.1
-2018,_L_WR_GAR_CH,0.1
-2019,_L_WR_GAR_CH,0.0
-2020,_L_WR_GAR_CH,0.0
-2013,_L_WR_COL_TR,26.9
-2014,_L_WR_COL_TR,27.7
-2015,_L_WR_COL_TR,30.6
-2016,_L_WR_COL_TR,31.3
-2017,_L_WR_COL_TR,38.8
-2018,_L_WR_COL_TR,44.0
-2019,_L_WR_COL_TR,46.9
-2020,_L_WR_COL_TR,48.2
-2013,_L_WR_DUM_GAR,21.6
-2014,_L_WR_DUM_GAR,23.4
-2015,_L_WR_DUM_GAR,29.0
-2016,_L_WR_DUM_GAR,22.4
-2017,_L_WR_DUM_GAR,21.8
-2018,_L_WR_DUM_GAR,20.2
-2019,_L_WR_DUM_GAR,20.2
-2020,_L_WR_DUM_GAR,19.3
-2013,_L_WR_BURN,33.0
-2014,_L_WR_BURN,31.8
-2015,_L_WR_BURN,29.8
-2016,_L_WR_BURN,32.9
-2017,_L_WR_BURN,28.6
-2018,_L_WR_BURN,25.6
-2019,_L_WR_BURN,24.0
-2020,_L_WR_BURN,24.2
-2013,_L_WR_BURYING,18.2
-2014,_L_WR_BURYING,16.9
-2015,_L_WR_BURYING,10.6
-2016,_L_WR_BURYING,13.4
-2017,_L_WR_BURYING,10.9
-2018,_L_WR_BURYING,10.0
-2019,_L_WR_BURYING,8.9
-2020,_L_WR_BURYING,8.3
+Year,Composite breakdown,Value
+2013,Waste removal: Garbage chute,0.3
+2014,Waste removal: Garbage chute,0.2
+2015,Waste removal: Garbage chute,0.1
+2016,Waste removal: Garbage chute,0.1
+2017,Waste removal: Garbage chute,0.1
+2018,Waste removal: Garbage chute,0.1
+2019,Waste removal: Garbage chute,0.0
+2020,Waste removal: Garbage chute,0.0
+2013,"Waste removal: Collection by truck, container",26.9
+2014,"Waste removal: Collection by truck, container",27.7
+2015,"Waste removal: Collection by truck, container",30.6
+2016,"Waste removal: Collection by truck, container",31.3
+2017,"Waste removal: Collection by truck, container",38.8
+2018,"Waste removal: Collection by truck, container",44.0
+2019,"Waste removal: Collection by truck, container",46.9
+2020,"Waste removal: Collection by truck, container",48.2
+2013,Waste removal: Dumping into garbage heaps,21.6
+2014,Waste removal: Dumping into garbage heaps,23.4
+2015,Waste removal: Dumping into garbage heaps,29.0
+2016,Waste removal: Dumping into garbage heaps,22.4
+2017,Waste removal: Dumping into garbage heaps,21.8
+2018,Waste removal: Dumping into garbage heaps,20.2
+2019,Waste removal: Dumping into garbage heaps,20.2
+2020,Waste removal: Dumping into garbage heaps,19.3
+2013,Waste removal: Burning,33.0
+2014,Waste removal: Burning,31.8
+2015,Waste removal: Burning,29.8
+2016,Waste removal: Burning,32.9
+2017,Waste removal: Burning,28.6
+2018,Waste removal: Burning,25.6
+2019,Waste removal: Burning,24.0
+2020,Waste removal: Burning,24.2
+2013,Waste removal: Burying,18.2
+2014,Waste removal: Burying,16.9
+2015,Waste removal: Burying,10.6
+2016,Waste removal: Burying,13.4
+2017,Waste removal: Burying,10.9
+2018,Waste removal: Burying,10.0
+2019,Waste removal: Burying,8.9
+2020,Waste removal: Burying,8.3

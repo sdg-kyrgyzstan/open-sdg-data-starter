@@ -1,76 +1,76 @@
-Year,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
 2018,,,,,,,8.3
 2019,,,,,,,8.1
 2020,,,,,,,7.6
-2018,,M,,,,,17.7
-2019,,M,,,,,17.2
-2020,,M,,,,,16.0
-2018,,F,,,,,0.5
-2019,,F,,,,,0.4
-2020,,F,,,,,0.5
-2018,,,,U,,,6.4
-2019,,,,U,,,6.2
-2020,,,,U,,,6.2
-2018,,,,R,,,9.5
-2019,,,,R,,,9.2
-2020,,,,R,,,8.5
-2018,KG05,,,,,,10.8
-2019,KG05,,,,,,10.9
-2020,KG05,,,,,,9.8
-2018,KG03,,,,,,3.4
-2019,KG03,,,,,,4.4
-2020,KG03,,,,,,2.8
-2018,KG02,,,,,,17.9
-2019,KG02,,,,,,17.0
-2020,KG02,,,,,,15.7
-2018,KG04,,,,,,14.7
-2019,KG04,,,,,,13.8
-2020,KG04,,,,,,14.2
-2018,KG06,,,,,,6.7
-2019,KG06,,,,,,6.0
-2020,KG06,,,,,,6.2
-2018,KG07,,,,,,13.0
-2019,KG07,,,,,,13.7
-2020,KG07,,,,,,13.5
-2018,KG08,,,,,,12.2
-2019,KG08,,,,,,10.5
-2020,KG08,,,,,,9.4
-2018,KG11,,,,,,6.2
-2019,KG11,,,,,,6.3
-2020,KG11,,,,,,7.3
-2018,KG21,,,,,,1.8
-2019,KG21,,,,,,1.6
-2020,KG21,,,,,,1.3
-2018,,,Y15T24,,,,0.4
-2019,,,Y15T24,,,,0.3
-2020,,,Y15T24,,,,0.4
-2018,,,,,,ISCED11_1,2.8
-2019,,,,,,ISCED11_1,3.4
-2020,,,,,,ISCED11_1,2.8
-2018,,,,,,ISCED11_2,3.5
-2019,,,,,,ISCED11_2,2.9
-2020,,,,,,ISCED11_2,3.8
-2018,,,,,,ISCED11_3,9.8
-2019,,,,,,ISCED11_3,9.3
-2020,,,,,,ISCED11_3,8.8
-2018,,,,,,ISCED11_4,11.7
-2019,,,,,,ISCED11_4,11.8
-2020,,,,,,ISCED11_4,10.8
-2018,,,,,,ISCED11_5,5.6
-2019,,,,,,ISCED11_5,5.5
-2020,,,,,,ISCED11_5,4.9
-2018,,,,,Q1,,8.0
-2019,,,,,Q1,,8.2
-2020,,,,,Q1,,7.9
-2018,,,,,Q2,,7.4
-2019,,,,,Q2,,7.8
-2020,,,,,Q2,,6.9
-2018,,,,,Q3,,8.5
-2019,,,,,Q3,,7.7
-2020,,,,,Q3,,8.0
-2018,,,,,Q4,,8.5
-2019,,,,,Q4,,8.0
-2020,,,,,Q4,,7.2
-2018,,,,,Q5,,9.6
-2019,,,,,Q5,,8.8
-2020,,,,,Q5,,8.1
+2018,,Male,,,,,17.7
+2019,,Male,,,,,17.2
+2020,,Male,,,,,16.0
+2018,,Female,,,,,0.5
+2019,,Female,,,,,0.4
+2020,,Female,,,,,0.5
+2018,,,,Urban,,,6.4
+2019,,,,Urban,,,6.2
+2020,,,,Urban,,,6.2
+2018,,,,Rural,,,9.5
+2019,,,,Rural,,,9.2
+2020,,,,Rural,,,8.5
+2018,Batken,,,,,,10.8
+2019,Batken,,,,,,10.9
+2020,Batken,,,,,,9.8
+2018,Jalal-Abad,,,,,,3.4
+2019,Jalal-Abad,,,,,,4.4
+2020,Jalal-Abad,,,,,,2.8
+2018,Issyk-Kul,,,,,,17.9
+2019,Issyk-Kul,,,,,,17.0
+2020,Issyk-Kul,,,,,,15.7
+2018,Naryn,,,,,,14.7
+2019,Naryn,,,,,,13.8
+2020,Naryn,,,,,,14.2
+2018,Osh,,,,,,6.7
+2019,Osh,,,,,,6.0
+2020,Osh,,,,,,6.2
+2018,Talas,,,,,,13.0
+2019,Talas,,,,,,13.7
+2020,Talas,,,,,,13.5
+2018,Chui,,,,,,12.2
+2019,Chui,,,,,,10.5
+2020,Chui,,,,,,9.4
+2018,Bishkek (city),,,,,,6.2
+2019,Bishkek (city),,,,,,6.3
+2020,Bishkek (city),,,,,,7.3
+2018,Osh (city),,,,,,1.8
+2019,Osh (city),,,,,,1.6
+2020,Osh (city),,,,,,1.3
+2018,,,15 to 24 years old,,,,0.4
+2019,,,15 to 24 years old,,,,0.3
+2020,,,15 to 24 years old,,,,0.4
+2018,,,,,,Primary education,2.8
+2019,,,,,,Primary education,3.4
+2020,,,,,,Primary education,2.8
+2018,,,,,,Lower secondary education,3.5
+2019,,,,,,Lower secondary education,2.9
+2020,,,,,,Lower secondary education,3.8
+2018,,,,,,Upper secondary education,9.8
+2019,,,,,,Upper secondary education,9.3
+2020,,,,,,Upper secondary education,8.8
+2018,,,,,,Post-secondary non-tertiary education,11.7
+2019,,,,,,Post-secondary non-tertiary education,11.8
+2020,,,,,,Post-secondary non-tertiary education,10.8
+2018,,,,,,Short-cycle tertiary education,5.6
+2019,,,,,,Short-cycle tertiary education,5.5
+2020,,,,,,Short-cycle tertiary education,4.9
+2018,,,,,Quintile 1 (poorest),,8.0
+2019,,,,,Quintile 1 (poorest),,8.2
+2020,,,,,Quintile 1 (poorest),,7.9
+2018,,,,,Quintile 2,,7.4
+2019,,,,,Quintile 2,,7.8
+2020,,,,,Quintile 2,,6.9
+2018,,,,,Quintile 3,,8.5
+2019,,,,,Quintile 3,,7.7
+2020,,,,,Quintile 3,,8.0
+2018,,,,,Quintile 4,,8.5
+2019,,,,,Quintile 4,,8.0
+2020,,,,,Quintile 4,,7.2
+2018,,,,,Quintile 5 (richest),,9.6
+2019,,,,,Quintile 5 (richest),,8.8
+2020,,,,,Quintile 5 (richest),,8.1
