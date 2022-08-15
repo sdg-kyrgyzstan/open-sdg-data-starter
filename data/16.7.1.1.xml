@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1660564722769</message:ID>
+    <message:ID>IREF1660568784656</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-08-15T11:58:42Z</message:Prepared>
+    <message:Prepared>2022-08-15T13:06:24Z</message:Prepared>
     <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -18,112 +18,112 @@
   </message:Header>
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="49" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="31" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="44" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="45" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="13" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="2.984" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="4.897724" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="3.126344" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="4.424534" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="4.539295" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.571123" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.319706" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="2.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="39" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="61" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="57" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="57" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="59" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="23" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="34" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="3.927548" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="6.087459" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="5.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="5.725687" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="5.865711" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.324917" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.955622" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="31" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="05" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="04" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="04" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="04" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.574151" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="3.126344" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="2.581194" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="2.505133" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="2.560495" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.481895" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="0.376517" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="0.376517" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="0.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="24" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="13" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="09" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="22" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="33" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="33" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="2.446991" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.331029" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="0.860462" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="2.195675" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="2.647922" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.66922" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2.594485" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="3.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="3.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="22" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="28" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="28" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="39" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="39" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="35" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="2.744663" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.647081" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="2.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="2.561247" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="2.847982" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.829919" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2.679579" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="3.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="3.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="09" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="23" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="24" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="24" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="24" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="0.860462" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.673521" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.6564" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="2.349465" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.423241" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2.468275" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="2.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="2.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="2.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="946" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="938" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="960" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="934" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="928" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="958" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="961" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="955" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="955" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="944" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="94.569008" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="93.771247" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="96.013194" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="93.379791" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="92.812782" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="95.759658" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="96.085809" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="95.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="95.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="933" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="923" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="922" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="917" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="913" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="948" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="954" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="944" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="944" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="931" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="93.327789" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="92.265459" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="92.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="91.713066" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="91.295737" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="94.835636" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="95.364799" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="93.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2012" OBS_VALUE="964" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="960" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="957" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="958" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="951" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="971" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="972" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="972" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="972" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="962" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="96.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="96.013194" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="95.745284" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="95.838467" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="95.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="97.094864" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="97.155208" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="97.155208" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="97.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="96.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
