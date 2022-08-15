@@ -13,6 +13,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,,6.2
 2019,,,,5.5
 2020,,,,5.8
+2021,,,,5.3
 2007,,Female,,9.0
 2008,,Female,,9.4
 2009,,Female,,9.8
@@ -27,6 +28,7 @@ Year,Reference area,Sex,Age,Value
 2018,,Female,,6.9
 2019,,Female,,6.2
 2020,,Female,,6.7
+2021,,Female,,6.3
 2007,,Male,,7.6
 2008,,Male,,7.3
 2009,,Male,,7.4
@@ -41,6 +43,7 @@ Year,Reference area,Sex,Age,Value
 2018,,Male,,5.7
 2019,,Male,,5.0
 2020,,Male,,5.2
+2021,,Male,,4.7
 2007,Batken,,,10.3
 2008,Batken,,,11.1
 2009,Batken,,,10.2
@@ -55,6 +58,7 @@ Year,Reference area,Sex,Age,Value
 2018,Batken,,,9.0
 2019,Batken,,,8.2
 2020,Batken,,,7.4
+2021,Batken,,,6.6
 2009,Batken,Female,,14.8
 2010,Batken,Female,,15.8
 2011,Batken,Female,,14.0
@@ -67,6 +71,7 @@ Year,Reference area,Sex,Age,Value
 2018,Batken,Female,,12.2
 2019,Batken,Female,,11.5
 2020,Batken,Female,,10.9
+2021,Batken,Female,,7.5
 2009,Batken,Male,,7.2
 2010,Batken,Male,,7.2
 2011,Batken,Male,,8.4
@@ -79,6 +84,7 @@ Year,Reference area,Sex,Age,Value
 2018,Batken,Male,,7.3
 2019,Batken,Male,,6.7
 2020,Batken,Male,,5.9
+2021,Batken,Male,,6.2
 2007,Jalal-Abad,,,6.8
 2008,Jalal-Abad,,,6.9
 2009,Jalal-Abad,,,7.0
@@ -93,6 +99,7 @@ Year,Reference area,Sex,Age,Value
 2018,Jalal-Abad,,,6.2
 2019,Jalal-Abad,,,5.5
 2020,Jalal-Abad,,,11.0
+2021,Jalal-Abad,,,11.8
 2009,Jalal-Abad,Female,,8.5
 2010,Jalal-Abad,Female,,8.9
 2011,Jalal-Abad,Female,,9.4
@@ -105,6 +112,7 @@ Year,Reference area,Sex,Age,Value
 2018,Jalal-Abad,Female,,9.1
 2019,Jalal-Abad,Female,,7.9
 2020,Jalal-Abad,Female,,13.2
+2021,Jalal-Abad,Female,,15.5
 2009,Jalal-Abad,Male,,5.9
 2010,Jalal-Abad,Male,,7.1
 2011,Jalal-Abad,Male,,7.3
@@ -117,6 +125,7 @@ Year,Reference area,Sex,Age,Value
 2018,Jalal-Abad,Male,,4.7
 2019,Jalal-Abad,Male,,4.2
 2020,Jalal-Abad,Male,,9.7
+2021,Jalal-Abad,Male,,9.7
 2007,Issyk-Kul,,,7.0
 2008,Issyk-Kul,,,7.2
 2009,Issyk-Kul,,,9.4
@@ -131,6 +140,7 @@ Year,Reference area,Sex,Age,Value
 2018,Issyk-Kul,,,8.4
 2019,Issyk-Kul,,,7.8
 2020,Issyk-Kul,,,7.4
+2021,Issyk-Kul,,,6.3
 2009,Issyk-Kul,Female,,11.1
 2010,Issyk-Kul,Female,,10.1
 2011,Issyk-Kul,Female,,10.8
@@ -143,6 +153,7 @@ Year,Reference area,Sex,Age,Value
 2018,Issyk-Kul,Female,,4.9
 2019,Issyk-Kul,Female,,4.9
 2020,Issyk-Kul,Female,,6.1
+2021,Issyk-Kul,Female,,7.5
 2009,Issyk-Kul,Male,,8.2
 2010,Issyk-Kul,Male,,10.3
 2011,Issyk-Kul,Male,,8.9
@@ -155,6 +166,7 @@ Year,Reference area,Sex,Age,Value
 2018,Issyk-Kul,Male,,10.2
 2019,Issyk-Kul,Male,,9.4
 2020,Issyk-Kul,Male,,8.2
+2021,Issyk-Kul,Male,,5.6
 2007,Naryn,,,11.1
 2008,Naryn,,,11.2
 2009,Naryn,,,10.0
@@ -169,6 +181,7 @@ Year,Reference area,Sex,Age,Value
 2018,Naryn,,,8.8
 2019,Naryn,,,8.3
 2020,Naryn,,,7.3
+2021,Naryn,,,6.3
 2009,Naryn,Female,,14.7
 2010,Naryn,Female,,14.7
 2011,Naryn,Female,,14.7
@@ -181,6 +194,7 @@ Year,Reference area,Sex,Age,Value
 2018,Naryn,Female,,15.0
 2019,Naryn,Female,,11.1
 2020,Naryn,Female,,12.4
+2021,Naryn,Female,,10.8
 2009,Naryn,Male,,7.6
 2010,Naryn,Male,,8.2
 2011,Naryn,Male,,8.1
@@ -193,6 +207,7 @@ Year,Reference area,Sex,Age,Value
 2018,Naryn,Male,,6.2
 2019,Naryn,Male,,7.1
 2020,Naryn,Male,,5.2
+2021,Naryn,Male,,4.3
 2007,Osh,,,5.4
 2008,Osh,,,5.5
 2009,Osh,,,6.6
@@ -207,6 +222,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh,,,4.2
 2019,Osh,,,3.5
 2020,Osh,,,2.6
+2021,Osh,,,1.9
 2009,Osh,Female,,8.1
 2010,Osh,Female,,7.8
 2011,Osh,Female,,7.8
@@ -219,6 +235,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh,Female,,6.6
 2019,Osh,Female,,4.3
 2020,Osh,Female,,4.1
+2021,Osh,Female,,3.1
 2009,Osh,Male,,5.7
 2010,Osh,Male,,5.9
 2011,Osh,Male,,5.8
@@ -231,6 +248,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh,Male,,2.7
 2019,Osh,Male,,3.0
 2020,Osh,Male,,1.5
+2021,Osh,Male,,1.1
 2007,Talas,,,5.1
 2008,Talas,,,5.4
 2009,Talas,,,4.9
@@ -245,6 +263,7 @@ Year,Reference area,Sex,Age,Value
 2018,Talas,,,2.5
 2019,Talas,,,2.5
 2020,Talas,,,2.6
+2021,Talas,,,2.6
 2009,Talas,Female,,5.7
 2010,Talas,Female,,5.2
 2011,Talas,Female,,5.9
@@ -257,6 +276,7 @@ Year,Reference area,Sex,Age,Value
 2018,Talas,Female,,3.6
 2019,Talas,Female,,3.6
 2020,Talas,Female,,3.7
+2021,Talas,Female,,3.8
 2009,Talas,Male,,4.2
 2010,Talas,Male,,4.9
 2011,Talas,Male,,4.4
@@ -269,6 +289,7 @@ Year,Reference area,Sex,Age,Value
 2018,Talas,Male,,1.7
 2019,Talas,Male,,1.8
 2020,Talas,Male,,1.8
+2021,Talas,Male,,1.7
 2007,Chui,,,13.0
 2008,Chui,,,12.7
 2009,Chui,,,10.3
@@ -283,6 +304,7 @@ Year,Reference area,Sex,Age,Value
 2018,Chui,,,7.3
 2019,Chui,,,6.6
 2020,Chui,,,6.1
+2021,Chui,,,5.3
 2009,Chui,Female,,11.3
 2010,Chui,Female,,11.4
 2011,Chui,Female,,10.5
@@ -295,6 +317,7 @@ Year,Reference area,Sex,Age,Value
 2018,Chui,Female,,7.4
 2019,Chui,Female,,7.4
 2020,Chui,Female,,7.3
+2021,Chui,Female,,6.2
 2009,Chui,Male,,9.6
 2010,Chui,Male,,9.3
 2011,Chui,Male,,9.5
@@ -307,6 +330,7 @@ Year,Reference area,Sex,Age,Value
 2018,Chui,Male,,7.3
 2019,Chui,Male,,6.1
 2020,Chui,Male,,5.3
+2021,Chui,Male,,4.8
 2007,Bishkek (city),,,8.7
 2008,Bishkek (city),,,8.6
 2009,Bishkek (city),,,10.2
@@ -321,6 +345,7 @@ Year,Reference area,Sex,Age,Value
 2018,Bishkek (city),,,6.7
 2019,Bishkek (city),,,5.9
 2020,Bishkek (city),,,5.0
+2021,Bishkek (city),,,4.1
 2009,Bishkek (city),Female,,9.6
 2010,Bishkek (city),Female,,10.6
 2011,Bishkek (city),Female,,10.6
@@ -333,6 +358,7 @@ Year,Reference area,Sex,Age,Value
 2018,Bishkek (city),Female,,5.0
 2019,Bishkek (city),Female,,5.5
 2020,Bishkek (city),Female,,4.6
+2021,Bishkek (city),Female,,3.3
 2009,Bishkek (city),Male,,10.7
 2010,Bishkek (city),Male,,9.5
 2011,Bishkek (city),Male,,8.7
@@ -345,6 +371,7 @@ Year,Reference area,Sex,Age,Value
 2018,Bishkek (city),Male,,8.2
 2019,Bishkek (city),Male,,6.2
 2020,Bishkek (city),Male,,5.4
+2021,Bishkek (city),Male,,4.9
 2013,Osh (city),,,4.6
 2014,Osh (city),,,4.2
 2015,Osh (city),,,3.9
@@ -353,6 +380,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh (city),,,3.0
 2019,Osh (city),,,2.5
 2020,Osh (city),,,2.8
+2021,Osh (city),,,2.8
 2013,Osh (city),Female,,3.8
 2014,Osh (city),Female,,5.2
 2015,Osh (city),Female,,5.6
@@ -361,6 +389,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh (city),Female,,3.5
 2019,Osh (city),Female,,4.4
 2020,Osh (city),Female,,3.7
+2021,Osh (city),Female,,3.4
 2013,Osh (city),Male,,5.0
 2014,Osh (city),Male,,3.8
 2015,Osh (city),Male,,3.1
@@ -369,6 +398,7 @@ Year,Reference area,Sex,Age,Value
 2018,Osh (city),Male,,2.7
 2019,Osh (city),Male,,1.5
 2020,Osh (city),Male,,2.3
+2021,Osh (city),Male,,2.6
 2007,,,15 to 19 years old,15.1
 2008,,,15 to 19 years old,13.3
 2009,,,15 to 19 years old,16.8
@@ -383,6 +413,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,15 to 19 years old,13.9
 2019,,,15 to 19 years old,13.9
 2020,,,15 to 19 years old,13.7
+2021,,,15 to 19 years old,15.7
 2007,,,20 to 29 years old,10.2
 2008,,,20 to 29 years old,11.4
 2009,,,20 to 29 years old,12.7
@@ -397,6 +428,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,20 to 29 years old,9.5
 2019,,,20 to 29 years old,9.3
 2020,,,20 to 29 years old,8.9
+2021,,,20 to 29 years old,7.9
 2007,,,30 to 39 years old,7.2
 2008,,,30 to 39 years old,7.3
 2009,,,30 to 39 years old,6.1
@@ -411,6 +443,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,30 to 39 years old,4.6
 2019,,,30 to 39 years old,4.0
 2020,,,30 to 39 years old,5.1
+2021,,,30 to 39 years old,4.5
 2007,,,40 to 49 years old,6.2
 2008,,,40 to 49 years old,6.2
 2009,,,40 to 49 years old,5.2
@@ -425,6 +458,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,40 to 49 years old,4.3
 2019,,,40 to 49 years old,3.6
 2020,,,40 to 49 years old,4.4
+2021,,,40 to 49 years old,4.4
 2007,,,50 to 59 years old,5.7
 2008,,,50 to 59 years old,4.5
 2009,,,50 to 59 years old,4.6
@@ -439,6 +473,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,50 to 59 years old,4.2
 2019,,,50 to 59 years old,3.1
 2020,,,50 to 59 years old,3.1
+2021,,,50 to 59 years old,2.9
 2007,,,60 to 69 years old,2.9
 2008,,,60 to 69 years old,0.8
 2009,,,60 to 69 years old,1.5
@@ -453,6 +488,7 @@ Year,Reference area,Sex,Age,Value
 2018,,,60 to 69 years old,2.7
 2019,,,60 to 69 years old,1.1
 2020,,,60 to 69 years old,1.8
+2021,,,60 to 69 years old,1.4
 2010,,,70 years old and over,0.561023
 2011,,,70 years old and over,0.7
 2013,,,70 years old and over,1.6

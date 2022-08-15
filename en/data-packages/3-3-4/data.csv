@@ -13,6 +13,7 @@ Year,Reference area,Sex,Value
 2018,,,5.139872
 2019,,,3.918523
 2020,,,1.914845
+2021,,,18.0
 2007,,Female,10.26386
 2008,,Female,8.088592
 2009,,Female,7.22507
@@ -27,6 +28,7 @@ Year,Reference area,Sex,Value
 2018,,Female,3.54522
 2019,,Female,2.520831
 2020,,Female,1.745324
+2021,,Female,11.0
 2007,,Male,13.967856
 2008,,Male,13.149996
 2009,,Male,14.604805
@@ -41,6 +43,7 @@ Year,Reference area,Sex,Value
 2018,,Male,6.760797
 2019,,Male,5.337712
 2020,,Male,2.08189
+2021,,Male,25.0
 2007,Batken,,20.180533
 2008,Batken,,20.012808
 2009,Batken,,11.615832
@@ -55,6 +58,7 @@ Year,Reference area,Sex,Value
 2018,Batken,,3.080721
 2019,Batken,,4.894164
 2020,Batken,,1.658051
+2021,Batken,,23.0
 2007,Batken,Female,18.345435
 2008,Batken,Female,17.247244
 2009,Batken,Female,9.457249
@@ -69,6 +73,7 @@ Year,Reference area,Sex,Value
 2018,Batken,Female,2.746401
 2019,Batken,Female,2.302335
 2020,Batken,Female,1.446749
+2021,Batken,Female,18.0
 2007,Batken,Male,21.956256
 2008,Batken,Male,22.68529
 2009,Batken,Male,13.700569
@@ -83,6 +88,7 @@ Year,Reference area,Sex,Value
 2018,Batken,Male,3.402904
 2019,Batken,Male,7.389891
 2020,Batken,Male,1.877412
+2021,Batken,Male,28.0
 2007,Jalal-Abad,,5.870303
 2008,Jalal-Abad,,6.4034
 2009,Jalal-Abad,,6.305723
@@ -97,6 +103,7 @@ Year,Reference area,Sex,Value
 2018,Jalal-Abad,,2.661109
 2019,Jalal-Abad,,3.179541
 2020,Jalal-Abad,,0.960244
+2021,Jalal-Abad,,13.0
 2007,Jalal-Abad,Female,4.656511
 2008,Jalal-Abad,Female,4.604632
 2009,Jalal-Abad,Female,5.719538
@@ -111,6 +118,7 @@ Year,Reference area,Sex,Value
 2018,Jalal-Abad,Female,1.673357
 2019,Jalal-Abad,Female,2.297402
 2020,Jalal-Abad,Female,0.635959
+2021,Jalal-Abad,Female,8.0
 2007,Jalal-Abad,Male,7.083701
 2008,Jalal-Abad,Male,8.200459
 2009,Jalal-Abad,Male,6.89089
@@ -125,6 +133,7 @@ Year,Reference area,Sex,Value
 2018,Jalal-Abad,Male,3.636935
 2019,Jalal-Abad,Male,4.050498
 2020,Jalal-Abad,Male,1.288842
+2021,Jalal-Abad,Male,17.0
 2007,Issyk-Kul,,10.136497
 2008,Issyk-Kul,,7.333378
 2009,Issyk-Kul,,9.101396
@@ -139,6 +148,7 @@ Year,Reference area,Sex,Value
 2018,Issyk-Kul,,6.168093
 2019,Issyk-Kul,,2.231658
 2020,Issyk-Kul,,1.603235
+2021,Issyk-Kul,,18.0
 2007,Issyk-Kul,Female,6.813722
 2008,Issyk-Kul,Female,5.881022
 2009,Issyk-Kul,Female,5.848427
@@ -153,6 +163,7 @@ Year,Reference area,Sex,Value
 2018,Issyk-Kul,Female,2.86608
 2019,Issyk-Kul,Female,2.020684
 2020,Issyk-Kul,Female,2.414672
+2021,Issyk-Kul,Female,16.0
 2007,Issyk-Kul,Male,13.555773
 2008,Issyk-Kul,Male,8.824445
 2009,Issyk-Kul,Male,12.43031
@@ -167,6 +178,7 @@ Year,Reference area,Sex,Value
 2018,Issyk-Kul,Male,9.498716
 2019,Issyk-Kul,Male,2.44433
 2020,Issyk-Kul,Male,0.798371
+2021,Issyk-Kul,Male,20.0
 2007,Naryn,,12.055783
 2008,Naryn,,7.000704
 2009,Naryn,,11.614177
@@ -181,6 +193,7 @@ Year,Reference area,Sex,Value
 2018,Naryn,,3.152773
 2019,Naryn,,1.734094
 2020,Naryn,,1.375133
+2021,Naryn,,10.0
 2007,Naryn,Female,10.98996
 2008,Naryn,Female,7.071469
 2009,Naryn,Female,3.916684
@@ -195,6 +208,7 @@ Year,Reference area,Sex,Value
 2018,Naryn,Female,2.853067
 2019,Naryn,Female,1.412819
 2020,Naryn,Female,0.675169
+2021,Naryn,Female,0.0
 2007,Naryn,Male,13.10222
 2008,Naryn,Male,6.931341
 2009,Naryn,Male,19.13568
@@ -209,6 +223,7 @@ Year,Reference area,Sex,Value
 2018,Naryn,Male,3.442033
 2019,Naryn,Male,2.043959
 2020,Naryn,Male,2.101282
+2021,Naryn,Male,20.0
 2007,Osh,,3.797045
 2008,Osh,,4.117327
 2009,Osh,,7.48076
@@ -223,6 +238,7 @@ Year,Reference area,Sex,Value
 2018,Osh,,4.442955
 2019,Osh,,3.763954
 2020,Osh,,1.594374
+2021,Osh,,22.0
 2007,Osh,Female,3.920595
 2008,Osh,Female,3.504507
 2009,Osh,Female,5.269824
@@ -237,6 +253,7 @@ Year,Reference area,Sex,Value
 2018,Osh,Female,3.043862
 2019,Osh,Female,2.238799
 2020,Osh,Female,1.576537
+2021,Osh,Female,9.0
 2007,Osh,Male,3.67543
 2008,Osh,Male,4.720552
 2009,Osh,Male,9.65648
@@ -251,6 +268,7 @@ Year,Reference area,Sex,Value
 2018,Osh,Male,5.813217
 2019,Osh,Male,5.255812
 2020,Osh,Male,1.612619
+2021,Osh,Male,35.0
 2007,Talas,,7.635028
 2008,Talas,,5.776699
 2009,Talas,,4.832
@@ -265,6 +283,7 @@ Year,Reference area,Sex,Value
 2018,Talas,,2.679877
 2019,Talas,,1.883977
 2020,Talas,,0.371503
+2021,Talas,,15.0
 2007,Talas,Female,10.776346
 2008,Talas,Female,7.11383
 2009,Talas,Female,3.520042
@@ -279,6 +298,7 @@ Year,Reference area,Sex,Value
 2018,Talas,Female,3.096263
 2019,Talas,Female,1.524239
 2020,Talas,Female,0.0
+2021,Talas,Female,7.0
 2007,Talas,Male,4.492242
 2008,Talas,Male,4.441089
 2009,Talas,Male,6.139597
@@ -293,6 +313,7 @@ Year,Reference area,Sex,Value
 2018,Talas,Male,2.272417
 2019,Talas,Male,2.235753
 2020,Talas,Male,0.751258
+2021,Talas,Male,22.0
 2007,Chui,,12.255614
 2008,Chui,,13.153626
 2009,Chui,,11.182041
@@ -307,6 +328,7 @@ Year,Reference area,Sex,Value
 2018,Chui,,6.334346
 2019,Chui,,5.049926
 2020,Chui,,2.894254
+2021,Chui,,15.0
 2007,Chui,Female,9.181073
 2008,Chui,Female,8.612184
 2009,Chui,Female,7.080216
@@ -321,6 +343,7 @@ Year,Reference area,Sex,Value
 2018,Chui,Female,4.864719
 2019,Chui,Female,3.731746
 2020,Chui,Female,2.728983
+2021,Chui,Female,8.0
 2007,Chui,Male,15.445168
 2008,Chui,Male,17.863614
 2009,Chui,Male,15.432489
@@ -335,6 +358,7 @@ Year,Reference area,Sex,Value
 2018,Chui,Male,7.849328
 2019,Chui,Male,6.408052
 2020,Chui,Male,3.054579
+2021,Chui,Male,23.0
 2007,Bishkek (city),,19.444499
 2008,Bishkek (city),,16.559633
 2009,Bishkek (city),,18.582512
@@ -349,6 +373,7 @@ Year,Reference area,Sex,Value
 2018,Bishkek (city),,8.968212
 2019,Bishkek (city),,5.189414
 2020,Bishkek (city),,3.947387
+2021,Bishkek (city),,23.0
 2007,Bishkek (city),Female,15.310366
 2008,Bishkek (city),Female,11.046411
 2009,Bishkek (city),Female,10.882674
@@ -363,6 +388,7 @@ Year,Reference area,Sex,Value
 2018,Bishkek (city),Female,5.929539
 2019,Bishkek (city),Female,2.894948
 2020,Bishkek (city),Female,3.60312
+2021,Bishkek (city),Female,17.0
 2007,Bishkek (city),Male,24.204157
 2008,Bishkek (city),Male,22.932791
 2009,Bishkek (city),Male,27.489325
@@ -377,6 +403,7 @@ Year,Reference area,Sex,Value
 2018,Bishkek (city),Male,12.420425
 2019,Bishkek (city),Male,7.788593
 2020,Bishkek (city),Male,4.252092
+2021,Bishkek (city),Male,29.0
 2007,Osh (city),,40.964579
 2008,Osh (city),,24.854562
 2009,Osh (city),,23.592385
@@ -391,6 +418,7 @@ Year,Reference area,Sex,Value
 2018,Osh (city),,7.479508
 2019,Osh (city),,4.575268
 2020,Osh (city),,0.0
+2021,Osh (city),,12.0
 2007,Osh (city),Female,35.243744
 2008,Osh (city),Female,19.402116
 2009,Osh (city),Female,14.139324
@@ -405,6 +433,7 @@ Year,Reference area,Sex,Value
 2018,Osh (city),Female,3.953533
 2019,Osh (city),Female,2.537202
 2020,Osh (city),Female,0.0
+2021,Osh (city),Female,12.0
 2007,Osh (city),Male,47.169044
 2008,Osh (city),Male,30.771224
 2009,Osh (city),Male,33.821599
@@ -419,3 +448,4 @@ Year,Reference area,Sex,Value
 2018,Osh (city),Male,11.238007
 2019,Osh (city),Male,6.741316
 2020,Osh (city),Male,0.0
+2021,Osh (city),Male,13.0
