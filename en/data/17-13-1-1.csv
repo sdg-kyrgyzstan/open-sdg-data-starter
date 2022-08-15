@@ -1,1 +1,89 @@
-Year,Value
+Year,Unit multiplier,SDG Series,Unit of measure,Value
+2010,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.5
+2011,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,106.0
+2012,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,99.9
+2013,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,110.9
+2014,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.0
+2015,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.9
+2016,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.3
+2017,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.7
+2018,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,103.8
+2019,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,104.6
+2020,Units,"GDP growth rate (decline), as a percentage of the previous year",Percent,91.6
+2010,Units,"The consumer price index, as a percentage of the previous year",Index,108.0
+2011,Units,"The consumer price index, as a percentage of the previous year",Index,116.6
+2012,Units,"The consumer price index, as a percentage of the previous year",Index,102.8
+2013,Units,"The consumer price index, as a percentage of the previous year",Index,106.6
+2014,Units,"The consumer price index, as a percentage of the previous year",Index,107.5
+2015,Units,"The consumer price index, as a percentage of the previous year",Index,106.5
+2016,Units,"The consumer price index, as a percentage of the previous year",Index,100.4
+2017,Units,"The consumer price index, as a percentage of the previous year",Index,103.2
+2018,Units,"The consumer price index, as a percentage of the previous year",Index,101.5
+2019,Units,"The consumer price index, as a percentage of the previous year",Index,101.1
+2020,Units,"The consumer price index, as a percentage of the previous year",Index,106.3
+2010,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.79
+2011,Units,"Producer Price Indices, as a percentage of the previous year",Index,122.02
+2012,Units,"Producer Price Indices, as a percentage of the previous year",Index,105.3
+2013,Units,"Producer Price Indices, as a percentage of the previous year",Index,97.92
+2014,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.45
+2015,Units,"Producer Price Indices, as a percentage of the previous year",Index,108.75
+2016,Units,"Producer Price Indices, as a percentage of the previous year",Index,106.41
+2017,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.66
+2018,Units,"Producer Price Indices, as a percentage of the previous year",Index,101.49
+2019,Units,"Producer Price Indices, as a percentage of the previous year",Index,104.26
+2020,Units,"Producer Price Indices, as a percentage of the previous year",Index,121.27
+2010,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-10767.9787
+2011,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-13663.7111
+2012,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-20232.3134
+2013,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-2330.4823
+2014,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-1875.5431
+2015,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-6149.3213
+2016,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-20888.9124
+2017,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-16476.1602
+2018,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-6188.9008
+2019,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-431.7092
+2020,Millions,"Budget deficit and sources of financing, milllion soms",Local currency,-19734.0366
+2010,Millions,"Volume of public debt, million soms",Local currency,131557.5
+2011,Millions,"Volume of public debt, million soms",Local currency,143154.1
+2012,Millions,"Volume of public debt, million soms",Local currency,156719.4
+2013,Millions,"Volume of public debt, million soms",Local currency,167431.8
+2014,Millions,"Volume of public debt, million soms",Local currency,214759.1
+2015,Millions,"Volume of public debt, million soms",Local currency,289195.5
+2016,Millions,"Volume of public debt, million soms",Local currency,281450.9
+2017,Millions,"Volume of public debt, million soms",Local currency,311846.2
+2018,Millions,"Volume of public debt, million soms",Local currency,311834.6
+2019,Millions,"Volume of public debt, million soms",Local currency,319474.6
+2020,Millions,"Volume of public debt, million soms",Local currency,407116.85
+2010,Units,"Foreign trade, as a percentage of the previous year",Percent,105.6
+2011,Units,"Foreign trade, as a percentage of the previous year",Percent,130.62446
+2012,Units,"Foreign trade, as a percentage of the previous year",Percent,115.384261
+2013,Units,"Foreign trade, as a percentage of the previous year",Percent,106.528605
+2014,Units,"Foreign trade, as a percentage of the previous year",Percent,95.30386
+2015,Units,"Foreign trade, as a percentage of the previous year",Percent,73.989322
+2016,Units,"Foreign trade, as a percentage of the previous year",Percent,98.878752
+2017,Units,"Foreign trade, as a percentage of the previous year",Percent,112.297259
+2018,Units,"Foreign trade, as a percentage of the previous year",Percent,113.896789
+2019,Units,"Foreign trade, as a percentage of the previous year",Percent,97.8
+2020,Units,"Foreign trade, as a percentage of the previous year",Percent,81.6
+2010,Millions,"Export, million USD",USD,1755.9245
+2011,Millions,"Export, million USD",USD,2242.1664
+2012,Millions,"Export, million USD",USD,1927.6232
+2013,Millions,"Export, million USD",USD,2006.8497
+2014,Millions,"Export, million USD",USD,1883.733456
+2015,Millions,"Export, million USD",USD,1482.942034
+2016,Millions,"Export, million USD",USD,1573.21493
+2017,Millions,"Export, million USD",USD,1764.254644
+2018,Millions,"Export, million USD",USD,1836.838696
+2019,Millions,"Export, million USD",USD,1986.11
+2020,Millions,"Export, million USD",USD,1973.2
+2010,Millions,"Import, million USD",USD,3222.772182
+2011,Millions,"Import, million USD",USD,4261.226418
+2012,Millions,"Import, million USD",USD,5576.264131
+2013,Millions,"Import, million USD",USD,5986.983003
+2014,Millions,"Import, million USD",USD,5734.703808
+2015,Millions,"Import, million USD",USD,4153.86051
+2016,Millions,"Import, million USD",USD,4000.442107
+2017,Millions,"Import, million USD",USD,4494.728178
+2018,Millions,"Import, million USD",USD,5291.945776
+2019,Millions,"Import, million USD",USD,4989.01
+2020,Millions,"Import, million USD",USD,3718.8

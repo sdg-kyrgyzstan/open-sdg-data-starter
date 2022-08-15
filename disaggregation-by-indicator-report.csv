@@ -51,6 +51,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-b-1-1,"Reference area, Age, Education level, Degree of urbanisation, Income or wealth quantile, Disability status",6
 #17-1-1,Composite breakdown,1
 #17-11-1-1,Type of product,1
+#17-13-1-1,"SDG Series, Unit of measure, UNIT_MULT",3
 #17-3-1-1a,Economic activity,1
 #17-6-2,Composite breakdown,1
 #17-8-1,"Reference area, Sex, Age, Education level, Degree of urbanisation, Income or wealth quantile",6

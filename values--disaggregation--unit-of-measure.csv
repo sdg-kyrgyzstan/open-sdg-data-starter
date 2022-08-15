@@ -1,10 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Index,2,1
 Kilowatt-hours per 1mn som,1,1
 Kilowatt-hours,1,1
-Local currency,2,2
+Local currency,4,3
 Metric Tons,6,1
 Million of cubic metres per annum,10,1
 Number,18,4
 "Per 100,000 population",10,1
-Percent,12,3
+Percent,14,4
 Thousands kilowatt-hours per 1mn som,2,1
+USD,2,1
