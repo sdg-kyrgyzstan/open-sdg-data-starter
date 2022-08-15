@@ -7,7 +7,7 @@ Year,Reference area,Degree of urbanisation,Value
 2018,,,24.6
 2019,,,25.4
 2020,,,22.0
-2021,,,239.0
+2021,,,23.9
 2013,,Urban,31.6
 2014,,Urban,32.3
 2015,,Urban,31.1
@@ -16,7 +16,7 @@ Year,Reference area,Degree of urbanisation,Value
 2018,,Urban,34.6
 2019,,Urban,34.5
 2020,,Urban,29.1
-2021,,Urban,285.0
+2021,,Urban,28.5
 2013,,Rural,10.8
 2014,,Rural,13.2
 2015,,Rural,14.2
@@ -43,7 +43,7 @@ Year,Reference area,Degree of urbanisation,Value
 2018,Batken,Urban,34.0
 2019,Batken,Urban,42.7
 2020,Batken,Urban,39.8
-2021,Batken,Urban,445.0
+2021,Batken,Urban,44.5
 2013,Batken,Rural,10.2
 2014,Batken,Rural,14.6
 2015,Batken,Rural,16.7
@@ -133,7 +133,7 @@ Year,Reference area,Degree of urbanisation,Value
 2018,Naryn,Rural,31.1
 2019,Naryn,Rural,32.9
 2020,Naryn,Rural,33.3
-2021,Naryn,Rural,347.0
+2021,Naryn,Rural,34.7
 2013,Osh,,11.6
 2014,Osh,,13.1
 2015,Osh,,14.3
@@ -223,7 +223,7 @@ Year,Reference area,Degree of urbanisation,Value
 2018,Bishkek (city),Urban,29.5
 2019,Bishkek (city),Urban,28.2
 2020,Bishkek (city),Urban,23.5
-2021,Bishkek (city),Urban,222.0
+2021,Bishkek (city),Urban,22.2
 2013,Osh (city),Urban,41.9
 2014,Osh (city),Urban,49.7
 2015,Osh (city),Urban,48.2
@@ -232,4 +232,4 @@ Year,Reference area,Degree of urbanisation,Value
 2018,Osh (city),Urban,48.8
 2019,Osh (city),Urban,43.3
 2020,Osh (city),Urban,30.7
-2021,Osh (city),Urban,290.0
+2021,Osh (city),Urban,29.0
