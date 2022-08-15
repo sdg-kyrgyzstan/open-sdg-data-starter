@@ -13,6 +13,7 @@ Year,Reference area,Value
 2018,,97.394314
 2019,,105.744831
 2020,,109.72213
+2021,,111.179032
 2007,Batken,129.740223
 2008,Batken,122.152556
 2009,Batken,98.079552
@@ -27,6 +28,7 @@ Year,Reference area,Value
 2018,Batken,94.575897
 2019,Batken,110.412587
 2020,Batken,108.449054
+2021,Batken,113.692361
 2007,Jalal-Abad,131.474644
 2008,Jalal-Abad,133.108773
 2009,Jalal-Abad,94.285732
@@ -41,6 +43,7 @@ Year,Reference area,Value
 2018,Jalal-Abad,99.437848
 2019,Jalal-Abad,106.897463
 2020,Jalal-Abad,109.90983
+2021,Jalal-Abad,114.888541
 2007,Issyk-Kul,136.022851
 2008,Issyk-Kul,116.499725
 2009,Issyk-Kul,90.4746
@@ -55,6 +58,7 @@ Year,Reference area,Value
 2018,Issyk-Kul,97.328443
 2019,Issyk-Kul,106.659795
 2020,Issyk-Kul,108.406065
+2021,Issyk-Kul,110.910602
 2007,Naryn,129.698247
 2008,Naryn,110.814902
 2009,Naryn,92.921575
@@ -69,6 +73,7 @@ Year,Reference area,Value
 2018,Naryn,101.660059
 2019,Naryn,106.016926
 2020,Naryn,109.401619
+2021,Naryn,113.022339
 2007,Osh,130.503251
 2008,Osh,132.389129
 2009,Osh,91.207604
@@ -83,6 +88,7 @@ Year,Reference area,Value
 2018,Osh,96.104604
 2019,Osh,107.312397
 2020,Osh,107.711557
+2021,Osh,110.668162
 2007,Talas,131.559431
 2008,Talas,117.520012
 2009,Talas,90.950636
@@ -97,6 +103,7 @@ Year,Reference area,Value
 2018,Talas,96.802565
 2019,Talas,106.172057
 2020,Talas,111.789216
+2021,Talas,111.407088
 2007,Chui,130.314372
 2008,Chui,123.411415
 2009,Chui,94.365695
@@ -111,6 +118,7 @@ Year,Reference area,Value
 2018,Chui,96.302209
 2019,Chui,105.8531
 2020,Chui,111.39254
+2021,Chui,109.493892
 2007,Bishkek (city),131.950406
 2008,Bishkek (city),117.83137
 2009,Bishkek (city),92.340833
@@ -125,6 +133,7 @@ Year,Reference area,Value
 2018,Bishkek (city),97.346546
 2019,Bishkek (city),105.61571
 2020,Bishkek (city),110.449192
+2021,Bishkek (city),110.97186
 2007,Osh (city),130.503251
 2008,Osh (city),132.389129
 2009,Osh (city),91.207604
@@ -139,3 +148,4 @@ Year,Reference area,Value
 2018,Osh (city),98.011361
 2019,Osh (city),102.470488
 2020,Osh (city),106.898265
+2021,Osh (city),110.008559

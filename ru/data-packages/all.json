@@ -579,7 +579,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7621,74 +7621,6 @@
       "title": "Смертность от нападений на 100 000 человек"
     },
     {
-      "path": "17-13-1-1/data.csv",
-      "name": "17-13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Единицы",
-                "Миллионы",
-                ""
-              ]
-            },
-            "title": "Множитель"
-          },
-          {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GDP growth rate (decline), as a percentage of the previous year",
-                "The consumer price index, as a percentage of the previous year",
-                "Producer Price Indices, as a percentage of the previous year",
-                "Budget deficit and sources of financing, milllion soms",
-                "Volume of public debt, million soms",
-                "Foreign trade, as a percentage of the previous year",
-                "Export, million USD",
-                "Import, million USD",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Index",
-                "Local currency",
-                "USD",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Панель макроэкономических показателей"
-    },
-    {
       "path": "8-3-1-1/data.csv",
       "name": "8-3-1-1",
       "profile": "tabular-data-resource",
@@ -10636,6 +10568,30 @@
         ]
       },
       "title": "Совокупные  ресурсозатраты, ресурсозатраты на душу населения и ресурсозатраты в процентном отношении к ВВП"
+    },
+    {
+      "path": "17-13-1-1/data.csv",
+      "name": "17-13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Панель макроэкономических показателей"
     },
     {
       "path": "17-3-2/data.csv",
