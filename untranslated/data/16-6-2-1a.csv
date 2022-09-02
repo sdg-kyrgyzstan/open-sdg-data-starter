@@ -1,51 +1,61 @@
-Year,Frequency of observation,Reference area,Value
-2015,Annual,,235
-2016,Annual,,285
-2017,Annual,,311
-2018,Annual,,273
-2019,"Half-yearly, semester",,273
-2015,Annual,Batken,294
-2016,Annual,Batken,479
-2017,Annual,Batken,462
-2018,Annual,Batken,426
-2019,"Half-yearly, semester",Batken,400
-2015,Annual,Bishkek (city),436
-2016,Annual,Bishkek (city),372
-2017,Annual,Bishkek (city),354
-2018,Annual,Bishkek (city),327
-2019,"Half-yearly, semester",Bishkek (city),360
-2015,Annual,Chui,-15
-2016,Annual,Chui,166
-2017,Annual,Chui,295
-2018,Annual,Chui,195
-2019,"Half-yearly, semester",Chui,252
-2015,Annual,Issyk-Kul,206
-2016,Annual,Issyk-Kul,199
-2017,Annual,Issyk-Kul,285
-2018,Annual,Issyk-Kul,307
-2019,"Half-yearly, semester",Issyk-Kul,375
-2015,Annual,Jalal-Abad,343
-2016,Annual,Jalal-Abad,309
-2017,Annual,Jalal-Abad,327
-2018,Annual,Jalal-Abad,279
-2019,"Half-yearly, semester",Jalal-Abad,307
-2015,Annual,Naryn,364
-2016,Annual,Naryn,341
-2017,Annual,Naryn,312
-2018,Annual,Naryn,341
-2019,"Half-yearly, semester",Naryn,355
-2015,Annual,Osh,314
-2016,Annual,Osh,256
-2017,Annual,Osh,385
-2018,Annual,Osh,355
-2019,"Half-yearly, semester",Osh,325
-2015,Annual,Osh (city),96
-2016,Annual,Osh (city),126
-2017,Annual,Osh (city),163
-2018,Annual,Osh (city),129
-2019,"Half-yearly, semester",Osh (city),113
-2015,Annual,Talas,169
-2016,Annual,Talas,408
-2017,Annual,Talas,429
-2018,Annual,Talas,383
-2019,"Half-yearly, semester",Talas,366
+Year,Reference area,Value
+2015,,23.470187
+2016,,28.487981
+2017,,31.143928
+2018,,27.299499
+2019,,28.931149
+2020,,25.2
+2015,Batken,29.364645
+2016,Batken,47.911855
+2017,Batken,46.221681
+2018,Batken,42.644557
+2019,Batken,38.677928
+2020,Batken,39.4
+2015,Jalal-Abad,43.58955
+2016,Jalal-Abad,37.24933
+2017,Jalal-Abad,35.4
+2018,Jalal-Abad,32.708436
+2019,Jalal-Abad,34.657679
+2020,Jalal-Abad,35.1
+2015,Issyk-Kul,-1.504559
+2016,Issyk-Kul,16.638283
+2017,Issyk-Kul,29.5
+2018,Issyk-Kul,19.463418
+2019,Issyk-Kul,31.583101
+2020,Issyk-Kul,42.7
+2015,Naryn,20.617825
+2016,Naryn,19.923049
+2017,Naryn,28.473393
+2018,Naryn,30.739784
+2019,Naryn,47.289369
+2020,Naryn,37.5
+2015,Osh,34.255749
+2016,Osh,30.917948
+2017,Osh,32.665922
+2018,Osh,27.856595
+2019,Osh,37.990784
+2020,Osh,40.9
+2015,Talas,36.443189
+2016,Talas,34.131511
+2017,Talas,31.207421
+2018,Talas,34.060446
+2019,Talas,29.962169
+2020,Talas,36.7
+2015,Chui,31.422096
+2016,Chui,25.580014
+2017,Chui,38.456746
+2018,Chui,35.486614
+2019,Chui,23.647168
+2020,Chui,24.7
+2015,Bishkek (city),9.584576
+2016,Bishkek (city),12.583671
+2017,Bishkek (city),16.3
+2018,Bishkek (city),12.865469
+2019,Bishkek (city),16.50586
+2020,Bishkek (city),-8.0
+2015,Osh (city),16.932905
+2016,Osh (city),40.826476
+2017,Osh (city),42.862634
+2018,Osh (city),38.281575
+2019,Osh (city),31.381882
+2020,Osh (city),38.8

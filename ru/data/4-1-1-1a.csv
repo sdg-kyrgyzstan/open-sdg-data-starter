@@ -155,23 +155,23 @@ Year,Sex,Composite breakdown,Value
 2018,Male,Cause: does not match the age of the given class,20
 2019,Male,Cause: does not match the age of the given class,6
 2020,Male,Cause: does not match the age of the given class,6
-2005,Male,Cause: because of sickness ,310
-2006,Male,Cause: because of sickness ,271
-2007,Male,Cause: because of sickness ,301
-2008,Male,Cause: because of sickness ,153
-2009,Male,Cause: because of sickness ,230
-2010,Male,Cause: because of sickness ,381
-2011,Male,Cause: because of sickness ,297
-2012,Male,Cause: because of sickness ,271
-2013,Male,Cause: because of sickness ,44
-2014,Male,Cause: because of sickness ,55
-2015,Male,Cause: because of sickness ,24
-2016,Male,Cause: because of sickness ,39
-2017,Male,Cause: because of sickness ,27
-2018,Male,Cause: because of sickness ,44
-2019,Male,Cause: because of sickness ,35
-2020,Male,Cause: because of sickness ,12
-2021,Male,Cause: because of sickness ,29
+2005,Male,Cause: because of sickness,310
+2006,Male,Cause: because of sickness,271
+2007,Male,Cause: because of sickness,301
+2008,Male,Cause: because of sickness,153
+2009,Male,Cause: because of sickness,230
+2010,Male,Cause: because of sickness,381
+2011,Male,Cause: because of sickness,297
+2012,Male,Cause: because of sickness,271
+2013,Male,Cause: because of sickness,44
+2014,Male,Cause: because of sickness,55
+2015,Male,Cause: because of sickness,24
+2016,Male,Cause: because of sickness,39
+2017,Male,Cause: because of sickness,27
+2018,Male,Cause: because of sickness,44
+2019,Male,Cause: because of sickness,35
+2020,Male,Cause: because of sickness,12
+2021,Male,Cause: because of sickness,29
 2005,Male,Cause: Children with disabilities,908
 2006,Male,Cause: Children with disabilities,812
 2007,Male,Cause: Children with disabilities,756
@@ -348,23 +348,23 @@ Year,Sex,Composite breakdown,Value
 2018,Female,Cause: does not match the age of the given class,18
 2019,Female,Cause: does not match the age of the given class,3
 2020,Female,Cause: does not match the age of the given class,3
-2005,Female,Cause: because of sickness ,196
-2006,Female,Cause: because of sickness ,213
-2007,Female,Cause: because of sickness ,219
-2008,Female,Cause: because of sickness ,99
-2009,Female,Cause: because of sickness ,195
-2010,Female,Cause: because of sickness ,260
-2011,Female,Cause: because of sickness ,233
-2012,Female,Cause: because of sickness ,213
-2013,Female,Cause: because of sickness ,45
-2014,Female,Cause: because of sickness ,60
-2015,Female,Cause: because of sickness ,14
-2016,Female,Cause: because of sickness ,36
-2017,Female,Cause: because of sickness ,20
-2018,Female,Cause: because of sickness ,31
-2019,Female,Cause: because of sickness ,27
-2020,Female,Cause: because of sickness ,9
-2021,Female,Cause: because of sickness ,16
+2005,Female,Cause: because of sickness,196
+2006,Female,Cause: because of sickness,213
+2007,Female,Cause: because of sickness,219
+2008,Female,Cause: because of sickness,99
+2009,Female,Cause: because of sickness,195
+2010,Female,Cause: because of sickness,260
+2011,Female,Cause: because of sickness,233
+2012,Female,Cause: because of sickness,213
+2013,Female,Cause: because of sickness,45
+2014,Female,Cause: because of sickness,60
+2015,Female,Cause: because of sickness,14
+2016,Female,Cause: because of sickness,36
+2017,Female,Cause: because of sickness,20
+2018,Female,Cause: because of sickness,31
+2019,Female,Cause: because of sickness,27
+2020,Female,Cause: because of sickness,9
+2021,Female,Cause: because of sickness,16
 2005,Female,Cause: Children with disabilities,658
 2006,Female,Cause: Children with disabilities,585
 2007,Female,Cause: Children with disabilities,535

@@ -3,7 +3,7 @@ Activity status: Not working,1,1
 Activity status: Retirees,1,1
 Activity status: Students,1,1
 Activity status: Working,1,1
-Cause: because of sickness ,2,1
+Cause: because of sickness,2,1
 Cause: Children with disabilities,2,1
 Cause: does not match the age of the given class,2,1
 Cause: for domestic reasons,2,1
@@ -26,14 +26,14 @@ Cause: unwillingness of parents,2,1
 Cause: working,2,1
 Country: Hungary,1,1
 Country: People's Republic of China,1,1
-Country: Republic of Belarus ,1,1
+Country: Republic of Belarus,1,1
 Country: Republic of Kazakhstan,1,1
 Country: Republic of Tajikistan,1,1
 Country: Russian Federation,1,1
 Education: Other,1,1
 Expenditure on Animal protection,1,1
 Expenditure on Anti-epizootic measures,1,1
-Expenditure on Environmental issues not classified elsewhere ,1,1
+Expenditure on Environmental issues not classified elsewhere,1,1
 Expenditure on Nature parks and reserves,1,1
 "Expenditure on Other services for the protection
 of biodiversity and landscape",1,1
@@ -68,7 +68,7 @@ Non-communicable disease: Chronic respiratory disease,30,1
 Non-communicable disease: Diabetes,30,1
 Pollutants: Carbon monoxide,1,1
 Pollutants: Gaseous and liquid,1,1
-Pollutants: Nitrogen oxide ,1,1
+Pollutants: Nitrogen oxide,1,1
 Pollutants: Solid,1,1
 Pollutants: Sulphur dioxide,1,1
 School attendance: Attends,1,1
