@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <!--Created with SDMX Converter v7.7.2-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1642148410714</message:ID>
+    <message:ID>IREF1660568784656</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-01-14T08:20:10Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2022-08-15T13:06:24Z</message:Prepared>
+    <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
-    <message:Structure structureID="KG_NSC_SDG_1_6" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+    <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.6"></Ref>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.7"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_6" ss:action="Information">
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="2.984" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2013" OBS_VALUE="4.897724" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -27,6 +27,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="1.319706" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="2.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="3.927548" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -38,6 +39,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="1.955622" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1A" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="1.574151" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -49,6 +51,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="0.376517" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="0.376517" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="0.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="2.446991" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -60,6 +63,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="2.594485" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="3.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="3.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="2.744663" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -71,6 +75,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="2.679579" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="3.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="3.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1B" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -82,6 +87,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="2.468275" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="2.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="2.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="2.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="94.569008" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -93,6 +99,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="96.085809" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="95.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="95.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="93.327789" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -104,6 +111,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="95.364799" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="93.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160701_1C" REF_AREA="KG" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2012" OBS_VALUE="96.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
@@ -115,6 +123,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="97.155208" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="97.155208" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="97.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="96.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Without government bodies providing defense, public order and security"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

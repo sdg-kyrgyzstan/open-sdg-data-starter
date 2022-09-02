@@ -25,7 +25,7 @@ inputs:
       REF_AREA|KG: ''
     drop_dimensions: 
       - SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG_1.7.xml'
+    dsd: SDG_DSD.KG_1.7.xml
     import_translation_keys: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
@@ -49,7 +49,7 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.4.0
+    tag: 2.0.0
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputCsv
