@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <!--Created with SDMX Converter v7.7.2-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1636619405415</message:ID>
+    <message:ID>IREF1662466845075</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-11-11T08:30:05Z</message:Prepared>
-    <message:Sender id="BIS">
+    <message:Prepared>2022-09-06T12:20:45Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
-    <message:Structure structureID="KG_NSC_SDG_1_6" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+    <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.6"></Ref>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.7"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_6" ss:action="Information">
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_010301_1G1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="313220" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007"></Obs>
     <Obs TIME_PERIOD="2008" OBS_VALUE="349682" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008"></Obs>
@@ -32,6 +32,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="138265" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="147363" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="160561" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="233306" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_010301_1G2" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="5.968864" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007"></Obs>
@@ -48,6 +49,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="2.163941" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="2.259523" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="2.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="35" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_010301_1G3" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="59.241298" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007"></Obs>
@@ -64,6 +66,7 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="19.898854" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="20.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="21.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="308" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
