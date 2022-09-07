@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <!--Created with SDMX Converter v7.7.2-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.5):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1606726375769</message:ID>
+    <message:ID>IREF1662554053281</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2020-11-30T08:52:55Z</message:Prepared>
-    <message:Sender id="KG_NSC">
+    <message:Prepared>2022-09-07T12:34:13Z</message:Prepared>
+    <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
-    <message:Structure structureID="KG_NSC_SDG_1_5" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.5):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+    <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.5"></Ref>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.7"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_5" ss:action="Information">
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF01" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="101.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2011" OBS_VALUE="98.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -27,7 +27,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="98.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="100.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="102.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="101.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="98.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="101.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="109.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF04" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="62.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -39,7 +41,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="165.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="94.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="80.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="105.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="70.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="49.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="69" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF05" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="94.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -51,7 +55,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="70.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="101.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="111.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="104.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="95.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="78.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="94" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF06" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="98.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -63,7 +69,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="32.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="136.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="132.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="141.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="99.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="96.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="110.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF07" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="99.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -75,7 +83,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="89.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="124.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="105.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="125.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="95.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="103.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="154.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF08" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="99" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -87,7 +97,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="123.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="172.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="119.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="130.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="105.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="87.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="110.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF09" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="98.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -99,7 +111,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="83.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="112.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="106.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="114.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="104.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="97.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="100.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="GF_XPD_GBPC" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_COFOG_GF10" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="98.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="* по данным МФ КР"></Obs>
@@ -111,7 +125,9 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="97.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="90.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="* по данным МФ КР"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="89.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="* по данным МФ КР"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="90.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="83.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="90.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="* по данным МФ КР"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="102.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="* по данным МФ КР"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
