@@ -9,14 +9,14 @@ Indicator,Disaggregations,Number of disaggregations
 #1-3-1-1e,Sex,1
 #1-3-1-1f,"SDG Series, Unit of measure",2
 #1-3-1-1g,SDG Series,1
-#1-4-1,"Показатель, Территория, Местность, Квинтиль индекса благосостояния, Образование главы домохозяйства",5
+#1-4-1,"Показатель, Местность, Территория, Квинтиль индекса благосостояния, Образование главы домохозяйства",5
 #1-5-1,"Территория, Пол",2
 #1-5-2,Reference area,1
 #1-a-2,SDG Series,1
 #1-b-1-1,"SDG Series, Composite breakdown",2
 #10-1-1,Income or wealth quantile,1
 #10-2-1,"Reference area, SDG Series, Income or wealth quantile, Sex, Age, Degree of urbanisation",6
-#10-3-1,"Территория, Местность, Квинтиль индекса благосостояния, Возраст (лет), Уровень образования, Функциональные трудности (возраст: 18-49лет)",6
+#10-3-1,"Местность, Территория, Квинтиль индекса благосостояния, Возраст (лет), Уровень образования, Функциональные трудности (возраст: 18-49лет)",6
 #10-3-1-1a,SDG Series,1
 #10-5-1-1,SDG Series,1
 #11-2-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
@@ -24,7 +24,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-5-2,Reference area,1
 #11-6-1-1a,Composite breakdown,1
 #11-7-1-1a,Reference area,1
-#13-1-1,"Reference area, Sex, Территория, Пол",4
+#13-1-1,"Reference area, Sex",2
 #15-1-1-1,Reference area,1
 #15-1-2,Показатель,1
 #15-2-1,SDG Series,1
@@ -87,7 +87,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-a-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
 #3-b-1,"Reference area, SDG Series",2
 #3-c-1,Occupation,1
-#4-1-1,"Показатель, Территория, Местность, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",8
+#4-1-1,"Показатель, Местность, Территория, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",8
 #4-1-1-1a,"Composite breakdown, Sex",2
 #4-1-1-1b,Reference area,1
 #4-2-1,"Reference area, Income or wealth quantile, Sex, Education level, COMMENT_OBS",5
