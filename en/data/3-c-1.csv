@@ -1,57 +1,361 @@
-Year,Occupation,Value
-2007,Medical doctors,2.2
-2008,Medical doctors,2.2
-2009,Medical doctors,2.2
-2010,Medical doctors,2.2
-2011,Medical doctors,2.2
-2012,Medical doctors,2.2
-2013,Medical doctors,2.2
-2014,Medical doctors,2.1
-2015,Medical doctors,2.1
-2016,Medical doctors,2.1
-2017,Medical doctors,2.0
-2018,Medical doctors,2.0
-2019,Medical doctors,2.0
-2020,Medical doctors,2.0
-2007,Dentists,0.3
-2008,Dentists,0.3
-2009,Dentists,0.3
-2010,Dentists,0.3
-2011,Dentists,0.3
-2012,Dentists,0.3
-2013,Dentists,0.3
-2014,Dentists,0.3
-2015,Dentists,0.3
-2016,Dentists,0.3
-2017,Dentists,0.3
-2018,Dentists,0.3
-2019,Dentists,0.3
-2020,Dentists,0.3
-2007,Pharmacists,0.0
-2008,Pharmacists,0.0
-2009,Pharmacists,0.0
-2010,Pharmacists,0.0
-2011,Pharmacists,0.0
-2012,Pharmacists,0.1
-2013,Pharmacists,0.1
-2014,Pharmacists,0.1
-2015,Pharmacists,0.1
-2016,Pharmacists,0.1
-2017,Pharmacists,0.1
-2018,Pharmacists,0.1
-2019,Pharmacists,0.1
-2020,Pharmacists,0.1
-2007,Nursing and midwifery professionals,4.4
-2008,Nursing and midwifery professionals,4.3
-2009,Nursing and midwifery professionals,4.3
-2010,Nursing and midwifery professionals,4.4
-2011,Nursing and midwifery professionals,4.5
-2012,Nursing and midwifery professionals,4.6
-2013,Nursing and midwifery professionals,4.6
-2014,Nursing and midwifery professionals,4.6
-2015,Nursing and midwifery professionals,4.6
-2016,Nursing and midwifery professionals,4.6
-2017,Nursing and midwifery professionals,4.3
-2018,Nursing and midwifery professionals,4.5
-2019,Nursing and midwifery professionals,4.3
-2020,Nursing and midwifery professionals,4.3
+Year,Reference area,Sex,Value
+2010,,,22
+2011,,,22
+2012,,,22
+2013,,,22
+2014,,,21
+2015,,,21
+2016,,,21
+2017,,,20
+2018,,,20
+2019,,,20
+2020,,,20
+2021,,,19
+2010,,Female,29
+2011,,Female,29
+2012,,Female,29
+2013,,Female,29
+2014,,Female,28
+2015,,Female,28
+2016,,Female,28
+2017,,Female,27
+2018,,Female,27
+2019,,Female,27
+2020,,Female,26
+2021,,Female,26
+2010,,Male,15
+2011,,Male,15
+2012,,Male,15
+2013,,Male,15
+2014,,Male,14
+2015,,Male,14
+2016,,Male,14
+2017,,Male,14
+2018,,Male,13
+2019,,Male,13
+2020,,Male,13
+2021,,Male,12
+2010,Batken,,14
+2011,Batken,,14
+2012,Batken,,15
+2013,Batken,,15
+2014,Batken,,15
+2015,Batken,,15
+2016,Batken,,15
+2017,Batken,,15
+2018,Batken,,15
+2019,Batken,,15
+2020,Batken,,15
+2021,Batken,,14
+2010,Batken,Female,13
+2011,Batken,Female,14
+2012,Batken,Female,14
+2013,Batken,Female,15
+2014,Batken,Female,16
+2015,Batken,Female,15
+2016,Batken,Female,16
+2017,Batken,Female,16
+2018,Batken,Female,16
+2019,Batken,Female,17
+2020,Batken,Female,16
+2021,Batken,Female,17
+2010,Batken,Male,14
+2011,Batken,Male,14
+2012,Batken,Male,15
+2013,Batken,Male,15
+2014,Batken,Male,14
+2015,Batken,Male,14
+2016,Batken,Male,14
+2017,Batken,Male,14
+2018,Batken,Male,14
+2019,Batken,Male,13
+2020,Batken,Male,13
+2021,Batken,Male,12
+2010,Jalal-Abad,,13
+2011,Jalal-Abad,,13
+2012,Jalal-Abad,,13
+2013,Jalal-Abad,,13
+2014,Jalal-Abad,,13
+2015,Jalal-Abad,,13
+2016,Jalal-Abad,,13
+2017,Jalal-Abad,,13
+2018,Jalal-Abad,,13
+2019,Jalal-Abad,,13
+2020,Jalal-Abad,,12
+2021,Jalal-Abad,,12
+2010,Jalal-Abad,Female,16
+2011,Jalal-Abad,Female,16
+2012,Jalal-Abad,Female,16
+2013,Jalal-Abad,Female,16
+2014,Jalal-Abad,Female,16
+2015,Jalal-Abad,Female,16
+2016,Jalal-Abad,Female,16
+2017,Jalal-Abad,Female,16
+2018,Jalal-Abad,Female,16
+2019,Jalal-Abad,Female,17
+2020,Jalal-Abad,Female,16
+2021,Jalal-Abad,Female,15
+2010,Jalal-Abad,Male,10
+2011,Jalal-Abad,Male,10
+2012,Jalal-Abad,Male,10
+2013,Jalal-Abad,Male,11
+2014,Jalal-Abad,Male,10
+2015,Jalal-Abad,Male,10
+2016,Jalal-Abad,Male,10
+2017,Jalal-Abad,Male,10
+2018,Jalal-Abad,Male,9
+2019,Jalal-Abad,Male,12
+2020,Jalal-Abad,Male,9
+2021,Jalal-Abad,Male,8
+2010,Issyk-Kul,,14
+2011,Issyk-Kul,,15
+2012,Issyk-Kul,,14
+2013,Issyk-Kul,,14
+2014,Issyk-Kul,,14
+2015,Issyk-Kul,,14
+2016,Issyk-Kul,,14
+2017,Issyk-Kul,,13
+2018,Issyk-Kul,,13
+2019,Issyk-Kul,,14
+2020,Issyk-Kul,,13
+2021,Issyk-Kul,,13
+2010,Issyk-Kul,Female,21
+2011,Issyk-Kul,Female,22
+2012,Issyk-Kul,Female,22
+2013,Issyk-Kul,Female,22
+2014,Issyk-Kul,Female,21
+2015,Issyk-Kul,Female,21
+2016,Issyk-Kul,Female,21
+2017,Issyk-Kul,Female,20
+2018,Issyk-Kul,Female,20
+2019,Issyk-Kul,Female,20
+2020,Issyk-Kul,Female,20
+2021,Issyk-Kul,Female,19
+2010,Issyk-Kul,Male,7
+2011,Issyk-Kul,Male,7
+2012,Issyk-Kul,Male,7
+2013,Issyk-Kul,Male,7
+2014,Issyk-Kul,Male,7
+2015,Issyk-Kul,Male,7
+2016,Issyk-Kul,Male,7
+2017,Issyk-Kul,Male,6
+2018,Issyk-Kul,Male,7
+2019,Issyk-Kul,Male,7
+2020,Issyk-Kul,Male,6
+2021,Issyk-Kul,Male,6
+2010,Naryn,,14
+2011,Naryn,,14
+2012,Naryn,,14
+2013,Naryn,,13
+2014,Naryn,,13
+2015,Naryn,,13
+2016,Naryn,,13
+2017,Naryn,,13
+2018,Naryn,,13
+2019,Naryn,,12
+2020,Naryn,,11
+2021,Naryn,,11
+2010,Naryn,Female,21
+2011,Naryn,Female,20
+2012,Naryn,Female,20
+2013,Naryn,Female,20
+2014,Naryn,Female,20
+2015,Naryn,Female,20
+2016,Naryn,Female,19
+2017,Naryn,Female,19
+2018,Naryn,Female,19
+2019,Naryn,Female,18
+2020,Naryn,Female,17
+2021,Naryn,Female,17
+2010,Naryn,Male,0
+2011,Naryn,Male,0
+2012,Naryn,Male,0
+2013,Naryn,Male,0
+2014,Naryn,Male,0
+2015,Naryn,Male,0
+2016,Naryn,Male,0
+2017,Naryn,Male,0
+2018,Naryn,Male,0
+2019,Naryn,Male,0
+2020,Naryn,Male,6
+2021,Naryn,Male,6
+2010,Osh,,14
+2011,Osh,,14
+2012,Osh,,14
+2013,Osh,,15
+2014,Osh,,15
+2015,Osh,,15
+2016,Osh,,15
+2017,Osh,,15
+2018,Osh,,15
+2019,Osh,,15
+2020,Osh,,15
+2021,Osh,,14
+2010,Osh,Female,14
+2011,Osh,Female,15
+2012,Osh,Female,15
+2013,Osh,Female,15
+2014,Osh,Female,16
+2015,Osh,Female,16
+2016,Osh,Female,16
+2017,Osh,Female,16
+2018,Osh,Female,16
+2019,Osh,Female,17
+2020,Osh,Female,16
+2021,Osh,Female,16
+2010,Osh,Male,14
+2011,Osh,Male,14
+2012,Osh,Male,14
+2013,Osh,Male,14
+2014,Osh,Male,14
+2015,Osh,Male,14
+2016,Osh,Male,14
+2017,Osh,Male,14
+2018,Osh,Male,14
+2019,Osh,Male,13
+2020,Osh,Male,13
+2021,Osh,Male,13
+2010,Talas,,13
+2011,Talas,,13
+2012,Talas,,13
+2013,Talas,,13
+2014,Talas,,12
+2015,Talas,,13
+2016,Talas,,12
+2017,Talas,,12
+2018,Talas,,12
+2019,Talas,,11
+2020,Talas,,11
+2021,Talas,,11
+2010,Talas,Female,16
+2011,Talas,Female,17
+2012,Talas,Female,16
+2013,Talas,Female,17
+2014,Talas,Female,16
+2015,Talas,Female,16
+2016,Talas,Female,16
+2017,Talas,Female,16
+2018,Talas,Female,16
+2019,Talas,Female,16
+2020,Talas,Female,15
+2021,Talas,Female,15
+2010,Talas,Male,10
+2011,Talas,Male,9
+2012,Talas,Male,9
+2013,Talas,Male,9
+2014,Talas,Male,9
+2015,Talas,Male,10
+2016,Talas,Male,8
+2017,Talas,Male,8
+2018,Talas,Male,8
+2019,Talas,Male,7
+2020,Talas,Male,7
+2021,Talas,Male,7
+2010,Chui,,14
+2011,Chui,,15
+2012,Chui,,14
+2013,Chui,,14
+2014,Chui,,14
+2015,Chui,,14
+2016,Chui,,14
+2017,Chui,,13
+2018,Chui,,13
+2019,Chui,,13
+2020,Chui,,12
+2021,Chui,,12
+2010,Chui,Female,21
+2011,Chui,Female,21
+2012,Chui,Female,21
+2013,Chui,Female,20
+2014,Chui,Female,19
+2015,Chui,Female,19
+2016,Chui,Female,19
+2017,Chui,Female,19
+2018,Chui,Female,19
+2019,Chui,Female,19
+2020,Chui,Female,18
+2021,Chui,Female,18
+2010,Chui,Male,8
+2011,Chui,Male,8
+2012,Chui,Male,8
+2013,Chui,Male,8
+2014,Chui,Male,8
+2015,Chui,Male,8
+2016,Chui,Male,8
+2017,Chui,Male,7
+2018,Chui,Male,7
+2019,Chui,Male,7
+2020,Chui,Male,6
+2021,Chui,Male,6
+2010,Bishkek (city),,30
+2011,Bishkek (city),,30
+2012,Bishkek (city),,28
+2013,Bishkek (city),,27
+2014,Bishkek (city),,26
+2015,Bishkek (city),,26
+2016,Bishkek (city),,25
+2017,Bishkek (city),,25
+2018,Bishkek (city),,24
+2019,Bishkek (city),,24
+2020,Bishkek (city),,24
+2021,Bishkek (city),,23
+2010,Bishkek (city),Female,44
+2011,Bishkek (city),Female,44
+2012,Bishkek (city),Female,42
+2013,Bishkek (city),Female,40
+2014,Bishkek (city),Female,39
+2015,Bishkek (city),Female,38
+2016,Bishkek (city),Female,37
+2017,Bishkek (city),Female,37
+2018,Bishkek (city),Female,36
+2019,Bishkek (city),Female,36
+2020,Bishkek (city),Female,36
+2021,Bishkek (city),Female,35
+2010,Bishkek (city),Male,13
+2011,Bishkek (city),Male,13
+2012,Bishkek (city),Male,12
+2013,Bishkek (city),Male,13
+2014,Bishkek (city),Male,12
+2015,Bishkek (city),Male,12
+2016,Bishkek (city),Male,12
+2017,Bishkek (city),Male,11
+2018,Bishkek (city),Male,11
+2019,Bishkek (city),Male,11
+2020,Bishkek (city),Male,11
+2021,Bishkek (city),Male,10
+2010,Osh (city),,24
+2011,Osh (city),,25
+2012,Osh (city),,26
+2013,Osh (city),,26
+2014,Osh (city),,27
+2015,Osh (city),,27
+2016,Osh (city),,25
+2017,Osh (city),,25
+2018,Osh (city),,25
+2019,Osh (city),,24
+2020,Osh (city),,24
+2021,Osh (city),,21
+2010,Osh (city),Female,31
+2011,Osh (city),Female,32
+2012,Osh (city),Female,33
+2013,Osh (city),Female,33
+2014,Osh (city),Female,36
+2015,Osh (city),Female,35
+2016,Osh (city),Female,33
+2017,Osh (city),Female,32
+2018,Osh (city),Female,32
+2019,Osh (city),Female,31
+2020,Osh (city),Female,31
+2021,Osh (city),Female,28
+2010,Osh (city),Male,16
+2011,Osh (city),Male,18
+2012,Osh (city),Male,18
+2013,Osh (city),Male,18
+2014,Osh (city),Male,18
+2015,Osh (city),Male,18
+2016,Osh (city),Male,17
+2017,Osh (city),Male,18
+2018,Osh (city),Male,17
+2019,Osh (city),Male,18
+2020,Osh (city),Male,16
+2021,Osh (city),Male,14

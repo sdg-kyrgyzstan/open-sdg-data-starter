@@ -16,22 +16,39 @@
             "title": "Год"
           },
           {
-            "name": "Occupation",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Dentists",
-                "Pharmacists",
-                "Nursing and midwifery professionals",
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             },
-            "title": "Occupation"
+            "title": "Reference area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

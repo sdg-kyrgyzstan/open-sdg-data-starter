@@ -86,7 +86,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-3,Reference area,1
 #3-a-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
 #3-b-1,"Reference area, SDG Series",2
-#3-c-1,Occupation,1
+#3-c-1,"Reference area, Sex",2
 #4-1-1,"Показатель, Местность, Территория, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",8
 #4-1-1-1a,"Composite breakdown, Sex",2
 #4-1-1-1b,Reference area,1
