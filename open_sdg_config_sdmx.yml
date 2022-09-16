@@ -26,7 +26,7 @@ inputs:
     drop_dimensions: 
       - SOURCE_DETAIL
     dsd: SDG_DSD.KG_1.7.xml
-    import_translation_keys: true
+    import_codes: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
   - class: InputYamlMdMeta
