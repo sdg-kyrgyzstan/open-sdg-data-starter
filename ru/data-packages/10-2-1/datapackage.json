@@ -16,84 +16,77 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Median value, som per month per capita",
-                "Proportion of people living below 50 percent of median income",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "Территория"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Женщины",
+                "Мужчины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 17 years old",
-                "14 to 28 years old",
-                "16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",
-                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
+                "до 17 лет",
+                "от 14 до 28 лет",
+                "от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",
+                "58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Городская",
+                "Сельская",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Тип местности"
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bottom 50%",
+                "Нижние 50%",
                 ""
               ]
             },
-            "title": "Income or wealth quantile"
+            "title": "Уровень дохода или квантиль благосостояния"
           },
           {
             "name": "Value",

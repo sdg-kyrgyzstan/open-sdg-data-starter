@@ -1,115 +1,115 @@
-Year,SDG Series,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Value
-2015,"Median value, som per month per capita",,,,,,3390.2
-2016,"Median value, som per month per capita",,,,,,3572.5
-2017,"Median value, som per month per capita",,,,,,3991.9
-2018,"Median value, som per month per capita",,,,,,4466.4
-2019,"Median value, som per month per capita",,,,,,4774.194444
-2020,"Median value, som per month per capita",,,,,,4700.5
-2015,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,12.0
-2016,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.6
-2017,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.0
-2018,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.9
-2019,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,11.108723
-2020,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,10.5
-2015,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.2
-2016,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.5
-2017,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,7.9
-2018,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.1
-2019,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.666083
-2020,Proportion of people living below 50 percent of median income,,,,Urban,Bottom 50%,8.4
-2015,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,14.1
-2016,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,13.3
-2017,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,12.7
-2018,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,14.0
-2019,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,12.479204
-2020,Proportion of people living below 50 percent of median income,,,,Rural,Bottom 50%,11.6
-2015,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.7
-2016,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.4
-2017,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,10.9
-2018,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.8
-2019,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,11.025078
-2020,Proportion of people living below 50 percent of median income,,Female,,,Bottom 50%,10.6
-2015,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,12.3
-2016,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.9
-2017,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.2
-2018,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,12.0
-2019,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,11.203036
-2020,Proportion of people living below 50 percent of median income,,Male,,,Bottom 50%,10.3
-2015,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,19.5
-2016,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.6
-2017,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.4
-2018,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,18.5
-2019,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,17.616827
-2020,Proportion of people living below 50 percent of median income,,,under 17 years old,,Bottom 50%,16.3
-2015,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,12.1
-2016,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,12.5
-2017,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,11.4
-2018,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,13.5
-2019,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,10.728478
-2020,Proportion of people living below 50 percent of median income,,,14 to 28 years old,,Bottom 50%,10.8
-2015,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.3
-2016,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.6
-2017,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,11.7
-2018,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,12.2
-2019,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,10.997778
-2020,Proportion of people living below 50 percent of median income,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,Bottom 50%,10.7
-2015,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.8
-2016,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.8
-2017,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,7.5
-2018,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.4
-2019,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.786411
-2020,Proportion of people living below 50 percent of median income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,Bottom 50%,8.2
-2015,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,9.432768
-2016,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,12.156859
-2017,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,17.0
-2018,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,12.7
-2019,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,13.148975
-2020,Proportion of people living below 50 percent of median income,Batken,,,,Bottom 50%,11.755326
-2015,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.445544
-2016,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.724154
-2017,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,16.7
-2018,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,17.6
-2019,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,17.383491
-2020,Proportion of people living below 50 percent of median income,Jalal-Abad,,,,Bottom 50%,18.008531
-2015,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,17.230053
-2016,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,16.543761
-2017,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,17.0
-2018,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,14.7
-2019,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,14.950191
-2020,Proportion of people living below 50 percent of median income,Issyk-Kul,,,,Bottom 50%,12.86032
-2015,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,31.283961
-2016,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,30.792373
-2017,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,30.8
-2018,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,31.7
-2019,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,29.020992
-2020,Proportion of people living below 50 percent of median income,Naryn,,,,Bottom 50%,27.855975
-2015,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,10.295311
-2016,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,6.259579
-2017,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,4.2
-2018,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,8.8
-2019,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,7.362662
-2020,Proportion of people living below 50 percent of median income,Osh,,,,Bottom 50%,3.856705
-2015,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.628776
-2016,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,16.289548
-2017,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.0
-2018,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,17.6
-2019,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,15.083486
-2020,Proportion of people living below 50 percent of median income,Talas,,,,Bottom 50%,12.700277
-2015,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,8.324989
-2016,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,9.54309
-2017,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,6.0
-2018,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,5.5
-2019,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,4.972738
-2020,Proportion of people living below 50 percent of median income,Chui,,,,Bottom 50%,6.543626
-2015,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.300161
-2016,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,5.9524
-2017,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,5.3
-2018,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.8
-2019,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,6.252085
-2020,Proportion of people living below 50 percent of median income,Bishkek (city),,,,Bottom 50%,7.921875
-2015,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,4.356925
-2016,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.77669
-2017,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.8
-2018,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,10.2
-2019,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,8.254219
-2020,Proportion of people living below 50 percent of median income,Osh (city),,,,Bottom 50%,6.255189
+Year,SERIES,Территория,Пол,Возраст,Тип местности,Уровень дохода или квантиль благосостояния,Value
+2015,"Медианное значение, сомов в месяц на душу населения",,,,,,3390.2
+2016,"Медианное значение, сомов в месяц на душу населения",,,,,,3572.5
+2017,"Медианное значение, сомов в месяц на душу населения",,,,,,3991.9
+2018,"Медианное значение, сомов в месяц на душу населения",,,,,,4466.4
+2019,"Медианное значение, сомов в месяц на душу населения",,,,,,4774.194444
+2020,"Медианное значение, сомов в месяц на душу населения",,,,,,4700.5
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,12.0
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,11.6
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,11.0
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,11.9
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,11.108723
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,,,Нижние 50%,10.5
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,8.2
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,8.5
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,7.9
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,8.1
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,8.666083
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Городская,Нижние 50%,8.4
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,14.1
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,13.3
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,12.7
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,14.0
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,12.479204
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,,Сельская,Нижние 50%,11.6
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,11.7
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,11.4
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,10.9
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,11.8
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,11.025078
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,Женщины,,,Нижние 50%,10.6
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,12.3
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,11.9
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,11.2
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,12.0
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,11.203036
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,Мужчины,,,Нижние 50%,10.3
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,19.5
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,17.6
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,17.4
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,18.5
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,17.616827
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,до 17 лет,,Нижние 50%,16.3
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,12.1
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,12.5
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,11.4
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,13.5
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,10.728478
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,от 14 до 28 лет,,Нижние 50%,10.8
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,12.3
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,12.6
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,11.7
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,12.2
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,10.997778
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,"от 16 до 62 лет (население трудоспособного возраста: женщины 16-57 лет, мужчины 16-62 лет)",,Нижние 50%,10.7
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,7.8
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,7.8
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,7.5
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,8.4
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,8.786411
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,,,"58 лет и старше (население старше струдоспособного возраста: женщины 58 лет и старше, мужчины 63 лет и старше)",,Нижние 50%,8.2
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,9.432768
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,12.156859
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,17.0
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,12.7
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,13.148975
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Баткенская область,,,,Нижние 50%,11.755326
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,16.445544
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,16.724154
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,16.7
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,17.6
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,17.383491
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Джалал-Абадская область,,,,Нижние 50%,18.008531
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,17.230053
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,16.543761
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,17.0
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,14.7
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,14.950191
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Иссык-Кульская область,,,,Нижние 50%,12.86032
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,31.283961
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,30.792373
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,30.8
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,31.7
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,29.020992
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Нарынская область,,,,Нижние 50%,27.855975
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,10.295311
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,6.259579
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,4.2
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,8.8
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,7.362662
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Ошская область,,,,Нижние 50%,3.856705
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,17.628776
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,16.289548
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,17.0
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,17.6
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,15.083486
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Таласская область,,,,Нижние 50%,12.700277
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,8.324989
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,9.54309
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,6.0
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,5.5
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,4.972738
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,Чуйская область,,,,Нижние 50%,6.543626
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,6.300161
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,5.9524
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,5.3
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,6.8
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,6.252085
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,г. Бишкек,,,,Нижние 50%,7.921875
+2015,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,4.356925
+2016,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,8.77669
+2017,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,8.8
+2018,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,10.2
+2019,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,8.254219
+2020,Доля людей с доходом ниже 50 процентов медианного дохода,г. Ош,,,,Нижние 50%,6.255189

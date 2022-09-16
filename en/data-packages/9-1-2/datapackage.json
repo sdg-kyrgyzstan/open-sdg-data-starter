@@ -28,19 +28,12 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Passenger volume (passenger kilometres)",
-                "Freight volume (tonne kilometres)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -58,15 +51,8 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

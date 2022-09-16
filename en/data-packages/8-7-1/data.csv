@@ -1,4 +1,4 @@
-Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Composite breakdown,Disability status,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,Disability status,Value
 2018,,,,,,,,,26.7
 2018,,Male,,,,,,,33.6
 2018,,Female,,,,,,,19.0

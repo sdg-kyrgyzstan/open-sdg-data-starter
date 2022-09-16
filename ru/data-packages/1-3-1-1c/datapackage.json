@@ -16,17 +16,9 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population receiving retirement benefits to total population",
-                "Proportion of population receiving Monthly Allowance for Low-Income Families to total population",
-                "Proportion of population receiving social assistance",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

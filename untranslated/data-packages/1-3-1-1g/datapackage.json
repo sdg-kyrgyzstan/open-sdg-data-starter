@@ -15,16 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of pensioners who receive pensions below the subsistence level of the pensioner",
-                "Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total population",
-                "Proportion of pensioners who receive pensions below the subsistence level of the pensioner to total number of pensioners",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

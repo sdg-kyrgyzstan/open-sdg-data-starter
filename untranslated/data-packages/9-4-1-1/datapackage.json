@@ -15,15 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pollutants: Solid",
-                "Pollutants: Gaseous and liquid",
-                "Pollutants: Sulphur dioxide",
-                "Pollutants: Carbon monoxide",
-                "Pollutants: Nitrogen oxide",
+                "_L_POL_SOLID",
+                "_L_POL_GASLIQ",
+                "_L_POL_S02",
+                "_L_POL_CO",
+                "_L_POL_NOX",
                 ""
               ]
             }

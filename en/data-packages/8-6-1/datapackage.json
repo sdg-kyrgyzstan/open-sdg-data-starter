@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

@@ -15,14 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Computer and peripheral equipment",
-                "Communication equipment (telecommunication equipment)",
-                "Consumer electronics (audio and video equipment)",
-                "Other electronic components and ICT products",
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
                 ""
               ]
             }

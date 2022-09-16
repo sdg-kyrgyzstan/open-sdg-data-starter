@@ -16,18 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of women who contacted forensic medical units due to domestic violence",
-                "Number of women who contacted paramedic-midwifery units due to domestic violence",
-                "Number of women who contacted healthcare organizations that provide health\nand preventive care, due to domestic violence",
-                "Number of women who contacted ambulance stations (units, hospitals) due to domestic violence",
-                "Number of women treated for injuries resulting from domestic violence",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

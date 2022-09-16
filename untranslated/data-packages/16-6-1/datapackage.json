@@ -15,18 +15,18 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: General public services\n\n\n",
-                "Sector: Economic affairs",
-                "Sector: Environmental protection",
-                "Sector: Housing and community amenities",
-                "Sector: Health",
-                "Sector: Recreation, culture and religion",
-                "Sector: Education",
-                "Sector: Social protection",
+                "_L_COFOG_GF01",
+                "_L_COFOG_GF04",
+                "_L_COFOG_GF05",
+                "_L_COFOG_GF06",
+                "_L_COFOG_GF07",
+                "_L_COFOG_GF08",
+                "_L_COFOG_GF09",
+                "_L_COFOG_GF10",
                 ""
               ]
             }

@@ -16,19 +16,19 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste removal: Garbage chute",
-                "Waste removal: Collection by truck, container",
-                "Waste removal: Dumping into garbage heaps",
-                "Waste removal: Burning",
-                "Waste removal: Burying",
+                "Вид избавления: Мусоропровод",
+                "Вид избавления: Сбор грузовиком, контейнером",
+                "Вид избавления: Сброс в мусорные кучи",
+                "Вид избавления: Сжигание",
+                "Вид избавления: Закапывание",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

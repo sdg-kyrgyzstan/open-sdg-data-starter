@@ -28,28 +28,14 @@
             "title": "Множитель"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of insurance companies reporting",
-                "Insurance premiums collected",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Local currency",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "Единица измерения"
           },
           {
             "name": "Value",

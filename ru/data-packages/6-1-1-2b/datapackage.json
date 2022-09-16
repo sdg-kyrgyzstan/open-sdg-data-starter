@@ -16,16 +16,9 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of drinking water samples that do not meet established sanitary-chemical standards",
-                "Proportion of drinking water samples that do not meet established microbiological standards",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

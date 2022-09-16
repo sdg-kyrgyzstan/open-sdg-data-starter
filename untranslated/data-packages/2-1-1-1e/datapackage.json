@@ -15,20 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Meat and meat products in meat equivalent, including bacon and offal",
-                "Milk and dairy products in milk equivalent",
-                "Eggs",
-                "Sugar",
-                "Vegetable oils",
-                "Potatoes",
-                "Vegetables and gourds",
-                "Fruits and berries",
-                "Wheat and wheat products in flour equivalent",
-                "Fish and fish products",
+                "_L_AGG_MEATS",
+                "_L_AGG_DAIRY",
+                "_L_AGG_EGGS",
+                "_L_AGG_SUGAR",
+                "_L_AGG_VEGOILS",
+                "_L_AGG_POTATO",
+                "_L_AGG_VEGS_GOURDS",
+                "_L_AGG_FRUITS_BERRIES",
+                "_L_AGG_WHEATS",
+                "_L_AGG_FISH",
                 ""
               ]
             }

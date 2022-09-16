@@ -29,41 +29,26 @@
             "title": "Множитель"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Power intensity of GDP by indusry",
-                "Power generation at small hydroelecric plant",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "Industry (total)",
+                "Сельское хозяйство, лесоводство и рыболовство",
+                "Промышленность",
                 ""
               ]
             },
-            "title": "Economic activity"
+            "title": "Вид экономической деятельности"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilowatt-hours per 1mn som",
-                "Thousands kilowatt-hours per 1mn som",
-                "Kilowatt-hours",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "Единица измерения"
           },
           {
             "name": "Value",

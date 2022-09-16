@@ -16,16 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Assets to GDP",
-                "Deposits to GDP",
-                "Loans to GDP",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

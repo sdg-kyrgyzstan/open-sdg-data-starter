@@ -16,16 +16,16 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of crop production",
-                "Share of livestock production",
+                "Доля произведенной продукции растениеводства",
+                "Доля произведенной продукции животноводства",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "COMMENT_OBS",

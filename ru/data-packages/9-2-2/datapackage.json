@@ -16,46 +16,40 @@
             "title": "Год"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "Территория"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Женщины",
+                "Мужчины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Time series-level footnotes",
+            "name": "COMMENT_TS",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Until 2013 - including Osh.",
-                ""
-              ]
-            },
-            "title": "Time series-level footnotes"
+            "title": "Сноски для временных рядов"
           },
           {
             "name": "Value",

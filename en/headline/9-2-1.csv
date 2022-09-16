@@ -1,1 +1,29 @@
-Year,Value,Unit multiplier
+Year,Value,Unit multiplier,UNIT_MEASURE,SERIES,COMMENT_TS
+2007,9.9,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2008,13.2,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2009,14.2,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2010,16.9,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2011,18.3,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2012,12.1,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2013,15.8,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2014,13.7,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2015,14.0,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2016,15.4,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2017,15.0,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2018,14.3,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2019,14.7,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2020,14.5,Units,Percent,Manufacturing value added as a proportion of GDP,PT
+2007,2.8,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2008,4.9,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2009,5.6,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2010,7.2,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2011,9.9,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2012,7.0,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2013,10.3,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2014,9.8,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2015,10.6,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2016,12.6,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2017,13.4,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2018,13.4,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2019,14.7,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU
+2020,13.8,Thousands,Local currency,Manufacturing value added per capita,CUR_LCU

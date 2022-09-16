@@ -16,52 +16,52 @@
             "title": "Год"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "Территория"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Женщины",
+                "Мужчины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 29 years old",
-                "30 to 39 years old",
-                "40 to 49 years old",
-                "50 to 59 years old",
-                "60 to 69 years old",
-                "70 years old and over",
+                "от 15 до 19 лет",
+                "от 20 до 29 лет",
+                "от 30 до 39 лет",
+                "от 40 до 49 лет",
+                "от 50 до 59 лет",
+                "от 60 до 69 лет",
+                "70 лет и старше",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
             "name": "Value",

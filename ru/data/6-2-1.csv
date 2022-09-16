@@ -1,23 +1,23 @@
-Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Сноски на уровне наблюдения,Value
+Year,Территория,Тип местности,Уровень дохода или квантиль благосостояния,Уровень образования,Сноски на уровне наблюдения,Value
 2018,,,,,,96.3
-2018,,Urban,,,,96.1
-2018,,Rural,,,,96.5
-2018,Batken,,,,,99.6
-2018,Jalal-Abad,,,,,93.4
-2018,Issyk-Kul,,,,,99.1
-2018,Naryn,,,,,99.4
-2018,Osh,,,,,99.1
-2018,Talas,,,,,99.8
-2018,Chui,,,,,91.6
-2018,Bishkek (city),,,,,95.7
-2018,Osh (city),,,,,96.8
-2018,,,,Primary education,household head education,92.1
-2018,,,,Lower secondary education,household head education,94.7
-2018,,,,Upper secondary education,household head education,97.4
-2018,,,,Post-secondary non-tertiary education,household head education,96.6
-2018,,,,Short-cycle tertiary education,household head education,95.1
-2018,,,Quintile 1 (poorest),,,97.2
-2018,,,Quintile 2,,,95.9
-2018,,,Quintile 3,,,96.5
-2018,,,Quintile 4,,,96.4
-2018,,,Quintile 5 (richest),,,95.7
+2018,,Городская,,,,96.1
+2018,,Сельская,,,,96.5
+2018,Баткенская область,,,,,99.6
+2018,Джалал-Абадская область,,,,,93.4
+2018,Иссык-Кульская область,,,,,99.1
+2018,Нарынская область,,,,,99.4
+2018,Ошская область,,,,,99.1
+2018,Таласская область,,,,,99.8
+2018,Чуйская область,,,,,91.6
+2018,г. Бишкек,,,,,95.7
+2018,г. Ош,,,,,96.8
+2018,,,,Начальное образование,household head education,92.1
+2018,,,,Первый этап среднего образования,household head education,94.7
+2018,,,,Второй этап среднего образования,household head education,97.4
+2018,,,,Послесреднее нетретичное образование,household head education,96.6
+2018,,,,Короткий цикл третичного образования,household head education,95.1
+2018,,,Квинтиль 1 (беднейшие),,,97.2
+2018,,,Квинтиль 2,,,95.9
+2018,,,Квинтиль 3,,,96.5
+2018,,,Квинтиль 4,,,96.4
+2018,,,Квинтиль 5 (богатейшие),,,95.7

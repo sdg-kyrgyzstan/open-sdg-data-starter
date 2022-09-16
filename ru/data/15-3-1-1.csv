@@ -1,57 +1,57 @@
-Year,SDG Series,Composite breakdown,Value
-2015,Arable land,,1280.6
-2016,Arable land,,1280.6
-2017,Arable land,,1287.9
-2018,Arable land,,1287.8
-2019,Arable land,,1287.6
-2020,Arable land,,1287.4
-2021,Arable land,,1287.3
-2015,Arable land for reasons of non-use,,90.0
-2016,Arable land for reasons of non-use,,81.9
-2017,Arable land for reasons of non-use,,74.8
-2018,Arable land for reasons of non-use,,67.3
-2019,Arable land for reasons of non-use,,63.3
-2020,Arable land for reasons of non-use,,56.6
-2021,Arable land for reasons of non-use,,53.7
-2015,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,5.0
-2016,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.8
-2017,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.3
-2018,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,3.1
-2019,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2.8
-2020,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2.5
-2021,Arable land for reasons of non-use,Cause of non-use: Salinization and waterlogging,2.2
-2015,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,13.8
-2016,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,14.0
-2017,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,12.0
-2018,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11.8
-2019,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,11.1
-2020,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,9.3
-2021,Arable land for reasons of non-use,Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network,8.5
-2015,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.4
-2016,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.4
-2017,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1.0
-2018,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1.5
-2019,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.5
-2020,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.9
-2021,Arable land for reasons of non-use,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1.0
-2015,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,44.4
-2016,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,40.2
-2017,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,36.5
-2018,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,31.5
-2019,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,31.7
-2020,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,27.2
-2021,Arable land for reasons of non-use,Cause of non-use: Economic inexpediency,26.2
-2015,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,16.5
-2016,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,15.1
-2017,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,13.7
-2018,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,11.6
-2019,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,10.2
-2020,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,9.4
-2021,Arable land for reasons of non-use,Cause of non-use: Remoteness and stony,8.4
-2015,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",9.9
-2016,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",8.4
-2017,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",8.26
-2018,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",7.7
-2019,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",7.0
-2020,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",7.3
-2021,Arable land for reasons of non-use,"Cause of non-use: Others (for industry, expansion of settlements and others)",7.4
+Year,SERIES,COMPOSITE_BREAKDOWN,Value
+2015,Площадь  пашни,,1280.6
+2016,Площадь  пашни,,1280.6
+2017,Площадь  пашни,,1287.9
+2018,Площадь  пашни,,1287.8
+2019,Площадь  пашни,,1287.6
+2020,Площадь  пашни,,1287.4
+2021,Площадь  пашни,,1287.3
+2015,Площадь пашни по причинам неиспользования,,90.0
+2016,Площадь пашни по причинам неиспользования,,81.9
+2017,Площадь пашни по причинам неиспользования,,74.8
+2018,Площадь пашни по причинам неиспользования,,67.3
+2019,Площадь пашни по причинам неиспользования,,63.3
+2020,Площадь пашни по причинам неиспользования,,56.6
+2021,Площадь пашни по причинам неиспользования,,53.7
+2015,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,5.0
+2016,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,3.8
+2017,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,3.3
+2018,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,3.1
+2019,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,2.8
+2020,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,2.5
+2021,Площадь пашни по причинам неиспользования,Причина неиспользования: Засоление и заболоченность,2.2
+2015,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,13.8
+2016,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,14.0
+2017,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,12.0
+2018,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,11.8
+2019,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,11.1
+2020,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,9.3
+2021,Площадь пашни по причинам неиспользования,Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети,8.5
+2015,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",0.4
+2016,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",0.4
+2017,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",1.0
+2018,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",1.5
+2019,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",0.5
+2020,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",0.9
+2021,Площадь пашни по причинам неиспользования,"Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",1.0
+2015,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,44.4
+2016,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,40.2
+2017,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,36.5
+2018,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,31.5
+2019,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,31.7
+2020,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,27.2
+2021,Площадь пашни по причинам неиспользования,Причина: Экономическая нецелесообразность,26.2
+2015,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,16.5
+2016,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,15.1
+2017,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,13.7
+2018,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,11.6
+2019,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,10.2
+2020,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,9.4
+2021,Площадь пашни по причинам неиспользования,Причина: Отдаленность и каменистость,8.4
+2015,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",9.9
+2016,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",8.4
+2017,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",8.26
+2018,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",7.7
+2019,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",7.0
+2020,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",7.3
+2021,Площадь пашни по причинам неиспользования,"Причина: Другие (под промышленность, расширения населенных пунктов и другие)",7.4

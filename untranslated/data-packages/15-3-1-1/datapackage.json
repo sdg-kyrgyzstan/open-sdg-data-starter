@@ -15,27 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arable land",
-                "Arable land for reasons of non-use",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cause of non-use: Salinization and waterlogging",
-                "Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network",
-                "Cause of non-use: Prone to natural disasters (landslides, mudslides)",
-                "Cause of non-use: Economic inexpediency",
-                "Cause of non-use: Remoteness and stony",
-                "Cause of non-use: Others (for industry, expansion of settlements and others)",
+                "_L_CSE_SALIN_WAT",
+                "_L_CSE_LACK_IRR",
+                "_L_CSE_NAT_DIS",
+                "_L_CSE_ECON_INEX",
+                "_L_CSE_REM_STON",
+                "_L_CSE_OTH_REAS",
                 ""
               ]
             }

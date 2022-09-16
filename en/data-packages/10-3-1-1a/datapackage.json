@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of appeals to the Ombudsman",
-                "Number of successful appeals to the Ombudsman",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

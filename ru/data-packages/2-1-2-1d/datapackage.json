@@ -16,25 +16,25 @@
             "title": "Год"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Grain and processed products",
-                "Wheat and wheat products in flour equivalent",
-                "Fruits-berries and processed products",
-                "Potatoes and processed products",
-                "Vegetables and processed products",
-                "Meat and meat products in meat equivalent, including bacon and offal",
-                "Milk and dairy products in milk equivalent",
-                "Eggs and their processed products",
-                "Sugar",
-                "Vegetable oils",
-                "Fish and their processed products",
+                "Зерно и продукты их переработки",
+                " Пшеница и продукты ее переработки, в муке",
+                "Плоды-ягоды и продукты их переработки",
+                "Картофель и продукты их переработки",
+                "Овощебахчевые и продукты их переработки",
+                "Мясо и мясопродукты в пересчете на мясо (включая сало и субпродукты)",
+                "Молоко и молочные продукты (в пересчете на молоко)",
+                "Яйца  и продукты их переработки",
+                "Сахар",
+                "Растительное масло",
+                "Рыба и продукты их переработки",
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Тип продукта"
           },
           {
             "name": "COMMENT_OBS",

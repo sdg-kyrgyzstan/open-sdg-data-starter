@@ -15,53 +15,53 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 20 years old",
-                "21 to 30 years old",
-                "31 to 40 years old",
-                "41 to 50 years old",
-                "51 years old and over",
+                "Y0T20",
+                "Y21T30",
+                "Y31T40",
+                "Y41T50",
+                "Y_GE51",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Master’s or equivalent level",
-                "Bachelor’s or equivalent level",
-                "Short-cycle tertiary education",
-                "Upper secondary education",
+                "ISCED11_7",
+                "ISCED11_6",
+                "ISCED11_5",
+                "ISCED11_3",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Education: Other",
-                "Activity status: Working",
-                "Activity status: Not working",
-                "Activity status: Students",
-                "Activity status: Retirees",
+                "_L_EDU_OTH",
+                "_L_ACS_WORK",
+                "_L_ACS_NOWORK",
+                "_L_ACS_STUDENT",
+                "_L_ACS_RETIRED",
                 ""
               ]
             }

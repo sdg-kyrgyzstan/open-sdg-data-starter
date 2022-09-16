@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Species: Mammals",
-                "Species: Birds",
-                "Species: Amphibians and Reptiles",
+                "_L_SPC_MAMM",
+                "_L_SPC_BIRD",
+                "_L_SPC_AMPH_REP",
                 ""
               ]
             }

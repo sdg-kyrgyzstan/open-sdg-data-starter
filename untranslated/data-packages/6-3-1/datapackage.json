@@ -15,18 +15,18 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
                 ""
               ]
             }

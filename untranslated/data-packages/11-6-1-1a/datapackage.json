@@ -15,15 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Waste removal: Garbage chute",
-                "Waste removal: Collection by truck, container",
-                "Waste removal: Dumping into garbage heaps",
-                "Waste removal: Burning",
-                "Waste removal: Burying",
+                "_L_WR_GAR_CH",
+                "_L_WR_COL_TR",
+                "_L_WR_DUM_GAR",
+                "_L_WR_BURN",
+                "_L_WR_BURYING",
                 ""
               ]
             }

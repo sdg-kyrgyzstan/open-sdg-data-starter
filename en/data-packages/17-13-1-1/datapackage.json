@@ -28,35 +28,13 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "GDP growth rate (decline), as a percentage of the previous year",
-                "The consumer price index, as a percentage of the previous year",
-                "Producer Price Indices, as a percentage of the previous year",
-                "Budget deficit and sources of financing, milllion soms",
-                "Volume of public debt, million soms",
-                "Foreign trade, as a percentage of the previous year",
-                "Export, million USD",
-                "Import, million USD",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Index",
-                "Local currency",
-                "USD",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

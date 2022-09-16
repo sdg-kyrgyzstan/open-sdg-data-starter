@@ -16,18 +16,18 @@
             "title": "Год"
           },
           {
-            "name": "Type of product",
+            "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Computer and peripheral equipment",
-                "Communication equipment (telecommunication equipment)",
-                "Consumer electronics (audio and video equipment)",
-                "Other electronic components and ICT products",
+                "Компьютерное и периферийное оборудование",
+                "Коммуникационное оборудование (оборудование электросвязи)",
+                "Бытовая электронная техника (аудио и видео оборудование)",
+                "Прочие электронные компоненты и товары сферы ИКТ",
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Тип продукта"
           },
           {
             "name": "Value",

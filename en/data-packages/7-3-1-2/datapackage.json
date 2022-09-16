@@ -29,19 +29,12 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Power intensity of GDP by indusry",
-                "Power generation at small hydroelecric plant",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,16 +46,8 @@
             "title": "Economic activity"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Kilowatt-hours per 1mn som",
-                "Thousands kilowatt-hours per 1mn som",
-                "Kilowatt-hours",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

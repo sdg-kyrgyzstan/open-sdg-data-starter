@@ -16,31 +16,24 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of government recurrent expenditure to sectors",
-                "Proportion of government capital expenditure to sectors",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: Total",
-                "Sector: Economic affairs",
-                "Sector: Health",
-                "Sector: Education",
-                "Sector: Housing and community amenities",
+                "Сектор: всего",
+                "Сектор: Экономические вопросы",
+                "Сектор: Здравоохранение",
+                "Сектор: Образование",
+                "Сектор: Жилищно-коммунальные услуги",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

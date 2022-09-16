@@ -16,60 +16,60 @@
             "title": "Год"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Женщины",
+                "Мужчины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 20 years old",
-                "21 to 30 years old",
-                "31 to 40 years old",
-                "41 to 50 years old",
-                "51 years old and over",
+                "до 20 лет",
+                "от 21 до 30 лет",
+                "от 31 до 40 лет",
+                "от 41 до 50 лет",
+                "51 лет и старше",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Master’s or equivalent level",
-                "Bachelor’s or equivalent level",
-                "Short-cycle tertiary education",
-                "Upper secondary education",
+                "Магистратура или её эквивалент",
+                "Бакалавриат или его эквивалент",
+                "Короткий цикл третичного образования",
+                "Второй этап среднего образования",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Уровень образования"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Education: Other",
-                "Activity status: Working",
-                "Activity status: Not working",
-                "Activity status: Students",
-                "Activity status: Retirees",
+                "Образование: Другое",
+                "Занятость: Работают",
+                "Занятость: Не работают",
+                "Занятость: Учащиеся, студенты",
+                "Занятость: Пенсионеры",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

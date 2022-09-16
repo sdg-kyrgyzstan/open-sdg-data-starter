@@ -1,25 +1,25 @@
-Year,Composite breakdown,Value
-2000,Type of assistance: Investment loan,36000.0
-2002,Type of assistance: Investment loan,15000.0
-2009,Type of assistance: Investment loan,7150.0
-2011,Type of assistance: Investment loan,7200.0
-2013,Type of assistance: Investment loan,1950.0
-2014,Type of assistance: Investment loan,10400.0
-2016,Type of assistance: Investment loan,46950.0
-2019,Type of assistance: Investment loan,50000.0
-2005,Type of assistance: Investment grant,7200.0
-2008,Type of assistance: Investment grant,8700.0
-2009,Type of assistance: Investment grant,6500.0
-2011,Type of assistance: Investment grant,13860.0
-2013,Type of assistance: Investment grant,7350.0
-2014,Type of assistance: Investment grant,11185.0
-2015,Type of assistance: Investment grant,5772.3
-2016,Type of assistance: Investment grant,12402.5
-2009,Type of assistance: Investment loan and grant,10000.0
-2012,Type of assistance: Investment loan and grant,7000.0
-2014,Type of assistance: Investment loan and grant,4890.0
-2015,Type of assistance: Investment loan and grant,9100.0
-2016,Type of assistance: Investment loan and grant,30100.0
-2017,Type of assistance: Investment loan and grant,59930.0
-2018,Type of assistance: Investment loan and grant,48020.0
-2019,Type of assistance: Investment loan and grant,24887.5
+Year,COMPOSITE_BREAKDOWN,Value
+2000,Вид помощи: Инвестиционный кредит,36000.0
+2002,Вид помощи: Инвестиционный кредит,15000.0
+2009,Вид помощи: Инвестиционный кредит,7150.0
+2011,Вид помощи: Инвестиционный кредит,7200.0
+2013,Вид помощи: Инвестиционный кредит,1950.0
+2014,Вид помощи: Инвестиционный кредит,10400.0
+2016,Вид помощи: Инвестиционный кредит,46950.0
+2019,Вид помощи: Инвестиционный кредит,50000.0
+2005,Вид помощи: Инвестиционный грант,7200.0
+2008,Вид помощи: Инвестиционный грант,8700.0
+2009,Вид помощи: Инвестиционный грант,6500.0
+2011,Вид помощи: Инвестиционный грант,13860.0
+2013,Вид помощи: Инвестиционный грант,7350.0
+2014,Вид помощи: Инвестиционный грант,11185.0
+2015,Вид помощи: Инвестиционный грант,5772.3
+2016,Вид помощи: Инвестиционный грант,12402.5
+2009,Вид помощи: Инвестиционный кредит и грант,10000.0
+2012,Вид помощи: Инвестиционный кредит и грант,7000.0
+2014,Вид помощи: Инвестиционный кредит и грант,4890.0
+2015,Вид помощи: Инвестиционный кредит и грант,9100.0
+2016,Вид помощи: Инвестиционный кредит и грант,30100.0
+2017,Вид помощи: Инвестиционный кредит и грант,59930.0
+2018,Вид помощи: Инвестиционный кредит и грант,48020.0
+2019,Вид помощи: Инвестиционный кредит и грант,24887.5

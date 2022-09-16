@@ -16,19 +16,19 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income: Tax revenues",
-                "Income: Contributions / deductions for social needs",
-                "Income: Received official transfers",
-                "Income: Non-tax revenues",
-                "Income: Income from sale of non-financial assets",
+                "Доходы: Налоговые доходы",
+                "Доходы: Взносы/отчисления на социальные нужды",
+                "Доходы: Полученные официальные трансферты",
+                "Доходы: Неналоговые доходы",
+                "Доходы: Доходы от продажи нефинансовых активов",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

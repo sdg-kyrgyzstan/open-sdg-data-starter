@@ -1,25 +1,25 @@
-Year,Множитель,SDG Series,Unit of measure,Value
-2010,Единицы,Number of insurance companies reporting,Number,18.0
-2011,Единицы,Number of insurance companies reporting,Number,18.0
-2012,Единицы,Number of insurance companies reporting,Number,19.0
-2013,Единицы,Number of insurance companies reporting,Number,19.0
-2014,Единицы,Number of insurance companies reporting,Number,21.0
-2015,Единицы,Number of insurance companies reporting,Number,22.0
-2016,Единицы,Number of insurance companies reporting,Number,24.0
-2017,Единицы,Number of insurance companies reporting,Number,23.0
-2018,Единицы,Number of insurance companies reporting,Number,22.0
-2019,Единицы,Number of insurance companies reporting,Number,20.0
-2020,Единицы,Number of insurance companies reporting,Number,15.0
-2021,Единицы,Number of insurance companies reporting,Number,14.0
-2010,Миллионы,Insurance premiums collected,Local currency,477.2
-2011,Миллионы,Insurance premiums collected,Local currency,292.9
-2012,Миллионы,Insurance premiums collected,Local currency,337.8
-2013,Миллионы,Insurance premiums collected,Local currency,405.4
-2014,Миллионы,Insurance premiums collected,Local currency,1003.2
-2015,Миллионы,Insurance premiums collected,Local currency,967.0
-2016,Миллионы,Insurance premiums collected,Local currency,921.3
-2017,Миллионы,Insurance premiums collected,Local currency,1004.4
-2018,Миллионы,Insurance premiums collected,Local currency,1092.7
-2019,Миллионы,Insurance premiums collected,Local currency,1308.1
-2020,Миллионы,Insurance premiums collected,Local currency,1308.3
-2021,Миллионы,Insurance premiums collected,Local currency,1252.8
+Year,Множитель,SERIES,UNIT_MEASURE,Value
+2010,Единицы,Количество отчитавшихся страховых компаний,Число,18.0
+2011,Единицы,Количество отчитавшихся страховых компаний,Число,18.0
+2012,Единицы,Количество отчитавшихся страховых компаний,Число,19.0
+2013,Единицы,Количество отчитавшихся страховых компаний,Число,19.0
+2014,Единицы,Количество отчитавшихся страховых компаний,Число,21.0
+2015,Единицы,Количество отчитавшихся страховых компаний,Число,22.0
+2016,Единицы,Количество отчитавшихся страховых компаний,Число,24.0
+2017,Единицы,Количество отчитавшихся страховых компаний,Число,23.0
+2018,Единицы,Количество отчитавшихся страховых компаний,Число,22.0
+2019,Единицы,Количество отчитавшихся страховых компаний,Число,20.0
+2020,Единицы,Количество отчитавшихся страховых компаний,Число,15.0
+2021,Единицы,Количество отчитавшихся страховых компаний,Число,14.0
+2010,Миллионы,Поступление страховых взносов,Местная валюта,477.2
+2011,Миллионы,Поступление страховых взносов,Местная валюта,292.9
+2012,Миллионы,Поступление страховых взносов,Местная валюта,337.8
+2013,Миллионы,Поступление страховых взносов,Местная валюта,405.4
+2014,Миллионы,Поступление страховых взносов,Местная валюта,1003.2
+2015,Миллионы,Поступление страховых взносов,Местная валюта,967.0
+2016,Миллионы,Поступление страховых взносов,Местная валюта,921.3
+2017,Миллионы,Поступление страховых взносов,Местная валюта,1004.4
+2018,Миллионы,Поступление страховых взносов,Местная валюта,1092.7
+2019,Миллионы,Поступление страховых взносов,Местная валюта,1308.1
+2020,Миллионы,Поступление страховых взносов,Местная валюта,1308.3
+2021,Миллионы,Поступление страховых взносов,Местная валюта,1252.8

@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
             "title": "Reference area"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,14 +47,8 @@
             "title": "Sex"
           },
           {
-            "name": "Time series-level footnotes",
+            "name": "COMMENT_TS",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Until 2013 - including Osh.",
-                ""
-              ]
-            },
             "title": "Time series-level footnotes"
           },
           {

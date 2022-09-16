@@ -16,17 +16,17 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                "Internet speed: 10 Mbit/s or above",
+                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
+                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
+                "Скорость интернета: 10 Мбит / с или выше",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

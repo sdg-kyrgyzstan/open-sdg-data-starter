@@ -15,26 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of government recurrent expenditure to sectors",
-                "Proportion of government capital expenditure to sectors",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: Total",
-                "Sector: Economic affairs",
-                "Sector: Health",
-                "Sector: Education",
-                "Sector: Housing and community amenities",
+                "_L_COFOG_T",
+                "_L_COFOG_GF04",
+                "_L_COFOG_GF07",
+                "_L_COFOG_GF09",
+                "_L_COFOG_GF06",
                 ""
               ]
             }

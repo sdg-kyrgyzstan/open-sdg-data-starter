@@ -1,29 +1,29 @@
-Year,Множитель,SDG Series,Unit of measure,Time series-level footnotes,Value
-2007,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,9.9
-2008,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,13.2
-2009,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,14.2
-2010,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,16.9
-2011,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,18.3
-2012,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,12.1
-2013,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,15.8
-2014,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,13.7
-2015,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,14.0
-2016,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,15.4
-2017,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,15.0
-2018,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,14.3
-2019,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,14.7
-2020,Единицы,Manufacturing value added as a proportion of GDP,Percent,PT,14.5
-2007,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,2.8
-2008,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,4.9
-2009,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,5.6
-2010,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,7.2
-2011,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,9.9
-2012,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,7.0
-2013,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,10.3
-2014,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,9.8
-2015,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,10.6
-2016,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,12.6
-2017,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,13.4
-2018,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,13.4
-2019,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,14.7
-2020,Тысячи,Manufacturing value added per capita,Local currency,CUR_LCU,13.8
+Year,Множитель,SERIES,UNIT_MEASURE,COMMENT_TS,Value
+2007,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,9.9
+2008,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,13.2
+2009,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,14.2
+2010,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,16.9
+2011,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,18.3
+2012,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,12.1
+2013,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,15.8
+2014,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,13.7
+2015,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,14.0
+2016,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,15.4
+2017,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,15.0
+2018,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,14.3
+2019,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,14.7
+2020,Единицы,Добавленная стоимость отрасли Обрабатывающее производство к ВВП,Процент,PT,14.5
+2007,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,2.8
+2008,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,4.9
+2009,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,5.6
+2010,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,7.2
+2011,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,9.9
+2012,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,7.0
+2013,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,10.3
+2014,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,9.8
+2015,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,10.6
+2016,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,12.6
+2017,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,13.4
+2018,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,13.4
+2019,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,14.7
+2020,Тысячи,Добавленная стоимость отрасли Обрабатывающее производство на душу населения,Местная валюта,CUR_LCU,13.8

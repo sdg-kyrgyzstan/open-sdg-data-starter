@@ -1,25 +1,25 @@
-Year,UNIT_MULT,SDG Series,Unit of measure,Value
-2010,0,Number of insurance companies reporting,Number,18.0
-2011,0,Number of insurance companies reporting,Number,18.0
-2012,0,Number of insurance companies reporting,Number,19.0
-2013,0,Number of insurance companies reporting,Number,19.0
-2014,0,Number of insurance companies reporting,Number,21.0
-2015,0,Number of insurance companies reporting,Number,22.0
-2016,0,Number of insurance companies reporting,Number,24.0
-2017,0,Number of insurance companies reporting,Number,23.0
-2018,0,Number of insurance companies reporting,Number,22.0
-2019,0,Number of insurance companies reporting,Number,20.0
-2020,0,Number of insurance companies reporting,Number,15.0
-2021,0,Number of insurance companies reporting,Number,14.0
-2010,6,Insurance premiums collected,Local currency,477.2
-2011,6,Insurance premiums collected,Local currency,292.9
-2012,6,Insurance premiums collected,Local currency,337.8
-2013,6,Insurance premiums collected,Local currency,405.4
-2014,6,Insurance premiums collected,Local currency,1003.2
-2015,6,Insurance premiums collected,Local currency,967.0
-2016,6,Insurance premiums collected,Local currency,921.3
-2017,6,Insurance premiums collected,Local currency,1004.4
-2018,6,Insurance premiums collected,Local currency,1092.7
-2019,6,Insurance premiums collected,Local currency,1308.1
-2020,6,Insurance premiums collected,Local currency,1308.3
-2021,6,Insurance premiums collected,Local currency,1252.8
+Year,UNIT_MULT,SERIES,UNIT_MEASURE,Value
+2010,0,_L_KG_081002_2A,NUMBER,18.0
+2011,0,_L_KG_081002_2A,NUMBER,18.0
+2012,0,_L_KG_081002_2A,NUMBER,19.0
+2013,0,_L_KG_081002_2A,NUMBER,19.0
+2014,0,_L_KG_081002_2A,NUMBER,21.0
+2015,0,_L_KG_081002_2A,NUMBER,22.0
+2016,0,_L_KG_081002_2A,NUMBER,24.0
+2017,0,_L_KG_081002_2A,NUMBER,23.0
+2018,0,_L_KG_081002_2A,NUMBER,22.0
+2019,0,_L_KG_081002_2A,NUMBER,20.0
+2020,0,_L_KG_081002_2A,NUMBER,15.0
+2021,0,_L_KG_081002_2A,NUMBER,14.0
+2010,6,_L_KG_081002_2B,CUR_LCU,477.2
+2011,6,_L_KG_081002_2B,CUR_LCU,292.9
+2012,6,_L_KG_081002_2B,CUR_LCU,337.8
+2013,6,_L_KG_081002_2B,CUR_LCU,405.4
+2014,6,_L_KG_081002_2B,CUR_LCU,1003.2
+2015,6,_L_KG_081002_2B,CUR_LCU,967.0
+2016,6,_L_KG_081002_2B,CUR_LCU,921.3
+2017,6,_L_KG_081002_2B,CUR_LCU,1004.4
+2018,6,_L_KG_081002_2B,CUR_LCU,1092.7
+2019,6,_L_KG_081002_2B,CUR_LCU,1308.1
+2020,6,_L_KG_081002_2B,CUR_LCU,1308.3
+2021,6,_L_KG_081002_2B,CUR_LCU,1252.8

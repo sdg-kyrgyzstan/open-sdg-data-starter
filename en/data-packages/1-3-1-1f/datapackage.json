@@ -16,27 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of people with disabilities receiving pensions Monthly Social Allowance",
-                "Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Percent",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

@@ -16,41 +16,33 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of time spent on unpaid domestic chores and care work",
-                "Proportion of time spent on unpaid domestic chores",
-                "Proportion of time spent on unpaid care work",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Мужчины",
+                "Женщины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Городская",
+                "Сельская",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Тип местности"
           },
           {
             "name": "Value",

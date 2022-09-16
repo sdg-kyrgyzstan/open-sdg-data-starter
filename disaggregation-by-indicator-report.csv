@@ -1,132 +1,117 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,Reference area,1
-#1-1-1-1a,"Reference area, Degree of urbanisation, COMMENT_OBS",3
-#1-2-1,"Reference area, Sex, Age, Degree of urbanisation",4
-#1-2-1-1a,"Sex, Age, Degree of urbanisation, Economic activity",4
-#1-2-2,"Reference area, Sex, Age, Degree of urbanisation",4
-#1-3-1,Reference area,1
-#1-3-1-1c,SDG Series,1
-#1-3-1-1e,Sex,1
-#1-3-1-1f,"SDG Series, Unit of measure",2
-#1-3-1-1g,SDG Series,1
+#1-1-1,REF_AREA,1
+#1-1-1-1a,"REF_AREA, URBANISATION, COMMENT_OBS",3
+#1-2-1,"REF_AREA, SEX, AGE, URBANISATION",4
+#1-2-1-1a,"SEX, AGE, URBANISATION, ACTIVITY",4
+#1-2-2,"REF_AREA, SEX, AGE, URBANISATION",4
+#1-3-1,REF_AREA,1
+#1-3-1-1e,SEX,1
 #1-4-1,"Показатель, Местность, Территория, Квинтиль индекса благосостояния, Образование главы домохозяйства",5
 #1-5-1,"Территория, Пол",2
-#1-5-2,Reference area,1
-#1-a-2,SDG Series,1
-#1-b-1-1,"SDG Series, Composite breakdown",2
-#10-1-1,Income or wealth quantile,1
-#10-2-1,"Reference area, SDG Series, Income or wealth quantile, Sex, Age, Degree of urbanisation",6
+#1-5-2,REF_AREA,1
+#1-b-1-1,COMPOSITE_BREAKDOWN,1
+#10-1-1,INCOME_WEALTH_QUANTILE,1
+#10-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION",5
 #10-3-1,"Местность, Территория, Квинтиль индекса благосостояния, Возраст (лет), Уровень образования, Функциональные трудности (возраст: 18-49лет)",6
-#10-3-1-1a,SDG Series,1
-#10-5-1-1,SDG Series,1
-#11-2-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
+#11-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
 #11-5-1,"Территория, Пол",2
-#11-5-2,Reference area,1
-#11-6-1-1a,Composite breakdown,1
-#11-7-1-1a,Reference area,1
-#13-1-1,"Reference area, Sex",2
-#15-1-1-1,Reference area,1
+#11-5-2,REF_AREA,1
+#11-6-1-1a,COMPOSITE_BREAKDOWN,1
+#11-7-1-1a,REF_AREA,1
+#13-1-1,"REF_AREA, SEX",2
+#15-1-1-1,REF_AREA,1
 #15-1-2,Показатель,1
-#15-2-1,SDG Series,1
-#15-3-1-1,"SDG Series, Composite breakdown",2
-#15-5-1-1,Composite breakdown,1
-#15-7-1-1,Composite breakdown,1
-#15-b-1-1,Composite breakdown,1
-#16-1-1,"Reference area, SDG Series, Unit of measure",3
-#16-1-1-1,Reference area,1
-#16-1-3,"Reference area, Age, Degree of urbanisation, Education level",4
-#16-1-4,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#16-1-4-1a,Reference area,1
-#16-2-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Disability status, COMMENT_OBS",7
-#16-2-2,Reference area,1
-#16-3-1,Degree of urbanisation,1
-#16-4-2-1,SDG Series,1
-#16-5-1-1a,Reference area,1
-#16-5-1-1b,"SDG Series, Sex",2
-#16-6-1,Composite breakdown,1
-#16-6-2-1a,Reference area,1
-#16-7-1-1,"SDG Series, Sex",2
-#16-9-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level, Disability status, COMMENT_OBS",8
-#16-b-1,"Reference area, Income or wealth quantile, Age, Degree of urbanisation, Education level, Disability status",6
-#16-b-1-1,"Reference area, Income or wealth quantile, Age, Degree of urbanisation, Education level, Disability status",6
-#17-1-1,Composite breakdown,1
-#17-11-1-1,Type of product,1
-#17-13-1-1,"SDG Series, UNIT_MULT, Unit of measure",3
-#17-3-1-1a,Economic activity,1
-#17-6-2,Composite breakdown,1
-#17-8-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#2-1-1,"Reference area, Degree of urbanisation",2
-#2-1-1-1e,Type of product,1
-#2-1-2,"Reference area, SDG Series, Degree of urbanisation",3
-#2-1-2-1d,"Type of product, COMMENT_OBS",2
-#2-2-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level, COMMENT_OBS",7
-#2-2-2,"Reference area, SDG Series, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level, COMMENT_OBS",8
-#2-2-3,"Reference area, SDG Series, Age",3
-#2-3-2-1,"Composite breakdown, COMMENT_OBS",2
+#15-3-1-1,COMPOSITE_BREAKDOWN,1
+#15-5-1-1,COMPOSITE_BREAKDOWN,1
+#15-7-1-1,COMPOSITE_BREAKDOWN,1
+#15-b-1-1,COMPOSITE_BREAKDOWN,1
+#16-1-1,REF_AREA,1
+#16-1-1-1,REF_AREA,1
+#16-1-3,"REF_AREA, AGE, URBANISATION, EDUCATION_LEV",4
+#16-1-4,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#16-1-4-1a,REF_AREA,1
+#16-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, DISABILITY_STATUS, COMMENT_OBS",7
+#16-2-2,REF_AREA,1
+#16-3-1,URBANISATION,1
+#16-5-1-1a,REF_AREA,1
+#16-5-1-1b,SEX,1
+#16-6-1,COMPOSITE_BREAKDOWN,1
+#16-6-2-1a,REF_AREA,1
+#16-7-1-1,SEX,1
+#16-9-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV, DISABILITY_STATUS, COMMENT_OBS",8
+#16-b-1,"REF_AREA, INCOME_WEALTH_QUANTILE, AGE, URBANISATION, EDUCATION_LEV, DISABILITY_STATUS",6
+#16-b-1-1,"REF_AREA, INCOME_WEALTH_QUANTILE, AGE, URBANISATION, EDUCATION_LEV, DISABILITY_STATUS",6
+#17-1-1,COMPOSITE_BREAKDOWN,1
+#17-11-1-1,PRODUCT,1
+#17-13-1-1,UNIT_MULT,1
+#17-3-1-1a,ACTIVITY,1
+#17-6-2,COMPOSITE_BREAKDOWN,1
+#17-8-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#2-1-1,"REF_AREA, URBANISATION",2
+#2-1-1-1e,PRODUCT,1
+#2-1-2,"REF_AREA, URBANISATION",2
+#2-1-2-1d,"PRODUCT, COMMENT_OBS",2
+#2-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV, COMMENT_OBS",7
+#2-2-2,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV, COMMENT_OBS",7
+#2-2-3,"REF_AREA, AGE",2
+#2-3-2-1,"COMPOSITE_BREAKDOWN, COMMENT_OBS",2
 #2-3-3-1c,COMMENT_OBS,1
-#2-4-1-1,SDG Series,1
-#2-c-1-1b,Reference area,1
-#3-1-1,Reference area,1
-#3-1-2,Reference area,1
-#3-2-1,"Reference area, Sex",2
-#3-2-2,"Reference area, Sex",2
-#3-3-1,"Reference area, Sex, Age",3
-#3-3-2,"Reference area, Sex",2
-#3-3-3,Reference area,1
-#3-3-4,"Reference area, Sex",2
-#3-4-1,"Reference area, Composite breakdown, Sex",3
-#3-4-2,Reference area,1
-#3-5-1-1,"Reference area, Sex",2
-#3-5-2-1,"Reference area, Sex",2
-#3-6-1,"Reference area, Sex",2
-#3-7-1,"Reference area, Income or wealth quantile, Age, Degree of urbanisation, Education level, Disability status, COMMENT_OBS",7
-#3-7-2,Reference area,1
-#3-9-1-1,"Reference area, Sex",2
-#3-9-2,Reference area,1
-#3-9-3,Reference area,1
-#3-a-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#3-b-1,"Reference area, SDG Series",2
-#3-c-1,"Reference area, Sex",2
+#2-c-1-1b,REF_AREA,1
+#3-1-1,REF_AREA,1
+#3-1-2,REF_AREA,1
+#3-2-1,"REF_AREA, SEX",2
+#3-2-2,"REF_AREA, SEX",2
+#3-3-1,"REF_AREA, SEX, AGE",3
+#3-3-2,"REF_AREA, SEX",2
+#3-3-3,REF_AREA,1
+#3-3-4,"REF_AREA, SEX",2
+#3-4-1,"REF_AREA, COMPOSITE_BREAKDOWN, SEX",3
+#3-4-2,REF_AREA,1
+#3-5-1-1,"REF_AREA, SEX",2
+#3-5-2-1,"REF_AREA, SEX",2
+#3-6-1,"REF_AREA, SEX",2
+#3-7-1,"REF_AREA, INCOME_WEALTH_QUANTILE, AGE, URBANISATION, EDUCATION_LEV, DISABILITY_STATUS, COMMENT_OBS",7
+#3-7-2,REF_AREA,1
+#3-9-1-1,"REF_AREA, SEX",2
+#3-9-2,REF_AREA,1
+#3-9-3,REF_AREA,1
+#3-a-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#3-b-1,REF_AREA,1
+#3-c-1,"REF_AREA, SEX",2
 #4-1-1,"Показатель, Местность, Территория, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",8
-#4-1-1-1a,"Composite breakdown, Sex",2
-#4-1-1-1b,Reference area,1
-#4-2-1,"Reference area, Income or wealth quantile, Sex, Education level, COMMENT_OBS",5
-#4-2-2-1a,"Reference area, Degree of urbanisation",2
-#4-3-1-1,"Sex, Age, Education level",3
-#4-4-1,"Composite breakdown, Age",2
-#4-4-1-1a,"Sex, Education level",2
-#4-b-1-1,Composite breakdown,1
-#4-c-1,Composite breakdown,1
-#5-2-1-1a,SDG Series,1
-#5-2-1-1b,"Composite breakdown, Sex, Age, Education level",4
-#5-3-1,"Reference area, SDG Series, Income or wealth quantile, Education level, Disability status",5
-#5-4-1,"SDG Series, Sex, Degree of urbanisation",3
-#5-6-1-1,"Reference area, Degree of urbanisation",2
-#5-b-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#6-1-1,"Reference area, Degree of urbanisation",2
-#6-1-1-2b,SDG Series,1
-#6-2-1,"Reference area, Income or wealth quantile, Degree of urbanisation, Education level, COMMENT_OBS",5
-#6-2-1-1,"Reference area, COMMENT_OBS",2
-#6-3-1,Reference area,1
-#6-4-1-2,"Reference area, SDG Series, Unit of measure",3
-#6-4-2-1,"Reference area, Composite breakdown",2
-#6-a-1-1,Composite breakdown,1
-#7-1-1,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#7-1-2,"Reference area, Income or wealth quantile, Degree of urbanisation, Education level, COMMENT_OBS",5
-#7-2-1-1,SDG Series,1
-#7-3-1-2,"SDG Series, UNIT_MULT, Unit of measure, Economic activity",4
-#8-10-1,SDG Series,1
-#8-10-2,"Reference area, Income or wealth quantile, Sex, Age, Degree of urbanisation, Education level",6
-#8-10-2-2,"SDG Series, UNIT_MULT, Unit of measure",3
-#8-3-1-1,"Sex, Age, Degree of urbanisation, Economic activity",4
-#8-3-1-2,SDG Series,1
-#8-5-1-1,"Sex, Economic activity",2
-#8-5-2,"Reference area, Sex, Age",3
-#8-6-1,Sex,1
-#8-7-1,"Reference area, Income or wealth quantile, Composite breakdown, Sex, Age, Degree of urbanisation, Education level, Disability status",8
-#8-8-1,"Reference area, SDG Series, Sex",3
-#9-1-2,"SDG Series, UNIT_MULT, Unit of measure, Composite breakdown",4
-#9-2-1,"SDG Series, UNIT_MULT, Unit of measure, Time series-level footnotes",4
-#9-2-2,"Reference area, Time series-level footnotes, Sex",3
-#9-4-1-1,Composite breakdown,1
-#9-c-1,SDG Series,1
+#4-1-1-1a,"COMPOSITE_BREAKDOWN, SEX",2
+#4-1-1-1b,REF_AREA,1
+#4-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, EDUCATION_LEV, COMMENT_OBS",5
+#4-2-2-1a,"REF_AREA, URBANISATION",2
+#4-3-1-1,"SEX, AGE, EDUCATION_LEV",3
+#4-4-1,"COMPOSITE_BREAKDOWN, AGE",2
+#4-4-1-1a,"SEX, EDUCATION_LEV",2
+#4-b-1-1,COMPOSITE_BREAKDOWN,1
+#4-c-1,COMPOSITE_BREAKDOWN,1
+#5-2-1-1b,"COMPOSITE_BREAKDOWN, SEX, AGE, EDUCATION_LEV",4
+#5-3-1,"REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS",4
+#5-4-1,"SEX, URBANISATION",2
+#5-6-1-1,"REF_AREA, URBANISATION",2
+#5-b-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#6-1-1,"REF_AREA, URBANISATION",2
+#6-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, URBANISATION, EDUCATION_LEV, COMMENT_OBS",5
+#6-2-1-1,"REF_AREA, COMMENT_OBS",2
+#6-3-1,REF_AREA,1
+#6-4-1-2,REF_AREA,1
+#6-4-2-1,"REF_AREA, COMPOSITE_BREAKDOWN",2
+#6-a-1-1,COMPOSITE_BREAKDOWN,1
+#7-1-1,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#7-1-2,"REF_AREA, INCOME_WEALTH_QUANTILE, URBANISATION, EDUCATION_LEV, COMMENT_OBS",5
+#7-3-1-2,"UNIT_MULT, ACTIVITY",2
+#8-10-2,"REF_AREA, INCOME_WEALTH_QUANTILE, SEX, AGE, URBANISATION, EDUCATION_LEV",6
+#8-10-2-2,UNIT_MULT,1
+#8-3-1-1,"SEX, AGE, URBANISATION, ACTIVITY",4
+#8-5-1-1,"SEX, ACTIVITY",2
+#8-5-2,"REF_AREA, SEX, AGE",3
+#8-6-1,SEX,1
+#8-7-1,"REF_AREA, INCOME_WEALTH_QUANTILE, COMPOSITE_BREAKDOWN, SEX, AGE, URBANISATION, EDUCATION_LEV, DISABILITY_STATUS",8
+#8-8-1,"REF_AREA, SEX",2
+#9-1-2,"UNIT_MULT, COMPOSITE_BREAKDOWN",2
+#9-2-1,UNIT_MULT,1
+#9-2-2,"REF_AREA, SEX",2
+#9-4-1-1,COMPOSITE_BREAKDOWN,1

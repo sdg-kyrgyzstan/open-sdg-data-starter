@@ -16,16 +16,9 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of ​​agricultural crops fertilized with mineral fertilizers",
-                "Proportion of ​​agricultural crops fertilized with organic fertilizers",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

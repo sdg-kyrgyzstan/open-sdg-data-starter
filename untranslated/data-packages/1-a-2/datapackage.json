@@ -15,17 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total government spending on essential services (education, health and social protection)",
-                "Proportion of total government spending on essential services, education",
-                "Proportion of total government spending on health",
-                "Proportion of total government spending on social protection",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

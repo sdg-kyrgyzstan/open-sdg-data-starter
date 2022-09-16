@@ -1,6 +1,5 @@
 From,To
-SDG Series,Income or wealth quantile
-Income or wealth quantile,Reference area
-Income or wealth quantile,Sex
-Income or wealth quantile,Age
-Income or wealth quantile,Degree of urbanisation
+Уровень дохода или квантиль благосостояния,Территория
+Уровень дохода или квантиль благосостояния,Пол
+Уровень дохода или квантиль благосостояния,Возраст
+Уровень дохода или квантиль благосостояния,Тип местности

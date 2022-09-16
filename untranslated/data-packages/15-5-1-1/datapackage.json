@@ -15,16 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Species: Plants and mushrooms",
-                "Species: Mammals",
-                "Species: Birds",
-                "Species: Insects",
-                "Species: Amphibians and Reptiles",
-                "Species: Fish",
+                "_L_SPC_PLANT_MUSH",
+                "_L_SPC_MAMM",
+                "_L_SPC_BIRD",
+                "_L_SPC_INSEC",
+                "_L_SPC_AMPH_REP",
+                "_L_SPC_FISH",
                 ""
               ]
             }

@@ -1,31 +1,31 @@
-Year,SDG Series,Unit of measure,Value
-2007,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,114961.0
-2008,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,120274.0
-2009,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,124751.0
-2010,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,133398.0
-2011,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,142897.0
-2012,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,150206.0
-2013,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,162967.0
-2014,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,168679.0
-2015,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,174693.0
-2016,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,178944.0
-2017,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,183330.0
-2018,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,187313.0
-2019,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,194364.0
-2020,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,197792.0
-2021,Number of people with disabilities receiving pensions Monthly Social Allowance,Number,202551.0
-2007,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.190749
-2008,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.273953
-2009,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.326232
-2010,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.46199
-2011,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.608742
-2012,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.705494
-2013,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.821172
-2014,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.861361
-2015,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.902128
-2016,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.914302
-2017,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.930125
-2018,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.931575
-2019,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.931575
-2020,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.97943
-2021,Proportion of people with disabilities receiving pensions Monthly Social Allowance to total population,Percent,2.97943
+Year,SERIES,UNIT_MEASURE,Value
+2007,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,114961.0
+2008,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,120274.0
+2009,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,124751.0
+2010,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,133398.0
+2011,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,142897.0
+2012,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,150206.0
+2013,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,162967.0
+2014,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,168679.0
+2015,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,174693.0
+2016,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,178944.0
+2017,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,183330.0
+2018,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,187313.0
+2019,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,194364.0
+2020,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,197792.0
+2021,"Численность населения, получающих пенсии и пособия по инвалидности, человек",Число,202551.0
+2007,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.190749
+2008,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.273953
+2009,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.326232
+2010,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.46199
+2011,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.608742
+2012,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.705494
+2013,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.821172
+2014,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.861361
+2015,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.902128
+2016,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.914302
+2017,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.930125
+2018,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.931575
+2019,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.931575
+2020,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.97943
+2021,"Доля лиц, получающих пенсии и пособия по инвалидности к общей численности населения",Процент,2.97943

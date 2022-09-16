@@ -1,8 +1,8 @@
 From,To
-Age,Reference area
-Age,Sex
-Age,Degree of urbanisation
-Age,Income or wealth quantile
-Age,Education level
-Age,Disability status
-Education level,COMMENT_OBS
+AGE,REF_AREA
+AGE,SEX
+AGE,URBANISATION
+AGE,INCOME_WEALTH_QUANTILE
+AGE,EDUCATION_LEV
+AGE,DISABILITY_STATUS
+EDUCATION_LEV,COMMENT_OBS

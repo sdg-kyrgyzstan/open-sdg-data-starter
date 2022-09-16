@@ -1,82 +1,82 @@
-Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,Value
-2018,,,15 years old and over,,,,91.8
-2019,,,15 years old and over,,,,91.178938
-2020,,,15 years old and over,,,,92.6
-2018,,,15 years old and over,Urban,,,94.9
-2019,,,15 years old and over,Urban,,,95.590033
-2020,,,15 years old and over,Urban,,,96.0
-2018,,,15 years old and over,Rural,,,89.9
-2019,,,15 years old and over,Rural,,,88.555506
-2020,,,15 years old and over,Rural,,,90.5
-2018,,Male,15 years old and over,,,,92.8
-2019,,Male,15 years old and over,,,,92.137465
-2020,,Male,15 years old and over,,,,93.2
-2018,,Female,15 years old and over,,,,91.0
-2019,,Female,15 years old and over,,,,90.379166
-2020,,Female,15 years old and over,,,,92.0
-2018,Batken,,15 years old and over,,,,91.1
-2019,Batken,,15 years old and over,,,,92.501775
-2020,Batken,,15 years old and over,,,,93.5
-2018,Jalal-Abad,,15 years old and over,,,,90.6
-2019,Jalal-Abad,,15 years old and over,,,,82.95577
-2020,Jalal-Abad,,15 years old and over,,,,83.5
-2018,Issyk-Kul,,15 years old and over,,,,92.1
-2019,Issyk-Kul,,15 years old and over,,,,93.390895
-2020,Issyk-Kul,,15 years old and over,,,,95.2
-2018,Naryn,,15 years old and over,,,,89.4
-2019,Naryn,,15 years old and over,,,,89.199874
-2020,Naryn,,15 years old and over,,,,92.2
-2018,Osh,,15 years old and over,,,,87.6
-2019,Osh,,15 years old and over,,,,89.256132
-2020,Osh,,15 years old and over,,,,93.2
-2018,Talas,,15 years old and over,,,,91.5
-2019,Talas,,15 years old and over,,,,90.937706
-2020,Talas,,15 years old and over,,,,92.6
-2018,Chui,,15 years old and over,,,,94.6
-2019,Chui,,15 years old and over,,,,95.858208
-2020,Chui,,15 years old and over,,,,96.0
-2018,Bishkek (city),,15 years old and over,,,,97.0
-2019,Bishkek (city),,15 years old and over,,,,97.2808
-2020,Bishkek (city),,15 years old and over,,,,97.9
-2018,Osh (city),,15 years old and over,,,,88.3
-2019,Osh (city),,15 years old and over,,,,91.838606
-2020,Osh (city),,15 years old and over,,,,91.9
-2018,,,15 to 28 years old,,,,90.9
-2019,,,15 to 28 years old,,,,89.361139
-2020,,,15 to 28 years old,,,,90.1
-2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,95.9
-2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,95.334863
-2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,96.1
-2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,78.8
-2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,80.597836
-2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,85.6
-2018,,,15 years old and over,,,Primary education,58.1
-2019,,,15 years old and over,,,Primary education,60.727949
-2020,,,15 years old and over,,,Primary education,68.7
-2018,,,15 years old and over,,,Lower secondary education,84.0
-2019,,,15 years old and over,,,Lower secondary education,82.680604
-2020,,,15 years old and over,,,Lower secondary education,85.6
-2018,,,15 years old and over,,,Upper secondary education,92.8
-2019,,,15 years old and over,,,Upper secondary education,92.037394
-2020,,,15 years old and over,,,Upper secondary education,92.9
-2018,,,15 years old and over,,,Post-secondary non-tertiary education,96.4
-2019,,,15 years old and over,,,Post-secondary non-tertiary education,96.037143
-2020,,,15 years old and over,,,Post-secondary non-tertiary education,96.8
-2018,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),98.1
-2019,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),97.488857
-2020,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),98.4
-2018,,,15 years old and over,,Quintile 1 (poorest),,88.941427
-2019,,,15 years old and over,,Quintile 1 (poorest),,86.235104
-2020,,,15 years old and over,,Quintile 1 (poorest),,87.533804
-2018,,,15 years old and over,,Quintile 2,,90.234584
-2019,,,15 years old and over,,Quintile 2,,90.9333
-2020,,,15 years old and over,,Quintile 2,,92.176936
-2018,,,15 years old and over,,Quintile 3,,91.864446
-2019,,,15 years old and over,,Quintile 3,,90.460037
-2020,,,15 years old and over,,Quintile 3,,95.223429
-2018,,,15 years old and over,,Quintile 4,,91.919084
-2019,,,15 years old and over,,Quintile 4,,93.289778
-2020,,,15 years old and over,,Quintile 4,,93.748841
-2018,,,15 years old and over,,Quintile 5 (richest),,94.603144
-2019,,,15 years old and over,,Quintile 5 (richest),,93.356497
-2020,,,15 years old and over,,Quintile 5 (richest),,95.771799
+Year,REF_AREA,SEX,AGE,URBANISATION,INCOME_WEALTH_QUANTILE,EDUCATION_LEV,Value
+2018,,,Y_GE15,,,,91.8
+2019,,,Y_GE15,,,,91.178938
+2020,,,Y_GE15,,,,92.6
+2018,,,Y_GE15,U,,,94.9
+2019,,,Y_GE15,U,,,95.590033
+2020,,,Y_GE15,U,,,96.0
+2018,,,Y_GE15,R,,,89.9
+2019,,,Y_GE15,R,,,88.555506
+2020,,,Y_GE15,R,,,90.5
+2018,,M,Y_GE15,,,,92.8
+2019,,M,Y_GE15,,,,92.137465
+2020,,M,Y_GE15,,,,93.2
+2018,,F,Y_GE15,,,,91.0
+2019,,F,Y_GE15,,,,90.379166
+2020,,F,Y_GE15,,,,92.0
+2018,KG05,,Y_GE15,,,,91.1
+2019,KG05,,Y_GE15,,,,92.501775
+2020,KG05,,Y_GE15,,,,93.5
+2018,KG03,,Y_GE15,,,,90.6
+2019,KG03,,Y_GE15,,,,82.95577
+2020,KG03,,Y_GE15,,,,83.5
+2018,KG02,,Y_GE15,,,,92.1
+2019,KG02,,Y_GE15,,,,93.390895
+2020,KG02,,Y_GE15,,,,95.2
+2018,KG04,,Y_GE15,,,,89.4
+2019,KG04,,Y_GE15,,,,89.199874
+2020,KG04,,Y_GE15,,,,92.2
+2018,KG06,,Y_GE15,,,,87.6
+2019,KG06,,Y_GE15,,,,89.256132
+2020,KG06,,Y_GE15,,,,93.2
+2018,KG07,,Y_GE15,,,,91.5
+2019,KG07,,Y_GE15,,,,90.937706
+2020,KG07,,Y_GE15,,,,92.6
+2018,KG08,,Y_GE15,,,,94.6
+2019,KG08,,Y_GE15,,,,95.858208
+2020,KG08,,Y_GE15,,,,96.0
+2018,KG11,,Y_GE15,,,,97.0
+2019,KG11,,Y_GE15,,,,97.2808
+2020,KG11,,Y_GE15,,,,97.9
+2018,KG21,,Y_GE15,,,,88.3
+2019,KG21,,Y_GE15,,,,91.838606
+2020,KG21,,Y_GE15,,,,91.9
+2018,,,Y15T28,,,,90.9
+2019,,,Y15T28,,,,89.361139
+2020,,,Y15T28,,,,90.1
+2018,,,Y29T62,,,,95.9
+2019,,,Y29T62,,,,95.334863
+2020,,,Y29T62,,,,96.1
+2018,,,Y_GE58,,,,78.8
+2019,,,Y_GE58,,,,80.597836
+2020,,,Y_GE58,,,,85.6
+2018,,,Y_GE15,,,ISCED11_1,58.1
+2019,,,Y_GE15,,,ISCED11_1,60.727949
+2020,,,Y_GE15,,,ISCED11_1,68.7
+2018,,,Y_GE15,,,ISCED11_2,84.0
+2019,,,Y_GE15,,,ISCED11_2,82.680604
+2020,,,Y_GE15,,,ISCED11_2,85.6
+2018,,,Y_GE15,,,ISCED11_3,92.8
+2019,,,Y_GE15,,,ISCED11_3,92.037394
+2020,,,Y_GE15,,,ISCED11_3,92.9
+2018,,,Y_GE15,,,ISCED11_4,96.4
+2019,,,Y_GE15,,,ISCED11_4,96.037143
+2020,,,Y_GE15,,,ISCED11_4,96.8
+2018,,,Y_GE15,,,ISCED11_6_7,98.1
+2019,,,Y_GE15,,,ISCED11_6_7,97.488857
+2020,,,Y_GE15,,,ISCED11_6_7,98.4
+2018,,,Y_GE15,,Q1,,88.941427
+2019,,,Y_GE15,,Q1,,86.235104
+2020,,,Y_GE15,,Q1,,87.533804
+2018,,,Y_GE15,,Q2,,90.234584
+2019,,,Y_GE15,,Q2,,90.9333
+2020,,,Y_GE15,,Q2,,92.176936
+2018,,,Y_GE15,,Q3,,91.864446
+2019,,,Y_GE15,,Q3,,90.460037
+2020,,,Y_GE15,,Q3,,95.223429
+2018,,,Y_GE15,,Q4,,91.919084
+2019,,,Y_GE15,,Q4,,93.289778
+2020,,,Y_GE15,,Q4,,93.748841
+2018,,,Y_GE15,,Q5,,94.603144
+2019,,,Y_GE15,,Q5,,93.356497
+2020,,,Y_GE15,,Q5,,95.771799

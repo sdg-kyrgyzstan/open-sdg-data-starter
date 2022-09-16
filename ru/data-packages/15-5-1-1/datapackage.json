@@ -16,20 +16,20 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Species: Plants and mushrooms",
-                "Species: Mammals",
-                "Species: Birds",
-                "Species: Insects",
-                "Species: Amphibians and Reptiles",
-                "Species: Fish",
+                "Виды: Растения и грибы",
+                "Виды: Млекопитающие",
+                "Виды: Птицы",
+                "Виды: Насекомые",
+                "Виды: Амфибии и рептилии",
+                "Виды: Рыбы",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

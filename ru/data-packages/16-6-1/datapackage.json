@@ -16,22 +16,22 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: General public services\n\n\n",
-                "Sector: Economic affairs",
-                "Sector: Environmental protection",
-                "Sector: Housing and community amenities",
-                "Sector: Health",
-                "Sector: Recreation, culture and religion",
-                "Sector: Education",
-                "Sector: Social protection",
+                "Сектор: Государственные услуги общего назначения",
+                "Сектор: Экономические вопросы",
+                "Сектор: Охрана окружающей среды",
+                "Сектор: Жилищно-коммунальные услуги",
+                "Сектор: Здравоохранение",
+                "Сектор: Организация отдыха и культурно-религиозная деятельность",
+                "Сектор: Образование",
+                "Сектор: Социальная защита",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

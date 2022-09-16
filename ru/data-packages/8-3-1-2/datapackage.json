@@ -16,16 +16,9 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Share of employed in small enterprises in total employment",
-                "Share of employed in medium enterprises in total employment",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

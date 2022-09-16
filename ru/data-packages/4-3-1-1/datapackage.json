@@ -16,42 +16,42 @@
             "title": "Год"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Женщины",
+                "Мужчины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 17 years old",
-                "17 to 20 years old",
-                "17 to 24 years old",
+                "от 15 до 17 лет",
+                "от 17 до 20 лет",
+                "от 17 до 24 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary and post-secondary non-tertiary education (intermediate)",
-                "Short-cycle tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                "Среднее и послесреднее нетретичное образование (среднее)",
+                "Короткий цикл третичного образования",
+                "Высшее образование (бакалавриат и магистратура или эквиваленты)",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Уровень образования"
           },
           {
             "name": "Value",

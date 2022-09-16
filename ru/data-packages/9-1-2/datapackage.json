@@ -28,46 +28,32 @@
             "title": "Множитель"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Passenger volume (passenger kilometres)",
-                "Freight volume (tonne kilometres)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mode of Transport: Rail",
-                "Mode of Transport: Bus",
-                "Mode of Transport: Trolley bus",
-                "Mode of Transport: Taxi",
-                "Mode of Transport: Air",
-                "Mode of Transport: Road",
-                "Mode of Transport: Pipeline",
-                "Mode of Transport: Water",
+                "Вид транспорта: Железнодорожный",
+                "Вид транспорта: Автобус",
+                "Вид транспорта: Троллейбус",
+                "Вид транспорта: Такси",
+                "Вид транспорта: Воздушный",
+                "Вид транспорта: Автомобильный",
+                "Вид транспорта: Трубопроводный",
+                "Вид транспорта: Водный",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "Единица измерения"
           },
           {
             "name": "Value",

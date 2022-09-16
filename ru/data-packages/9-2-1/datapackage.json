@@ -28,40 +28,19 @@
             "title": "Множитель"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP",
-                "Manufacturing value added per capita",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Local currency",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "Единица измерения"
           },
           {
-            "name": "Time series-level footnotes",
+            "name": "COMMENT_TS",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                ""
-              ]
-            },
-            "title": "Time series-level footnotes"
+            "title": "Сноски для временных рядов"
           },
           {
             "name": "Value",

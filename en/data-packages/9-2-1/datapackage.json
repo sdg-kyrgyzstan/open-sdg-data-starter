@@ -28,39 +28,18 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP",
-                "Manufacturing value added per capita",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Local currency",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {
-            "name": "Time series-level footnotes",
+            "name": "COMMENT_TS",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CUR_LCU",
-                ""
-              ]
-            },
             "title": "Time series-level footnotes"
           },
           {

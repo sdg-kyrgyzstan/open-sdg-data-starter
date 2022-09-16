@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of firearms voluntarily surrendered",
-                "Number of firearms seized",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

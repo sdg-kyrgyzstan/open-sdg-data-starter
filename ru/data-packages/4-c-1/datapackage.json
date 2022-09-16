@@ -16,17 +16,17 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Teachers: a) in pre-school educational institutions",
-                "Teachers: b) in primary school (grades 1-4)",
-                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)",
+                "Учителя: a) в дошкольных образовательных организациях",
+                "Учителя: b) в начальной школе (1-4 класс)",
+                "Учителя: c) в основной школе (5-9 класс) и d) средней школе (10-11 класс)",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

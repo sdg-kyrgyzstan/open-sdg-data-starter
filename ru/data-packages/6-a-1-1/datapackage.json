@@ -16,17 +16,17 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Type of assistance: Investment loan",
-                "Type of assistance: Investment grant",
-                "Type of assistance: Investment loan and grant",
+                "Вид помощи: Инвестиционный кредит",
+                "Вид помощи: Инвестиционный грант",
+                "Вид помощи: Инвестиционный кредит и грант",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

@@ -16,15 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Share of renewable energy sources in the total energy consumption",
-                "Electricity production by hydropower plants",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

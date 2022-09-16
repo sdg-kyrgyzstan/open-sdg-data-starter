@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Type of assistance: Investment loan",
-                "Type of assistance: Investment grant",
-                "Type of assistance: Investment loan and grant",
+                "_L_ASS_LOAN",
+                "_L_ASS_GRANT",
+                "_L_ASS_LOAN_GRANT",
                 ""
               ]
             }

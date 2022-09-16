@@ -16,32 +16,25 @@
             "title": "Год"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Arable land",
-                "Arable land for reasons of non-use",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "Ряды ЦУР"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cause of non-use: Salinization and waterlogging",
-                "Cause of non-use: Lack of irrigation due to a malfunction of the irrigation network",
-                "Cause of non-use: Prone to natural disasters (landslides, mudslides)",
-                "Cause of non-use: Economic inexpediency",
-                "Cause of non-use: Remoteness and stony",
-                "Cause of non-use: Others (for industry, expansion of settlements and others)",
+                "Причина неиспользования: Засоление и заболоченность",
+                "Причина неиспользования: Отсутствие полива из-за неисправности оросительной сети",
+                "Причина неиспользования: Подвержена стихийным бедствиям (оползни, сели)",
+                "Причина: Экономическая нецелесообразность",
+                "Причина: Отдаленность и каменистость",
+                "Причина: Другие (под промышленность, расширения населенных пунктов и другие)",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

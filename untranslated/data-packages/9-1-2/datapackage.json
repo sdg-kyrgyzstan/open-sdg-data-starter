@@ -26,43 +26,29 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Passenger volume (passenger kilometres)",
-                "Freight volume (tonne kilometres)",
+                "MOT_RAI",
+                "MOT_BUS",
+                "MOT_TRO",
+                "MOT_TAX",
+                "MOT_AIR",
+                "MOT_ROA",
+                "MOT_PIP",
+                "MOT_WAT",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mode of Transport: Rail",
-                "Mode of Transport: Bus",
-                "Mode of Transport: Trolley bus",
-                "Mode of Transport: Taxi",
-                "Mode of Transport: Air",
-                "Mode of Transport: Road",
-                "Mode of Transport: Pipeline",
-                "Mode of Transport: Water",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

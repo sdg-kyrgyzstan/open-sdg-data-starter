@@ -1,91 +1,91 @@
-Year,SDG Series,Sex,Value
-2012,Proportion of positions in public institutions: in political positions,,2.984
-2013,Proportion of positions in public institutions: in political positions,,4.897724
-2014,Proportion of positions in public institutions: in political positions,,3.126344
-2015,Proportion of positions in public institutions: in political positions,,4.424534
-2016,Proportion of positions in public institutions: in political positions,,4.539295
-2017,Proportion of positions in public institutions: in political positions,,1.571123
-2018,Proportion of positions in public institutions: in political positions,,1.319706
-2019,Proportion of positions in public institutions: in political positions,,1.2
-2020,Proportion of positions in public institutions: in political positions,,1.2
-2021,Proportion of positions in public institutions: in political positions,,2.6
-2012,Proportion of positions in public institutions: in political positions,Male,3.927548
-2013,Proportion of positions in public institutions: in political positions,Male,6.087459
-2014,Proportion of positions in public institutions: in political positions,Male,5.7
-2015,Proportion of positions in public institutions: in political positions,Male,5.725687
-2016,Proportion of positions in public institutions: in political positions,Male,5.865711
-2017,Proportion of positions in public institutions: in political positions,Male,2.324917
-2018,Proportion of positions in public institutions: in political positions,Male,1.955622
-2019,Proportion of positions in public institutions: in political positions,Male,1.7
-2020,Proportion of positions in public institutions: in political positions,Male,1.7
-2021,Proportion of positions in public institutions: in political positions,Male,3.4
-2012,Proportion of positions in public institutions: in political positions,Female,1.574151
-2013,Proportion of positions in public institutions: in political positions,Female,3.126344
-2014,Proportion of positions in public institutions: in political positions,Female,2.581194
-2015,Proportion of positions in public institutions: in political positions,Female,2.505133
-2016,Proportion of positions in public institutions: in political positions,Female,2.560495
-2017,Proportion of positions in public institutions: in political positions,Female,0.481895
-2018,Proportion of positions in public institutions: in political positions,Female,0.376517
-2019,Proportion of positions in public institutions: in political positions,Female,0.376517
-2020,Proportion of positions in public institutions: in political positions,Female,0.4
-2021,Proportion of positions in public institutions: in political positions,Female,1.4
-2012,Proportion of positions in public institutions: in special positions,,2.446991
-2013,Proportion of positions in public institutions: in special positions,,1.331029
-2014,Proportion of positions in public institutions: in special positions,,0.860462
-2015,Proportion of positions in public institutions: in special positions,,2.195675
-2016,Proportion of positions in public institutions: in special positions,,2.647922
-2017,Proportion of positions in public institutions: in special positions,,2.66922
-2018,Proportion of positions in public institutions: in special positions,,2.594485
-2019,Proportion of positions in public institutions: in special positions,,3.3
-2020,Proportion of positions in public institutions: in special positions,,3.3
-2021,Proportion of positions in public institutions: in special positions,,3.0
-2012,Proportion of positions in public institutions: in special positions,Male,2.744663
-2013,Proportion of positions in public institutions: in special positions,Male,1.647081
-2014,Proportion of positions in public institutions: in special positions,Male,2.2
-2015,Proportion of positions in public institutions: in special positions,Male,2.561247
-2016,Proportion of positions in public institutions: in special positions,Male,2.847982
-2017,Proportion of positions in public institutions: in special positions,Male,2.829919
-2018,Proportion of positions in public institutions: in special positions,Male,2.679579
-2019,Proportion of positions in public institutions: in special positions,Male,3.9
-2020,Proportion of positions in public institutions: in special positions,Male,3.9
-2021,Proportion of positions in public institutions: in special positions,Male,3.5
-2012,Proportion of positions in public institutions: in special positions,Female,2.0
-2013,Proportion of positions in public institutions: in special positions,Female,0.860462
-2014,Proportion of positions in public institutions: in special positions,Female,1.673521
-2015,Proportion of positions in public institutions: in special positions,Female,1.6564
-2016,Proportion of positions in public institutions: in special positions,Female,2.349465
-2017,Proportion of positions in public institutions: in special positions,Female,2.423241
-2018,Proportion of positions in public institutions: in special positions,Female,2.468275
-2019,Proportion of positions in public institutions: in special positions,Female,2.5
-2020,Proportion of positions in public institutions: in special positions,Female,2.4
-2021,Proportion of positions in public institutions: in special positions,Female,2.4
-2012,Proportion of positions in public institutions: in administrative positions,,94.569008
-2013,Proportion of positions in public institutions: in administrative positions,,93.771247
-2014,Proportion of positions in public institutions: in administrative positions,,96.013194
-2015,Proportion of positions in public institutions: in administrative positions,,93.379791
-2016,Proportion of positions in public institutions: in administrative positions,,92.812782
-2017,Proportion of positions in public institutions: in administrative positions,,95.759658
-2018,Proportion of positions in public institutions: in administrative positions,,96.085809
-2019,Proportion of positions in public institutions: in administrative positions,,95.5
-2020,Proportion of positions in public institutions: in administrative positions,,95.5
-2021,Proportion of positions in public institutions: in administrative positions,,94.4
-2012,Proportion of positions in public institutions: in administrative positions,Male,93.327789
-2013,Proportion of positions in public institutions: in administrative positions,Male,92.265459
-2014,Proportion of positions in public institutions: in administrative positions,Male,92.2
-2015,Proportion of positions in public institutions: in administrative positions,Male,91.713066
-2016,Proportion of positions in public institutions: in administrative positions,Male,91.295737
-2017,Proportion of positions in public institutions: in administrative positions,Male,94.835636
-2018,Proportion of positions in public institutions: in administrative positions,Male,95.364799
-2019,Proportion of positions in public institutions: in administrative positions,Male,94.4
-2020,Proportion of positions in public institutions: in administrative positions,Male,94.4
-2021,Proportion of positions in public institutions: in administrative positions,Male,93.1
-2012,Proportion of positions in public institutions: in administrative positions,Female,96.4
-2013,Proportion of positions in public institutions: in administrative positions,Female,96.013194
-2014,Proportion of positions in public institutions: in administrative positions,Female,95.745284
-2015,Proportion of positions in public institutions: in administrative positions,Female,95.838467
-2016,Proportion of positions in public institutions: in administrative positions,Female,95.1
-2017,Proportion of positions in public institutions: in administrative positions,Female,97.094864
-2018,Proportion of positions in public institutions: in administrative positions,Female,97.155208
-2019,Proportion of positions in public institutions: in administrative positions,Female,97.155208
-2020,Proportion of positions in public institutions: in administrative positions,Female,97.2
-2021,Proportion of positions in public institutions: in administrative positions,Female,96.2
+Year,SERIES,Пол,Value
+2012,Доля должностей в государственных учреждениях: на политических должностях,,2.984
+2013,Доля должностей в государственных учреждениях: на политических должностях,,4.897724
+2014,Доля должностей в государственных учреждениях: на политических должностях,,3.126344
+2015,Доля должностей в государственных учреждениях: на политических должностях,,4.424534
+2016,Доля должностей в государственных учреждениях: на политических должностях,,4.539295
+2017,Доля должностей в государственных учреждениях: на политических должностях,,1.571123
+2018,Доля должностей в государственных учреждениях: на политических должностях,,1.319706
+2019,Доля должностей в государственных учреждениях: на политических должностях,,1.2
+2020,Доля должностей в государственных учреждениях: на политических должностях,,1.2
+2021,Доля должностей в государственных учреждениях: на политических должностях,,2.6
+2012,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,3.927548
+2013,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,6.087459
+2014,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,5.7
+2015,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,5.725687
+2016,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,5.865711
+2017,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,2.324917
+2018,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,1.955622
+2019,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,1.7
+2020,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,1.7
+2021,Доля должностей в государственных учреждениях: на политических должностях,Мужчины,3.4
+2012,Доля должностей в государственных учреждениях: на политических должностях,Женщины,1.574151
+2013,Доля должностей в государственных учреждениях: на политических должностях,Женщины,3.126344
+2014,Доля должностей в государственных учреждениях: на политических должностях,Женщины,2.581194
+2015,Доля должностей в государственных учреждениях: на политических должностях,Женщины,2.505133
+2016,Доля должностей в государственных учреждениях: на политических должностях,Женщины,2.560495
+2017,Доля должностей в государственных учреждениях: на политических должностях,Женщины,0.481895
+2018,Доля должностей в государственных учреждениях: на политических должностях,Женщины,0.376517
+2019,Доля должностей в государственных учреждениях: на политических должностях,Женщины,0.376517
+2020,Доля должностей в государственных учреждениях: на политических должностях,Женщины,0.4
+2021,Доля должностей в государственных учреждениях: на политических должностях,Женщины,1.4
+2012,Доля должностей в государственных учреждениях: на специальных должностях,,2.446991
+2013,Доля должностей в государственных учреждениях: на специальных должностях,,1.331029
+2014,Доля должностей в государственных учреждениях: на специальных должностях,,0.860462
+2015,Доля должностей в государственных учреждениях: на специальных должностях,,2.195675
+2016,Доля должностей в государственных учреждениях: на специальных должностях,,2.647922
+2017,Доля должностей в государственных учреждениях: на специальных должностях,,2.66922
+2018,Доля должностей в государственных учреждениях: на специальных должностях,,2.594485
+2019,Доля должностей в государственных учреждениях: на специальных должностях,,3.3
+2020,Доля должностей в государственных учреждениях: на специальных должностях,,3.3
+2021,Доля должностей в государственных учреждениях: на специальных должностях,,3.0
+2012,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.744663
+2013,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,1.647081
+2014,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.2
+2015,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.561247
+2016,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.847982
+2017,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.829919
+2018,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,2.679579
+2019,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,3.9
+2020,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,3.9
+2021,Доля должностей в государственных учреждениях: на специальных должностях,Мужчины,3.5
+2012,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.0
+2013,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,0.860462
+2014,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,1.673521
+2015,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,1.6564
+2016,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.349465
+2017,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.423241
+2018,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.468275
+2019,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.5
+2020,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.4
+2021,Доля должностей в государственных учреждениях: на специальных должностях,Женщины,2.4
+2012,Доля должностей в государственных учреждениях: на административных должностях,,94.569008
+2013,Доля должностей в государственных учреждениях: на административных должностях,,93.771247
+2014,Доля должностей в государственных учреждениях: на административных должностях,,96.013194
+2015,Доля должностей в государственных учреждениях: на административных должностях,,93.379791
+2016,Доля должностей в государственных учреждениях: на административных должностях,,92.812782
+2017,Доля должностей в государственных учреждениях: на административных должностях,,95.759658
+2018,Доля должностей в государственных учреждениях: на административных должностях,,96.085809
+2019,Доля должностей в государственных учреждениях: на административных должностях,,95.5
+2020,Доля должностей в государственных учреждениях: на административных должностях,,95.5
+2021,Доля должностей в государственных учреждениях: на административных должностях,,94.4
+2012,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,93.327789
+2013,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,92.265459
+2014,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,92.2
+2015,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,91.713066
+2016,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,91.295737
+2017,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,94.835636
+2018,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,95.364799
+2019,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,94.4
+2020,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,94.4
+2021,Доля должностей в государственных учреждениях: на административных должностях,Мужчины,93.1
+2012,Доля должностей в государственных учреждениях: на административных должностях,Женщины,96.4
+2013,Доля должностей в государственных учреждениях: на административных должностях,Женщины,96.013194
+2014,Доля должностей в государственных учреждениях: на административных должностях,Женщины,95.745284
+2015,Доля должностей в государственных учреждениях: на административных должностях,Женщины,95.838467
+2016,Доля должностей в государственных учреждениях: на административных должностях,Женщины,95.1
+2017,Доля должностей в государственных учреждениях: на административных должностях,Женщины,97.094864
+2018,Доля должностей в государственных учреждениях: на административных должностях,Женщины,97.155208
+2019,Доля должностей в государственных учреждениях: на административных должностях,Женщины,97.155208
+2020,Доля должностей в государственных учреждениях: на административных должностях,Женщины,97.2
+2021,Доля должностей в государственных учреждениях: на административных должностях,Женщины,96.2

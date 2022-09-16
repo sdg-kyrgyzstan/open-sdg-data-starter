@@ -1,29 +1,29 @@
-Year,SDG Series,Value
-2007,Share of renewable energy sources in the total energy consumption,43.5
-2008,Share of renewable energy sources in the total energy consumption,36.0
-2009,Share of renewable energy sources in the total energy consumption,35.6
-2010,Share of renewable energy sources in the total energy consumption,38.7
-2011,Share of renewable energy sources in the total energy consumption,41.0
-2012,Share of renewable energy sources in the total energy consumption,37.1
-2013,Share of renewable energy sources in the total energy consumption,33.3
-2014,Share of renewable energy sources in the total energy consumption,36.7
-2015,Share of renewable energy sources in the total energy consumption,30.6
-2016,Share of renewable energy sources in the total energy consumption,31.6
-2017,Share of renewable energy sources in the total energy consumption,36.5
-2018,Share of renewable energy sources in the total energy consumption,33.9
-2019,Share of renewable energy sources in the total energy consumption,35.7
-2020,Share of renewable energy sources in the total energy consumption,36.7
-2007,Electricity production by hydropower plants,14004.1
-2008,Electricity production by hydropower plants,10759.1
-2009,Electricity production by hydropower plants,10098.0
-2010,Electricity production by hydropower plants,11254.7
-2011,Electricity production by hydropower plants,14309.1
-2012,Electricity production by hydropower plants,14179.0
-2013,Electricity production by hydropower plants,13096.7
-2014,Electricity production by hydropower plants,13297.6
-2015,Electricity production by hydropower plants,11092.7
-2016,Electricity production by hydropower plants,11497.8
-2017,Electricity production by hydropower plants,14191.2
-2018,Electricity production by hydropower plants,14318.3
-2019,Electricity production by hydropower plants,13859.3
-2020,Electricity production by hydropower plants,13979.1
+Year,SERIES,Value
+2007,_L_KG_070201_1A,43.5
+2008,_L_KG_070201_1A,36.0
+2009,_L_KG_070201_1A,35.6
+2010,_L_KG_070201_1A,38.7
+2011,_L_KG_070201_1A,41.0
+2012,_L_KG_070201_1A,37.1
+2013,_L_KG_070201_1A,33.3
+2014,_L_KG_070201_1A,36.7
+2015,_L_KG_070201_1A,30.6
+2016,_L_KG_070201_1A,31.6
+2017,_L_KG_070201_1A,36.5
+2018,_L_KG_070201_1A,33.9
+2019,_L_KG_070201_1A,35.7
+2020,_L_KG_070201_1A,36.7
+2007,_L_KG_070201_1B,14004.1
+2008,_L_KG_070201_1B,10759.1
+2009,_L_KG_070201_1B,10098.0
+2010,_L_KG_070201_1B,11254.7
+2011,_L_KG_070201_1B,14309.1
+2012,_L_KG_070201_1B,14179.0
+2013,_L_KG_070201_1B,13096.7
+2014,_L_KG_070201_1B,13297.6
+2015,_L_KG_070201_1B,11092.7
+2016,_L_KG_070201_1B,11497.8
+2017,_L_KG_070201_1B,14191.2
+2018,_L_KG_070201_1B,14318.3
+2019,_L_KG_070201_1B,13859.3
+2020,_L_KG_070201_1B,13979.1

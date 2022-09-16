@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,114 +16,114 @@
             "title": "Год"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "Территория"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Мужчины",
+                "Женщины",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Пол"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "5 to 11 years old",
-                "12 to 14 years old",
-                "15 to 17 years old",
+                "от 5 до 11 лет",
+                "от 12 до 14 лет",
+                "от 15 до 17 лет",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Возраст"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Городская",
+                "Сельская",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Тип местности"
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)",
+                "Квинтиль 1 (беднейшие)",
+                "Квинтиль 2",
+                "Квинтиль 3",
+                "Квинтиль 4",
+                "Квинтиль 5 (богатейшие)",
                 ""
               ]
             },
-            "title": "Income or wealth quantile"
+            "title": "Уровень дохода или квантиль благосостояния"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                "Начальное образование",
+                "Первый этап среднего образования",
+                "Второй этап среднего образования",
+                "Послесреднее нетретичное образование",
+                "Высшее образование (бакалавриат и магистратура или эквиваленты)",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "Уровень образования"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "School attendance: Attends",
-                "School attendance: Not attends",
+                "Посещение школы: Посещает",
+                "Посещение школы: Не посещает",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
-            "name": "Disability status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Child with disability",
-                "Child without disability",
+                "Ребенок с инвалидностью",
+                "Ребенок без инвалидности",
                 ""
               ]
             },
-            "title": "Disability status"
+            "title": "Статус инвалидности"
           },
           {
             "name": "Value",

@@ -15,21 +15,21 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure on Pollution control",
-                "Expenditure on Nature parks and reserves",
-                "Expenditure on Animal protection",
-                "Expenditure on Plant protection",
-                "Expenditure on Anti-epizootic measures",
-                "Expenditure on Veterinary diagnostics",
-                "Expenditure on Plant chemicals, protection and\nquarantine",
-                "Expenditure on Other services for the protection\nof biodiversity and landscape",
-                "Expenditure on Research and development work\nrelated to environmental protection",
-                "Expenditure on Environmental issues not classified elsewhere",
-                "Expenditure on Other services on environmental\nprotection",
+                "_L_EEX_POL",
+                "_L_EEX_NATRES",
+                "_L_EEX_PROTAN",
+                "_L_EEX_PROTTPLN",
+                "_L_EEX_EPIS",
+                "_L_EEX_VET",
+                "_L_EEX_CHARPLN",
+                "_L_EEX_OTHER_BIO",
+                "_L_EEX_RD",
+                "_L_EEX_NES",
+                "_L_EEX_OTHER",
                 ""
               ]
             }

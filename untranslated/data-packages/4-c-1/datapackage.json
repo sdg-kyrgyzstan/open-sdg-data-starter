@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Teachers: a) in pre-school educational institutions",
-                "Teachers: b) in primary school (grades 1-4)",
-                "Teachers: (c) primary school (grades 5-9) and (d) secondary school (grades 10-11)",
+                "_L_TCH_PR_SCH_EDU",
+                "_L_TCH_PR_SCH_1_4",
+                "_L_TCH_PR_SEC_SCH_5_11",
                 ""
               ]
             }

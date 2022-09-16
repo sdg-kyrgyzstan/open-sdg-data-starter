@@ -16,16 +16,16 @@
             "title": "Год"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "Городская",
+                "Сельская",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Тип местности"
           },
           {
             "name": "Value",

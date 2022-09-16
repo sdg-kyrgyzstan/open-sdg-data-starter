@@ -16,25 +16,25 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure on Pollution control",
-                "Expenditure on Nature parks and reserves",
-                "Expenditure on Animal protection",
-                "Expenditure on Plant protection",
-                "Expenditure on Anti-epizootic measures",
-                "Expenditure on Veterinary diagnostics",
-                "Expenditure on Plant chemicals, protection and\nquarantine",
-                "Expenditure on Other services for the protection\nof biodiversity and landscape",
-                "Expenditure on Research and development work\nrelated to environmental protection",
-                "Expenditure on Environmental issues not classified elsewhere",
-                "Expenditure on Other services on environmental\nprotection",
+                "Расходы на борьбу с загрязнением окружающей среды",
+                "Расходы на природные заповедники и природные парки",
+                "Расходы на охрану животных",
+                "Расходы на охрану растений",
+                "Расходы на противоэпизоотические мероприятия",
+                "Расходы на ветеринарную диагностику",
+                "Расходы на химизацию, защиты и карантин растений",
+                "Расходы на прочие услуги по защите биоразнообразия и охране ландшафта",
+                "Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды",
+                "Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",
+                "Расходы на другие услуги по охране окружающей среды",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

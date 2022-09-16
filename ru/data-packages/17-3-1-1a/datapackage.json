@@ -16,32 +16,32 @@
             "title": "Год"
           },
           {
-            "name": "Economic activity",
+            "name": "ACTIVITY",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
+                "Сельское хозяйство, лесоводство и рыболовство",
+                "Горнодобывающая промышленность и разработка карьеров",
+                "Обрабатывающая промышленность",
+                "Снабжение электричеством, газом, паром и кондиционированным воздухом",
+                "Водоснабжение; системы канализации, удаление отходов и меры по восстановлению окружающей среды",
+                "Строительство",
+                "Оптовая и розничная торговля; ремонт автомобилей и мотоциклов",
+                "Транспорт и складское хозяйство",
+                "Размещение и общественное питание",
+                "Информация и связь",
+                "Финансовая деятельность и страхование",
+                "Операции с недвижимым имуществом",
+                "Профессиональная, научная и техническая деятельность",
+                "Деятельность в сфере административных и вспомогательных услуг",
+                "Образование",
+                "Деятельность в сфере здравоохранения и социальных услуг",
+                "Искусство, сфера развлечений и отдыха",
+                "Прочие виды деятельности в сфере услуг",
                 ""
               ]
             },
-            "title": "Economic activity"
+            "title": "Вид экономической деятельности"
           },
           {
             "name": "Value",

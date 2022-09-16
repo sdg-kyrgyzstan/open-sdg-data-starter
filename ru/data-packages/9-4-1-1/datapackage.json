@@ -16,19 +16,19 @@
             "title": "Год"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pollutants: Solid",
-                "Pollutants: Gaseous and liquid",
-                "Pollutants: Sulphur dioxide",
-                "Pollutants: Carbon monoxide",
-                "Pollutants: Nitrogen oxide",
+                "Загрязняющие вещества: твердые",
+                "Загрязняющие вещества: газообразные и жидкие",
+                "Загрязняющие вещества: сернистый ангидрид",
+                "Загрязняющие вещества: окись углерода",
+                "Загрязняющие вещества: окислы азота",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of crop production",
-                "Share of livestock production",
+                "_L_CROP_PROD",
+                "_L_LIVEST_PROD",
                 ""
               ]
             }

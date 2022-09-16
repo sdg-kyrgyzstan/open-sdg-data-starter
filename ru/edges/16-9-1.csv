@@ -1,8 +1,8 @@
 From,To
-Age,Reference area
-Age,Sex
-Age,Degree of urbanisation
-Age,Income or wealth quantile
-Age,Education level
-Age,Disability status
-Education level,Сноски на уровне наблюдения
+Возраст,Территория
+Возраст,Пол
+Возраст,Тип местности
+Возраст,Уровень дохода или квантиль благосостояния
+Возраст,Уровень образования
+Возраст,Статус инвалидности
+Уровень образования,Сноски на уровне наблюдения

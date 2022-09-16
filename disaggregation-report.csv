@@ -1,19 +1,16 @@
 Disaggregation,Number of indicators,Number of values
-Age,27,59
+ACTIVITY,5,22
+AGE,27,59
 COMMENT_OBS,13,12
-Composite breakdown,21,109
-Degree of urbanisation,31,2
-Disability status,7,7
-Economic activity,5,22
-Education level,22,9
-Income or wealth quantile,21,7
-Reference area,71,9
-SDG Series,34,88
-Sex,43,2
-Time series-level footnotes,2,3
-Type of product,3,20
-Unit of measure,8,11
+COMPOSITE_BREAKDOWN,21,109
+DISABILITY_STATUS,7,7
+EDUCATION_LEV,22,9
+INCOME_WEALTH_QUANTILE,21,7
+PRODUCT,3,20
+REF_AREA,71,9
+SEX,43,2
 UNIT_MULT,5,3
+URBANISATION,31,2
 Возраст (лет),1,9
 Возраст,1,5
 Квинтиль индекса благосостояния,3,10

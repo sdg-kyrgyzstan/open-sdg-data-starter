@@ -1,6 +1,6 @@
 From,To
-Age,Reference area
-Age,Degree of urbanisation
-Age,Income or wealth quantile
-Age,Education level
-Age,Disability status
+Возраст,Территория
+Возраст,Тип местности
+Возраст,Уровень дохода или квантиль благосостояния
+Возраст,Уровень образования
+Возраст,Статус инвалидности
