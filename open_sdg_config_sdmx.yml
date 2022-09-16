@@ -91,4 +91,10 @@ indicator_downloads:
     indicator_id_pattern: (.*)
     output_folder: data-sdmx
   
+map_layers:
+  - geojson_file: oblasts.geojson
+    name_property: NAME_1
+    id_property: ID_1
+    output_subfolder: oblasts
+    filename_prefix: indicator_
 
