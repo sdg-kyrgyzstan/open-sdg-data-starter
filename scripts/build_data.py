@@ -3,7 +3,7 @@ from sdg.open_sdg import open_sdg_build
 # Perhaps we need to alter the data in some way.
 def alter_data(df):
     if 'REF_AREA' in df:
-      del df(GeoCode = df['REF_AREA'])
+    df = df.assign(GeoCode = df['REF_AREA'])
     if 'Source details' in df:
       del df['Source details']
     if 'concept.COMMENT_TS' in df:
