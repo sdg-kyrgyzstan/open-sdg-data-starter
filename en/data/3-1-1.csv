@@ -1,134 +1,134 @@
-Year,Reference area,Value
-2007,,51.9
-2008,,55.0
-2009,,63.5
-2010,,51.3
-2011,,54.8
-2012,,49.1
-2013,,36.0
-2014,,50.1
-2015,,38.5
-2016,,30.3
-2017,,31.9
-2018,,28.6
-2019,,24.8
-2020,,38.6
-2007,Batken,74.8
-2008,Batken,66.6
-2009,Batken,41.7
-2010,Batken,59.7
-2011,Batken,66.9
-2012,Batken,43.5
-2013,Batken,42.0
-2014,Batken,108.7
-2015,Batken,26.1
-2016,Batken,41.9
-2017,Batken,51.9
-2018,Batken,33.6
-2019,Batken,25.8
-2020,Batken,42.4
-2007,Jalal-Abad,32.8
-2008,Jalal-Abad,66.6
-2009,Jalal-Abad,40.3
-2010,Jalal-Abad,31.1
-2011,Jalal-Abad,36.5
-2012,Jalal-Abad,55.9
-2013,Jalal-Abad,33.0
-2014,Jalal-Abad,53.7
-2015,Jalal-Abad,53.3
-2016,Jalal-Abad,33.5
-2017,Jalal-Abad,53.6
-2018,Jalal-Abad,38.2
-2019,Jalal-Abad,37.2
-2020,Jalal-Abad,53.2
-2007,Issyk-Kul,89.7
-2008,Issyk-Kul,122.9
-2009,Issyk-Kul,72.0
-2010,Issyk-Kul,70.4
-2011,Issyk-Kul,62.6
-2012,Issyk-Kul,97.2
-2013,Issyk-Kul,37.2
-2014,Issyk-Kul,55.3
-2015,Issyk-Kul,26.7
-2016,Issyk-Kul,34.7
-2017,Issyk-Kul,37.0
-2018,Issyk-Kul,71.2
-2019,Issyk-Kul,28.4
-2020,Issyk-Kul,90.6
-2007,Naryn,62.3
-2008,Naryn,46.2
-2009,Naryn,105.5
-2010,Naryn,69.6
-2011,Naryn,83.3
-2012,Naryn,56.2
-2013,Naryn,29.0
-2014,Naryn,135.7
-2015,Naryn,30.6
-2016,Naryn,43.7
-2018,Naryn,105.7
-2019,Naryn,16.6
-2020,Naryn,52.6
-2007,Osh,26.0
-2008,Osh,54.4
-2009,Osh,93.2
-2010,Osh,78.6
-2011,Osh,62.5
-2012,Osh,58.1
-2013,Osh,42.8
-2014,Osh,43.4
-2015,Osh,43.4
-2016,Osh,24.9
-2017,Osh,25.6
-2018,Osh,19.5
-2019,Osh,25.5
-2020,Osh,24.5
-2007,Talas,120.3
-2008,Talas,51.1
-2009,Talas,61.3
-2010,Talas,87.0
-2011,Talas,40.9
-2012,Talas,14.1
-2013,Talas,14.8
-2014,Talas,44.6
-2015,Talas,15.1
-2019,Talas,16.6
-2020,Talas,69.1
-2007,Chui,78.3
-2008,Chui,34.4
-2009,Chui,61.1
-2010,Chui,49.5
-2011,Chui,69.0
-2012,Chui,41.2
-2013,Chui,50.4
-2014,Chui,44.4
-2015,Chui,40.3
-2016,Chui,47.9
-2017,Chui,22.9
-2018,Chui,16.1
-2019,Chui,32.5
-2020,Chui,32.2
-2007,Bishkek (city),17.3
-2008,Bishkek (city),22.0
-2009,Bishkek (city),20.4
-2010,Bishkek (city),19.4
-2011,Bishkek (city),43.3
-2012,Bishkek (city),18.0
-2013,Bishkek (city),26.1
-2014,Bishkek (city),16.4
-2015,Bishkek (city),30.5
-2016,Bishkek (city),17.6
-2017,Bishkek (city),13.4
-2018,Bishkek (city),18.0
-2019,Bishkek (city),16.9
-2020,Bishkek (city),19.1
-2007,Osh (city),100.6
-2008,Osh (city),38.6
-2009,Osh (city),168.4
-2011,Osh (city),35.7
-2012,Osh (city),60.3
-2013,Osh (city),15.0
-2015,Osh (city),40.9
-2016,Osh (city),13.5
-2017,Osh (city),64.9
-2018,Osh (city),8.3
-2020,Osh (city),25.2
+Year,Reference area,GeoCode,Value
+2007,,,51.9
+2008,,,55.0
+2009,,,63.5
+2010,,,51.3
+2011,,,54.8
+2012,,,49.1
+2013,,,36.0
+2014,,,50.1
+2015,,,38.5
+2016,,,30.3
+2017,,,31.9
+2018,,,28.6
+2019,,,24.8
+2020,,,38.6
+2007,Batken,KG05,74.8
+2008,Batken,KG05,66.6
+2009,Batken,KG05,41.7
+2010,Batken,KG05,59.7
+2011,Batken,KG05,66.9
+2012,Batken,KG05,43.5
+2013,Batken,KG05,42.0
+2014,Batken,KG05,108.7
+2015,Batken,KG05,26.1
+2016,Batken,KG05,41.9
+2017,Batken,KG05,51.9
+2018,Batken,KG05,33.6
+2019,Batken,KG05,25.8
+2020,Batken,KG05,42.4
+2007,Jalal-Abad,KG03,32.8
+2008,Jalal-Abad,KG03,66.6
+2009,Jalal-Abad,KG03,40.3
+2010,Jalal-Abad,KG03,31.1
+2011,Jalal-Abad,KG03,36.5
+2012,Jalal-Abad,KG03,55.9
+2013,Jalal-Abad,KG03,33.0
+2014,Jalal-Abad,KG03,53.7
+2015,Jalal-Abad,KG03,53.3
+2016,Jalal-Abad,KG03,33.5
+2017,Jalal-Abad,KG03,53.6
+2018,Jalal-Abad,KG03,38.2
+2019,Jalal-Abad,KG03,37.2
+2020,Jalal-Abad,KG03,53.2
+2007,Issyk-Kul,KG02,89.7
+2008,Issyk-Kul,KG02,122.9
+2009,Issyk-Kul,KG02,72.0
+2010,Issyk-Kul,KG02,70.4
+2011,Issyk-Kul,KG02,62.6
+2012,Issyk-Kul,KG02,97.2
+2013,Issyk-Kul,KG02,37.2
+2014,Issyk-Kul,KG02,55.3
+2015,Issyk-Kul,KG02,26.7
+2016,Issyk-Kul,KG02,34.7
+2017,Issyk-Kul,KG02,37.0
+2018,Issyk-Kul,KG02,71.2
+2019,Issyk-Kul,KG02,28.4
+2020,Issyk-Kul,KG02,90.6
+2007,Naryn,KG04,62.3
+2008,Naryn,KG04,46.2
+2009,Naryn,KG04,105.5
+2010,Naryn,KG04,69.6
+2011,Naryn,KG04,83.3
+2012,Naryn,KG04,56.2
+2013,Naryn,KG04,29.0
+2014,Naryn,KG04,135.7
+2015,Naryn,KG04,30.6
+2016,Naryn,KG04,43.7
+2018,Naryn,KG04,105.7
+2019,Naryn,KG04,16.6
+2020,Naryn,KG04,52.6
+2007,Osh,KG06,26.0
+2008,Osh,KG06,54.4
+2009,Osh,KG06,93.2
+2010,Osh,KG06,78.6
+2011,Osh,KG06,62.5
+2012,Osh,KG06,58.1
+2013,Osh,KG06,42.8
+2014,Osh,KG06,43.4
+2015,Osh,KG06,43.4
+2016,Osh,KG06,24.9
+2017,Osh,KG06,25.6
+2018,Osh,KG06,19.5
+2019,Osh,KG06,25.5
+2020,Osh,KG06,24.5
+2007,Talas,KG07,120.3
+2008,Talas,KG07,51.1
+2009,Talas,KG07,61.3
+2010,Talas,KG07,87.0
+2011,Talas,KG07,40.9
+2012,Talas,KG07,14.1
+2013,Talas,KG07,14.8
+2014,Talas,KG07,44.6
+2015,Talas,KG07,15.1
+2019,Talas,KG07,16.6
+2020,Talas,KG07,69.1
+2007,Chui,KG08,78.3
+2008,Chui,KG08,34.4
+2009,Chui,KG08,61.1
+2010,Chui,KG08,49.5
+2011,Chui,KG08,69.0
+2012,Chui,KG08,41.2
+2013,Chui,KG08,50.4
+2014,Chui,KG08,44.4
+2015,Chui,KG08,40.3
+2016,Chui,KG08,47.9
+2017,Chui,KG08,22.9
+2018,Chui,KG08,16.1
+2019,Chui,KG08,32.5
+2020,Chui,KG08,32.2
+2007,Bishkek (city),KG11,17.3
+2008,Bishkek (city),KG11,22.0
+2009,Bishkek (city),KG11,20.4
+2010,Bishkek (city),KG11,19.4
+2011,Bishkek (city),KG11,43.3
+2012,Bishkek (city),KG11,18.0
+2013,Bishkek (city),KG11,26.1
+2014,Bishkek (city),KG11,16.4
+2015,Bishkek (city),KG11,30.5
+2016,Bishkek (city),KG11,17.6
+2017,Bishkek (city),KG11,13.4
+2018,Bishkek (city),KG11,18.0
+2019,Bishkek (city),KG11,16.9
+2020,Bishkek (city),KG11,19.1
+2007,Osh (city),KG21,100.6
+2008,Osh (city),KG21,38.6
+2009,Osh (city),KG21,168.4
+2011,Osh (city),KG21,35.7
+2012,Osh (city),KG21,60.3
+2013,Osh (city),KG21,15.0
+2015,Osh (city),KG21,40.9
+2016,Osh (city),KG21,13.5
+2017,Osh (city),KG21,64.9
+2018,Osh (city),KG21,8.3
+2020,Osh (city),KG21,25.2

@@ -1,49 +1,49 @@
-Year,SERIES,Reference area,Degree of urbanisation,Value
-2019,Prevalence of moderate or severe food insecurity in the population,,,4.5
-2020,Prevalence of moderate or severe food insecurity in the population,,,5.7
-2019,Prevalence of moderate or severe food insecurity in the population,,Urban,6.9
-2020,Prevalence of moderate or severe food insecurity in the population,,Urban,9.4
-2019,Prevalence of moderate or severe food insecurity in the population,,Rural,3.1
-2020,Prevalence of moderate or severe food insecurity in the population,,Rural,3.6
-2019,Prevalence of moderate or severe food insecurity in the population,Batken,,2.7
-2020,Prevalence of moderate or severe food insecurity in the population,Batken,,2.4
-2019,Prevalence of moderate or severe food insecurity in the population,Jalal-Abad,,6.6
-2020,Prevalence of moderate or severe food insecurity in the population,Jalal-Abad,,7.0
-2019,Prevalence of moderate or severe food insecurity in the population,Issyk-Kul,,9.3
-2020,Prevalence of moderate or severe food insecurity in the population,Issyk-Kul,,9.8
-2019,Prevalence of moderate or severe food insecurity in the population,Naryn,,1.8
-2020,Prevalence of moderate or severe food insecurity in the population,Naryn,,1.3
-2019,Prevalence of moderate or severe food insecurity in the population,Osh,,2.2
-2020,Prevalence of moderate or severe food insecurity in the population,Osh,,2.2
-2019,Prevalence of moderate or severe food insecurity in the population,Talas,,3.3
-2020,Prevalence of moderate or severe food insecurity in the population,Talas,,7.6
-2019,Prevalence of moderate or severe food insecurity in the population,Chui,,3.0
-2020,Prevalence of moderate or severe food insecurity in the population,Chui,,4.2
-2019,Prevalence of moderate or severe food insecurity in the population,Bishkek (city),,5.4
-2020,Prevalence of moderate or severe food insecurity in the population,Bishkek (city),,10.3
-2019,Prevalence of moderate or severe food insecurity in the population,Osh (city),,10.7
-2020,Prevalence of moderate or severe food insecurity in the population,Osh (city),,12.2
-2019,Prevalence of severe food insecurity in the population,,,0.8
-2020,Prevalence of severe food insecurity in the population,,,1.3
-2019,Prevalence of severe food insecurity in the population,,Urban,1.8
-2020,Prevalence of severe food insecurity in the population,,Urban,2.9
-2019,Prevalence of severe food insecurity in the population,,Rural,0.2
-2020,Prevalence of severe food insecurity in the population,,Rural,0.4
-2019,Prevalence of severe food insecurity in the population,Batken,,0.1
-2020,Prevalence of severe food insecurity in the population,Batken,,0.0
-2019,Prevalence of severe food insecurity in the population,Jalal-Abad,,2.1
-2020,Prevalence of severe food insecurity in the population,Jalal-Abad,,2.4
-2019,Prevalence of severe food insecurity in the population,Issyk-Kul,,0.7
-2020,Prevalence of severe food insecurity in the population,Issyk-Kul,,1.5
-2019,Prevalence of severe food insecurity in the population,Naryn,,0.1
-2020,Prevalence of severe food insecurity in the population,Naryn,,0.4
-2019,Prevalence of severe food insecurity in the population,Osh,,0.1
-2020,Prevalence of severe food insecurity in the population,Osh,,0.3
-2019,Prevalence of severe food insecurity in the population,Talas,,0.1
-2020,Prevalence of severe food insecurity in the population,Talas,,0.8
-2019,Prevalence of severe food insecurity in the population,Chui,,0.7
-2020,Prevalence of severe food insecurity in the population,Chui,,1.4
-2019,Prevalence of severe food insecurity in the population,Bishkek (city),,0.4
-2020,Prevalence of severe food insecurity in the population,Bishkek (city),,1.8
-2019,Prevalence of severe food insecurity in the population,Osh (city),,2.7
-2020,Prevalence of severe food insecurity in the population,Osh (city),,3.7
+Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
+2019,Prevalence of moderate or severe food insecurity in the population,,,,4.5
+2020,Prevalence of moderate or severe food insecurity in the population,,,,5.7
+2019,Prevalence of moderate or severe food insecurity in the population,,Urban,,6.9
+2020,Prevalence of moderate or severe food insecurity in the population,,Urban,,9.4
+2019,Prevalence of moderate or severe food insecurity in the population,,Rural,,3.1
+2020,Prevalence of moderate or severe food insecurity in the population,,Rural,,3.6
+2019,Prevalence of moderate or severe food insecurity in the population,Batken,,KG05,2.7
+2020,Prevalence of moderate or severe food insecurity in the population,Batken,,KG05,2.4
+2019,Prevalence of moderate or severe food insecurity in the population,Jalal-Abad,,KG03,6.6
+2020,Prevalence of moderate or severe food insecurity in the population,Jalal-Abad,,KG03,7.0
+2019,Prevalence of moderate or severe food insecurity in the population,Issyk-Kul,,KG02,9.3
+2020,Prevalence of moderate or severe food insecurity in the population,Issyk-Kul,,KG02,9.8
+2019,Prevalence of moderate or severe food insecurity in the population,Naryn,,KG04,1.8
+2020,Prevalence of moderate or severe food insecurity in the population,Naryn,,KG04,1.3
+2019,Prevalence of moderate or severe food insecurity in the population,Osh,,KG06,2.2
+2020,Prevalence of moderate or severe food insecurity in the population,Osh,,KG06,2.2
+2019,Prevalence of moderate or severe food insecurity in the population,Talas,,KG07,3.3
+2020,Prevalence of moderate or severe food insecurity in the population,Talas,,KG07,7.6
+2019,Prevalence of moderate or severe food insecurity in the population,Chui,,KG08,3.0
+2020,Prevalence of moderate or severe food insecurity in the population,Chui,,KG08,4.2
+2019,Prevalence of moderate or severe food insecurity in the population,Bishkek (city),,KG11,5.4
+2020,Prevalence of moderate or severe food insecurity in the population,Bishkek (city),,KG11,10.3
+2019,Prevalence of moderate or severe food insecurity in the population,Osh (city),,KG21,10.7
+2020,Prevalence of moderate or severe food insecurity in the population,Osh (city),,KG21,12.2
+2019,Prevalence of severe food insecurity in the population,,,,0.8
+2020,Prevalence of severe food insecurity in the population,,,,1.3
+2019,Prevalence of severe food insecurity in the population,,Urban,,1.8
+2020,Prevalence of severe food insecurity in the population,,Urban,,2.9
+2019,Prevalence of severe food insecurity in the population,,Rural,,0.2
+2020,Prevalence of severe food insecurity in the population,,Rural,,0.4
+2019,Prevalence of severe food insecurity in the population,Batken,,KG05,0.1
+2020,Prevalence of severe food insecurity in the population,Batken,,KG05,0.0
+2019,Prevalence of severe food insecurity in the population,Jalal-Abad,,KG03,2.1
+2020,Prevalence of severe food insecurity in the population,Jalal-Abad,,KG03,2.4
+2019,Prevalence of severe food insecurity in the population,Issyk-Kul,,KG02,0.7
+2020,Prevalence of severe food insecurity in the population,Issyk-Kul,,KG02,1.5
+2019,Prevalence of severe food insecurity in the population,Naryn,,KG04,0.1
+2020,Prevalence of severe food insecurity in the population,Naryn,,KG04,0.4
+2019,Prevalence of severe food insecurity in the population,Osh,,KG06,0.1
+2020,Prevalence of severe food insecurity in the population,Osh,,KG06,0.3
+2019,Prevalence of severe food insecurity in the population,Talas,,KG07,0.1
+2020,Prevalence of severe food insecurity in the population,Talas,,KG07,0.8
+2019,Prevalence of severe food insecurity in the population,Chui,,KG08,0.7
+2020,Prevalence of severe food insecurity in the population,Chui,,KG08,1.4
+2019,Prevalence of severe food insecurity in the population,Bishkek (city),,KG11,0.4
+2020,Prevalence of severe food insecurity in the population,Bishkek (city),,KG11,1.8
+2019,Prevalence of severe food insecurity in the population,Osh (city),,KG21,2.7
+2020,Prevalence of severe food insecurity in the population,Osh (city),,KG21,3.7

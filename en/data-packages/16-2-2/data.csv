@@ -1,48 +1,48 @@
-Year,Reference area,Value
-2011,,5
-2012,,6
-2013,,9
-2014,,19
-2015,,8
-2016,,10
-2017,,5
-2018,,8
-2019,,5
-2020,,2
-2021,,2
-2012,Batken,1
-2013,Batken,2
-2014,Batken,1
-2013,Jalal-Abad,1
-2014,Jalal-Abad,1
-2015,Jalal-Abad,1
-2021,Jalal-Abad,1
-2013,Issyk-Kul,1
-2014,Issyk-Kul,1
-2015,Naryn,1
-2019,Naryn,1
-2013,Osh,1
-2014,Osh,6
-2017,Osh,2
-2018,Osh,1
-2020,Osh,1
-2019,Talas,1
-2012,Chui,2
-2013,Chui,3
-2014,Chui,3
-2015,Chui,3
-2016,Chui,6
-2017,Chui,3
-2021,Chui,1
-2012,Bishkek (city),3
-2014,Bishkek (city),2
-2015,Bishkek (city),1
-2016,Bishkek (city),4
-2018,Bishkek (city),7
-2019,Bishkek (city),2
-2020,Bishkek (city),1
-2011,Osh (city),5
-2013,Osh (city),1
-2014,Osh (city),5
-2015,Osh (city),2
-2019,Osh (city),1
+Year,Reference area,GeoCode,Value
+2011,,,5
+2012,,,6
+2013,,,9
+2014,,,19
+2015,,,8
+2016,,,10
+2017,,,5
+2018,,,8
+2019,,,5
+2020,,,2
+2021,,,2
+2012,Batken,KG05,1
+2013,Batken,KG05,2
+2014,Batken,KG05,1
+2013,Jalal-Abad,KG03,1
+2014,Jalal-Abad,KG03,1
+2015,Jalal-Abad,KG03,1
+2021,Jalal-Abad,KG03,1
+2013,Issyk-Kul,KG02,1
+2014,Issyk-Kul,KG02,1
+2015,Naryn,KG04,1
+2019,Naryn,KG04,1
+2013,Osh,KG06,1
+2014,Osh,KG06,6
+2017,Osh,KG06,2
+2018,Osh,KG06,1
+2020,Osh,KG06,1
+2019,Talas,KG07,1
+2012,Chui,KG08,2
+2013,Chui,KG08,3
+2014,Chui,KG08,3
+2015,Chui,KG08,3
+2016,Chui,KG08,6
+2017,Chui,KG08,3
+2021,Chui,KG08,1
+2012,Bishkek (city),KG11,3
+2014,Bishkek (city),KG11,2
+2015,Bishkek (city),KG11,1
+2016,Bishkek (city),KG11,4
+2018,Bishkek (city),KG11,7
+2019,Bishkek (city),KG11,2
+2020,Bishkek (city),KG11,1
+2011,Osh (city),KG21,5
+2013,Osh (city),KG21,1
+2014,Osh (city),KG21,5
+2015,Osh (city),KG21,2
+2019,Osh (city),KG21,1

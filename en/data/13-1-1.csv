@@ -1,306 +1,306 @@
-Year,Reference area,Sex,Value
-2007,,,93
-2008,,,281
-2009,,,71
-2010,,,158
-2011,,,140
-2012,,,99
-2013,,,95
-2014,,,62
-2015,,,53
-2016,,,47
-2017,,,141
-2018,,,18
-2019,,,17
-2020,,,51
-2021,,,109
-2007,,Male,74
-2008,,Male,184
-2009,,Male,48
-2010,,Male,106
-2011,,Male,93
-2012,,Male,65
-2013,,Male,62
-2014,,Male,39
-2015,,Male,33
-2016,,Male,37
-2017,,Male,85
-2018,,Male,14
-2019,,Male,8
-2020,,Male,29
-2021,,Male,74
-2007,,Female,19
-2008,,Female,97
-2009,,Female,23
-2010,,Female,52
-2011,,Female,47
-2012,,Female,34
-2013,,Female,33
-2014,,Female,23
-2015,,Female,20
-2016,,Female,10
-2017,,Female,56
-2018,,Female,4
-2019,,Female,9
-2020,,Female,22
-2021,,Female,35
-2007,Batken,,8
-2008,Batken,,9
-2010,Batken,,15
-2011,Batken,,7
-2012,Batken,,9
-2013,Batken,,3
-2014,Batken,,3
-2015,Batken,,1
-2016,Batken,,9
-2019,Batken,,6
-2020,Batken,,5
-2021,Batken,,36
-2007,Batken,Male,6
-2008,Batken,Male,9
-2010,Batken,Male,11
-2011,Batken,Male,4
-2012,Batken,Male,7
-2013,Batken,Male,3
-2014,Batken,Male,3
-2015,Batken,Male,1
-2016,Batken,Male,7
-2019,Batken,Male,4
-2020,Batken,Male,3
-2021,Batken,Male,35
-2007,Batken,Female,2
-2010,Batken,Female,4
-2011,Batken,Female,3
-2012,Batken,Female,2
-2016,Batken,Female,2
-2019,Batken,Female,2
-2020,Batken,Female,2
-2021,Batken,Female,1
-2007,Jalal-Abad,,5
-2008,Jalal-Abad,,25
-2009,Jalal-Abad,,39
-2010,Jalal-Abad,,32
-2011,Jalal-Abad,,35
-2012,Jalal-Abad,,33
-2013,Jalal-Abad,,31
-2014,Jalal-Abad,,17
-2015,Jalal-Abad,,11
-2016,Jalal-Abad,,13
-2017,Jalal-Abad,,43
-2018,Jalal-Abad,,4
-2020,Jalal-Abad,,15
-2021,Jalal-Abad,,15
-2007,Jalal-Abad,Male,5
-2008,Jalal-Abad,Male,18
-2009,Jalal-Abad,Male,27
-2010,Jalal-Abad,Male,21
-2011,Jalal-Abad,Male,27
-2012,Jalal-Abad,Male,17
-2013,Jalal-Abad,Male,22
-2014,Jalal-Abad,Male,11
-2015,Jalal-Abad,Male,5
-2016,Jalal-Abad,Male,9
-2017,Jalal-Abad,Male,29
-2018,Jalal-Abad,Male,4
-2020,Jalal-Abad,Male,9
-2021,Jalal-Abad,Male,8
-2008,Jalal-Abad,Female,7
-2009,Jalal-Abad,Female,12
-2010,Jalal-Abad,Female,11
-2011,Jalal-Abad,Female,8
-2012,Jalal-Abad,Female,16
-2013,Jalal-Abad,Female,9
-2014,Jalal-Abad,Female,6
-2015,Jalal-Abad,Female,6
-2016,Jalal-Abad,Female,4
-2017,Jalal-Abad,Female,14
-2020,Jalal-Abad,Female,5
-2021,Jalal-Abad,Female,7
-2007,Issyk-Kul,,14
-2008,Issyk-Kul,,42
-2009,Issyk-Kul,,11
-2010,Issyk-Kul,,15
-2011,Issyk-Kul,,17
-2012,Issyk-Kul,,4
-2013,Issyk-Kul,,21
-2014,Issyk-Kul,,25
-2015,Issyk-Kul,,6
-2016,Issyk-Kul,,2
-2017,Issyk-Kul,,6
-2018,Issyk-Kul,,2
-2019,Issyk-Kul,,5
-2021,Issyk-Kul,,12
-2007,Issyk-Kul,Male,10
-2008,Issyk-Kul,Male,26
-2009,Issyk-Kul,Male,7
-2010,Issyk-Kul,Male,10
-2011,Issyk-Kul,Male,9
-2012,Issyk-Kul,Male,4
-2013,Issyk-Kul,Male,13
-2014,Issyk-Kul,Male,16
-2015,Issyk-Kul,Male,5
-2016,Issyk-Kul,Male,1
-2017,Issyk-Kul,Male,6
-2018,Issyk-Kul,Male,1
-2019,Issyk-Kul,Male,2
-2021,Issyk-Kul,Male,7
-2007,Issyk-Kul,Female,4
-2008,Issyk-Kul,Female,16
-2009,Issyk-Kul,Female,4
-2010,Issyk-Kul,Female,5
-2011,Issyk-Kul,Female,8
-2013,Issyk-Kul,Female,8
-2014,Issyk-Kul,Female,9
-2015,Issyk-Kul,Female,1
-2016,Issyk-Kul,Female,1
-2018,Issyk-Kul,Female,1
-2019,Issyk-Kul,Female,3
-2021,Issyk-Kul,Female,5
-2007,Naryn,,5
-2008,Naryn,,6
-2010,Naryn,,7
-2012,Naryn,,5
-2013,Naryn,,8
-2014,Naryn,,2
-2015,Naryn,,9
-2016,Naryn,,1
-2017,Naryn,,2
-2007,Naryn,Male,4
-2008,Naryn,Male,4
-2010,Naryn,Male,4
-2012,Naryn,Male,4
-2013,Naryn,Male,5
-2014,Naryn,Male,2
-2015,Naryn,Male,6
-2016,Naryn,Male,1
-2017,Naryn,Male,2
-2007,Naryn,Female,1
-2008,Naryn,Female,2
-2010,Naryn,Female,3
-2012,Naryn,Female,1
-2013,Naryn,Female,3
-2015,Naryn,Female,3
-2007,Osh,,6
-2008,Osh,,96
-2009,Osh,,2
-2010,Osh,,19
-2011,Osh,,11
-2012,Osh,,22
-2013,Osh,,5
-2015,Osh,,10
-2016,Osh,,1
-2017,Osh,,35
-2018,Osh,,1
-2020,Osh,,7
-2021,Osh,,17
-2007,Osh,Male,6
-2008,Osh,Male,50
-2009,Osh,Male,2
-2010,Osh,Male,12
-2011,Osh,Male,6
-2012,Osh,Male,16
-2013,Osh,Male,3
-2015,Osh,Male,7
-2016,Osh,Male,1
-2017,Osh,Male,17
-2018,Osh,Male,1
-2020,Osh,Male,7
-2021,Osh,Male,8
-2008,Osh,Female,46
-2010,Osh,Female,7
-2011,Osh,Female,5
-2012,Osh,Female,6
-2013,Osh,Female,2
-2015,Osh,Female,3
-2017,Osh,Female,18
-2021,Osh,Female,9
-2007,Talas,,1
-2010,Talas,,4
-2011,Talas,,6
-2013,Talas,,5
-2021,Talas,,9
-2007,Talas,Male,1
-2010,Talas,Male,3
-2011,Talas,Male,4
-2013,Talas,Male,4
-2021,Talas,Male,7
-2010,Talas,Female,1
-2011,Talas,Female,2
-2013,Talas,Female,1
-2021,Talas,Female,2
-2007,Chui,,35
-2008,Chui,,102
-2009,Chui,,19
-2010,Chui,,46
-2011,Chui,,41
-2012,Chui,,23
-2013,Chui,,22
-2014,Chui,,13
-2015,Chui,,15
-2016,Chui,,14
-2017,Chui,,55
-2018,Chui,,10
-2019,Chui,,6
-2020,Chui,,24
-2021,Chui,,20
-2007,Chui,Male,28
-2008,Chui,Male,76
-2009,Chui,Male,12
-2010,Chui,Male,32
-2011,Chui,Male,30
-2012,Chui,Male,15
-2013,Chui,Male,12
-2014,Chui,Male,7
-2015,Chui,Male,8
-2016,Chui,Male,11
-2017,Chui,Male,31
-2018,Chui,Male,7
-2019,Chui,Male,2
-2020,Chui,Male,10
-2021,Chui,Male,9
-2007,Chui,Female,7
-2008,Chui,Female,26
-2009,Chui,Female,7
-2010,Chui,Female,14
-2011,Chui,Female,11
-2012,Chui,Female,8
-2013,Chui,Female,10
-2014,Chui,Female,6
-2015,Chui,Female,7
-2016,Chui,Female,3
-2017,Chui,Female,24
-2018,Chui,Female,3
-2019,Chui,Female,4
-2020,Chui,Female,14
-2021,Chui,Female,11
-2007,Bishkek (city),,12
-2008,Bishkek (city),,1
-2010,Bishkek (city),,14
-2011,Bishkek (city),,19
-2012,Bishkek (city),,3
-2014,Bishkek (city),,2
-2016,Bishkek (city),,7
-2007,Bishkek (city),Male,9
-2008,Bishkek (city),Male,1
-2010,Bishkek (city),Male,9
-2011,Bishkek (city),Male,11
-2012,Bishkek (city),Male,2
-2016,Bishkek (city),Male,7
-2007,Bishkek (city),Female,3
-2010,Bishkek (city),Female,5
-2011,Bishkek (city),Female,8
-2012,Bishkek (city),Female,1
-2014,Bishkek (city),Female,2
-2007,Osh (city),,7
-2010,Osh (city),,6
-2011,Osh (city),,4
-2015,Osh (city),,1
-2018,Osh (city),,1
-2007,Osh (city),Male,5
-2010,Osh (city),Male,4
-2011,Osh (city),Male,2
-2015,Osh (city),Male,1
-2018,Osh (city),Male,1
-2007,Osh (city),Female,2
-2010,Osh (city),Female,2
-2011,Osh (city),Female,2
+Year,Reference area,Sex,GeoCode,Value
+2007,,,,93
+2008,,,,281
+2009,,,,71
+2010,,,,158
+2011,,,,140
+2012,,,,99
+2013,,,,95
+2014,,,,62
+2015,,,,53
+2016,,,,47
+2017,,,,141
+2018,,,,18
+2019,,,,17
+2020,,,,51
+2021,,,,109
+2007,,Male,,74
+2008,,Male,,184
+2009,,Male,,48
+2010,,Male,,106
+2011,,Male,,93
+2012,,Male,,65
+2013,,Male,,62
+2014,,Male,,39
+2015,,Male,,33
+2016,,Male,,37
+2017,,Male,,85
+2018,,Male,,14
+2019,,Male,,8
+2020,,Male,,29
+2021,,Male,,74
+2007,,Female,,19
+2008,,Female,,97
+2009,,Female,,23
+2010,,Female,,52
+2011,,Female,,47
+2012,,Female,,34
+2013,,Female,,33
+2014,,Female,,23
+2015,,Female,,20
+2016,,Female,,10
+2017,,Female,,56
+2018,,Female,,4
+2019,,Female,,9
+2020,,Female,,22
+2021,,Female,,35
+2007,Batken,,KG05,8
+2008,Batken,,KG05,9
+2010,Batken,,KG05,15
+2011,Batken,,KG05,7
+2012,Batken,,KG05,9
+2013,Batken,,KG05,3
+2014,Batken,,KG05,3
+2015,Batken,,KG05,1
+2016,Batken,,KG05,9
+2019,Batken,,KG05,6
+2020,Batken,,KG05,5
+2021,Batken,,KG05,36
+2007,Batken,Male,KG05,6
+2008,Batken,Male,KG05,9
+2010,Batken,Male,KG05,11
+2011,Batken,Male,KG05,4
+2012,Batken,Male,KG05,7
+2013,Batken,Male,KG05,3
+2014,Batken,Male,KG05,3
+2015,Batken,Male,KG05,1
+2016,Batken,Male,KG05,7
+2019,Batken,Male,KG05,4
+2020,Batken,Male,KG05,3
+2021,Batken,Male,KG05,35
+2007,Batken,Female,KG05,2
+2010,Batken,Female,KG05,4
+2011,Batken,Female,KG05,3
+2012,Batken,Female,KG05,2
+2016,Batken,Female,KG05,2
+2019,Batken,Female,KG05,2
+2020,Batken,Female,KG05,2
+2021,Batken,Female,KG05,1
+2007,Jalal-Abad,,KG03,5
+2008,Jalal-Abad,,KG03,25
+2009,Jalal-Abad,,KG03,39
+2010,Jalal-Abad,,KG03,32
+2011,Jalal-Abad,,KG03,35
+2012,Jalal-Abad,,KG03,33
+2013,Jalal-Abad,,KG03,31
+2014,Jalal-Abad,,KG03,17
+2015,Jalal-Abad,,KG03,11
+2016,Jalal-Abad,,KG03,13
+2017,Jalal-Abad,,KG03,43
+2018,Jalal-Abad,,KG03,4
+2020,Jalal-Abad,,KG03,15
+2021,Jalal-Abad,,KG03,15
+2007,Jalal-Abad,Male,KG03,5
+2008,Jalal-Abad,Male,KG03,18
+2009,Jalal-Abad,Male,KG03,27
+2010,Jalal-Abad,Male,KG03,21
+2011,Jalal-Abad,Male,KG03,27
+2012,Jalal-Abad,Male,KG03,17
+2013,Jalal-Abad,Male,KG03,22
+2014,Jalal-Abad,Male,KG03,11
+2015,Jalal-Abad,Male,KG03,5
+2016,Jalal-Abad,Male,KG03,9
+2017,Jalal-Abad,Male,KG03,29
+2018,Jalal-Abad,Male,KG03,4
+2020,Jalal-Abad,Male,KG03,9
+2021,Jalal-Abad,Male,KG03,8
+2008,Jalal-Abad,Female,KG03,7
+2009,Jalal-Abad,Female,KG03,12
+2010,Jalal-Abad,Female,KG03,11
+2011,Jalal-Abad,Female,KG03,8
+2012,Jalal-Abad,Female,KG03,16
+2013,Jalal-Abad,Female,KG03,9
+2014,Jalal-Abad,Female,KG03,6
+2015,Jalal-Abad,Female,KG03,6
+2016,Jalal-Abad,Female,KG03,4
+2017,Jalal-Abad,Female,KG03,14
+2020,Jalal-Abad,Female,KG03,5
+2021,Jalal-Abad,Female,KG03,7
+2007,Issyk-Kul,,KG02,14
+2008,Issyk-Kul,,KG02,42
+2009,Issyk-Kul,,KG02,11
+2010,Issyk-Kul,,KG02,15
+2011,Issyk-Kul,,KG02,17
+2012,Issyk-Kul,,KG02,4
+2013,Issyk-Kul,,KG02,21
+2014,Issyk-Kul,,KG02,25
+2015,Issyk-Kul,,KG02,6
+2016,Issyk-Kul,,KG02,2
+2017,Issyk-Kul,,KG02,6
+2018,Issyk-Kul,,KG02,2
+2019,Issyk-Kul,,KG02,5
+2021,Issyk-Kul,,KG02,12
+2007,Issyk-Kul,Male,KG02,10
+2008,Issyk-Kul,Male,KG02,26
+2009,Issyk-Kul,Male,KG02,7
+2010,Issyk-Kul,Male,KG02,10
+2011,Issyk-Kul,Male,KG02,9
+2012,Issyk-Kul,Male,KG02,4
+2013,Issyk-Kul,Male,KG02,13
+2014,Issyk-Kul,Male,KG02,16
+2015,Issyk-Kul,Male,KG02,5
+2016,Issyk-Kul,Male,KG02,1
+2017,Issyk-Kul,Male,KG02,6
+2018,Issyk-Kul,Male,KG02,1
+2019,Issyk-Kul,Male,KG02,2
+2021,Issyk-Kul,Male,KG02,7
+2007,Issyk-Kul,Female,KG02,4
+2008,Issyk-Kul,Female,KG02,16
+2009,Issyk-Kul,Female,KG02,4
+2010,Issyk-Kul,Female,KG02,5
+2011,Issyk-Kul,Female,KG02,8
+2013,Issyk-Kul,Female,KG02,8
+2014,Issyk-Kul,Female,KG02,9
+2015,Issyk-Kul,Female,KG02,1
+2016,Issyk-Kul,Female,KG02,1
+2018,Issyk-Kul,Female,KG02,1
+2019,Issyk-Kul,Female,KG02,3
+2021,Issyk-Kul,Female,KG02,5
+2007,Naryn,,KG04,5
+2008,Naryn,,KG04,6
+2010,Naryn,,KG04,7
+2012,Naryn,,KG04,5
+2013,Naryn,,KG04,8
+2014,Naryn,,KG04,2
+2015,Naryn,,KG04,9
+2016,Naryn,,KG04,1
+2017,Naryn,,KG04,2
+2007,Naryn,Male,KG04,4
+2008,Naryn,Male,KG04,4
+2010,Naryn,Male,KG04,4
+2012,Naryn,Male,KG04,4
+2013,Naryn,Male,KG04,5
+2014,Naryn,Male,KG04,2
+2015,Naryn,Male,KG04,6
+2016,Naryn,Male,KG04,1
+2017,Naryn,Male,KG04,2
+2007,Naryn,Female,KG04,1
+2008,Naryn,Female,KG04,2
+2010,Naryn,Female,KG04,3
+2012,Naryn,Female,KG04,1
+2013,Naryn,Female,KG04,3
+2015,Naryn,Female,KG04,3
+2007,Osh,,KG06,6
+2008,Osh,,KG06,96
+2009,Osh,,KG06,2
+2010,Osh,,KG06,19
+2011,Osh,,KG06,11
+2012,Osh,,KG06,22
+2013,Osh,,KG06,5
+2015,Osh,,KG06,10
+2016,Osh,,KG06,1
+2017,Osh,,KG06,35
+2018,Osh,,KG06,1
+2020,Osh,,KG06,7
+2021,Osh,,KG06,17
+2007,Osh,Male,KG06,6
+2008,Osh,Male,KG06,50
+2009,Osh,Male,KG06,2
+2010,Osh,Male,KG06,12
+2011,Osh,Male,KG06,6
+2012,Osh,Male,KG06,16
+2013,Osh,Male,KG06,3
+2015,Osh,Male,KG06,7
+2016,Osh,Male,KG06,1
+2017,Osh,Male,KG06,17
+2018,Osh,Male,KG06,1
+2020,Osh,Male,KG06,7
+2021,Osh,Male,KG06,8
+2008,Osh,Female,KG06,46
+2010,Osh,Female,KG06,7
+2011,Osh,Female,KG06,5
+2012,Osh,Female,KG06,6
+2013,Osh,Female,KG06,2
+2015,Osh,Female,KG06,3
+2017,Osh,Female,KG06,18
+2021,Osh,Female,KG06,9
+2007,Talas,,KG07,1
+2010,Talas,,KG07,4
+2011,Talas,,KG07,6
+2013,Talas,,KG07,5
+2021,Talas,,KG07,9
+2007,Talas,Male,KG07,1
+2010,Talas,Male,KG07,3
+2011,Talas,Male,KG07,4
+2013,Talas,Male,KG07,4
+2021,Talas,Male,KG07,7
+2010,Talas,Female,KG07,1
+2011,Talas,Female,KG07,2
+2013,Talas,Female,KG07,1
+2021,Talas,Female,KG07,2
+2007,Chui,,KG08,35
+2008,Chui,,KG08,102
+2009,Chui,,KG08,19
+2010,Chui,,KG08,46
+2011,Chui,,KG08,41
+2012,Chui,,KG08,23
+2013,Chui,,KG08,22
+2014,Chui,,KG08,13
+2015,Chui,,KG08,15
+2016,Chui,,KG08,14
+2017,Chui,,KG08,55
+2018,Chui,,KG08,10
+2019,Chui,,KG08,6
+2020,Chui,,KG08,24
+2021,Chui,,KG08,20
+2007,Chui,Male,KG08,28
+2008,Chui,Male,KG08,76
+2009,Chui,Male,KG08,12
+2010,Chui,Male,KG08,32
+2011,Chui,Male,KG08,30
+2012,Chui,Male,KG08,15
+2013,Chui,Male,KG08,12
+2014,Chui,Male,KG08,7
+2015,Chui,Male,KG08,8
+2016,Chui,Male,KG08,11
+2017,Chui,Male,KG08,31
+2018,Chui,Male,KG08,7
+2019,Chui,Male,KG08,2
+2020,Chui,Male,KG08,10
+2021,Chui,Male,KG08,9
+2007,Chui,Female,KG08,7
+2008,Chui,Female,KG08,26
+2009,Chui,Female,KG08,7
+2010,Chui,Female,KG08,14
+2011,Chui,Female,KG08,11
+2012,Chui,Female,KG08,8
+2013,Chui,Female,KG08,10
+2014,Chui,Female,KG08,6
+2015,Chui,Female,KG08,7
+2016,Chui,Female,KG08,3
+2017,Chui,Female,KG08,24
+2018,Chui,Female,KG08,3
+2019,Chui,Female,KG08,4
+2020,Chui,Female,KG08,14
+2021,Chui,Female,KG08,11
+2007,Bishkek (city),,KG11,12
+2008,Bishkek (city),,KG11,1
+2010,Bishkek (city),,KG11,14
+2011,Bishkek (city),,KG11,19
+2012,Bishkek (city),,KG11,3
+2014,Bishkek (city),,KG11,2
+2016,Bishkek (city),,KG11,7
+2007,Bishkek (city),Male,KG11,9
+2008,Bishkek (city),Male,KG11,1
+2010,Bishkek (city),Male,KG11,9
+2011,Bishkek (city),Male,KG11,11
+2012,Bishkek (city),Male,KG11,2
+2016,Bishkek (city),Male,KG11,7
+2007,Bishkek (city),Female,KG11,3
+2010,Bishkek (city),Female,KG11,5
+2011,Bishkek (city),Female,KG11,8
+2012,Bishkek (city),Female,KG11,1
+2014,Bishkek (city),Female,KG11,2
+2007,Osh (city),,KG21,7
+2010,Osh (city),,KG21,6
+2011,Osh (city),,KG21,4
+2015,Osh (city),,KG21,1
+2018,Osh (city),,KG21,1
+2007,Osh (city),Male,KG21,5
+2010,Osh (city),Male,KG21,4
+2011,Osh (city),Male,KG21,2
+2015,Osh (city),Male,KG21,1
+2018,Osh (city),Male,KG21,1
+2007,Osh (city),Female,KG21,2
+2010,Osh (city),Female,KG21,2
+2011,Osh (city),Female,KG21,2

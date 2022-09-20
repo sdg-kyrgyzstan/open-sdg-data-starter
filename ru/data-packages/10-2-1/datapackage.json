@@ -89,6 +89,11 @@
             "title": "Уровень дохода или квантиль благосостояния"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
