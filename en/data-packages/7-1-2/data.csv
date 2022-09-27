@@ -1,28 +1,52 @@
 Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Observation-level footnotes,GeoCode,Value
 2018,,,,,,,19.2
+2019,,,,,,,22.213001
 2020,,,,,,,22.1
+2021,,,,,,,20.609252
 2018,,Urban,,,,,47.5
+2019,,Urban,,,,,54.058947
 2020,,Urban,,,,,52.7
+2021,,Urban,,,,,49.918997
 2018,,Rural,,,,,3.2
+2019,,Rural,,,,,4.516183
 2020,,Rural,,,,,5.0
+2021,,Rural,,,,,3.234875
 2018,Batken,,,,,KG05,2.8
+2019,Batken,,,,,KG05,5.864812
 2020,Batken,,,,,KG05,4.8
+2021,Batken,,,,,KG05,5.15599
 2018,Jalal-Abad,,,,,KG03,15.9
+2019,Jalal-Abad,,,,,KG03,13.680777
 2020,Jalal-Abad,,,,,KG03,15.8
+2021,Jalal-Abad,,,,,KG03,13.633825
 2018,Issyk-Kul,,,,,KG02,13.6
+2019,Issyk-Kul,,,,,KG02,12.890062
 2020,Issyk-Kul,,,,,KG02,13.5
+2021,Issyk-Kul,,,,,KG02,11.55279
 2018,Naryn,,,,,KG04,7.1
+2019,Naryn,,,,,KG04,10.162158
 2020,Naryn,,,,,KG04,9.6
+2021,Naryn,,,,,KG04,8.857787
 2018,Osh,,,,,KG06,1.3
+2019,Osh,,,,,KG06,2.770504
 2020,Osh,,,,,KG06,2.7
+2021,Osh,,,,,KG06,2.011959
 2018,Talas,,,,,KG07,8.8
+2019,Talas,,,,,KG07,17.739576
 2020,Talas,,,,,KG07,14.7
+2021,Talas,,,,,KG07,15.717645
 2018,Chui,,,,,KG08,11.1
+2019,Chui,,,,,KG08,18.259395
 2020,Chui,,,,,KG08,18.2
+2021,Chui,,,,,KG08,17.552937
 2018,Bishkek (city),,,,,KG11,59.9
+2019,Bishkek (city),,,,,KG11,74.995693
 2020,Bishkek (city),,,,,KG11,74.0
+2021,Bishkek (city),,,,,KG11,68.912342
 2018,Osh (city),,,,,KG21,32.1
+2019,Osh (city),,,,,KG21,38.304982
 2020,Osh (city),,,,,KG21,35.1
+2021,Osh (city),,,,,KG21,31.366
 2018,,,,Primary education,Education of head houshold,,6.8
 2018,,,,Lower secondary education,Education of head houshold,,10.5
 2018,,,,Upper secondary education,Education of head houshold,,11.4

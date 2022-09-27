@@ -20,6 +20,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,,,,46.4
 2019,,,,46.3
 2020,,,,45.3
+2021,,,,46.69
 2000,,Urban,,69.472742
 2001,,Urban,,84.06804
 2002,,Urban,,67.700173
@@ -41,6 +42,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,,Urban,,51.6
 2019,,Urban,,50.6
 2020,,Urban,,48.2
+2021,,Urban,,52.52
 2000,,Rural,,55.809151
 2001,,Rural,,73.452418
 2002,,Rural,,42.634369
@@ -62,6 +64,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,,Rural,,43.5
 2019,,Rural,,43.9
 2020,,Rural,,43.6
+2021,,Rural,,43.22
 2000,Batken,,KG05,59.339716
 2001,Batken,,KG05,61.621051
 2002,Batken,,KG05,36.961393
@@ -83,6 +86,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Batken,,KG05,54.6
 2019,Batken,,KG05,52.6
 2020,Batken,,KG05,48.8
+2021,Batken,,KG05,51.31
 2000,Jalal-Abad,,KG03,59.287149
 2001,Jalal-Abad,,KG03,81.005572
 2002,Jalal-Abad,,KG03,42.498122
@@ -104,6 +108,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Jalal-Abad,,KG03,44.0
 2019,Jalal-Abad,,KG03,38.8
 2020,Jalal-Abad,,KG03,41.5
+2021,Jalal-Abad,,KG03,41.31
 2000,Issyk-Kul,,KG02,65.030908
 2001,Issyk-Kul,,KG02,78.831057
 2002,Issyk-Kul,,KG02,60.063825
@@ -125,6 +130,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Issyk-Kul,,KG02,49.4
 2019,Issyk-Kul,,KG02,50.2
 2020,Issyk-Kul,,KG02,49.7
+2021,Issyk-Kul,,KG02,52.43
 2000,Naryn,,KG04,69.421773
 2001,Naryn,,KG04,83.854909
 2002,Naryn,,KG04,61.635086
@@ -146,6 +152,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Naryn,,KG04,42.5
 2019,Naryn,,KG04,41.6
 2020,Naryn,,KG04,46.7
+2021,Naryn,,KG04,49.27
 2000,Osh,,KG06,61.998935
 2001,Osh,,KG06,79.954728
 2002,Osh,,KG06,54.70914
@@ -167,6 +174,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Osh,,KG06,41.5
 2019,Osh,,KG06,36.6
 2020,Osh,,KG06,36.5
+2021,Osh,,KG06,31.68
 2000,Talas,,KG07,63.975403
 2001,Talas,,KG07,77.544184
 2002,Talas,,KG07,49.613657
@@ -188,6 +196,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Talas,,KG07,36.1
 2019,Talas,,KG07,37.0
 2020,Talas,,KG07,29.6
+2021,Talas,,KG07,35.59
 2000,Chui,,KG08,46.583904
 2001,Chui,,KG08,64.318147
 2002,Chui,,KG08,39.251547
@@ -209,6 +218,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Chui,,KG08,41.2
 2019,Chui,,KG08,56.0
 2020,Chui,,KG08,54.7
+2021,Chui,,KG08,55.28
 2000,Bishkek (city),,KG11,68.003731
 2001,Bishkek (city),,KG11,85.640504
 2002,Bishkek (city),,KG11,68.047002
@@ -230,6 +240,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Bishkek (city),,KG11,51.8
 2019,Bishkek (city),,KG11,53.7
 2020,Bishkek (city),,KG11,51.6
+2021,Bishkek (city),,KG11,61.02
 2013,Osh (city),,KG21,69.262253
 2014,Osh (city),,KG21,67.223461
 2015,Osh (city),,KG21,67.700759
@@ -238,3 +249,4 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2018,Osh (city),,KG21,70.1
 2019,Osh (city),,KG21,59.3
 2020,Osh (city),,KG21,47.2
+2021,Osh (city),,KG21,48.72
