@@ -13,6 +13,7 @@ Year,Reference area,GeoCode,Value
 2018,,,28.6
 2019,,,24.8
 2020,,,38.6
+2021,,,333.0
 2007,Batken,KG05,74.8
 2008,Batken,KG05,66.6
 2009,Batken,KG05,41.7
@@ -27,6 +28,7 @@ Year,Reference area,GeoCode,Value
 2018,Batken,KG05,33.6
 2019,Batken,KG05,25.8
 2020,Batken,KG05,42.4
+2021,Batken,KG05,383.0
 2007,Jalal-Abad,KG03,32.8
 2008,Jalal-Abad,KG03,66.6
 2009,Jalal-Abad,KG03,40.3
@@ -41,6 +43,7 @@ Year,Reference area,GeoCode,Value
 2018,Jalal-Abad,KG03,38.2
 2019,Jalal-Abad,KG03,37.2
 2020,Jalal-Abad,KG03,53.2
+2021,Jalal-Abad,KG03,317.0
 2007,Issyk-Kul,KG02,89.7
 2008,Issyk-Kul,KG02,122.9
 2009,Issyk-Kul,KG02,72.0
@@ -55,6 +58,7 @@ Year,Reference area,GeoCode,Value
 2018,Issyk-Kul,KG02,71.2
 2019,Issyk-Kul,KG02,28.4
 2020,Issyk-Kul,KG02,90.6
+2021,Issyk-Kul,KG02,987.0
 2007,Naryn,KG04,62.3
 2008,Naryn,KG04,46.2
 2009,Naryn,KG04,105.5
@@ -68,6 +72,7 @@ Year,Reference area,GeoCode,Value
 2018,Naryn,KG04,105.7
 2019,Naryn,KG04,16.6
 2020,Naryn,KG04,52.6
+2021,Naryn,KG04,1572.0
 2007,Osh,KG06,26.0
 2008,Osh,KG06,54.4
 2009,Osh,KG06,93.2
@@ -82,6 +87,7 @@ Year,Reference area,GeoCode,Value
 2018,Osh,KG06,19.5
 2019,Osh,KG06,25.5
 2020,Osh,KG06,24.5
+2021,Osh,KG06,249.0
 2007,Talas,KG07,120.3
 2008,Talas,KG07,51.1
 2009,Talas,KG07,61.3
@@ -93,6 +99,7 @@ Year,Reference area,GeoCode,Value
 2015,Talas,KG07,15.1
 2019,Talas,KG07,16.6
 2020,Talas,KG07,69.1
+2021,Talas,KG07,384.0
 2007,Chui,KG08,78.3
 2008,Chui,KG08,34.4
 2009,Chui,KG08,61.1
@@ -107,6 +114,7 @@ Year,Reference area,GeoCode,Value
 2018,Chui,KG08,16.1
 2019,Chui,KG08,32.5
 2020,Chui,KG08,32.2
+2021,Chui,KG08,151.0
 2007,Bishkek (city),KG11,17.3
 2008,Bishkek (city),KG11,22.0
 2009,Bishkek (city),KG11,20.4
@@ -121,6 +129,7 @@ Year,Reference area,GeoCode,Value
 2018,Bishkek (city),KG11,18.0
 2019,Bishkek (city),KG11,16.9
 2020,Bishkek (city),KG11,19.1
+2021,Bishkek (city),KG11,146.0
 2007,Osh (city),KG21,100.6
 2008,Osh (city),KG21,38.6
 2009,Osh (city),KG21,168.4
@@ -132,3 +141,4 @@ Year,Reference area,GeoCode,Value
 2017,Osh (city),KG21,64.9
 2018,Osh (city),KG21,8.3
 2020,Osh (city),KG21,25.2
+2021,Osh (city),KG21,217.0
