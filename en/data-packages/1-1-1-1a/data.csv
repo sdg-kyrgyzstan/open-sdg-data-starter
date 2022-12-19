@@ -10,6 +10,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,,,,,0.556849
 2019,,,,,0.549336
 2020,,,,,0.891488
+2021,,,,,6.03378
 2010,,Urban,,,4.216863
 2011,,Urban,,,2.571393
 2012,,Urban,,,4.245304
@@ -21,6 +22,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,,Urban,,,0.240359
 2019,,Urban,,,0.1
 2020,,Urban,,,0.314072
+2021,,Urban,,,7.307506
 2010,,Rural,,,5.993092
 2011,,Rural,,,5.719532
 2012,,Rural,,,4.47404
@@ -32,6 +34,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,,Rural,,,0.732878
 2019,,Rural,,,0.8
 2020,,Rural,,,1.220561
+2021,,Rural,,,5.276761
 2010,Batken,,,KG05,5.18088
 2011,Batken,,,KG05,3.571253
 2012,Batken,,,KG05,2.429822
@@ -43,6 +46,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Batken,,,KG05,0.873006
 2019,Batken,,,KG05,0.339267
 2020,Batken,,,KG05,1.629031
+2021,Batken,,,KG05,10.0642
 2010,Jalal-Abad,,,KG03,6.438032
 2011,Jalal-Abad,,,KG03,6.655419
 2012,Jalal-Abad,,,KG03,14.126083
@@ -54,6 +58,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Jalal-Abad,,,KG03,1.011691
 2019,Jalal-Abad,,,KG03,0.56205
 2020,Jalal-Abad,,,KG03,1.484113
+2021,Jalal-Abad,,,KG03,7.544501
 2010,Issyk-Kul,,,KG02,2.478727
 2011,Issyk-Kul,,,KG02,1.507294
 2012,Issyk-Kul,,,KG02,0.131147
@@ -65,6 +70,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Issyk-Kul,,,KG02,0.892297
 2019,Issyk-Kul,,,KG02,1.260497
 2020,Issyk-Kul,,,KG02,0.434948
+2021,Issyk-Kul,,,KG02,7.956209
 2010,Naryn,,,KG04,12.036462
 2011,Naryn,,,KG04,14.690827
 2012,Naryn,,,KG04,2.457117
@@ -76,6 +82,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Naryn,,,KG04,2.178191
 2019,Naryn,,,KG04,2.481629
 2020,Naryn,,,KG04,4.503722
+2021,Naryn,,,KG04,8.169695
 2010,Osh,,including Osh city,KG06,8.333149
 2011,Osh,,including Osh city,KG06,3.687421
 2012,Osh,,including Osh city,KG06,2.296706
@@ -87,6 +94,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Osh,,,KG06,0.0
 2019,Osh,,,KG06,0.880799
 2020,Osh,,,KG06,0.0
+2021,Osh,,,KG06,2.070173
 2010,Talas,,,KG07,5.012294
 2011,Talas,,,KG07,8.439018
 2012,Talas,,,KG07,0.904811
@@ -98,6 +106,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Talas,,,KG07,0.0
 2019,Talas,,,KG07,0.0
 2020,Talas,,,KG07,0.0
+2021,Talas,,,KG07,2.648252
 2010,Chui,,,KG08,3.535313
 2011,Chui,,,KG08,4.859951
 2012,Chui,,,KG08,3.894563
@@ -109,6 +118,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Chui,,,KG08,0.324149
 2019,Chui,,,KG08,0.162602
 2020,Chui,,,KG08,1.348117
+2021,Chui,,,KG08,3.956165
 2010,Bishkek (city),,,KG11,0.530925
 2011,Bishkek (city),,,KG11,1.019328
 2012,Bishkek (city),,,KG11,1.168471
@@ -120,6 +130,7 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Bishkek (city),,,KG11,0.328121
 2019,Bishkek (city),,,KG11,0.0
 2020,Bishkek (city),,,KG11,0.282291
+2021,Bishkek (city),,,KG11,9.464517
 2013,Osh (city),,,KG21,3.507063
 2014,Osh (city),,,KG21,3.102029
 2015,Osh (city),,,KG21,1.7009
@@ -128,3 +139,4 @@ Year,Reference area,Degree of urbanisation,Observation-level footnotes,GeoCode,V
 2018,Osh (city),,,KG21,0.556108
 2019,Osh (city),,,KG21,0.0
 2020,Osh (city),,,KG21,0.0
+2021,Osh (city),,,KG21,3.101958
