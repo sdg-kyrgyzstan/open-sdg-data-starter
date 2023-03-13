@@ -40,6 +40,30 @@
             "title": "Reference area"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 15 years old",
+                "under 18 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {

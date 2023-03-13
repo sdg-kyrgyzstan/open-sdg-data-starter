@@ -40,6 +40,30 @@
             "title": "Территория"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 15 лет",
+                "до 18 лет",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Городская",
+                "Сельская",
+                ""
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {

@@ -1,41 +1,45 @@
-Year,SERIES,Reference area,Income or wealth quantile,Education level,Disability status,GeoCode,Value
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,,,,0.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Batken,,,,KG05,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Jalal-Abad,,,,KG03,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Issyk-Kul,,,,KG02,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Naryn,,,,KG04,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh,,,,KG06,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Talas,,,,KG07,2.8
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Chui,,,,KG08,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Bishkek (city),,,,KG11,1.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh (city),,,,KG21,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,Lower secondary education,,,0.6
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,Upper secondary education,,,0.8
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,Post-secondary non-tertiary education,,,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,Short-cycle tertiary education,,,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,,,Persons without disability,,0.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,Quintile 1 (poorest),,,,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,Quintile 2,,,,0.4
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,Quintile 3,,,,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,Quintile 4,,,,0.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,Quintile 5 (richest),,,,1.1
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,,,,12.9
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Batken,,,,KG05,14.4
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Jalal-Abad,,,,KG03,13.6
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Issyk-Kul,,,,KG02,11.5
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Naryn,,,,KG04,18.4
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh,,,,KG06,18.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Talas,,,,KG07,16.5
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Chui,,,,KG08,11.6
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Bishkek (city),,,,KG11,5.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh (city),,,,KG21,13.2
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,Lower secondary education,,,30.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,Upper secondary education,,,21.3
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,Post-secondary non-tertiary education,,,6.0
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,Short-cycle tertiary education,,,2.6
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,,,Persons without disability,,12.7
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,Quintile 1 (poorest),,,,11.8
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,Quintile 2,,,,19.7
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,Quintile 3,,,,14.4
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,Quintile 4,,,,12.5
-2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,Quintile 5 (richest),,,,6.4
+Year,SERIES,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,GeoCode,Value
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,,,,0.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,Urban,,,,,0.6
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,Rural,,,,,0.1
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Batken,under 15 years old,,,,,KG05,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Jalal-Abad,under 15 years old,,,,,KG03,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Issyk-Kul,under 15 years old,,,,,KG02,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Naryn,under 15 years old,,,,,KG04,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh,under 15 years old,,,,,KG06,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Talas,under 15 years old,,,,,KG07,2.8
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Chui,under 15 years old,,,,,KG08,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Bishkek (city),under 15 years old,,,,,KG11,1.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,Osh (city),under 15 years old,,,,,KG21,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,Lower secondary education,,,0.6
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,Upper secondary education,,,0.8
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,Post-secondary non-tertiary education,,,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,Short-cycle tertiary education,,,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,,,Persons without disability,,0.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,Quintile 1 (poorest),,,,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,Quintile 2,,,,0.4
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,Quintile 3,,,,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,Quintile 4,,,,0.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 15,,under 15 years old,,Quintile 5 (richest),,,,1.1
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,,,,12.9
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,Urban,,,,,8.4
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,Rural,,,,,15.7
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Batken,under 18 years old,,,,,KG05,14.4
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Jalal-Abad,under 18 years old,,,,,KG03,13.6
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Issyk-Kul,under 18 years old,,,,,KG02,11.5
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Naryn,under 18 years old,,,,,KG04,18.4
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh,under 18 years old,,,,,KG06,18.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Talas,under 18 years old,,,,,KG07,16.5
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Chui,under 18 years old,,,,,KG08,11.6
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Bishkek (city),under 18 years old,,,,,KG11,5.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,Osh (city),under 18 years old,,,,,KG21,13.2
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,Lower secondary education,,,30.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,Upper secondary education,,,21.3
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,Post-secondary non-tertiary education,,,6.0
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,Short-cycle tertiary education,,,2.6
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,,,Persons without disability,,12.7
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,Quintile 1 (poorest),,,,11.8
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,Quintile 2,,,,19.7
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,Quintile 3,,,,14.4
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,Quintile 4,,,,12.5
+2018,Proportion of women aged 20-24 years who were married or in a union before age 18,,under 18 years old,,Quintile 5 (richest),,,,6.4

@@ -37,6 +37,28 @@
             }
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T15",
+                "Y0T18",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            }
+          },
+          {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {

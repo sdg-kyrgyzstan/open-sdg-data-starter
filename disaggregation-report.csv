@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 ACTIVITY,5,22
-AGE,27,61
+AGE,28,62
 COMMENT_OBS,13,12
 COMPOSITE_BREAKDOWN,21,109
 DISABILITY_STATUS,7,7
@@ -10,7 +10,7 @@ PRODUCT,3,20
 REF_AREA,71,9
 SEX,43,2
 UNIT_MULT,5,3
-URBANISATION,31,2
+URBANISATION,32,2
 Возраст (лет),1,9
 Возраст,1,5
 Квинтиль индекса благосостояния,3,10
