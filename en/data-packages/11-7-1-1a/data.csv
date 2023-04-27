@@ -1,51 +1,121 @@
 Year,Reference area,GeoCode,Value
+2010,,,2.2
+2011,,,2.2
+2012,,,2.1
+2013,,,1.9
 2014,,,1.8
 2015,,,1.7
 2016,,,1.8
 2017,,,1.7
 2018,,,1.7
+2019,,,1.5
+2020,,,1.5
+2021,,,1.5
+2010,Batken,KG05,0.4
+2011,Batken,KG05,0.4
+2012,Batken,KG05,0.3
+2013,Batken,KG05,0.3
 2014,Batken,KG05,0.3
 2015,Batken,KG05,0.1
 2016,Batken,KG05,0.1
 2017,Batken,KG05,0.1
 2018,Batken,KG05,0.2
+2019,Batken,KG05,0.2
+2020,Batken,KG05,0.2
+2021,Batken,KG05,0.3
+2010,Jalal-Abad,KG03,1.1
+2011,Jalal-Abad,KG03,1.1
+2012,Jalal-Abad,KG03,1.1
+2013,Jalal-Abad,KG03,0.9
 2014,Jalal-Abad,KG03,0.8
 2015,Jalal-Abad,KG03,0.8
 2016,Jalal-Abad,KG03,0.9
 2017,Jalal-Abad,KG03,0.9
 2018,Jalal-Abad,KG03,0.9
+2019,Jalal-Abad,KG03,0.8
+2020,Jalal-Abad,KG03,0.8
+2021,Jalal-Abad,KG03,0.8
+2010,Issyk-Kul,KG02,2.7
+2011,Issyk-Kul,KG02,2.7
+2012,Issyk-Kul,KG02,2.4
+2013,Issyk-Kul,KG02,2.2
 2014,Issyk-Kul,KG02,1.4
 2015,Issyk-Kul,KG02,1.3
 2016,Issyk-Kul,KG02,1.4
 2017,Issyk-Kul,KG02,0.4
 2018,Issyk-Kul,KG02,0.4
+2019,Issyk-Kul,KG02,0.4
+2020,Issyk-Kul,KG02,0.4
+2021,Issyk-Kul,KG02,0.6
+2010,Naryn,KG04,1.5
+2011,Naryn,KG04,1.5
+2012,Naryn,KG04,1.5
+2013,Naryn,KG04,1.5
 2014,Naryn,KG04,1.4
 2015,Naryn,KG04,1.5
 2016,Naryn,KG04,1.6
 2017,Naryn,KG04,1.7
 2018,Naryn,KG04,1.9
+2019,Naryn,KG04,1.9
+2020,Naryn,KG04,1.8
+2021,Naryn,KG04,1.8
+2010,Osh,KG06,0.3
+2011,Osh,KG06,0.3
+2012,Osh,KG06,0.3
+2013,Osh,KG06,0.3
 2014,Osh,KG06,0.3
 2015,Osh,KG06,0.3
 2016,Osh,KG06,0.4
 2017,Osh,KG06,0.4
 2018,Osh,KG06,0.5
+2019,Osh,KG06,0.5
+2020,Osh,KG06,0.5
+2021,Osh,KG06,0.5
+2010,Talas,KG07,0.7
+2011,Talas,KG07,0.8
+2012,Talas,KG07,0.8
+2013,Talas,KG07,0.5
 2014,Talas,KG07,0.8
 2015,Talas,KG07,0.8
 2016,Talas,KG07,0.8
 2017,Talas,KG07,0.8
 2018,Talas,KG07,0.8
+2019,Talas,KG07,0.7
+2020,Talas,KG07,0.7
+2021,Talas,KG07,0.8
+2010,Chui,KG08,3.0
+2011,Chui,KG08,3.0
+2012,Chui,KG08,2.8
+2013,Chui,KG08,2.3
 2014,Chui,KG08,2.2
 2015,Chui,KG08,2.1
 2016,Chui,KG08,2.1
 2017,Chui,KG08,2.1
 2018,Chui,KG08,2.1
+2019,Chui,KG08,2.0
+2020,Chui,KG08,1.9
+2021,Chui,KG08,1.9
+2010,Bishkek (city),KG11,5.5
+2011,Bishkek (city),KG11,5.4
+2012,Bishkek (city),KG11,5.3
+2013,Bishkek (city),KG11,5.2
 2014,Bishkek (city),KG11,5.3
 2015,Bishkek (city),KG11,5.1
 2016,Bishkek (city),KG11,5.1
 2017,Bishkek (city),KG11,5.0
 2018,Bishkek (city),KG11,4.7
+2019,Bishkek (city),KG11,4.7
+2020,Bishkek (city),KG11,4.6
+2021,Bishkek (city),KG11,4.4
+2010,Osh (city),KG21,4.1
+2011,Osh (city),KG21,4.2
+2012,Osh (city),KG21,4.1
+2013,Osh (city),KG21,4.0
 2014,Osh (city),KG21,3.8
 2015,Osh (city),KG21,3.6
 2016,Osh (city),KG21,3.6
 2017,Osh (city),KG21,3.5
 2018,Osh (city),KG21,3.6
+2019,Osh (city),KG21,0.3
+2020,Osh (city),KG21,0.4
+2021,Osh (city),KG21,0.4
