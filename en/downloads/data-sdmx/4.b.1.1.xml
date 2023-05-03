@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1682586734985</message:ID>
+    <message:ID>IREF1683120985351</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-04-27T09:12:14Z</message:Prepared>
+    <message:Prepared>2023-05-03T13:36:25Z</message:Prepared>
     <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -16,63 +16,63 @@
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet REPORTING_YEAR_START_DAY="--01-01" ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_RU" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="465" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="445" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="360" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="364" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="347" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2019-A1" OBS_VALUE="330" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="370" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2021-A1" OBS_VALUE="375" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="465" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="445" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="360" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="364" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="347" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="330" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="370" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="375" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_BY" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_KZ" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2019-A1" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2021-A1" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_TJ" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="50" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="44" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="21" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="33" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2019-A1" OBS_VALUE="42" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="50" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="44" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="21" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="33" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="42" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_CN" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2019-A1" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2021-A1" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_040B01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_CNT_HU" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2014-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2015-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2016-A1" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2017-A1" OBS_VALUE="23" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2018-A1" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2019-A1" OBS_VALUE="62" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2020-A1" OBS_VALUE="73" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
-    <Obs TIME_PERIOD="2021-A1" OBS_VALUE="150" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="23" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="62" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="73" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="150" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным Министерства образования и науки Кыргызской Республики"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

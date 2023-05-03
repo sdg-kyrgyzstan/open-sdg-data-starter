@@ -80,6 +80,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,"REF_AREA, SEX",2
 #4-1-1,"Показатель, Территория, Местность, Квинтиль индекса благосостояния, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери",8
 #4-1-1-1a,"SEX, COMPOSITE_BREAKDOWN",2
+#4-1-1-1b,REF_AREA,1
 #4-2-1,"REF_AREA, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, COMMENT_OBS",5
 #4-2-2-1a,"REF_AREA, URBANISATION",2
 #4-3-1-1,"SEX, AGE, EDUCATION_LEV",3
