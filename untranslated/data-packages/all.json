@@ -5669,7 +5669,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "REF_AREA",
