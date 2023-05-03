@@ -1326,8 +1326,8 @@
       "title": "Доля возобновляемых источников энергии в общем объеме энергопотребления"
     },
     {
-      "path": "4-1-1-1b/data.csv",
-      "name": "4-1-1-1b",
+      "path": "4-b-1-1/data.csv",
+      "name": "4-b-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1341,37 +1341,29 @@
             "title": "Year"
           },
           {
-            "name": "REF_AREA",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
+                "Country: Russian Federation",
+                "Country: Republic of Belarus",
+                "Country: Republic of Kazakhstan",
+                "Country: Republic of Tajikistan",
+                "Country: People's Republic of China",
+                "Country: Hungary",
                 ""
               ]
             },
-            "title": "Reference area"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
       },
-      "title": "Уровень завершения начального образования"
+      "title": "Количество мест, предоставляемых Кыргызстану для подготовки кадров зарубежом за счет принимающей стороны в рамках официальных межправительственных и межгосударственных договоров и соглашений"
     },
     {
       "path": "1-2-2/data.csv",
@@ -6350,46 +6342,6 @@
       "title": "Proportion of women aged 15-49 reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "4-b-1-1/data.csv",
-      "name": "4-b-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Country: Russian Federation",
-                "Country: Republic of Belarus",
-                "Country: Republic of Kazakhstan",
-                "Country: Republic of Tajikistan",
-                "Country: People's Republic of China",
-                "Country: Hungary",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Количество мест, предоставляемых Кыргызстану для подготовки кадров зарубежом за счет принимающей стороны в рамках официальных межправительственных и межгосударственных договоров и соглашений"
-    },
-    {
       "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
@@ -9478,6 +9430,30 @@
         ]
       },
       "title": "Worldwide weighted tariff-average"
+    },
+    {
+      "path": "4-1-1-1b/data.csv",
+      "name": "4-1-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень завершения начального образования"
     },
     {
       "path": "17-11-1/data.csv",
