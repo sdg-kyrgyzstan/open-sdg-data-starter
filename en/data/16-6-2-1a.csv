@@ -1,51 +1,61 @@
-Year,Frequency of observation,Reference area,GeoCode,Value
-2015,Annual,,,235
-2016,Annual,,,285
-2017,Annual,,,311
-2018,Annual,,,273
-2019,"Half-yearly, semester",,,273
-2015,Annual,Batken,KG05,294
-2016,Annual,Batken,KG05,479
-2017,Annual,Batken,KG05,462
-2018,Annual,Batken,KG05,426
-2019,"Half-yearly, semester",Batken,KG05,400
-2015,Annual,Bishkek (city),KG11,436
-2016,Annual,Bishkek (city),KG11,372
-2017,Annual,Bishkek (city),KG11,354
-2018,Annual,Bishkek (city),KG11,327
-2019,"Half-yearly, semester",Bishkek (city),KG11,360
-2015,Annual,Chui,KG08,-15
-2016,Annual,Chui,KG08,166
-2017,Annual,Chui,KG08,295
-2018,Annual,Chui,KG08,195
-2019,"Half-yearly, semester",Chui,KG08,252
-2015,Annual,Issyk-Kul,KG02,206
-2016,Annual,Issyk-Kul,KG02,199
-2017,Annual,Issyk-Kul,KG02,285
-2018,Annual,Issyk-Kul,KG02,307
-2019,"Half-yearly, semester",Issyk-Kul,KG02,375
-2015,Annual,Jalal-Abad,KG03,343
-2016,Annual,Jalal-Abad,KG03,309
-2017,Annual,Jalal-Abad,KG03,327
-2018,Annual,Jalal-Abad,KG03,279
-2019,"Half-yearly, semester",Jalal-Abad,KG03,307
-2015,Annual,Naryn,KG04,364
-2016,Annual,Naryn,KG04,341
-2017,Annual,Naryn,KG04,312
-2018,Annual,Naryn,KG04,341
-2019,"Half-yearly, semester",Naryn,KG04,355
-2015,Annual,Osh,KG06,314
-2016,Annual,Osh,KG06,256
-2017,Annual,Osh,KG06,385
-2018,Annual,Osh,KG06,355
-2019,"Half-yearly, semester",Osh,KG06,325
-2015,Annual,Osh (city),KG21,96
-2016,Annual,Osh (city),KG21,126
-2017,Annual,Osh (city),KG21,163
-2018,Annual,Osh (city),KG21,129
-2019,"Half-yearly, semester",Osh (city),KG21,113
-2015,Annual,Talas,KG07,169
-2016,Annual,Talas,KG07,408
-2017,Annual,Talas,KG07,429
-2018,Annual,Talas,KG07,383
-2019,"Half-yearly, semester",Talas,KG07,366
+Year,Reference area,GeoCode,Value
+2015,,,23.470187
+2016,,,28.487981
+2017,,,31.143928
+2018,,,27.299499
+2019,,,28.931149
+2020,,,25.2
+2015,Batken,KG05,29.364645
+2016,Batken,KG05,47.911855
+2017,Batken,KG05,46.221681
+2018,Batken,KG05,42.644557
+2019,Batken,KG05,38.677928
+2020,Batken,KG05,39.4
+2015,Jalal-Abad,KG03,43.58955
+2016,Jalal-Abad,KG03,37.24933
+2017,Jalal-Abad,KG03,35.4
+2018,Jalal-Abad,KG03,32.708436
+2019,Jalal-Abad,KG03,34.657679
+2020,Jalal-Abad,KG03,35.1
+2015,Issyk-Kul,KG02,-1.504559
+2016,Issyk-Kul,KG02,16.638283
+2017,Issyk-Kul,KG02,29.5
+2018,Issyk-Kul,KG02,19.463418
+2019,Issyk-Kul,KG02,31.583101
+2020,Issyk-Kul,KG02,42.7
+2015,Naryn,KG04,20.617825
+2016,Naryn,KG04,19.923049
+2017,Naryn,KG04,28.473393
+2018,Naryn,KG04,30.739784
+2019,Naryn,KG04,47.289369
+2020,Naryn,KG04,37.5
+2015,Osh,KG06,34.255749
+2016,Osh,KG06,30.917948
+2017,Osh,KG06,32.665922
+2018,Osh,KG06,27.856595
+2019,Osh,KG06,37.990784
+2020,Osh,KG06,40.9
+2015,Talas,KG07,36.443189
+2016,Talas,KG07,34.131511
+2017,Talas,KG07,31.207421
+2018,Talas,KG07,34.060446
+2019,Talas,KG07,29.962169
+2020,Talas,KG07,36.7
+2015,Chui,KG08,31.422096
+2016,Chui,KG08,25.580014
+2017,Chui,KG08,38.456746
+2018,Chui,KG08,35.486614
+2019,Chui,KG08,23.647168
+2020,Chui,KG08,24.7
+2015,Bishkek (city),KG11,9.584576
+2016,Bishkek (city),KG11,12.583671
+2017,Bishkek (city),KG11,16.3
+2018,Bishkek (city),KG11,12.865469
+2019,Bishkek (city),KG11,16.50586
+2020,Bishkek (city),KG11,-8.0
+2015,Osh (city),KG21,16.932905
+2016,Osh (city),KG21,40.826476
+2017,Osh (city),KG21,42.862634
+2018,Osh (city),KG21,38.281575
+2019,Osh (city),KG21,31.381882
+2020,Osh (city),KG21,38.8
