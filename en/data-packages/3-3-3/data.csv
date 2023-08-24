@@ -10,8 +10,9 @@ Year,Reference area,GeoCode,Value
 2016,,,0.000987
 2017,,,0.000323
 2018,,,0.000158
-2019,,,0.0
-2021,,,0.0
+2019,,,0.000158
+2021,,,0.000299
+2022,,,0.0
 2007,Batken,KG05,0.051816
 2008,Batken,KG05,0.004667
 2009,Batken,KG05,0.006969
@@ -34,7 +35,8 @@ Year,Reference area,GeoCode,Value
 2016,Chui,KG08,0.001116
 2017,Chui,KG08,0.0
 2018,Chui,KG08,0.001074
-2019,Chui,KG08,1.0
+2019,Chui,KG08,0.0961
+2022,Chui,KG08,0.0
 2007,Bishkek (city),KG11,0.051835
 2008,Bishkek (city),KG11,0.01221
 2011,Bishkek (city),KG11,0.047285
@@ -43,7 +45,8 @@ Year,Reference area,GeoCode,Value
 2015,Bishkek (city),KG11,0.001055
 2016,Bishkek (city),KG11,0.003095
 2017,Bishkek (city),KG11,0.002018
-2021,Bishkek (city),KG11,0.0
+2021,Bishkek (city),KG11,0.001841
+2022,Bishkek (city),KG11,0.001841
 2007,Osh (city),KG21,0.004004
 2008,Osh (city),KG21,0.0
 2016,Osh (city),KG21,0.007173
