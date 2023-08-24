@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1660564029085</message:ID>
+    <message:ID>IREF1692884110085</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-08-15T11:47:09Z</message:Prepared>
-    <message:Sender id="NSC_KG">
+    <message:Prepared>2023-08-24T13:35:10Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -28,6 +28,7 @@
     <Obs TIME_PERIOD="2019" OBS_VALUE="20556" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="8075" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="7105" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="6333" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_NET_BBNDN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="IS_2MT10M" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2012" OBS_VALUE="6530" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
@@ -40,6 +41,7 @@
     <Obs TIME_PERIOD="2019" OBS_VALUE="174988" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="79553" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="81079" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="82675" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_NET_BBNDN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="IS_GE10M" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2012" OBS_VALUE="19351" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
@@ -52,6 +54,7 @@
     <Obs TIME_PERIOD="2019" OBS_VALUE="73547" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="181557" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="214139" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="300853" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*according to the SCITC KR"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
