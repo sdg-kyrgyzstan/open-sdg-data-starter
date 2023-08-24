@@ -3,107 +3,134 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2019,,,15 years old and over,,,,,91.178938
 2020,,,15 years old and over,,,,,92.6
 2021,,,15 years old and over,,,,,92.994602
+2022,,,15 years old and over,,,,,92.960099
 2018,,,15 years old and over,Urban,,,,94.9
 2019,,,15 years old and over,Urban,,,,95.590033
 2020,,,15 years old and over,Urban,,,,96.0
 2021,,,15 years old and over,Urban,,,,96.70329
+2022,,,15 years old and over,Urban,,,,96.039494
 2018,,,15 years old and over,Rural,,,,89.9
 2019,,,15 years old and over,Rural,,,,88.555506
 2020,,,15 years old and over,Rural,,,,90.5
 2021,,,15 years old and over,Rural,,,,90.681478
+2022,,,15 years old and over,Rural,,,,91.012154
 2018,,Male,15 years old and over,,,,,92.8
 2019,,Male,15 years old and over,,,,,92.137465
 2020,,Male,15 years old and over,,,,,93.2
 2021,,Male,15 years old and over,,,,,94.137112
+2022,,Male,15 years old and over,,,,,94.391087
 2018,,Female,15 years old and over,,,,,91.0
 2019,,Female,15 years old and over,,,,,90.379166
 2020,,Female,15 years old and over,,,,,92.0
 2021,,Female,15 years old and over,,,,,92.036289
+2022,,Female,15 years old and over,,,,,91.767558
 2018,Batken,,15 years old and over,,,,KG05,91.1
 2019,Batken,,15 years old and over,,,,KG05,92.501775
 2020,Batken,,15 years old and over,,,,KG05,93.5
 2021,Batken,,15 years old and over,,,,KG05,93.333536
+2022,Batken,,15 years old and over,,,,KG05,92.94269
 2018,Jalal-Abad,,15 years old and over,,,,KG03,90.6
 2019,Jalal-Abad,,15 years old and over,,,,KG03,82.95577
 2020,Jalal-Abad,,15 years old and over,,,,KG03,83.5
 2021,Jalal-Abad,,15 years old and over,,,,KG03,83.868737
+2022,Jalal-Abad,,15 years old and over,,,,KG03,86.897878
 2018,Issyk-Kul,,15 years old and over,,,,KG02,92.1
 2019,Issyk-Kul,,15 years old and over,,,,KG02,93.390895
 2020,Issyk-Kul,,15 years old and over,,,,KG02,95.2
 2021,Issyk-Kul,,15 years old and over,,,,KG02,96.414753
+2022,Issyk-Kul,,15 years old and over,,,,KG02,96.500794
 2018,Naryn,,15 years old and over,,,,KG04,89.4
 2019,Naryn,,15 years old and over,,,,KG04,89.199874
 2020,Naryn,,15 years old and over,,,,KG04,92.2
 2021,Naryn,,15 years old and over,,,,KG04,93.035508
+2022,Naryn,,15 years old and over,,,,KG04,94.135975
 2018,Osh,,15 years old and over,,,,KG06,87.6
 2019,Osh,,15 years old and over,,,,KG06,89.256132
 2020,Osh,,15 years old and over,,,,KG06,93.2
 2021,Osh,,15 years old and over,,,,KG06,92.867771
+2022,Osh,,15 years old and over,,,,KG06,89.456106
 2018,Talas,,15 years old and over,,,,KG07,91.5
 2019,Talas,,15 years old and over,,,,KG07,90.937706
 2020,Talas,,15 years old and over,,,,KG07,92.6
 2021,Talas,,15 years old and over,,,,KG07,92.877988
+2022,Talas,,15 years old and over,,,,KG07,94.270923
 2018,Chui,,15 years old and over,,,,KG08,94.6
 2019,Chui,,15 years old and over,,,,KG08,95.858208
 2020,Chui,,15 years old and over,,,,KG08,96.0
 2021,Chui,,15 years old and over,,,,KG08,96.944232
+2022,Chui,,15 years old and over,,,,KG08,97.02748
 2018,Bishkek (city),,15 years old and over,,,,KG11,97.0
 2019,Bishkek (city),,15 years old and over,,,,KG11,97.2808
 2020,Bishkek (city),,15 years old and over,,,,KG11,97.9
 2021,Bishkek (city),,15 years old and over,,,,KG11,97.652833
+2022,Bishkek (city),,15 years old and over,,,,KG11,98.077228
 2018,Osh (city),,15 years old and over,,,,KG21,88.3
 2019,Osh (city),,15 years old and over,,,,KG21,91.838606
 2020,Osh (city),,15 years old and over,,,,KG21,91.9
 2021,Osh (city),,15 years old and over,,,,KG21,95.83957
+2022,Osh (city),,15 years old and over,,,,KG21,90.983385
 2018,,,15 to 28 years old,,,,,90.9
 2019,,,15 to 28 years old,,,,,89.361139
 2020,,,15 to 28 years old,,,,,90.1
 2021,,,15 to 28 years old,,,,,91.964757
+2022,,,15 to 28 years old,,,,,90.46897
 2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,95.9
 2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,95.334863
 2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,96.1
 2021,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,95.62544
+2022,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,95.809966
 2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,78.8
 2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,80.597836
 2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,85.6
 2021,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,86.706527
+2022,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,88.221111
 2018,,,15 years old and over,,,Primary education,,58.1
 2019,,,15 years old and over,,,Primary education,,60.727949
 2020,,,15 years old and over,,,Primary education,,68.7
 2021,,,15 years old and over,,,Primary education,,68.076027
+2022,,,15 years old and over,,,Primary education,,69.811293
 2018,,,15 years old and over,,,Lower secondary education,,84.0
 2019,,,15 years old and over,,,Lower secondary education,,82.680604
 2020,,,15 years old and over,,,Lower secondary education,,85.6
 2021,,,15 years old and over,,,Lower secondary education,,89.482325
+2022,,,15 years old and over,,,Lower secondary education,,85.757159
 2018,,,15 years old and over,,,Upper secondary education,,92.8
 2019,,,15 years old and over,,,Upper secondary education,,92.037394
 2020,,,15 years old and over,,,Upper secondary education,,92.9
 2021,,,15 years old and over,,,Upper secondary education,,92.677684
+2022,,,15 years old and over,,,Upper secondary education,,93.032104
 2018,,,15 years old and over,,,Post-secondary non-tertiary education,,96.4
 2019,,,15 years old and over,,,Post-secondary non-tertiary education,,96.037143
 2020,,,15 years old and over,,,Post-secondary non-tertiary education,,96.8
 2021,,,15 years old and over,,,Post-secondary non-tertiary education,,97.302275
+2022,,,15 years old and over,,,Post-secondary non-tertiary education,,97.325262
 2018,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,98.1
 2019,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,97.488857
 2020,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,98.4
 2021,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,98.334718
+2022,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,98.908492
 2018,,,15 years old and over,,Quintile 1 (poorest),,,88.941427
 2019,,,15 years old and over,,Quintile 1 (poorest),,,86.235104
 2020,,,15 years old and over,,Quintile 1 (poorest),,,87.533804
 2021,,,15 years old and over,,Quintile 1 (poorest),,,86.414024
+2022,,,15 years old and over,,Quintile 1 (poorest),,,91.968006
 2018,,,15 years old and over,,Quintile 2,,,90.234584
 2019,,,15 years old and over,,Quintile 2,,,90.9333
 2020,,,15 years old and over,,Quintile 2,,,92.176936
 2021,,,15 years old and over,,Quintile 2,,,93.331957
+2022,,,15 years old and over,,Quintile 2,,,91.809336
 2018,,,15 years old and over,,Quintile 3,,,91.864446
 2019,,,15 years old and over,,Quintile 3,,,90.460037
 2020,,,15 years old and over,,Quintile 3,,,95.223429
 2021,,,15 years old and over,,Quintile 3,,,94.055976
+2022,,,15 years old and over,,Quintile 3,,,91.275247
 2018,,,15 years old and over,,Quintile 4,,,91.919084
 2019,,,15 years old and over,,Quintile 4,,,93.289778
 2020,,,15 years old and over,,Quintile 4,,,93.748841
 2021,,,15 years old and over,,Quintile 4,,,95.449908
+2022,,,15 years old and over,,Quintile 4,,,94.397289
 2018,,,15 years old and over,,Quintile 5 (richest),,,94.603144
 2019,,,15 years old and over,,Quintile 5 (richest),,,93.356497
 2020,,,15 years old and over,,Quintile 5 (richest),,,95.771799
 2021,,,15 years old and over,,Quintile 5 (richest),,,96.978118
+2022,,,15 years old and over,,Quintile 5 (richest),,,96.7407
