@@ -3,6 +3,9 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2008,Millions,Passenger volume (passenger kilometres),,Number,7541.0
 2009,Millions,Passenger volume (passenger kilometres),,Number,7834.7
 2010,Millions,Passenger volume (passenger kilometres),,Number,8122.4
+2011,Millions,Passenger volume (passenger kilometres),,Number,8862.6
+2012,Millions,Passenger volume (passenger kilometres),,Number,9620.7
+2013,Millions,Passenger volume (passenger kilometres),,Number,10378.1
 2014,Millions,Passenger volume (passenger kilometres),,Number,10776.8
 2015,Millions,Passenger volume (passenger kilometres),,Number,11012.5
 2016,Millions,Passenger volume (passenger kilometres),,Number,11333.6
@@ -11,10 +14,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Passenger volume (passenger kilometres),,Number,13135.1
 2020,Millions,Passenger volume (passenger kilometres),,Number,7381.8
 2021,Millions,Passenger volume (passenger kilometres),,Number,9090.7
+2022,Millions,Passenger volume (passenger kilometres),,Number,10444.2
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,59.9
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,90.2
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,106.1
 2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,98.7
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,82.8
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,75.8
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,55.5
 2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,42.9
 2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,40.8
 2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,40.8
@@ -23,10 +30,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,37.1
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,6.8
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,21.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Number,21.7
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6162.6
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6508.6
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6806.8
 2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6810.0
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6925.5
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,7466.2
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,7717.7
 2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,8000.0
 2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,8410.4
 2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,8839.3
@@ -35,10 +46,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,10490.2
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,6035.6
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,7066.7
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Number,7361.6
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,101.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,71.1
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,84.9
 2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,100.9
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,97.7
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,79.9
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,77.8
 2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,82.5
 2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,95.6
 2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,106.1
@@ -47,10 +62,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,148.8
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,89.5
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,126.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Number,143.1
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,204.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,235.8
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,265.0
 2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,298.6
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,356.2
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,397.2
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,427.7
 2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,471.4
 2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,499.6
 2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,546.0
@@ -59,10 +78,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,752.0
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,712.2
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,787.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Number,844.2
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,509.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,635.3
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,571.9
 2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,814.2
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,1400.4
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,1601.6
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,2099.4
 2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,2180.0
 2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,1966.1
 2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Number,1801.4
@@ -75,6 +98,9 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2008,Millions,Freight volume (tonne kilometres),,Metric Tons,2338.3
 2009,Millions,Freight volume (tonne kilometres),,Metric Tons,2140.7
 2010,Millions,Freight volume (tonne kilometres),,Metric Tons,2178.1
+2011,Millions,Freight volume (tonne kilometres),,Metric Tons,2360.4
+2012,Millions,Freight volume (tonne kilometres),,Metric Tons,2604.4
+2013,Millions,Freight volume (tonne kilometres),,Metric Tons,2662.3
 2014,Millions,Freight volume (tonne kilometres),,Metric Tons,2497.1
 2015,Millions,Freight volume (tonne kilometres),,Metric Tons,2525.1
 2016,Millions,Freight volume (tonne kilometres),,Metric Tons,2466.4
@@ -83,10 +109,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Freight volume (tonne kilometres),,Metric Tons,2913.6
 2020,Millions,Freight volume (tonne kilometres),,Metric Tons,2434.5
 2021,Millions,Freight volume (tonne kilometres),,Metric Tons,2620.2
+2022,Millions,Freight volume (tonne kilometres),,Metric Tons,2756.0
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,848.9
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,945.5
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,744.5
 2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,737.7
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,798.3
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,922.7
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,1001.7
 2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,1010.0
 2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,917.8
 2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,807.0
@@ -95,10 +125,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,870.4
 2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,937.5
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,1003.1
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Metric Tons,1013.8
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,902.5
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1113.9
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1256.4
 2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1281.5
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1302.8
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1371.5
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1392.0
 2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1264.7
 2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1401.7
 2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1501.3
@@ -107,10 +141,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1841.9
 2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1281.2
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1348.4
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Metric Tons,1451.1
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,218.3
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,211.5
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,90.0
 2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,91.5
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,146.3
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,208.8
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,156.7
 2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,135.2
 2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,145.9
 2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,140.7
@@ -119,10 +157,14 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,192.8
 2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,208.6
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,248.0
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Metric Tons,273.4
 2007,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,4.8
 2008,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,8.0
 2009,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,4.4
 2010,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,3.0
+2011,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,2.0
+2012,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,2.2
+2013,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,2.0
 2014,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,2.8
 2015,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,2.3
 2016,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Metric Tons,0.5
@@ -131,6 +173,9 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2008,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,59.4
 2009,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,45.4
 2010,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,64.4
+2011,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,111.0
+2012,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,99.2
+2013,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,109.9
 2014,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,83.4
 2015,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,57.4
 2016,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,16.9
@@ -139,3 +184,4 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2019,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,8.5
 2020,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,7.2
 2021,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,20.7
+2022,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Metric Tons,17.7

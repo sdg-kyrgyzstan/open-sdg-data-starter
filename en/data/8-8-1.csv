@@ -14,6 +14,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),,,,21.813169
 2020,Non-fatal occupational injuries among employees (rate),,,,31.006658
 2021,Non-fatal occupational injuries among employees (rate),,,,38.017017
+2022,Non-fatal occupational injuries among employees (rate),,,,43.5
 2007,Non-fatal occupational injuries among employees (rate),,Female,,15.549077
 2008,Non-fatal occupational injuries among employees (rate),,Female,,13.157949
 2009,Non-fatal occupational injuries among employees (rate),,Female,,10.590847
@@ -29,6 +30,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),,Female,,12.801351
 2020,Non-fatal occupational injuries among employees (rate),,Female,,12.36107
 2021,Non-fatal occupational injuries among employees (rate),,Female,,8.197773
+2022,Non-fatal occupational injuries among employees (rate),,Female,,7.2
 2007,Non-fatal occupational injuries among employees (rate),,Male,,41.775785
 2008,Non-fatal occupational injuries among employees (rate),,Male,,52.283772
 2009,Non-fatal occupational injuries among employees (rate),,Male,,38.855636
@@ -44,6 +46,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),,Male,,31.967565
 2020,Non-fatal occupational injuries among employees (rate),,Male,,51.674124
 2021,Non-fatal occupational injuries among employees (rate),,Male,,71.378157
+2022,Non-fatal occupational injuries among employees (rate),,Male,,86.9
 2007,Non-fatal occupational injuries among employees (rate),Batken,,KG05,11.184431
 2008,Non-fatal occupational injuries among employees (rate),Batken,,KG05,52.931596
 2009,Non-fatal occupational injuries among employees (rate),Batken,,KG05,25.97515
@@ -59,6 +62,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Batken,,KG05,16.981773
 2020,Non-fatal occupational injuries among employees (rate),Batken,,KG05,57.671711
 2021,Non-fatal occupational injuries among employees (rate),Batken,,KG05,69.179257
+2022,Non-fatal occupational injuries among employees (rate),Batken,,KG05,355.0
 2010,Non-fatal occupational injuries among employees (rate),Batken,Female,KG05,8.934954
 2012,Non-fatal occupational injuries among employees (rate),Batken,Female,KG05,14.155283
 2016,Non-fatal occupational injuries among employees (rate),Batken,Female,KG05,5.608525
@@ -78,6 +82,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Batken,Male,KG05,38.444288
 2020,Non-fatal occupational injuries among employees (rate),Batken,Male,KG05,126.849894
 2021,Non-fatal occupational injuries among employees (rate),Batken,Male,KG05,153.092468
+2022,Non-fatal occupational injuries among employees (rate),Batken,Male,KG05,803.8
 2007,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,57.34356
 2008,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,34.763683
 2009,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,46.934978
@@ -93,6 +98,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,14.31397
 2020,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,17.213983
 2021,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,6.194789
+2022,Non-fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,19.8
 2007,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Female,KG03,13.387777
 2008,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Female,KG03,2.896032
 2009,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Female,KG03,6.402868
@@ -122,6 +128,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,16.286203
 2020,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,35.100035
 2021,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,14.04889
+2022,Non-fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,46.8
 2007,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,21.018891
 2008,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,31.755273
 2009,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,19.005213
@@ -137,6 +144,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,7.904722
 2020,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,12.597949
 2021,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,2.536719
+2022,Non-fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,29.6
 2007,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,15.759613
 2008,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,5.282341
 2010,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,10.077598
@@ -148,6 +156,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2016,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,19.536974
 2017,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,14.912019
 2019,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,4.837695
+2022,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Female,KG02,9.0
 2007,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,26.281209
 2008,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,58.330682
 2009,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,36.972482
@@ -163,6 +172,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,11.573404
 2020,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,27.592296
 2021,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,5.611043
+2022,Non-fatal occupational injuries among employees (rate),Issyk-Kul,Male,KG02,54.6
 2007,Non-fatal occupational injuries among employees (rate),Naryn,,KG04,17.955739
 2008,Non-fatal occupational injuries among employees (rate),Naryn,,KG04,26.688017
 2009,Non-fatal occupational injuries among employees (rate),Naryn,,KG04,4.326569
@@ -227,6 +237,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Talas,,KG07,9.282465
 2020,Non-fatal occupational injuries among employees (rate),Talas,,KG07,14.186409
 2021,Non-fatal occupational injuries among employees (rate),Talas,,KG07,4.645113
+2022,Non-fatal occupational injuries among employees (rate),Talas,,KG07,18.3
 2009,Non-fatal occupational injuries among employees (rate),Talas,Female,KG07,9.474183
 2010,Non-fatal occupational injuries among employees (rate),Talas,Female,KG07,10.188487
 2014,Non-fatal occupational injuries among employees (rate),Talas,Female,KG07,19.277108
@@ -247,6 +258,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Talas,Male,KG07,20.620683
 2020,Non-fatal occupational injuries among employees (rate),Talas,Male,KG07,20.294267
 2021,Non-fatal occupational injuries among employees (rate),Talas,Male,KG07,9.596929
+2022,Non-fatal occupational injuries among employees (rate),Talas,Male,KG07,38.9
 2007,Non-fatal occupational injuries among employees (rate),Chui,,KG08,54.795253
 2008,Non-fatal occupational injuries among employees (rate),Chui,,KG08,51.255766
 2009,Non-fatal occupational injuries among employees (rate),Chui,,KG08,30.489664
@@ -262,6 +274,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Chui,,KG08,26.166728
 2020,Non-fatal occupational injuries among employees (rate),Chui,,KG08,30.257644
 2021,Non-fatal occupational injuries among employees (rate),Chui,,KG08,22.137537
+2022,Non-fatal occupational injuries among employees (rate),Chui,,KG08,24.8
 2007,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,54.193199
 2008,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,26.478376
 2009,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,15.113046
@@ -277,6 +290,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,18.453022
 2020,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,6.034093
 2021,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,3.185221
+2022,Non-fatal occupational injuries among employees (rate),Chui,Female,KG08,10.4
 2007,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,55.381207
 2008,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,74.490978
 2009,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,46.136811
@@ -292,6 +306,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,33.895171
 2020,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,54.621594
 2021,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,40.821453
+2022,Non-fatal occupational injuries among employees (rate),Chui,Male,KG08,39.7
 2007,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,25.544578
 2008,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,35.587189
 2009,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,27.549559
@@ -307,6 +322,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,37.950088
 2020,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,42.637787
 2021,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,84.992299
+2022,Non-fatal occupational injuries among employees (rate),Bishkek (city),,KG11,31.5
 2007,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,13.871389
 2008,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,27.298253
 2009,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,18.177412
@@ -322,6 +338,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,24.386199
 2020,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,28.650255
 2021,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,20.729207
+2022,Non-fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,17.6
 2007,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,39.954338
 2008,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,44.11057
 2009,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,37.118606
@@ -337,6 +354,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,52.570155
 2020,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,56.753081
 2021,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,148.062751
+2022,Non-fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,45.9
 2007,Non-fatal occupational injuries among employees (rate),Osh (city),,KG21,7.896399
 2008,Non-fatal occupational injuries among employees (rate),Osh (city),,KG21,20.263425
 2009,Non-fatal occupational injuries among employees (rate),Osh (city),,KG21,13.09209
@@ -389,6 +407,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),,,,2.932863
 2020,Fatal occupational injuries among employees (rate),,,,2.042355
 2021,Fatal occupational injuries among employees (rate),,,,3.764061
+2022,Fatal occupational injuries among employees (rate),,,,11.2
 2007,Fatal occupational injuries among employees (rate),,Female,,0.777454
 2008,Fatal occupational injuries among employees (rate),,Female,,0.411186
 2009,Fatal occupational injuries among employees (rate),,Female,,1.629361
@@ -402,6 +421,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),,Female,,0.0
 2020,Fatal occupational injuries among employees (rate),,Female,,0.353173
 2021,Fatal occupational injuries among employees (rate),,Female,,0.356425
+2022,Fatal occupational injuries among employees (rate),,Female,,0.3
 2007,Fatal occupational injuries among employees (rate),,Male,,9.433242
 2008,Fatal occupational injuries among employees (rate),,Male,,9.428221
 2009,Fatal occupational injuries among employees (rate),,Male,,8.731604
@@ -417,6 +437,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),,Male,,6.237574
 2020,Fatal occupational injuries among employees (rate),,Male,,3.914706
 2021,Fatal occupational injuries among employees (rate),,Male,,7.576452
+2022,Fatal occupational injuries among employees (rate),,Male,,24.2
 2007,Fatal occupational injuries among employees (rate),Batken,,KG05,3.728144
 2008,Fatal occupational injuries among employees (rate),Batken,,KG05,4.071661
 2009,Fatal occupational injuries among employees (rate),Batken,,KG05,21.645959
@@ -432,6 +453,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),Batken,,KG05,14.151477
 2020,Fatal occupational injuries among employees (rate),Batken,,KG05,8.238816
 2021,Fatal occupational injuries among employees (rate),Batken,,KG05,8.301511
+2022,Fatal occupational injuries among employees (rate),Batken,,KG05,119.3
 2007,Fatal occupational injuries among employees (rate),Batken,Male,KG05,7.11187
 2008,Fatal occupational injuries among employees (rate),Batken,Male,KG05,7.190106
 2009,Fatal occupational injuries among employees (rate),Batken,Male,KG05,41.52479
@@ -447,6 +469,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),Batken,Male,KG05,32.036907
 2020,Fatal occupational injuries among employees (rate),Batken,Male,KG05,18.121413
 2021,Fatal occupational injuries among employees (rate),Batken,Male,KG05,18.371096
+2022,Fatal occupational injuries among employees (rate),Batken,Male,KG05,270.0
 2007,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,3.583972
 2008,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,4.534393
 2009,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,3.352498
@@ -460,6 +483,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2017,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,13.231714
 2020,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,2.648305
 2021,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,3.716873
+2022,Fatal occupational injuries among employees (rate),Jalal-Abad,,KG03,9.9
 2013,Fatal occupational injuries among employees (rate),Jalal-Abad,Female,KG03,2.833263
 2007,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,7.714264
 2008,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,9.484367
@@ -474,6 +498,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2017,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,29.022521
 2020,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,5.850006
 2021,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,8.429334
+2022,Fatal occupational injuries among employees (rate),Jalal-Abad,Male,KG03,23.4
 2007,Fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,13.136807
 2008,Fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,2.646273
 2009,Fatal occupational injuries among employees (rate),Issyk-Kul,,KG02,16.290182
@@ -563,7 +588,9 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2018,Fatal occupational injuries among employees (rate),Talas,,KG07,4.923198
 2019,Fatal occupational injuries among employees (rate),Talas,,KG07,4.641233
 2021,Fatal occupational injuries among employees (rate),Talas,,KG07,9.290227
+2022,Fatal occupational injuries among employees (rate),Talas,,KG07,13.8
 2021,Fatal occupational injuries among employees (rate),Talas,Female,KG07,9.002521
+2022,Fatal occupational injuries among employees (rate),Talas,Female,KG07,8.7
 2007,Fatal occupational injuries among employees (rate),Talas,Male,KG07,13.294337
 2008,Fatal occupational injuries among employees (rate),Talas,Male,KG07,13.486177
 2009,Fatal occupational injuries among employees (rate),Talas,Male,KG07,12.292563
@@ -577,6 +604,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2018,Fatal occupational injuries among employees (rate),Talas,Male,KG07,10.5241
 2019,Fatal occupational injuries among employees (rate),Talas,Male,KG07,10.310341
 2021,Fatal occupational injuries among employees (rate),Talas,Male,KG07,9.596929
+2022,Fatal occupational injuries among employees (rate),Talas,Male,KG07,19.5
 2007,Fatal occupational injuries among employees (rate),Chui,,KG08,6.682348
 2008,Fatal occupational injuries among employees (rate),Chui,,KG08,9.966399
 2010,Fatal occupational injuries among employees (rate),Chui,,KG08,4.774409
@@ -620,6 +648,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),Bishkek (city),,KG11,2.024005
 2020,Fatal occupational injuries among employees (rate),Bishkek (city),,KG11,1.065945
 2021,Fatal occupational injuries among employees (rate),Bishkek (city),,KG11,2.281672
+2022,Fatal occupational injuries among employees (rate),Bishkek (city),,KG11,1.7
 2013,Fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,1.07118
 2016,Fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,1.059558
 2018,Fatal occupational injuries among employees (rate),Bishkek (city),Female,KG11,1.017491
@@ -638,6 +667,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2019,Fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,4.205612
 2020,Fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,2.141626
 2021,Fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,4.521
+2022,Fatal occupational injuries among employees (rate),Bishkek (city),Male,KG11,3.4
 2007,Fatal occupational injuries among employees (rate),Osh (city),,KG21,5.264266
 2008,Fatal occupational injuries among employees (rate),Osh (city),,KG21,7.598784
 2009,Fatal occupational injuries among employees (rate),Osh (city),,KG21,2.618418
@@ -651,6 +681,7 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2017,Fatal occupational injuries among employees (rate),Osh (city),,KG21,7.657554
 2018,Fatal occupational injuries among employees (rate),Osh (city),,KG21,2.617458
 2021,Fatal occupational injuries among employees (rate),Osh (city),,KG21,5.082076
+2022,Fatal occupational injuries among employees (rate),Osh (city),,KG21,5.0
 2007,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,10.292301
 2008,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,15.067048
 2009,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,5.023106
@@ -664,3 +695,4 @@ Year,SERIES,Reference area,Sex,GeoCode,Value
 2017,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,16.135105
 2018,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,5.567309
 2021,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,10.6
+2022,Fatal occupational injuries among employees (rate),Osh (city),Male,KG21,10.8
