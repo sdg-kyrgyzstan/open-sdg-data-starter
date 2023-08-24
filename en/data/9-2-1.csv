@@ -13,6 +13,7 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,COMMENT_TS,Value
 2018,Units,Manufacturing value added as a proportion of GDP,Percent,PT,14.3
 2019,Units,Manufacturing value added as a proportion of GDP,Percent,PT,14.7
 2020,Units,Manufacturing value added as a proportion of GDP,Percent,PT,14.5
+2021,Units,Manufacturing value added as a proportion of GDP,Percent,PT,13.5
 2007,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,2.8
 2008,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,4.9
 2009,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,5.6
@@ -27,3 +28,4 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,COMMENT_TS,Value
 2018,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,13.4
 2019,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,14.7
 2020,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,13.8
+2021,Thousands,Manufacturing value added per capita,Local currency,CUR_LCU,15.1
