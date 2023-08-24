@@ -14,6 +14,7 @@ Year,SERIES,Value
 2019,"Proportion of total government spending on essential services (education, health and social protection)",49.2
 2020,"Proportion of total government spending on essential services (education, health and social protection)",53.2
 2021,"Proportion of total government spending on essential services (education, health and social protection)",47.8
+2022,"Proportion of total government spending on essential services (education, health and social protection)",44.0
 2007,"Proportion of total government spending on essential services, education",22.4
 2008,"Proportion of total government spending on essential services, education",21.4
 2009,"Proportion of total government spending on essential services, education",19.6
@@ -29,6 +30,7 @@ Year,SERIES,Value
 2019,"Proportion of total government spending on essential services, education",21.4
 2020,"Proportion of total government spending on essential services, education",23.2
 2021,"Proportion of total government spending on essential services, education",20.7
+2022,"Proportion of total government spending on essential services, education",20.6
 2007,Proportion of total government spending on health,10.2
 2008,Proportion of total government spending on health,9.8
 2009,Proportion of total government spending on health,9.9
@@ -44,6 +46,7 @@ Year,SERIES,Value
 2019,Proportion of total government spending on health,8.3
 2020,Proportion of total government spending on health,10.0
 2021,Proportion of total government spending on health,9.8
+2022,Proportion of total government spending on health,7.9
 2007,Proportion of total government spending on social protection,10.5
 2008,Proportion of total government spending on social protection,10.3
 2009,Proportion of total government spending on social protection,9.5
@@ -59,3 +62,4 @@ Year,SERIES,Value
 2019,Proportion of total government spending on social protection,19.5
 2020,Proportion of total government spending on social protection,20.0
 2021,Proportion of total government spending on social protection,17.3
+2022,Proportion of total government spending on social protection,15.5

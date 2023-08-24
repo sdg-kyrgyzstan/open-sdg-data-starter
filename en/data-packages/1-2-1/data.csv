@@ -14,6 +14,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,,,,20.124198
 2020,,,,,,25.3
 2021,,,,,,33.262233
+2022,,,,,,33.152856
 2007,,Female,,,,34.7
 2008,,Female,,,,31.4
 2009,,Female,,,,30.7
@@ -29,6 +30,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,Female,,,,20.078519
 2020,,Female,,,,25.3
 2021,,Female,,,,33.107334
+2022,,Female,,,,32.831914
 2007,,Male,,,,35.4
 2008,,Male,,,,32.1
 2009,,Male,,,,32.9
@@ -44,6 +46,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,Male,,,,20.175708
 2020,,Male,,,,25.3
 2021,,Male,,,,33.434792
+2022,,Male,,,,33.509346
 2010,,,,Urban,,23.6
 2014,,,,Urban,,26.9
 2015,,,,Urban,,29.3
@@ -53,6 +56,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,,Urban,,14.7
 2020,,,,Urban,,18.3
 2021,,,,Urban,,33.257744
+2022,,,,Urban,,34.041195
 2010,,,,Rural,,39.5
 2014,,,,Rural,,32.6
 2015,,,,Rural,,33.6
@@ -62,6 +66,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,,Rural,,23.2
 2020,,,,Rural,,29.3
 2021,,,,Rural,,33.264901
+2022,,,,Rural,,32.636018
 2013,,,under 17 years old,,,45.2
 2014,,,under 17 years old,,,37.9
 2015,,,under 17 years old,,,40.5
@@ -71,6 +76,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,under 17 years old,,,25.7
 2020,,,under 17 years old,,,31.8
 2021,,,under 17 years old,,,40.506762
+2022,,,under 17 years old,,,40.271414
 2013,,,14 to 28 years old,,,35.6
 2014,,,14 to 28 years old,,,28.5
 2015,,,14 to 28 years old,,,29.0
@@ -80,6 +86,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,14 to 28 years old,,,16.2
 2020,,,14 to 28 years old,,,22.0
 2021,,,14 to 28 years old,,,31.172875
+2022,,,14 to 28 years old,,,31.568157
 2013,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,33.3
 2014,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,27.0
 2015,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,27.9
@@ -89,6 +96,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,17.117237
 2020,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,21.7
 2021,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,29.650855
+2022,,,"16 to 62 years old (working age population: women 16-57 years old, men 16-62 years old)",,,30.277813
 2013,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,25.2
 2014,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,21.3
 2015,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,21.8
@@ -98,6 +106,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,13.285424
 2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,17.8
 2021,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,24.097659
+2022,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,22.733608
 2007,Batken,,,,KG05,40.40248
 2008,Batken,,,,KG05,20.74156
 2009,Batken,,,,KG05,31.472533
@@ -113,6 +122,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Batken,,,,KG05,32.600278
 2020,Batken,,,,KG05,34.7
 2021,Batken,,,,KG05,40.671538
+2022,Batken,,,,KG05,48.492371
 2007,Batken,Female,,,KG05,41.298197
 2008,Batken,Female,,,KG05,22.400607
 2009,Batken,Female,,,KG05,31.273921
@@ -128,6 +138,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Batken,Female,,,KG05,32.424874
 2020,Batken,Female,,,KG05,34.3
 2021,Batken,Female,,,KG05,40.835744
+2022,Batken,Female,,,KG05,46.987664
 2007,Batken,Male,,,KG05,39.381264
 2008,Batken,Male,,,KG05,18.757343
 2009,Batken,Male,,,KG05,31.703885
@@ -143,6 +154,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Batken,Male,,,KG05,32.79437
 2020,Batken,Male,,,KG05,35.1
 2021,Batken,Male,,,KG05,40.494323
+2022,Batken,Male,,,KG05,50.118899
 2007,Jalal-Abad,,,,KG03,53.037853
 2008,Jalal-Abad,,,,KG03,40.086271
 2009,Jalal-Abad,,,,KG03,36.873144
@@ -158,6 +170,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Jalal-Abad,,,,KG03,26.949229
 2020,Jalal-Abad,,,,KG03,37.2
 2021,Jalal-Abad,,,,KG03,43.213902
+2022,Jalal-Abad,,,,KG03,47.142901
 2007,Jalal-Abad,Female,,,KG03,51.581913
 2008,Jalal-Abad,Female,,,KG03,37.898731
 2009,Jalal-Abad,Female,,,KG03,33.475027
@@ -173,6 +186,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Jalal-Abad,Female,,,KG03,27.837054
 2020,Jalal-Abad,Female,,,KG03,39.0
 2021,Jalal-Abad,Female,,,KG03,43.253397
+2022,Jalal-Abad,Female,,,KG03,47.199947
 2007,Jalal-Abad,Male,,,KG03,54.569086
 2008,Jalal-Abad,Male,,,KG03,42.427936
 2009,Jalal-Abad,Male,,,KG03,40.528056
@@ -188,6 +202,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Jalal-Abad,Male,,,KG03,26.006375
 2020,Jalal-Abad,Male,,,KG03,35.4
 2021,Jalal-Abad,Male,,,KG03,43.172054
+2022,Jalal-Abad,Male,,,KG03,47.082026
 2007,Issyk-Kul,,,,KG02,38.587156
 2008,Issyk-Kul,,,,KG02,52.243736
 2009,Issyk-Kul,,,,KG02,46.090374
@@ -203,6 +218,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Issyk-Kul,,,,KG02,24.449709
 2020,Issyk-Kul,,,,KG02,27.9
 2021,Issyk-Kul,,,,KG02,38.130315
+2022,Issyk-Kul,,,,KG02,31.240016
 2007,Issyk-Kul,Female,,,KG02,38.684594
 2008,Issyk-Kul,Female,,,KG02,52.152947
 2009,Issyk-Kul,Female,,,KG02,47.889059
@@ -218,6 +234,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Issyk-Kul,Female,,,KG02,25.261408
 2020,Issyk-Kul,Female,,,KG02,29.0
 2021,Issyk-Kul,Female,,,KG02,39.052987
+2022,Issyk-Kul,Female,,,KG02,31.228686
 2007,Issyk-Kul,Male,,,KG02,38.498843
 2008,Issyk-Kul,Male,,,KG02,52.32036
 2009,Issyk-Kul,Male,,,KG02,44.51291
@@ -233,6 +250,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Issyk-Kul,Male,,,KG02,23.571244
 2020,Issyk-Kul,Male,,,KG02,26.7
 2021,Issyk-Kul,Male,,,KG02,37.162402
+2022,Issyk-Kul,Male,,,KG02,31.252112
 2007,Naryn,,,,KG04,45.182679
 2008,Naryn,,,,KG04,42.730284
 2009,Naryn,,,,KG04,44.11792
@@ -248,6 +266,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Naryn,,,,KG04,28.138698
 2020,Naryn,,,,KG04,36.8
 2021,Naryn,,,,KG04,39.151777
+2022,Naryn,,,,KG04,42.049858
 2007,Naryn,Female,,,KG04,46.868159
 2008,Naryn,Female,,,KG04,42.698866
 2009,Naryn,Female,,,KG04,44.838863
@@ -263,6 +282,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Naryn,Female,,,KG04,28.978045
 2020,Naryn,Female,,,KG04,37.6
 2021,Naryn,Female,,,KG04,39.257524
+2022,Naryn,Female,,,KG04,42.689244
 2007,Naryn,Male,,,KG04,43.678265
 2008,Naryn,Male,,,KG04,42.757725
 2009,Naryn,Male,,,KG04,43.496308
@@ -278,6 +298,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Naryn,Male,,,KG04,27.215175
 2020,Naryn,Male,,,KG04,35.9
 2021,Naryn,Male,,,KG04,39.034895
+2022,Naryn,Male,,,KG04,41.380597
 2007,Osh,,,,KG06,46.59161
 2008,Osh,,,,KG06,37.452826
 2009,Osh,,,,KG06,38.292036
@@ -293,6 +314,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh,,,,KG06,14.029578
 2020,Osh,,,,KG06,18.8
 2021,Osh,,,,KG06,23.758245
+2022,Osh,,,,KG06,19.945481
 2007,Osh,Female,,,KG06,48.708186
 2008,Osh,Female,,,KG06,37.931554
 2009,Osh,Female,,,KG06,38.334636
@@ -308,6 +330,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh,Female,,,KG06,14.136274
 2020,Osh,Female,,,KG06,18.9
 2021,Osh,Female,,,KG06,23.60099
+2022,Osh,Female,,,KG06,20.799188
 2007,Osh,Male,,,KG06,44.295394
 2008,Osh,Male,,,KG06,36.91306
 2009,Osh,Male,,,KG06,38.245332
@@ -323,6 +346,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh,Male,,,KG06,13.910068
 2020,Osh,Male,,,KG06,18.7
 2021,Osh,Male,,,KG06,23.928052
+2022,Osh,Male,,,KG06,19.013188
 2007,Talas,,,,KG07,35.259053
 2008,Talas,,,,KG07,42.972123
 2009,Talas,,,,KG07,33.003964
@@ -338,6 +362,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Talas,,,,KG07,13.290366
 2020,Talas,,,,KG07,12.5
 2021,Talas,,,,KG07,23.479874
+2022,Talas,,,,KG07,23.919779
 2007,Talas,Female,,,KG07,35.524401
 2008,Talas,Female,,,KG07,45.40342
 2009,Talas,Female,,,KG07,35.673722
@@ -353,6 +378,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Talas,Female,,,KG07,13.968631
 2020,Talas,Female,,,KG07,12.1
 2021,Talas,Female,,,KG07,24.191255
+2022,Talas,Female,,,KG07,23.962041
 2007,Talas,Male,,,KG07,34.937966
 2008,Talas,Male,,,KG07,40.025342
 2009,Talas,Male,,,KG07,29.757565
@@ -368,6 +394,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Talas,Male,,,KG07,12.593674
 2020,Talas,Male,,,KG07,12.9
 2021,Talas,Male,,,KG07,22.759796
+2022,Talas,Male,,,KG07,23.876854
 2007,Chui,,,,KG08,14.980994
 2008,Chui,,,,KG08,15.782631
 2009,Chui,,,,KG08,21.239381
@@ -383,6 +410,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Chui,,,,KG08,19.096515
 2020,Chui,,,,KG08,25.4
 2021,Chui,,,,KG08,27.00352
+2022,Chui,,,,KG08,26.113585
 2007,Chui,Female,,,KG08,13.323177
 2008,Chui,Female,,,KG08,14.947409
 2009,Chui,Female,,,KG08,20.612283
@@ -398,6 +426,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Chui,Female,,,KG08,19.149802
 2020,Chui,Female,,,KG08,24.3
 2021,Chui,Female,,,KG08,26.499911
+2022,Chui,Female,,,KG08,25.651528
 2007,Chui,Male,,,KG08,16.816017
 2008,Chui,Male,,,KG08,16.656433
 2009,Chui,Male,,,KG08,21.936014
@@ -413,6 +442,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Chui,Male,,,KG08,19.037373
 2020,Chui,Male,,,KG08,26.6
 2021,Chui,Male,,,KG08,27.572067
+2022,Chui,Male,,,KG08,26.620974
 2007,Bishkek (city),,,,KG11,5.005041
 2008,Bishkek (city),,,,KG11,15.199877
 2009,Bishkek (city),,,,KG11,13.244359
@@ -428,6 +458,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Bishkek (city),,,,KG11,11.923173
 2020,Bishkek (city),,,,KG11,16.8
 2021,Bishkek (city),,,,KG11,35.769119
+2022,Bishkek (city),,,,KG11,35.676666
 2007,Bishkek (city),Female,,,KG11,4.99107
 2008,Bishkek (city),Female,,,KG11,14.580408
 2009,Bishkek (city),Female,,,KG11,12.694536
@@ -443,6 +474,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Bishkek (city),Female,,,KG11,10.945122
 2020,Bishkek (city),Female,,,KG11,16.4
 2021,Bishkek (city),Female,,,KG11,35.037028
+2022,Bishkek (city),Female,,,KG11,34.026767
 2007,Bishkek (city),Male,,,KG11,5.022346
 2008,Bishkek (city),Male,,,KG11,15.989713
 2009,Bishkek (city),Male,,,KG11,13.950363
@@ -458,6 +490,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Bishkek (city),Male,,,KG11,13.205044
 2020,Bishkek (city),Male,,,KG11,17.3
 2021,Bishkek (city),Male,,,KG11,36.714713
+2022,Bishkek (city),Male,,,KG11,37.792274
 2007,Osh (city),,,,KG21,0.0
 2008,Osh (city),,,,KG21,0.0
 2009,Osh (city),,,,KG21,0.0
@@ -473,6 +506,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh (city),,,,KG21,20.664792
 2020,Osh (city),,,,KG21,14.7
 2021,Osh (city),,,,KG21,28.585005
+2022,Osh (city),,,,KG21,26.602386
 2007,Osh (city),Female,,,KG21,0.0
 2008,Osh (city),Female,,,KG21,0.0
 2009,Osh (city),Female,,,KG21,0.0
@@ -488,6 +522,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh (city),Female,,,KG21,19.658728
 2020,Osh (city),Female,,,KG21,14.7
 2021,Osh (city),Female,,,KG21,27.745517
+2022,Osh (city),Female,,,KG21,25.585637
 2007,Osh (city),Male,,,KG21,0.0
 2008,Osh (city),Male,,,KG21,0.0
 2009,Osh (city),Male,,,KG21,0.0
@@ -503,3 +538,4 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2019,Osh (city),Male,,,KG21,21.814125
 2020,Osh (city),Male,,,KG21,14.8
 2021,Osh (city),Male,,,KG21,29.549902
+2022,Osh (city),Male,,,KG21,27.750207
