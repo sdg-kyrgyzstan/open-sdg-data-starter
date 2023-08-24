@@ -4641,6 +4641,18 @@
             "title": "Территория"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Городская",
+                "Сельская",
+                ""
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
