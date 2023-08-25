@@ -14,6 +14,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,,25.6
 2020,,23.8
 2021,,26.8
+2022,,26.8
 2007,Income: Tax revenues,18.7
 2008,Income: Tax revenues,19.1
 2009,Income: Tax revenues,17.9
@@ -29,6 +30,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Income: Tax revenues,18.6
 2020,Income: Tax revenues,16.7
 2021,Income: Tax revenues,19.3
+2022,Income: Tax revenues,19.3
 2016,Income: Contributions / deductions for social needs,0.0
 2017,Income: Contributions / deductions for social needs,0.5
 2007,Income: Received official transfers,1.3
@@ -46,6 +48,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Income: Received official transfers,2.1
 2020,Income: Received official transfers,1.8
 2021,Income: Received official transfers,1.8
+2022,Income: Received official transfers,1.8
 2007,Income: Non-tax revenues,5.1
 2008,Income: Non-tax revenues,4.4
 2009,Income: Non-tax revenues,4.5
@@ -61,6 +64,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Income: Non-tax revenues,4.9
 2020,Income: Non-tax revenues,5.2
 2021,Income: Non-tax revenues,5.7
+2022,Income: Non-tax revenues,5.7
 2007,Income: Income from sale of non-financial assets,0.3
 2008,Income: Income from sale of non-financial assets,0.6
 2009,Income: Income from sale of non-financial assets,0.1
@@ -76,3 +80,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Income: Income from sale of non-financial assets,0.0
 2020,Income: Income from sale of non-financial assets,0.0
 2021,Income: Income from sale of non-financial assets,0.0
+2022,Income: Income from sale of non-financial assets,0.0
