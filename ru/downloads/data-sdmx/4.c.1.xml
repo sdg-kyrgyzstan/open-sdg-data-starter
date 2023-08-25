@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1692874381781</message:ID>
+    <message:ID>IREF1692950383406</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-08-24T10:53:01Z</message:Prepared>
+    <message:Prepared>2023-08-25T07:59:43Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -19,6 +19,8 @@
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_TRA_GRDL" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_TCH_PR_SCH_EDU" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="87.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="89.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="87.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012"></Obs>
     <Obs TIME_PERIOD="2013" OBS_VALUE="88.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
     <Obs TIME_PERIOD="2014" OBS_VALUE="89.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014"></Obs>
     <Obs TIME_PERIOD="2015" OBS_VALUE="94.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015"></Obs>
@@ -32,6 +34,8 @@
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_TRA_GRDL" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_TCH_PR_SCH_1_4" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="93.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="93.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="93.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012"></Obs>
     <Obs TIME_PERIOD="2013" OBS_VALUE="94.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
     <Obs TIME_PERIOD="2014" OBS_VALUE="94.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014"></Obs>
     <Obs TIME_PERIOD="2015" OBS_VALUE="95" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015"></Obs>
@@ -45,6 +49,8 @@
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_TRA_GRDL" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_TCH_PR_SEC_SCH_5_11" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="92.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="92.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="94.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2012"></Obs>
     <Obs TIME_PERIOD="2013" OBS_VALUE="94.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
     <Obs TIME_PERIOD="2014" OBS_VALUE="95.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2014"></Obs>
     <Obs TIME_PERIOD="2015" OBS_VALUE="95.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015"></Obs>
