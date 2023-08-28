@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <!--Created with SDMX Converter v7.7.2-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1693222672869</message:ID>
+    <message:ID>IREF1642161256336</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-08-28T11:37:52Z</message:Prepared>
-    <message:Sender id="KG_NSC">
+    <message:Prepared>2022-01-14T11:54:16Z</message:Prepared>
+    <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
-    <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+    <message:Structure structureID="KG_NSC_SDG_1_6" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.6):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.7"></Ref>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.6"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
-  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_6" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="23.470187" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2016" OBS_VALUE="28.487981" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -24,8 +24,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="27.299499" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="28.931149" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="25.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="34.075233" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="35.305353" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG05" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="29.364645" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -34,8 +32,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="42.644557" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="38.677928" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="39.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="44.487603" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="49.315496" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG03" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="43.58955" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -44,8 +40,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="32.708436" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="34.657679" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="35.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="40.668697" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="45.444207" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG02" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="-1.504559" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -54,8 +48,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="19.463418" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="31.583101" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="42.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="50.797012" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="46.810604" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG04" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="20.617825" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -64,8 +56,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="30.739784" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="47.289369" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="37.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="46.848562" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="45.450816" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG06" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="34.255749" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -74,8 +64,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="27.856595" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="37.990784" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="40.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="44.458036" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="50.474514" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG07" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="36.443189" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -84,8 +72,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="34.060446" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="29.962169" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="36.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="40.532202" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="40.147962" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG08" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="31.422096" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -94,8 +80,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="35.486614" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="23.647168" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="24.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="33.353176" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="29.735684" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG11" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="9.584576" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -104,8 +88,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="12.865469" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="16.50586" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="-8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="10.464053" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="12.912088" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_160602_1A" REF_AREA="KG21" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="16.932905" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2015" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
@@ -114,8 +96,6 @@
     <Obs TIME_PERIOD="2018" OBS_VALUE="38.281575" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2019" OBS_VALUE="31.381882" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="38.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="43.479083" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="41.117034" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="Source: National Statistical Committee, a survey of the population to determine the level of public confidence in the state Executive authorities."></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
