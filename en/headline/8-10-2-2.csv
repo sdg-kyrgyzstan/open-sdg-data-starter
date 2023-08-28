@@ -11,6 +11,7 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2019,20.0,Units,Number,Number of insurance companies reporting
 2020,15.0,Units,Number,Number of insurance companies reporting
 2021,14.0,Units,Number,Number of insurance companies reporting
+2022,15.0,Units,Number,Number of insurance companies reporting
 2010,477.2,Millions,Local currency,Insurance premiums collected
 2011,292.9,Millions,Local currency,Insurance premiums collected
 2012,337.8,Millions,Local currency,Insurance premiums collected
@@ -23,3 +24,4 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2019,1308.1,Millions,Local currency,Insurance premiums collected
 2020,1308.3,Millions,Local currency,Insurance premiums collected
 2021,1252.8,Millions,Local currency,Insurance premiums collected
+2022,2130.4,Millions,Local currency,Insurance premiums collected

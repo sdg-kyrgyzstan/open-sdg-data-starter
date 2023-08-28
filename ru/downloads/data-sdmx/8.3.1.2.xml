@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1660564446873</message:ID>
+    <message:ID>IREF1693222297867</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2022-08-15T11:54:06Z</message:Prepared>
-    <message:Sender id="NSC_KG">
+    <message:Prepared>2023-08-28T11:31:37Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_7" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -27,6 +27,7 @@
     <Obs TIME_PERIOD="2019" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="2.821855" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="2.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="2.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_080301_22" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2013" OBS_VALUE="1.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2013"></Obs>
@@ -38,6 +39,7 @@
     <Obs TIME_PERIOD="2019" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="1.300507" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="1.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

@@ -13,6 +13,8 @@ Year,Reference area,GeoCode,Value
 2018,,,2.3
 2019,,,2.0
 2020,,,2.1
+2021,,,2.5
+2022,,,2.6
 2007,Batken,KG05,1.9
 2008,Batken,KG05,1.9
 2009,Batken,KG05,2.1
@@ -27,6 +29,8 @@ Year,Reference area,GeoCode,Value
 2018,Batken,KG05,1.5
 2019,Batken,KG05,1.9
 2020,Batken,KG05,2.4
+2021,Batken,KG05,2.5
+2022,Batken,KG05,1.8
 2007,Jalal-Abad,KG03,1.7
 2008,Jalal-Abad,KG03,2.5
 2009,Jalal-Abad,KG03,3.6
@@ -41,6 +45,8 @@ Year,Reference area,GeoCode,Value
 2018,Jalal-Abad,KG03,1.7
 2019,Jalal-Abad,KG03,1.4
 2020,Jalal-Abad,KG03,1.4
+2021,Jalal-Abad,KG03,1.6
+2022,Jalal-Abad,KG03,2.6
 2007,Issyk-Kul,KG02,8.3
 2008,Issyk-Kul,KG02,7.1
 2009,Issyk-Kul,KG02,7.3
@@ -55,6 +61,8 @@ Year,Reference area,GeoCode,Value
 2018,Issyk-Kul,KG02,3.9
 2019,Issyk-Kul,KG02,5.1
 2020,Issyk-Kul,KG02,3.2
+2021,Issyk-Kul,KG02,3.6
+2022,Issyk-Kul,KG02,1.9
 2007,Naryn,KG04,5.1
 2008,Naryn,KG04,6.2
 2009,Naryn,KG04,6.2
@@ -69,6 +77,8 @@ Year,Reference area,GeoCode,Value
 2018,Naryn,KG04,2.1
 2019,Naryn,KG04,3.8
 2020,Naryn,KG04,2.4
+2021,Naryn,KG04,5.8
+2022,Naryn,KG04,3.9
 2007,Osh,KG06,2.7
 2008,Osh,KG06,2.7
 2009,Osh,KG06,3.5
@@ -83,6 +93,8 @@ Year,Reference area,GeoCode,Value
 2018,Osh,KG06,2.0
 2019,Osh,KG06,1.1
 2020,Osh,KG06,0.8
+2021,Osh,KG06,1.1
+2022,Osh,KG06,3.2
 2007,Talas,KG07,2.2
 2008,Talas,KG07,6.7
 2009,Talas,KG07,3.1
@@ -97,6 +109,8 @@ Year,Reference area,GeoCode,Value
 2018,Talas,KG07,0.8
 2019,Talas,KG07,3.0
 2020,Talas,KG07,2.2
+2021,Talas,KG07,1.1
+2022,Talas,KG07,3.3
 2007,Chui,KG08,14.9
 2008,Chui,KG08,12.7
 2009,Chui,KG08,13.9
@@ -111,6 +125,8 @@ Year,Reference area,GeoCode,Value
 2018,Chui,KG08,3.7
 2019,Chui,KG08,2.5
 2020,Chui,KG08,4.5
+2021,Chui,KG08,5.1
+2022,Chui,KG08,2.5
 2007,Bishkek (city),KG11,8.1
 2008,Bishkek (city),KG11,7.0
 2009,Bishkek (city),KG11,7.9
@@ -125,6 +141,8 @@ Year,Reference area,GeoCode,Value
 2018,Bishkek (city),KG11,2.3
 2019,Bishkek (city),KG11,1.2
 2020,Bishkek (city),KG11,1.4
+2021,Bishkek (city),KG11,2.3
+2022,Bishkek (city),KG11,1.9
 2007,Osh (city),KG21,7.8
 2008,Osh (city),KG21,3.1
 2009,Osh (city),KG21,5.4
@@ -139,3 +157,5 @@ Year,Reference area,GeoCode,Value
 2018,Osh (city),KG21,1.7
 2019,Osh (city),KG21,2.0
 2020,Osh (city),KG21,3.2
+2021,Osh (city),KG21,2.1
+2022,Osh (city),KG21,2.5
