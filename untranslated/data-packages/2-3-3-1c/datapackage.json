@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

@@ -14,6 +14,7 @@ Year,Value,SERIES
 2019,10.95936,Proportion of population receiving retirement benefits to total population
 2020,11.086874,Proportion of population receiving retirement benefits to total population
 2021,11.239761,Proportion of population receiving retirement benefits to total population
+2022,11.328549,Proportion of population receiving retirement benefits to total population
 2007,8.277782,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
 2008,6.836681,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
 2009,6.915016,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
@@ -29,6 +30,7 @@ Year,Value,SERIES
 2019,4.7,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
 2020,5.1,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
 2021,5.328736,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
+2022,4.9,Proportion of population receiving Monthly Allowance for Low-Income Families to total population
 2007,1.124026,Proportion of population receiving social assistance
 2008,1.150702,Proportion of population receiving social assistance
 2009,1.176048,Proportion of population receiving social assistance
@@ -44,3 +46,4 @@ Year,Value,SERIES
 2019,1.4,Proportion of population receiving social assistance
 2020,1.4,Proportion of population receiving social assistance
 2021,1.46836,Proportion of population receiving social assistance
+2022,1.5,Proportion of population receiving social assistance

@@ -28,17 +28,6 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

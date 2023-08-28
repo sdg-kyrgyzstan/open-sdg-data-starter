@@ -9,8 +9,9 @@ Year,Value,SERIES
 2017,1382,Number of women who contacted forensic medical units due to domestic violence
 2018,1305,Number of women who contacted forensic medical units due to domestic violence
 2019,1764,Number of women who contacted forensic medical units due to domestic violence
-2020,1713,Number of women who contacted forensic medical units due to domestic violence
-2021,1860,Number of women who contacted forensic medical units due to domestic violence
+2020,1701,Number of women who contacted forensic medical units due to domestic violence
+2021,1604,Number of women who contacted forensic medical units due to domestic violence
+2022,1373,Number of women who contacted forensic medical units due to domestic violence
 2010,68,Number of women who contacted paramedic-midwifery units due to domestic violence
 2011,155,Number of women who contacted paramedic-midwifery units due to domestic violence
 2012,16,Number of women who contacted paramedic-midwifery units due to domestic violence
@@ -46,6 +47,8 @@ and preventive care, due to domestic violence"
 and preventive care, due to domestic violence"
 2021,510,"Number of women who contacted healthcare organizations that provide health
 and preventive care, due to domestic violence"
+2022,117,"Number of women who contacted healthcare organizations that provide health
+and preventive care, due to domestic violence"
 2010,414,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
 2011,320,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
 2012,498,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
@@ -58,6 +61,7 @@ and preventive care, due to domestic violence"
 2019,211,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
 2020,180,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
 2021,178,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
+2022,154,"Number of women who contacted ambulance stations (units, hospitals) due to domestic violence"
 2010,445,Number of women treated for injuries resulting from domestic violence
 2011,491,Number of women treated for injuries resulting from domestic violence
 2012,504,Number of women treated for injuries resulting from domestic violence
@@ -70,3 +74,4 @@ and preventive care, due to domestic violence"
 2019,939,Number of women treated for injuries resulting from domestic violence
 2020,798,Number of women treated for injuries resulting from domestic violence
 2021,822,Number of women treated for injuries resulting from domestic violence
+2022,885,Number of women treated for injuries resulting from domestic violence

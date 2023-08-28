@@ -1508,17 +1508,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2903,17 +2892,6 @@
               ]
             },
             "title": "Composite breakdown"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",
@@ -6140,17 +6118,6 @@
               ]
             },
             "title": "Type of product"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

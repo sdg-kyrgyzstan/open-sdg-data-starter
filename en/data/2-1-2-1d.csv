@@ -1,45 +1,56 @@
-Year,Type of product,Observation-level footnotes,Value
-2018,Grain and processed products,,16.6
-2019,Grain and processed products,,18.7
-2020,Grain and processed products,,21.6
-2021,Grain and processed products,* Предварительные данные,34.2
-2018,Wheat and wheat products in flour equivalent,,47.3
-2019,Wheat and wheat products in flour equivalent,,52.8
-2020,Wheat and wheat products in flour equivalent,,57.6
-2021,Wheat and wheat products in flour equivalent,* Предварительные данные,100.1
-2018,Fruits-berries and processed products,,37.9
-2019,Fruits-berries and processed products,,68.8
-2020,Fruits-berries and processed products,,46.1
-2021,Fruits-berries and processed products,* Предварительные данные,65.1
-2018,Potatoes and processed products,,0.7
-2019,Potatoes and processed products,,1.0
-2020,Potatoes and processed products,,1.3
-2021,Potatoes and processed products,* Предварительные данные,2.7
-2018,Vegetables and processed products,,3.9
-2019,Vegetables and processed products,,6.0
-2020,Vegetables and processed products,,7.0
-2021,Vegetables and processed products,* Предварительные данные,8.7
-2018,"Meat and meat products in meat equivalent, including bacon and offal",,15.0
-2019,"Meat and meat products in meat equivalent, including bacon and offal",,18.7
-2020,"Meat and meat products in meat equivalent, including bacon and offal",,16.6
-2021,"Meat and meat products in meat equivalent, including bacon and offal",* Предварительные данные,19.1
-2018,Milk and dairy products in milk equivalent,,1.0
-2019,Milk and dairy products in milk equivalent,,1.8
-2020,Milk and dairy products in milk equivalent,,3.2
-2021,Milk and dairy products in milk equivalent,* Предварительные данные,1.2
-2018,Eggs and their processed products,,0.6
-2019,Eggs and their processed products,,6.8
-2020,Eggs and their processed products,,11.6
-2021,Eggs and their processed products,* Предварительные данные,16.9
-2018,Sugar,,66.9
-2019,Sugar,,56.2
-2020,Sugar,,49.7
-2021,Sugar,* Предварительные данные,147.5
-2018,Vegetable oils,,396.6
-2019,Vegetable oils,,528.7
-2020,Vegetable oils,,1725.0
-2021,Vegetable oils,* Предварительные данные,1088.0
-2018,Fish and their processed products,,171.2
-2019,Fish and their processed products,,109.8
-2020,Fish and their processed products,,84.6
-2021,Fish and their processed products,* Предварительные данные,29.9
+Year,Type of product,Value
+2018,Grain and processed products,16.6
+2019,Grain and processed products,18.7
+2020,Grain and processed products,21.6
+2021,Grain and processed products,35.5
+2022,Grain and processed products,32.9
+2018,Wheat and wheat products in flour equivalent,47.3
+2019,Wheat and wheat products in flour equivalent,52.8
+2020,Wheat and wheat products in flour equivalent,57.6
+2021,Wheat and wheat products in flour equivalent,104.9
+2022,Wheat and wheat products in flour equivalent,75.4
+2018,Fruits-berries and processed products,37.9
+2019,Fruits-berries and processed products,68.8
+2020,Fruits-berries and processed products,46.1
+2021,Fruits-berries and processed products,66.5
+2022,Fruits-berries and processed products,66.1
+2018,Potatoes and processed products,0.7
+2019,Potatoes and processed products,1.0
+2020,Potatoes and processed products,1.3
+2021,Potatoes and processed products,2.7
+2022,Potatoes and processed products,3.2
+2018,Vegetables and processed products,3.9
+2019,Vegetables and processed products,6.0
+2020,Vegetables and processed products,7.0
+2021,Vegetables and processed products,8.7
+2022,Vegetables and processed products,10.6
+2018,"Meat and meat products in meat equivalent, including bacon and offal",15.0
+2019,"Meat and meat products in meat equivalent, including bacon and offal",18.7
+2020,"Meat and meat products in meat equivalent, including bacon and offal",16.6
+2021,"Meat and meat products in meat equivalent, including bacon and offal",19.2
+2022,"Meat and meat products in meat equivalent, including bacon and offal",23.5
+2018,Milk and dairy products in milk equivalent,1.0
+2019,Milk and dairy products in milk equivalent,1.8
+2020,Milk and dairy products in milk equivalent,3.2
+2021,Milk and dairy products in milk equivalent,1.8
+2022,Milk and dairy products in milk equivalent,1.8
+2018,Eggs and their processed products,0.6
+2019,Eggs and their processed products,6.8
+2020,Eggs and their processed products,11.6
+2021,Eggs and their processed products,16.3
+2022,Eggs and their processed products,29.2
+2018,Sugar,66.9
+2019,Sugar,56.2
+2020,Sugar,49.7
+2021,Sugar,142.6
+2022,Sugar,110.7
+2018,Vegetable oils,396.6
+2019,Vegetable oils,528.7
+2020,Vegetable oils,1725.0
+2021,Vegetable oils,1018.6
+2022,Vegetable oils,1120.0
+2018,Fish and their processed products,171.2
+2019,Fish and their processed products,109.8
+2020,Fish and their processed products,84.6
+2021,Fish and their processed products,30.1
+2022,Fish and their processed products,14.5

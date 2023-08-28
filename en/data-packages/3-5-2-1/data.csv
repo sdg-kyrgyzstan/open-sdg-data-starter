@@ -9,6 +9,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,,,,18.446484
 2020,,,,15.121199
 2021,,,,16.601754
+2022,,,,11.927943
 2010,,Female,,13.1
 2013,,Female,,7.4
 2014,,Female,,5.7
@@ -19,6 +20,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,,Female,,4.918696
 2020,,Female,,4.041802
 2021,,Female,,7.357653
+2022,,Female,,3.090974
 2010,,Male,,95.6
 2013,,Male,,55.6
 2014,,Male,,49.5
@@ -29,6 +31,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,,Male,,32.182344
 2020,,Male,,26.038712
 2021,,Male,,25.982831
+2022,,Male,,20.96368
 2010,Batken,,KG05,27.4
 2013,Batken,,KG05,27.4
 2014,Batken,,KG05,22.1
@@ -39,6 +42,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Batken,,KG05,7.71772
 2020,Batken,,KG05,6.632204
 2021,Batken,,KG05,4.697805
+2022,Batken,,KG05,4.600272
 2010,Batken,Female,KG05,1.9
 2013,Batken,Female,KG05,0.4
 2014,Batken,Female,KG05,0.4
@@ -49,6 +53,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Batken,Female,KG05,1.918612
 2020,Batken,Female,KG05,0.723374
 2021,Batken,Female,KG05,0.368205
+2022,Batken,Female,KG05,0.0
 2010,Batken,Male,KG05,52.2
 2013,Batken,Male,KG05,53.4
 2014,Batken,Male,KG05,43.1
@@ -59,6 +64,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Batken,Male,KG05,13.301803
 2020,Batken,Male,KG05,12.766405
 2021,Batken,Male,KG05,8.869589
+2022,Batken,Male,KG05,9.112831
 2010,Jalal-Abad,,KG03,17.2
 2013,Jalal-Abad,,KG03,14.2
 2014,Jalal-Abad,,KG03,14.3
@@ -69,6 +75,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Jalal-Abad,,KG03,4.565495
 2020,Jalal-Abad,,KG03,3.440873
 2021,Jalal-Abad,,KG03,4.87638
+2022,Jalal-Abad,,KG03,3.539199
 2010,Jalal-Abad,Female,KG03,1.2
 2013,Jalal-Abad,Female,KG03,0.9
 2014,Jalal-Abad,Female,KG03,1.4
@@ -79,6 +86,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Jalal-Abad,Female,KG03,0.4923
 2020,Jalal-Abad,Female,KG03,0.31798
 2021,Jalal-Abad,Female,KG03,0.63362
+2022,Jalal-Abad,Female,KG03,0.309553
 2010,Jalal-Abad,Male,KG03,33.2
 2013,Jalal-Abad,Male,KG03,27.3
 2014,Jalal-Abad,Male,KG03,27.1
@@ -89,6 +97,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Jalal-Abad,Male,KG03,8.587057
 2020,Jalal-Abad,Male,KG03,6.605318
 2021,Jalal-Abad,Male,KG03,9.06049
+2022,Jalal-Abad,Male,KG03,6.731575
 2010,Issyk-Kul,,KG02,19.0
 2013,Issyk-Kul,,KG02,21.5
 2014,Issyk-Kul,,KG02,14.3
@@ -99,6 +108,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Issyk-Kul,,KG02,6.086341
 2020,Issyk-Kul,,KG02,3.807684
 2021,Issyk-Kul,,KG02,6.151807
+2022,Issyk-Kul,,KG02,3.917333
 2010,Issyk-Kul,Female,KG02,3.1
 2013,Issyk-Kul,Female,KG02,3.0
 2014,Issyk-Kul,Female,KG02,3.9
@@ -109,6 +119,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Issyk-Kul,Female,KG02,1.21241
 2020,Issyk-Kul,Female,KG02,0.402445
 2021,Issyk-Kul,Female,KG02,2.766241
+2022,Issyk-Kul,Female,KG02,0.74448
 2010,Issyk-Kul,Male,KG02,35.1
 2013,Issyk-Kul,Male,KG02,40.2
 2014,Issyk-Kul,Male,KG02,24.9
@@ -119,6 +130,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Issyk-Kul,Male,KG02,10.999487
 2020,Issyk-Kul,Male,KG02,7.185342
 2021,Issyk-Kul,Male,KG02,9.56686
+2022,Issyk-Kul,Male,KG02,7.10453
 2010,Naryn,,KG04,31.1
 2013,Naryn,,KG04,37.4
 2014,Naryn,,KG04,43.6
@@ -129,6 +141,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Naryn,,KG04,23.23686
 2020,Naryn,,KG04,21.314558
 2021,Naryn,,KG04,19.438931
+2022,Naryn,,KG04,23.09574
 2010,Naryn,Female,KG04,5.4
 2013,Naryn,Female,KG04,7.5
 2014,Naryn,Female,KG04,11.2
@@ -139,6 +152,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Naryn,Female,KG04,3.532046
 2020,Naryn,Female,KG04,6.076524
 2021,Naryn,Female,KG04,6.948932
+2022,Naryn,Female,KG04,2.627465
 2010,Naryn,Male,KG04,56.0
 2013,Naryn,Male,KG04,66.5
 2014,Naryn,Male,KG04,75.1
@@ -149,6 +163,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Naryn,Male,KG04,42.241814
 2020,Naryn,Male,KG04,37.122645
 2021,Naryn,Male,KG04,31.476235
+2022,Naryn,Male,KG04,43.176223
 2010,Osh,,KG06,35.0
 2013,Osh,,KG06,27.2
 2014,Osh,,KG06,24.7
@@ -159,6 +174,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh,,KG06,20.960059
 2020,Osh,,KG06,17.175755
 2021,Osh,,KG06,17.246786
+2022,Osh,,KG06,7.666011
 2010,Osh,Female,KG06,2.9
 2013,Osh,Female,KG06,3.4
 2014,Osh,Female,KG06,1.3
@@ -169,6 +185,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh,Female,KG06,1.940293
 2020,Osh,Female,KG06,1.86318
 2021,Osh,Female,KG06,1.729927
+2022,Osh,Female,KG06,0.834376
 2010,Osh,Male,KG06,66.7
 2013,Osh,Male,KG06,50.7
 2014,Osh,Male,KG06,47.7
@@ -179,6 +196,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh,Male,KG06,39.564585
 2020,Osh,Male,KG06,32.838797
 2021,Osh,Male,KG06,32.417698
+2022,Osh,Male,KG06,14.406256
 2010,Talas,,KG07,43.0
 2013,Talas,,KG07,40.2
 2014,Talas,,KG07,41.6
@@ -189,6 +207,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Talas,,KG07,27.882862
 2020,Talas,,KG07,26.748199
 2021,Talas,,KG07,13.577384
+2022,Talas,,KG07,34.201613
 2010,Talas,Female,KG07,2.6
 2013,Talas,Female,KG07,5.0
 2014,Talas,Female,KG07,7.4
@@ -199,6 +218,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Talas,Female,KG07,5.334837
 2020,Talas,Female,KG07,8.819185
 2021,Talas,Female,KG07,1.483118
+2022,Talas,Female,KG07,4.452162
 2010,Talas,Male,KG07,83.1
 2013,Talas,Male,KG07,74.9
 2014,Talas,Male,KG07,75.2
@@ -209,6 +229,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Talas,Male,KG07,49.93181
 2020,Talas,Male,KG07,45.075501
 2021,Talas,Male,KG07,25.424775
+2022,Talas,Male,KG07,63.433734
 2010,Chui,,KG08,60.6
 2013,Chui,,KG08,51.1
 2014,Chui,,KG08,36.0
@@ -219,6 +240,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Chui,,KG08,32.298484
 2020,Chui,,KG08,22.637203
 2021,Chui,,KG08,28.259337
+2022,Chui,,KG08,20.535409
 2010,Chui,Female,KG08,20.1
 2013,Chui,Female,KG08,16.1
 2014,Chui,Female,KG08,10.5
@@ -229,6 +251,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Chui,Female,KG08,13.268429
 2020,Chui,Female,KG08,6.507574
 2021,Chui,Female,KG08,18.681751
+2022,Chui,Female,KG08,7.863254
 2010,Chui,Male,KG08,102.6
 2013,Chui,Male,KG08,87.2
 2014,Chui,Male,KG08,62.2
@@ -239,6 +262,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Chui,Male,KG08,51.905221
 2020,Chui,Male,KG08,38.28406
 2021,Chui,Male,KG08,38.143016
+2022,Chui,Male,KG08,33.368028
 2010,Bishkek (city),,KG11,164.9
 2013,Bishkek (city),,KG11,44.7
 2014,Bishkek (city),,KG11,40.7
@@ -249,6 +273,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Bishkek (city),,KG11,29.118376
 2020,Bishkek (city),,KG11,23.966278
 2021,Bishkek (city),,KG11,29.550909
+2022,Bishkek (city),,KG11,19.301652
 2010,Bishkek (city),Female,KG11,50.1
 2013,Bishkek (city),Female,KG11,19.0
 2014,Bishkek (city),Female,KG11,13.1
@@ -259,6 +284,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Bishkek (city),Female,KG11,9.227646
 2020,Bishkek (city),Female,KG11,11.409881
 2021,Bishkek (city),Female,KG11,19.441305
+2022,Bishkek (city),Female,KG11,7.122011
 2010,Bishkek (city),Male,KG11,297.5
 2013,Bishkek (city),Male,KG11,74.3
 2014,Bishkek (city),Male,KG11,72.3
@@ -269,6 +295,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Bishkek (city),Male,KG11,51.650669
 2020,Bishkek (city),Male,KG11,35.079762
 2021,Bishkek (city),Male,KG11,40.966897
+2022,Bishkek (city),Male,KG11,34.008686
 2010,Osh (city),,KG21,29.9
 2013,Osh (city),,KG21,18.3
 2014,Osh (city),,KG21,22.0
@@ -279,6 +306,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh (city),,KG21,9.477341
 2020,Osh (city),,KG21,16.385849
 2021,Osh (city),,KG21,17.688535
+2022,Osh (city),,KG21,7.866826
 2010,Osh (city),Female,KG21,4.5
 2013,Osh (city),Female,KG21,2.9
 2014,Osh (city),Female,KG21,5.8
@@ -289,6 +317,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh (city),Female,KG21,3.171502
 2020,Osh (city),Female,KG21,3.244836
 2021,Osh (city),Female,KG21,4.157411
+2022,Osh (city),Female,KG21,1.726619
 2010,Osh (city),Male,KG21,57.5
 2013,Osh (city),Male,KG21,34.8
 2014,Osh (city),Male,KG21,39.6
@@ -299,3 +328,4 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Osh (city),Male,KG21,16.179157
 2020,Osh (city),Male,KG21,28.789141
 2021,Osh (city),Male,KG21,31.970512
+2022,Osh (city),Male,KG21,13.723068

@@ -28,17 +28,6 @@
             "title": "Составная разбивка"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            },
-            "title": "Сноски на уровне наблюдения"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

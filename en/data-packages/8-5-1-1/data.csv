@@ -21,6 +21,8 @@ Year,Sex,Economic activity,Value
 2020,Male,,19991.5
 2021,Female,,16524.2
 2021,Male,,21999.0
+2022,Female,,24954.3
+2022,Male,,31353.2
 2011,Female,"Agriculture, forestry and fishing",4548.5
 2011,Male,"Agriculture, forestry and fishing",4561.6
 2012,Female,"Agriculture, forestry and fishing",4726.7
@@ -43,6 +45,8 @@ Year,Sex,Economic activity,Value
 2020,Male,"Agriculture, forestry and fishing",10370.3
 2021,Female,"Agriculture, forestry and fishing",9132.2
 2021,Male,"Agriculture, forestry and fishing",10583.5
+2022,Female,"Agriculture, forestry and fishing",21514.0
+2022,Male,"Agriculture, forestry and fishing",19900.5
 2011,Female,Mining and quarrying,10291.1
 2011,Male,Mining and quarrying,10478.8
 2012,Female,Mining and quarrying,13648.2
@@ -65,6 +69,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Mining and quarrying,30927.2
 2021,Female,Mining and quarrying,30577.6
 2021,Male,Mining and quarrying,40658.3
+2022,Female,Mining and quarrying,39796.5
+2022,Male,Mining and quarrying,43595.8
 2011,Female,Manufacturing,7779.9
 2011,Male,Manufacturing,10879.1
 2012,Female,Manufacturing,9583.2
@@ -87,6 +93,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Manufacturing,21044.9
 2021,Female,Manufacturing,17546.9
 2021,Male,Manufacturing,24272.3
+2022,Female,Manufacturing,21245.1
+2022,Male,Manufacturing,30178.6
 2011,Female,"Electricity, gas, steam and air conditioning supply",14160.1
 2011,Male,"Electricity, gas, steam and air conditioning supply",15121.5
 2012,Female,"Electricity, gas, steam and air conditioning supply",18564.4
@@ -109,6 +117,8 @@ Year,Sex,Economic activity,Value
 2020,Male,"Electricity, gas, steam and air conditioning supply",28338.9
 2021,Female,"Electricity, gas, steam and air conditioning supply",29452.4
 2021,Male,"Electricity, gas, steam and air conditioning supply",30906.3
+2022,Female,"Electricity, gas, steam and air conditioning supply",31299.8
+2022,Male,"Electricity, gas, steam and air conditioning supply",35538.1
 2011,Female,"Water supply; sewerage, waste management and remediation activities",7097.9
 2011,Male,"Water supply; sewerage, waste management and remediation activities",8512.1
 2012,Female,"Water supply; sewerage, waste management and remediation activities",7874.8
@@ -131,6 +141,8 @@ Year,Sex,Economic activity,Value
 2020,Male,"Water supply; sewerage, waste management and remediation activities",16785.6
 2021,Female,"Water supply; sewerage, waste management and remediation activities",14354.9
 2021,Male,"Water supply; sewerage, waste management and remediation activities",18247.4
+2022,Female,"Water supply; sewerage, waste management and remediation activities",20882.3
+2022,Male,"Water supply; sewerage, waste management and remediation activities",21786.6
 2011,Female,Construction,7461.7
 2011,Male,Construction,9692.9
 2012,Female,Construction,8708.8
@@ -153,6 +165,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Construction,18540.3
 2021,Female,Construction,18475.7
 2021,Male,Construction,24809.5
+2022,Female,Construction,21717.1
+2022,Male,Construction,27335.1
 2011,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,10848.1
 2011,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,13252.0
 2012,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,10912.9
@@ -175,6 +189,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,19391.7
 2021,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,18227.2
 2021,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,21803.7
+2022,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,21435.8
+2022,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,31143.1
 2011,Female,Transportation and storage,9395.1
 2011,Male,Transportation and storage,12164.4
 2012,Female,Transportation and storage,10325.0
@@ -197,6 +213,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Transportation and storage,24799.1
 2021,Female,Transportation and storage,17198.7
 2021,Male,Transportation and storage,27538.2
+2022,Female,Transportation and storage,20516.3
+2022,Male,Transportation and storage,36018.0
 2011,Female,Accommodation and food service activities,7487.3
 2011,Male,Accommodation and food service activities,10371.4
 2012,Female,Accommodation and food service activities,10012.7
@@ -219,6 +237,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Accommodation and food service activities,18672.5
 2021,Female,Accommodation and food service activities,16186.1
 2021,Male,Accommodation and food service activities,17493.4
+2022,Female,Accommodation and food service activities,19605.8
+2022,Male,Accommodation and food service activities,24386.7
 2011,Female,Information and communication,14988.1
 2011,Male,Information and communication,19715.7
 2012,Female,Information and communication,15828.9
@@ -241,6 +261,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Information and communication,39569.2
 2021,Female,Information and communication,31872.9
 2021,Male,Information and communication,35404.7
+2022,Female,Information and communication,42311.5
+2022,Male,Information and communication,56950.4
 2011,Female,Financial and insurance activities,18256.9
 2011,Male,Financial and insurance activities,23772.5
 2012,Female,Financial and insurance activities,19804.3
@@ -263,6 +285,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Financial and insurance activities,42666.9
 2021,Female,Financial and insurance activities,33125.2
 2021,Male,Financial and insurance activities,46412.6
+2022,Female,Financial and insurance activities,40968.3
+2022,Male,Financial and insurance activities,54331.9
 2011,Female,Real estate activities,6003.0
 2011,Male,Real estate activities,7571.4
 2012,Female,Real estate activities,7520.8
@@ -285,6 +309,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Real estate activities,16116.4
 2021,Female,Real estate activities,16182.8
 2021,Male,Real estate activities,17528.2
+2022,Female,Real estate activities,19543.3
+2022,Male,Real estate activities,21964.1
 2011,Female,"Professional, scientific and technical activities",10690.0
 2011,Male,"Professional, scientific and technical activities",15826.9
 2012,Female,"Professional, scientific and technical activities",12009.8
@@ -307,6 +333,8 @@ Year,Sex,Economic activity,Value
 2020,Male,"Professional, scientific and technical activities",26466.5
 2021,Female,"Professional, scientific and technical activities",23399.7
 2021,Male,"Professional, scientific and technical activities",25911.2
+2022,Female,"Professional, scientific and technical activities",30080.1
+2022,Male,"Professional, scientific and technical activities",35496.6
 2011,Female,Administrative and support service activities,6066.8
 2011,Male,Administrative and support service activities,7583.4
 2012,Female,Administrative and support service activities,6684.2
@@ -329,6 +357,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Administrative and support service activities,16788.3
 2021,Female,Administrative and support service activities,16010.8
 2021,Male,Administrative and support service activities,18647.9
+2022,Female,Administrative and support service activities,20251.4
+2022,Male,Administrative and support service activities,23657.0
 2011,Female,Public administration and defence; compulsory social security,6571.7
 2011,Male,Public administration and defence; compulsory social security,9048.7
 2012,Female,Public administration and defence; compulsory social security,8196.1
@@ -351,6 +381,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Public administration and defence; compulsory social security,20346.1
 2021,Female,Public administration and defence; compulsory social security,18773.7
 2021,Male,Public administration and defence; compulsory social security,21832.2
+2022,Female,Public administration and defence; compulsory social security,34405.6
+2022,Male,Public administration and defence; compulsory social security,42453.4
 2011,Female,Education,7361.5
 2011,Male,Education,8726.2
 2012,Female,Education,7317.6
@@ -373,6 +405,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Education,14054.9
 2021,Female,Education,15042.2
 2021,Male,Education,14641.8
+2022,Female,Education,24561.3
+2022,Male,Education,23074.5
 2011,Female,Human health and social work activities,9256.1
 2011,Male,Human health and social work activities,9584.5
 2012,Female,Human health and social work activities,8892.0
@@ -395,6 +429,8 @@ Year,Sex,Economic activity,Value
 2020,Male,Human health and social work activities,10431.4
 2021,Female,Human health and social work activities,14369.0
 2021,Male,Human health and social work activities,14533.4
+2022,Female,Human health and social work activities,20337.5
+2022,Male,Human health and social work activities,19575.5
 2011,Female,"Arts, entertainment and recreation",6350.6
 2011,Male,"Arts, entertainment and recreation",7746.8
 2012,Female,"Arts, entertainment and recreation",6399.4
@@ -417,6 +453,8 @@ Year,Sex,Economic activity,Value
 2020,Male,"Arts, entertainment and recreation",9003.9
 2021,Female,"Arts, entertainment and recreation",11261.0
 2021,Male,"Arts, entertainment and recreation",10477.0
+2022,Female,"Arts, entertainment and recreation",20456.1
+2022,Male,"Arts, entertainment and recreation",19611.1
 2011,Female,Other service activities,8458.9
 2011,Male,Other service activities,8192.8
 2012,Female,Other service activities,8608.0
@@ -439,3 +477,5 @@ Year,Sex,Economic activity,Value
 2020,Male,Other service activities,12358.5
 2021,Female,Other service activities,18680.3
 2021,Male,Other service activities,12463.9
+2022,Female,Other service activities,25032.3
+2022,Male,Other service activities,7721.8

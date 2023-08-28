@@ -1382,16 +1382,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2655,16 +2645,6 @@
               "enum": [
                 "_L_CROP_PROD",
                 "_L_LIVEST_PROD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
                 ""
               ]
             }
@@ -5626,16 +5606,6 @@
                 "_L_AGG_SUGAR",
                 "_L_AGG_VEGOILS",
                 "_L_AGG_FISH_PROCESS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "* Предварительные данные",
                 ""
               ]
             }
