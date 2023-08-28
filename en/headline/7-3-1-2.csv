@@ -13,7 +13,6 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2018,26.3,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
 2019,24.41,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
 2020,25.6,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2021,20.461775,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
 2007,158.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
 2008,146.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
 2009,168.8,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
@@ -28,4 +27,3 @@ Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
 2018,202.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
 2019,200.5,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
 2020,196.6,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2021,206.4,Millions,Kilowatt-hours,Power generation at small hydroelecric plant

@@ -9,7 +9,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,,,,31.5
 2019,,,,31.5
 2020,,,,34.377951
-2021,,,,40.007978
 2011,Batken,,KG05,2.969818
 2012,Batken,,KG05,3.652891
 2013,Batken,,KG05,4.783063
@@ -20,7 +19,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Batken,,KG05,9.1
 2019,Batken,,KG05,5.9
 2020,Batken,,KG05,4.835824
-2021,Batken,,KG05,5.707251
 2011,Jalal-Abad,,KG03,8.771071
 2012,Jalal-Abad,,KG03,11.68593
 2013,Jalal-Abad,,KG03,5.494964
@@ -31,7 +29,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Jalal-Abad,,KG03,9.0
 2019,Jalal-Abad,,KG03,6.2
 2020,Jalal-Abad,,KG03,5.954303
-2021,Jalal-Abad,,KG03,8.989323
 2011,Issyk-Kul,,KG02,15.385834
 2012,Issyk-Kul,,KG02,18.787622
 2013,Issyk-Kul,,KG02,25.08602
@@ -42,7 +39,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Issyk-Kul,,KG02,41.4
 2019,Issyk-Kul,,KG02,30.5
 2020,Issyk-Kul,,KG02,51.211066
-2021,Issyk-Kul,,KG02,66.307512
 2011,Naryn,,KG04,5.550544
 2012,Naryn,,KG04,6.265404
 2013,Naryn,,KG04,12.479392
@@ -53,7 +49,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Naryn,,KG04,20.4
 2019,Naryn,,KG04,21.8
 2020,Naryn,,KG04,27.156801
-2021,Naryn,,KG04,23.475213
 2011,Osh,until 2013 y. including Osh city,KG06,8.251864
 2012,Osh,until 2013 y. including Osh city,KG06,7.824961
 2013,Osh,,KG06,0.189906
@@ -64,7 +59,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Osh,,KG06,0.5
 2019,Osh,,KG06,1.7
 2020,Osh,,KG06,0.943312
-2021,Osh,,KG06,9.804537
 2011,Talas,,KG07,9.034237
 2012,Talas,,KG07,7.840579
 2013,Talas,,KG07,5.098828
@@ -75,7 +69,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Talas,,KG07,6.0
 2019,Talas,,KG07,6.2
 2020,Talas,,KG07,7.850959
-2021,Talas,,KG07,9.373778
 2011,Chui,,KG08,41.925111
 2012,Chui,,KG08,46.114486
 2013,Chui,,KG08,46.193852
@@ -86,7 +79,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Chui,,KG08,56.8
 2019,Chui,,KG08,63.3
 2020,Chui,,KG08,64.733303
-2021,Chui,,KG08,70.457032
 2011,Bishkek (city),,KG11,84.55425
 2012,Bishkek (city),,KG11,85.140509
 2013,Bishkek (city),,KG11,98.608136
@@ -97,7 +89,6 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Bishkek (city),,KG11,96.5
 2019,Bishkek (city),,KG11,96.1
 2020,Bishkek (city),,KG11,97.679548
-2021,Bishkek (city),,KG11,98.411252
 2013,Osh (city),,KG21,28.7317
 2014,Osh (city),,KG21,27.932014
 2015,Osh (city),,KG21,28.2
@@ -106,4 +97,3 @@ Year,Reference area,Observation-level footnotes,GeoCode,Value
 2018,Osh (city),,KG21,25.5
 2019,Osh (city),,KG21,30.9
 2020,Osh (city),,KG21,46.725153
-2021,Osh (city),,KG21,63.900564
