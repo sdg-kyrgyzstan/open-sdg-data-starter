@@ -3,107 +3,134 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2019,,,,,,,,8.1
 2020,,,,,,,,7.6
 2021,,,,,,,,6.3
+2022,,,,,,,,5.650482
 2018,,Male,,,,,,17.7
 2019,,Male,,,,,,17.2
 2020,,Male,,,,,,16.0
 2021,,Male,,,,,,13.4
+2022,,Male,,,,,,11.990553
 2018,,Female,,,,,,0.5
 2019,,Female,,,,,,0.4
 2020,,Female,,,,,,0.5
 2021,,Female,,,,,,0.4
+2022,,Female,,,,,,0.366864
 2018,,,,Urban,,,,6.4
 2019,,,,Urban,,,,6.2
 2020,,,,Urban,,,,6.2
 2021,,,,Urban,,,,5.3
+2022,,,,Urban,,,,4.758508
 2018,,,,Rural,,,,9.5
 2019,,,,Rural,,,,9.2
 2020,,,,Rural,,,,8.5
 2021,,,,Rural,,,,6.9
+2022,,,,Rural,,,,6.214721
 2018,Batken,,,,,,KG05,10.8
 2019,Batken,,,,,,KG05,10.9
 2020,Batken,,,,,,KG05,9.8
 2021,Batken,,,,,,KG05,9.1
+2022,Batken,,,,,,KG05,6.629973
 2018,Jalal-Abad,,,,,,KG03,3.4
 2019,Jalal-Abad,,,,,,KG03,4.4
 2020,Jalal-Abad,,,,,,KG03,2.8
 2021,Jalal-Abad,,,,,,KG03,1.9
+2022,Jalal-Abad,,,,,,KG03,1.004535
 2018,Issyk-Kul,,,,,,KG02,17.9
 2019,Issyk-Kul,,,,,,KG02,17.0
 2020,Issyk-Kul,,,,,,KG02,15.7
 2021,Issyk-Kul,,,,,,KG02,15.2
+2022,Issyk-Kul,,,,,,KG02,15.321097
 2018,Naryn,,,,,,KG04,14.7
 2019,Naryn,,,,,,KG04,13.8
 2020,Naryn,,,,,,KG04,14.2
 2021,Naryn,,,,,,KG04,12.7
+2022,Naryn,,,,,,KG04,11.932655
 2018,Osh,,,,,,KG06,6.7
 2019,Osh,,,,,,KG06,6.0
 2020,Osh,,,,,,KG06,6.2
 2021,Osh,,,,,,KG06,4.3
+2022,Osh,,,,,,KG06,4.402496
 2018,Talas,,,,,,KG07,13.0
 2019,Talas,,,,,,KG07,13.7
 2020,Talas,,,,,,KG07,13.5
 2021,Talas,,,,,,KG07,13.0
+2022,Talas,,,,,,KG07,13.275842
 2018,Chui,,,,,,KG08,12.2
 2019,Chui,,,,,,KG08,10.5
 2020,Chui,,,,,,KG08,9.4
 2021,Chui,,,,,,KG08,7.8
+2022,Chui,,,,,,KG08,5.595323
 2018,Bishkek (city),,,,,,KG11,6.2
 2019,Bishkek (city),,,,,,KG11,6.3
 2020,Bishkek (city),,,,,,KG11,7.3
 2021,Bishkek (city),,,,,,KG11,5.5
+2022,Bishkek (city),,,,,,KG11,5.756194
 2018,Osh (city),,,,,,KG21,1.8
 2019,Osh (city),,,,,,KG21,1.6
 2020,Osh (city),,,,,,KG21,1.3
 2021,Osh (city),,,,,,KG21,1.2
+2022,Osh (city),,,,,,KG21,0.912601
 2018,,,15 to 24 years old,,,,,0.4
 2019,,,15 to 24 years old,,,,,0.3
 2020,,,15 to 24 years old,,,,,0.4
 2021,,,15 to 24 years old,,,,,0.1
+2022,,,15 to 24 years old,,,,,0.125589
 2018,,,25 to 54 years old,,,,,10.6
 2019,,,25 to 54 years old,,,,,10.0
 2020,,,25 to 54 years old,,,,,9.4
 2021,,,25 to 54 years old,,,,,7.4
+2022,,,25 to 54 years old,,,,,6.813728
 2018,,,55 years old and over,,,,,10.0
 2019,,,55 years old and over,,,,,10.2
 2020,,,55 years old and over,,,,,9.4
 2021,,,55 years old and over,,,,,9.0
+2022,,,55 years old and over,,,,,7.483512
 2018,,,,,,Primary education,,2.8
 2019,,,,,,Primary education,,3.4
 2020,,,,,,Primary education,,2.8
 2021,,,,,,Primary education,,1.5
+2022,,,,,,Primary education,,1.069826
 2018,,,,,,Lower secondary education,,3.5
 2019,,,,,,Lower secondary education,,2.9
 2020,,,,,,Lower secondary education,,3.8
 2021,,,,,,Lower secondary education,,2.9
+2022,,,,,,Lower secondary education,,2.525977
 2018,,,,,,Upper secondary education,,9.8
 2019,,,,,,Upper secondary education,,9.3
 2020,,,,,,Upper secondary education,,8.8
 2021,,,,,,Upper secondary education,,7.4
+2022,,,,,,Upper secondary education,,6.901426
 2018,,,,,,Post-secondary non-tertiary education,,11.7
 2019,,,,,,Post-secondary non-tertiary education,,11.8
 2020,,,,,,Post-secondary non-tertiary education,,10.8
 2021,,,,,,Post-secondary non-tertiary education,,9.1
+2022,,,,,,Post-secondary non-tertiary education,,7.909136
 2018,,,,,,Short-cycle tertiary education,,5.6
 2019,,,,,,Short-cycle tertiary education,,5.5
 2020,,,,,,Short-cycle tertiary education,,4.9
 2021,,,,,,Short-cycle tertiary education,,4.1
+2022,,,,,,Short-cycle tertiary education,,3.380007
 2018,,,,,Quintile 1 (poorest),,,8.0
 2019,,,,,Quintile 1 (poorest),,,8.2
 2020,,,,,Quintile 1 (poorest),,,7.9
 2021,,,,,Quintile 1 (poorest),,,6.4
+2022,,,,,Quintile 1 (poorest),,,4.735741
 2018,,,,,Quintile 2,,,7.4
 2019,,,,,Quintile 2,,,7.8
 2020,,,,,Quintile 2,,,6.9
 2021,,,,,Quintile 2,,,6.2
+2022,,,,,Quintile 2,,,4.766466
 2018,,,,,Quintile 3,,,8.5
 2019,,,,,Quintile 3,,,7.7
 2020,,,,,Quintile 3,,,8.0
 2021,,,,,Quintile 3,,,5.4
+2022,,,,,Quintile 3,,,5.420931
 2018,,,,,Quintile 4,,,8.5
 2019,,,,,Quintile 4,,,8.0
 2020,,,,,Quintile 4,,,7.2
 2021,,,,,Quintile 4,,,6.6
+2022,,,,,Quintile 4,,,6.491722
 2018,,,,,Quintile 5 (richest),,,9.6
 2019,,,,,Quintile 5 (richest),,,8.8
 2020,,,,,Quintile 5 (richest),,,8.1
 2021,,,,,Quintile 5 (richest),,,7.2
+2022,,,,,Quintile 5 (richest),,,6.423111
