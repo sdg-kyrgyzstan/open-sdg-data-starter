@@ -12,12 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
           },
           {
+            "name": "Territory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Кыргызская Республика",
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г.Бишкек",
+                "г.Ош",
+                ""
+              ]
+            },
+            "title": "Territory"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
