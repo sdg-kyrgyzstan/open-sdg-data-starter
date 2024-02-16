@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1692873757324</message:ID>
+    <message:ID>IREF1705398994613</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-08-24T10:42:37Z</message:Prepared>
+    <message:Prepared>2024-01-16T09:56:34Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -30,7 +30,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="47" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="141" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="19" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="51" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="109" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="135" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
@@ -48,7 +48,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="37" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="85" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="10" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="29" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="74" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="99" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
@@ -174,7 +174,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
   </Series>
@@ -191,7 +191,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
   </Series>
