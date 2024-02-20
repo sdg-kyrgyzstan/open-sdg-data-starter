@@ -11,7 +11,7 @@ Year,Reference area,COMPOSITE_BREAKDOWN,GeoCode,Value
 2019,,,,8068.7
 2020,,,,8017.9
 2021,,,,7999.5
-2022,,,,8800.6
+2022,,,,8741.9
 2012,,Water source: Natural,,9319.3
 2013,,Water source: Natural,,8218.9
 2014,,Water source: Natural,,7432.4
@@ -22,7 +22,7 @@ Year,Reference area,COMPOSITE_BREAKDOWN,GeoCode,Value
 2019,,Water source: Natural,,7813.9
 2020,,Water source: Natural,,7768.1
 2021,,Water source: Natural,,7746.6
-2022,,Water source: Natural,,8542.2
+2022,,Water source: Natural,,8483.5
 2010,,Water source: Aquifers,,324.1
 2011,,Water source: Aquifers,,201.3
 2012,,Water source: Aquifers,,224.9
@@ -100,7 +100,7 @@ Year,Reference area,COMPOSITE_BREAKDOWN,GeoCode,Value
 2019,Osh,,KG06,1180.8
 2020,Osh,,KG06,1147.0
 2021,Osh,,KG06,1248.5
-2022,Osh,,KG06,1383.3
+2022,Osh,,KG06,1327.6
 2010,Talas,,KG07,828.8
 2011,Talas,,KG07,884.7
 2012,Talas,,KG07,904.0
@@ -152,4 +152,4 @@ Year,Reference area,COMPOSITE_BREAKDOWN,GeoCode,Value
 2019,Osh (city),,KG21,57.0
 2020,Osh (city),,KG21,57.0
 2021,Osh (city),,KG21,57.0
-2022,Osh (city),,KG21,57.0
+2022,Osh (city),,KG21,54.0

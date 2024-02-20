@@ -11,7 +11,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2019,Water loss at transportation (volume),,Million of cubic metres per annum,,2242.8
 2020,Water loss at transportation (volume),,Million of cubic metres per annum,,2198.7
 2021,Water loss at transportation (volume),,Million of cubic metres per annum,,2148.2
-2022,Water loss at transportation (volume),,Million of cubic metres per annum,,2349.7
+2022,Water loss at transportation (volume),,Million of cubic metres per annum,,2388.0
 2010,Water loss at transportation (volume),Batken,Million of cubic metres per annum,KG05,116.2
 2011,Water loss at transportation (volume),Batken,Million of cubic metres per annum,KG05,118.7
 2012,Water loss at transportation (volume),Batken,Million of cubic metres per annum,KG05,92.6
@@ -76,7 +76,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2019,Water loss at transportation (volume),Osh,Million of cubic metres per annum,KG06,310.0
 2020,Water loss at transportation (volume),Osh,Million of cubic metres per annum,KG06,284.7
 2021,Water loss at transportation (volume),Osh,Million of cubic metres per annum,KG06,300.2
-2022,Water loss at transportation (volume),Osh,Million of cubic metres per annum,KG06,297.0
+2022,Water loss at transportation (volume),Osh,Million of cubic metres per annum,KG06,335.3
 2010,Water loss at transportation (volume),Talas,Million of cubic metres per annum,KG07,228.9
 2011,Water loss at transportation (volume),Talas,Million of cubic metres per annum,KG07,253.9
 2012,Water loss at transportation (volume),Talas,Million of cubic metres per annum,KG07,263.7
@@ -132,7 +132,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2019,Water loss at transportation as proportion of total water withdrawal,,Percent,,27.8
 2020,Water loss at transportation as proportion of total water withdrawal,,Percent,,27.4
 2021,Water loss at transportation as proportion of total water withdrawal,,Percent,,26.9
-2022,Water loss at transportation as proportion of total water withdrawal,,Percent,,26.7
+2022,Water loss at transportation as proportion of total water withdrawal,,Percent,,27.3
 2010,Water loss at transportation as proportion of total water withdrawal,Batken,Percent,KG05,20.1
 2011,Water loss at transportation as proportion of total water withdrawal,Batken,Percent,KG05,20.2
 2012,Water loss at transportation as proportion of total water withdrawal,Batken,Percent,KG05,9.6
@@ -197,7 +197,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2019,Water loss at transportation as proportion of total water withdrawal,Osh,Percent,KG06,26.3
 2020,Water loss at transportation as proportion of total water withdrawal,Osh,Percent,KG06,24.8
 2021,Water loss at transportation as proportion of total water withdrawal,Osh,Percent,KG06,24.0
-2022,Water loss at transportation as proportion of total water withdrawal,Osh,Percent,KG06,21.5
+2022,Water loss at transportation as proportion of total water withdrawal,Osh,Percent,KG06,24.3
 2010,Water loss at transportation as proportion of total water withdrawal,Talas,Percent,KG07,27.6
 2011,Water loss at transportation as proportion of total water withdrawal,Talas,Percent,KG07,28.7
 2012,Water loss at transportation as proportion of total water withdrawal,Talas,Percent,KG07,29.2
