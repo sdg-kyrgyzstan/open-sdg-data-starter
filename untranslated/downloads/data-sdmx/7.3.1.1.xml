@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1693222085053</message:ID>
+    <message:ID>IREF1708419680098</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-08-28T11:28:05Z</message:Prepared>
+    <message:Prepared>2024-02-20T09:01:20Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -30,9 +30,10 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="22" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="25.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="25.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="21.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="21.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="18.953297" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="20.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="20.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="17.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="13.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
