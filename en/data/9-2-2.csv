@@ -11,6 +11,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,,,,,11.8
 2020,,,,,11.4
 2021,,,,,11.7
+2022,,,,,11.4
 2010,Batken,,,KG05,6.4
 2011,Batken,,,KG05,6.4
 2012,Batken,,,KG05,5.7
@@ -23,6 +24,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Batken,,,KG05,13.2
 2020,Batken,,,KG05,14.7
 2021,Batken,,,KG05,16.4
+2022,Batken,,,KG05,12.6
 2010,Jalal-Abad,,,KG03,3.1
 2011,Jalal-Abad,,,KG03,3.3
 2012,Jalal-Abad,,,KG03,4.3
@@ -35,6 +37,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Jalal-Abad,,,KG03,11.0
 2020,Jalal-Abad,,,KG03,9.0
 2021,Jalal-Abad,,,KG03,9.7
+2022,Jalal-Abad,,,KG03,9.8
 2010,Issyk-Kul,,,KG02,3.2
 2011,Issyk-Kul,,,KG02,3.7
 2012,Issyk-Kul,,,KG02,4.1
@@ -47,6 +50,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Issyk-Kul,,,KG02,10.6
 2020,Issyk-Kul,,,KG02,10.8
 2021,Issyk-Kul,,,KG02,12.1
+2022,Issyk-Kul,,,KG02,11.4
 2010,Naryn,,,KG04,2.4
 2011,Naryn,,,KG04,1.6
 2012,Naryn,,,KG04,1.6
@@ -59,6 +63,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Naryn,,,KG04,4.1
 2020,Naryn,,,KG04,4.7
 2021,Naryn,,,KG04,5.3
+2022,Naryn,,,KG04,5.4
 2010,Osh,,Until 2013 - including Osh.,KG06,6.3
 2011,Osh,,Until 2013 - including Osh.,KG06,5.9
 2012,Osh,,Until 2013 - including Osh.,KG06,5.4
@@ -71,6 +76,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Osh,,,KG06,5.5
 2020,Osh,,,KG06,5.1
 2021,Osh,,,KG06,4.7
+2022,Osh,,,KG06,4.7
 2010,Talas,,,KG07,2.6
 2011,Talas,,,KG07,3.0
 2012,Talas,,,KG07,3.1
@@ -83,6 +89,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Talas,,,KG07,3.2
 2020,Talas,,,KG07,3.4
 2021,Talas,,,KG07,3.4
+2022,Talas,,,KG07,3.4
 2010,Chui,,,KG08,14.3
 2011,Chui,,,KG08,14.3
 2012,Chui,,,KG08,14.8
@@ -95,6 +102,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Chui,,,KG08,20.3
 2020,Chui,,,KG08,19.7
 2021,Chui,,,KG08,18.8
+2022,Chui,,,KG08,17.7
 2010,Bishkek (city),,,KG11,14.5
 2011,Bishkek (city),,,KG11,13.6
 2012,Bishkek (city),,,KG11,12.8
@@ -107,6 +115,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Bishkek (city),,,KG11,18.7
 2020,Bishkek (city),,,KG11,18.8
 2021,Bishkek (city),,,KG11,19.6
+2022,Bishkek (city),,,KG11,20.5
 2013,Osh (city),,,KG21,7.5
 2014,Osh (city),,,KG21,7.8
 2015,Osh (city),,,KG21,5.1
@@ -116,6 +125,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,Osh (city),,,KG21,8.9
 2020,Osh (city),,,KG21,6.8
 2021,Osh (city),,,KG21,6.9
+2022,Osh (city),,,KG21,8.4
 2010,,Female,,,9.3
 2011,,Female,,,8.8
 2012,,Female,,,9.0
@@ -128,6 +138,7 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,,Female,,,12.5
 2020,,Female,,,12.5
 2021,,Female,,,12.8
+2022,,Female,,,12.9
 2010,,Male,,,6.7
 2011,,Male,,,6.8
 2012,,Male,,,6.6
@@ -140,3 +151,4 @@ Year,Reference area,Sex,COMMENT_TS,GeoCode,Value
 2019,,Male,,,11.4
 2020,,Male,,,10.7
 2021,,Male,,,11.0
+2022,,Male,,,10.5
