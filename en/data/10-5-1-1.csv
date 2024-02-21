@@ -13,6 +13,7 @@ Year,SERIES,Value
 2019,Assets to GDP,40.2
 2020,Assets to GDP,48.3
 2021,Assets to GDP,49.9
+2022,Assets to GDP,49.7
 2007,Deposits to GDP,16.5
 2008,Deposits to GDP,15.7
 2009,Deposits to GDP,19.7
@@ -28,6 +29,7 @@ Year,SERIES,Value
 2019,Deposits to GDP,24.4
 2020,Deposits to GDP,30.2
 2021,Deposits to GDP,33.6
+2022,Deposits to GDP,34.9
 2007,Loans to GDP,14.7
 2008,Loans to GDP,13.6
 2009,Loans to GDP,12.5
@@ -43,3 +45,4 @@ Year,SERIES,Value
 2019,Loans to GDP,23.7
 2020,Loans to GDP,27.2
 2021,Loans to GDP,25.1
+2022,Loans to GDP,21.0
