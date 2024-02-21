@@ -40,6 +40,31 @@
             "title": "Территория"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 17 лет",
+                "от 18 до 29 лет",
+                "70 лет и старше",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Единица измерения"
