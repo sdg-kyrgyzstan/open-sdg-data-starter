@@ -19,7 +19,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1-1a,COMPOSITE_BREAKDOWN,1
 #11-7-1-1a,REF_AREA,1
 #13-1-1,"REF_AREA, SEX",2
-#15-1-1-1,REF_AREA,1
+#15-1-1-1,"REF_AREA, COMMENT_OBS",2
 #15-1-2,Показатель,1
 #15-3-1-1,COMPOSITE_BREAKDOWN,1
 #15-5-1-1,COMPOSITE_BREAKDOWN,1
