@@ -7,6 +7,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Country: Russian Federation,330
 2020,Country: Russian Federation,370
 2021,Country: Russian Federation,375
+2022,Country: Russian Federation,500
 2014,Country: Republic of Belarus,3
 2015,Country: Republic of Belarus,5
 2016,Country: Republic of Belarus,2
@@ -21,6 +22,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Country: Republic of Kazakhstan,3
 2020,Country: Republic of Kazakhstan,5
 2021,Country: Republic of Kazakhstan,5
+2022,Country: Republic of Kazakhstan,23
 2014,Country: Republic of Tajikistan,50
 2015,Country: Republic of Tajikistan,47
 2016,Country: Republic of Tajikistan,44
@@ -28,6 +30,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2018,Country: Republic of Tajikistan,33
 2019,Country: Republic of Tajikistan,42
 2020,Country: Republic of Tajikistan,20
+2022,Country: Republic of Tajikistan,7
 2014,Country: People's Republic of China,0
 2015,Country: People's Republic of China,0
 2016,Country: People's Republic of China,0
@@ -36,6 +39,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Country: People's Republic of China,30
 2020,Country: People's Republic of China,19
 2021,Country: People's Republic of China,18
+2022,Country: People's Republic of China,23
 2014,Country: Hungary,0
 2015,Country: Hungary,0
 2016,Country: Hungary,0
@@ -44,3 +48,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2019,Country: Hungary,62
 2020,Country: Hungary,73
 2021,Country: Hungary,150
+2022,Country: Hungary,172
