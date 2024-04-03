@@ -49,7 +49,7 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.0.0
+    tag: 2.3.0
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputCsv
@@ -98,3 +98,8 @@ map_layers:
     output_subfolder: oblasts
     filename_prefix: indicator_
 
+observation_attributes: 
+  - field: COMMENT_OBS 
+    label: '' 
+    
+ignore_out_of_scope_disaggregation_stats: true
