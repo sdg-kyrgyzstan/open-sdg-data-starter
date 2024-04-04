@@ -97,9 +97,3 @@ map_layers:
     id_property: ID_1
     output_subfolder: oblasts
     filename_prefix: indicator_
-
-observation_attributes: 
-  - field: COMMENT_OBS 
-    label: '' 
-    
-ignore_out_of_scope_disaggregation_stats: true
