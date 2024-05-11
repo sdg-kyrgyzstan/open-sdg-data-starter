@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.7.2-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.5):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <message:Header>
+    <message:ID>IREF1620374110474</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2021-05-07T07:55:10Z</message:Prepared>
+    <message:Sender id="KG_NSC">
+      <message:Contact></message:Contact>
+    </message:Sender>
+    <message:Structure structureID="KG_NSC_SDG_1_5" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.5):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+      <common:Structure>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.5"></Ref>
+      </common:Structure>
+    </message:Structure>
+    <message:DataSetAction>Information</message:DataSetAction>
+    <message:DataSetID>SDG</message:DataSetID>
+  </message:Header>
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_5" ss:action="Information">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_060A01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_ASS_LOAN" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="USD">
+    <Obs TIME_PERIOD="2000" OBS_VALUE="36000.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2000"></Obs>
+    <Obs TIME_PERIOD="2002" OBS_VALUE="15000.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2002"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="7150.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="7200.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1950.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="10400.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="46950.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="50000.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2019"></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_060A01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_ASS_GRANT" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="USD">
+    <Obs TIME_PERIOD="2005" OBS_VALUE="7200.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2005"></Obs>
+    <Obs TIME_PERIOD="2008" OBS_VALUE="8700.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2008"></Obs>
+    <Obs TIME_PERIOD="2009" OBS_VALUE="6500.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="13860.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="7350.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="11185.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="5772.3" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="12402.5" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_060A01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_ASS_LOAN_GRANT" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="USD">
+    <Obs TIME_PERIOD="2009" OBS_VALUE="10000.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2009"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="7000.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="4890.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="9100.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="30100.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="59930.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="48020.0" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="24887.5" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2019"></Obs>
+  </Series>
+</message:DataSet>
+</message:StructureSpecificData>

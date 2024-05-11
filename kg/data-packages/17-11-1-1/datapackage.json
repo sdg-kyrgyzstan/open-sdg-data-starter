@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-11-1-1",
+  "title": "Импорт и экспорт товаров ИКТ в процентах к совокупному объему импорта/экспорта товаров"
+}
