@@ -4901,6 +4901,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Reference area",
                 "Batken",
                 "Jalal-Abad",
                 "Issyk-Kul",
