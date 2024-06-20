@@ -86,6 +86,7 @@ indicator_downloads:
   - button_label: indicator.download_source_excel
     source_pattern: excel_files/*.xlsx
     indicator_id_pattern: (.*)
+indicator_downloads:   
     output_folder: data-excel
   - button_label: indicator.download_source_sdmx
     source_pattern: data/*.xml
