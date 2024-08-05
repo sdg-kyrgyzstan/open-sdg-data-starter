@@ -12,9 +12,10 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2017,Millions,Passenger volume (passenger kilometres),,Kilometers,12279.3
 2018,Millions,Passenger volume (passenger kilometres),,Kilometers,12516.2
 2019,Millions,Passenger volume (passenger kilometres),,Kilometers,13135.1
-2020,Millions,Passenger volume (passenger kilometres),,Kilometers,7141.6
+2020,Millions,Passenger volume (passenger kilometres),,Kilometers,7381.8
 2021,Millions,Passenger volume (passenger kilometres),,Kilometers,9090.7
 2022,Millions,Passenger volume (passenger kilometres),,Kilometers,10444.2
+2023,Millions,Passenger volume (passenger kilometres),,Kilometers,11350.7
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,59.9
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,90.2
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,106.1
@@ -31,6 +32,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,6.8
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,21.0
 2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,21.7
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Kilometers,21.6
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,6162.6
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,6508.6
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,6806.8
@@ -44,9 +46,10 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,8931.5
 2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,9305.6
 2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,10490.2
-2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,5795.4
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,6035.6
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,7066.7
 2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,7361.6
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Kilometers,7996.3
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,101.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,71.1
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,84.9
@@ -63,6 +66,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,89.5
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,126.0
 2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,143.1
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Kilometers,145.4
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,204.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,235.8
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,265.0
@@ -79,6 +83,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,712.2
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,787.0
 2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,844.2
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Kilometers,1060.7
 2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,509.3
 2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,635.3
 2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,571.9
@@ -95,6 +100,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,537.7
 2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,1090.0
 2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,2073.5
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Kilometers,2126.7
 2007,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2021.6
 2008,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2338.3
 2009,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2140.7
@@ -108,9 +114,10 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2017,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2641.0
 2018,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2777.3
 2019,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2913.6
-2020,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2428.7
+2020,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2434.5
 2021,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2620.2
 2022,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2756.0
+2023,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2985.3
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,848.9
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,945.5
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,744.5
@@ -127,6 +134,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,937.5
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1003.1
 2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1013.8
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1085.6
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,902.5
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1113.9
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1256.4
@@ -140,9 +148,10 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2017,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1527.1
 2018,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1624.0
 2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1841.9
-2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1275.4
+2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1281.2
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1348.4
 2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1451.1
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1403.6
 2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,218.3
 2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,211.5
 2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,90.0
@@ -159,6 +168,7 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,208.6
 2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,248.0
 2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,273.4
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,265.0
 2007,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.8
 2008,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,8.0
 2009,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.4
@@ -186,3 +196,4 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
 2020,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,7.2
 2021,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,20.7
 2022,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,17.7
+2023,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,231.1

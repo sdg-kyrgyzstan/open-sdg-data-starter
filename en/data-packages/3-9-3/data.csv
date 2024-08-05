@@ -15,6 +15,7 @@ Year,Reference area,GeoCode,Value
 2020,,,5.0
 2021,,,6.1
 2022,,,3.7
+2023,,,3.3
 2007,Batken,KG05,1.4
 2008,Batken,KG05,2.8
 2009,Batken,KG05,3.5
@@ -31,6 +32,7 @@ Year,Reference area,GeoCode,Value
 2020,Batken,KG05,3.5
 2021,Batken,KG05,1.6
 2022,Batken,KG05,1.6
+2023,Batken,KG05,1.0
 2007,Jalal-Abad,KG03,2.3
 2008,Jalal-Abad,KG03,1.4
 2009,Jalal-Abad,KG03,1.5
@@ -47,6 +49,7 @@ Year,Reference area,GeoCode,Value
 2020,Jalal-Abad,KG03,1.8
 2021,Jalal-Abad,KG03,3.6
 2022,Jalal-Abad,KG03,1.7
+2023,Jalal-Abad,KG03,1.6
 2007,Issyk-Kul,KG02,34.1
 2008,Issyk-Kul,KG02,35.1
 2009,Issyk-Kul,KG02,26.2
@@ -63,6 +66,7 @@ Year,Reference area,GeoCode,Value
 2020,Issyk-Kul,KG02,24.4
 2021,Issyk-Kul,KG02,27.2
 2022,Issyk-Kul,KG02,17.9
+2023,Issyk-Kul,KG02,9.2
 2007,Naryn,KG04,12.4
 2008,Naryn,KG04,9.3
 2009,Naryn,KG04,9.7
@@ -79,6 +83,7 @@ Year,Reference area,GeoCode,Value
 2020,Naryn,KG04,7.2
 2021,Naryn,KG04,7.2
 2022,Naryn,KG04,7.5
+2023,Naryn,KG04,6.1
 2007,Osh,KG06,1.0
 2008,Osh,KG06,2.4
 2009,Osh,KG06,2.7
@@ -95,6 +100,7 @@ Year,Reference area,GeoCode,Value
 2020,Osh,KG06,2.9
 2021,Osh,KG06,2.6
 2022,Osh,KG06,1.1
+2023,Osh,KG06,1.5
 2007,Talas,KG07,3.6
 2008,Talas,KG07,4.4
 2009,Talas,KG07,4.4
@@ -111,6 +117,7 @@ Year,Reference area,GeoCode,Value
 2020,Talas,KG07,7.4
 2021,Talas,KG07,12.5
 2022,Talas,KG07,4.4
+2023,Talas,KG07,4.0
 2007,Chui,KG08,15.8
 2008,Chui,KG08,16.0
 2009,Chui,KG08,11.9
@@ -127,6 +134,7 @@ Year,Reference area,GeoCode,Value
 2020,Chui,KG08,4.0
 2021,Chui,KG08,6.4
 2022,Chui,KG08,3.0
+2023,Chui,KG08,4.4
 2007,Bishkek (city),KG11,24.1
 2008,Bishkek (city),KG11,24.3
 2009,Bishkek (city),KG11,21.0
@@ -143,6 +151,7 @@ Year,Reference area,GeoCode,Value
 2020,Bishkek (city),KG11,3.2
 2021,Bishkek (city),KG11,5.2
 2022,Bishkek (city),KG11,4.1
+2023,Bishkek (city),KG11,4.7
 2007,Osh (city),KG21,1.6
 2008,Osh (city),KG21,3.5
 2009,Osh (city),KG21,3.1
@@ -159,3 +168,4 @@ Year,Reference area,GeoCode,Value
 2020,Osh (city),KG21,3.5
 2021,Osh (city),KG21,0.9
 2022,Osh (city),KG21,0.8
+2023,Osh (city),KG21,0.5

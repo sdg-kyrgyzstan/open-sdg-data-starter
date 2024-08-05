@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1692884129189</message:ID>
+    <message:ID>IREF1722248322540</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2023-08-24T13:35:29Z</message:Prepared>
+    <message:Prepared>2024-07-29T10:18:42Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -23,6 +23,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="72" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="78.853813" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="81.862017" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="86.113021" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="U" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="67.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -30,6 +31,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="78.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="84.507279" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="86.585359" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="90.052395" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="R" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="60.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -37,6 +39,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="68.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="75.327723" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="78.874153" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="83.650065" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="M" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="63.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -44,6 +47,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="72.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="79.192301" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="81.995002" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="86.825494" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="F" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="62.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -51,6 +55,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="71.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="78.569896" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="81.751191" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="85.508402" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG05" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="43.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -58,6 +63,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="65.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="74.503222" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="77.522839" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="83.431006" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG03" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="55.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -65,6 +71,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="53.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="64.077217" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="66.601699" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="69.978703" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG02" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="54.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -72,6 +79,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="76.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="84.266839" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="85.894781" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="89.438447" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG04" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="40.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -79,6 +87,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="66.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="75.633446" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="81.569751" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="85.050448" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG06" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="75.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -86,6 +95,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="75.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="80.623149" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="85.001032" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="90.731107" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG07" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="63.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -93,6 +103,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="67.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="75.125517" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="81.552074" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="87.049095" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG08" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="65.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -100,6 +111,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="75.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="81.503126" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="82.790689" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="88.380153" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG11" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="69.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -107,6 +119,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="87.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="91.007502" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="93.317578" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="95.059233" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG21" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="68.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -114,6 +127,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="72.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="83.858925" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="84.019176" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="90.38439" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y15T28" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="82.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -121,6 +135,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="86.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="92.988279" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="92.255125" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="94.48054" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y29T62" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="63.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -128,6 +143,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="77.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="82.911602" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="86.955922" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="90.371557" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE58" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="25.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -135,6 +151,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="33.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="44.839535" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="51.996782" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="62.580312" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_1" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="47.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -142,6 +159,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="52.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="64.794298" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="67.149229" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="68.716149" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_2" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="69.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -149,6 +167,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="70.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="81.511513" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="82.153954" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="87.508827" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_3" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="56.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -156,6 +175,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="66.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="73.697745" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="77.337796" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="81.939359" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_4" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="61.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -163,6 +183,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="74.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="80.698145" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="85.338722" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="89.932597" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="ISCED11_6_7" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="81.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -170,6 +191,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="89.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="92.501625" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="93.651283" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="96.03127" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q1" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="48.021936" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -177,6 +199,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="63.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="70.906713" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="79.090401" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="86.128984" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q2" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="59.801066" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -184,6 +207,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="72.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="78.880477" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="80.566669" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="85.887496" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q3" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="64.756488" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -191,6 +215,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="75" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="81.98765" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="80.883656" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="84.063109" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q4" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="67.075448" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -198,6 +223,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="73.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="80.196917" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="84.475532" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="86.501803" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_USE_II99" REF_AREA="KG" SEX="_T" AGE="Y_GE15" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q5" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="69.456488" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
@@ -205,6 +231,7 @@
     <Obs TIME_PERIOD="2020" OBS_VALUE="77.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2021" OBS_VALUE="83.545634" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="85.812954" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="88.789106" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*Интегрированное выборочное обследование бюджетов домашних хозяйств и рабочей силы"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
