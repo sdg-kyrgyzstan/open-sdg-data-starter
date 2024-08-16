@@ -12,6 +12,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,,253.276648
 2021,,272.6
 2022,,292.199619
+2023,,311.655828
 2010,Pollutants: Solid,74.5
 2011,Pollutants: Solid,90.6
 2012,Pollutants: Solid,90.9
@@ -25,6 +26,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,Pollutants: Solid,93.236078
 2021,Pollutants: Solid,98.1
 2022,Pollutants: Solid,99.522498
+2023,Pollutants: Solid,119.55978
 2010,Pollutants: Gaseous and liquid,79.0
 2011,Pollutants: Gaseous and liquid,121.8
 2012,Pollutants: Gaseous and liquid,126.8
@@ -38,6 +40,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,Pollutants: Gaseous and liquid,160.0
 2021,Pollutants: Gaseous and liquid,174.5
 2022,Pollutants: Gaseous and liquid,192.677121
+2023,Pollutants: Gaseous and liquid,192.096048
 2010,Pollutants: Sulphur dioxide,39.5
 2011,Pollutants: Sulphur dioxide,47.0
 2012,Pollutants: Sulphur dioxide,27.1
@@ -51,6 +54,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,Pollutants: Sulphur dioxide,69.0
 2021,Pollutants: Sulphur dioxide,75.6
 2022,Pollutants: Sulphur dioxide,88.011953
+2023,Pollutants: Sulphur dioxide,78.53927
 2010,Pollutants: Carbon monoxide,17.0
 2011,Pollutants: Carbon monoxide,48.4
 2012,Pollutants: Carbon monoxide,49.8
@@ -64,6 +68,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,Pollutants: Carbon monoxide,48.5
 2021,Pollutants: Carbon monoxide,55.5
 2022,Pollutants: Carbon monoxide,56.91943
+2023,Pollutants: Carbon monoxide,60.030015
 2010,Pollutants: Nitrogen oxide,12.5
 2011,Pollutants: Nitrogen oxide,15.4
 2012,Pollutants: Nitrogen oxide,17.6
@@ -77,3 +82,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2020,Pollutants: Nitrogen oxide,22.8
 2021,Pollutants: Nitrogen oxide,24.9
 2022,Pollutants: Nitrogen oxide,24.176373
+2023,Pollutants: Nitrogen oxide,26.013007
