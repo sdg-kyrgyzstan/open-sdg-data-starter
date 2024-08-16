@@ -15,30 +15,19 @@
             "type": "integer"
           },
           {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "S",
-                ""
-              ]
-            }
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "KG05",
-                "KG11",
-                "KG08",
-                "KG02",
                 "KG03",
+                "KG02",
                 "KG04",
                 "KG06",
-                "KG21",
                 "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
                 ""
               ]
             }
@@ -49,7 +38,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

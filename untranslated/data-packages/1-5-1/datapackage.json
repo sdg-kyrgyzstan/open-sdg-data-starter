@@ -15,10 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Территория",
+            "name": "Territory",
             "type": "string",
             "constraints": {
               "enum": [
+                "Кыргызская Республика",
                 "Баткенская область",
                 "Джалал-Абадская область",
                 "Иссык-Кульская область",
@@ -33,7 +34,7 @@
             }
           },
           {
-            "name": "Пол",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
