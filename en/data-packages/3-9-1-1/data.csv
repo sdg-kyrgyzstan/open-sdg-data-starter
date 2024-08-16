@@ -15,6 +15,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,,,,0.8
 2021,,,,0.8
 2022,,,,0.5
+2023,,,,0.4
 2007,,Female,,0.9
 2008,,Female,,1.4
 2009,,Female,,0.8
@@ -31,6 +32,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,,Female,,0.6
 2021,,Female,,0.4
 2022,,Female,,0.2
+2023,,Female,,0.6
 2007,,Male,,2.2
 2008,,Male,,2.4
 2009,,Male,,1.8
@@ -47,6 +49,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,,Male,,1.0
 2021,,Male,,1.2
 2022,,Male,,0.7
+2023,,Male,,0.3
 2007,Batken,,KG05,0.9
 2008,Batken,,KG05,0.2
 2009,Batken,,KG05,1.6
@@ -61,12 +64,14 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Batken,,KG05,2.4
 2021,Batken,,KG05,0.2
 2022,Batken,,KG05,0.2
+2023,Batken,,KG05,0.7
 2009,Batken,Female,KG05,0.9
 2013,Batken,Female,KG05,0.9
 2017,Batken,Female,KG05,0.4
 2018,Batken,Female,KG05,0.8
 2019,Batken,Female,KG05,1.9
 2020,Batken,Female,KG05,1.1
+2023,Batken,Female,KG05,1.4
 2007,Batken,Male,KG05,1.9
 2008,Batken,Male,KG05,0.5
 2009,Batken,Male,KG05,2.3
@@ -130,6 +135,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Issyk-Kul,,KG02,1.0
 2021,Issyk-Kul,,KG02,0.4
 2022,Issyk-Kul,,KG02,0.7
+2023,Issyk-Kul,,KG02,0.4
 2007,Issyk-Kul,Female,KG02,1.4
 2008,Issyk-Kul,Female,KG02,3.2
 2009,Issyk-Kul,Female,KG02,0.9
@@ -143,6 +149,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Issyk-Kul,Female,KG02,0.4
 2020,Issyk-Kul,Female,KG02,0.8
 2022,Issyk-Kul,Female,KG02,0.4
+2023,Issyk-Kul,Female,KG02,0.4
 2007,Issyk-Kul,Male,KG02,4.2
 2008,Issyk-Kul,Male,KG02,4.2
 2009,Issyk-Kul,Male,KG02,4.1
@@ -159,14 +166,17 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Issyk-Kul,Male,KG02,1.2
 2021,Issyk-Kul,Male,KG02,0.8
 2022,Issyk-Kul,Male,KG02,1.1
+2023,Issyk-Kul,Male,KG02,0.4
 2007,Naryn,,KG04,1.2
 2010,Naryn,,KG04,0.4
 2013,Naryn,,KG04,0.4
 2018,Naryn,,KG04,1.1
 2021,Naryn,,KG04,0.3
+2023,Naryn,,KG04,0.3
 2007,Naryn,Female,KG04,0.8
 2018,Naryn,Female,KG04,0.7
 2021,Naryn,Female,KG04,0.7
+2023,Naryn,Female,KG04,0.6
 2007,Naryn,Male,KG04,1.5
 2010,Naryn,Male,KG04,0.8
 2013,Naryn,Male,KG04,0.7
@@ -183,6 +193,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Osh,,KG06,0.4
 2021,Osh,,KG06,0.5
 2022,Osh,,KG06,0.4
+2023,Osh,,KG06,0.4
 2008,Osh,Female,KG06,0.2
 2012,Osh,Female,KG06,0.3
 2015,Osh,Female,KG06,0.2
@@ -191,6 +202,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Osh,Female,KG06,0.4
 2021,Osh,Female,KG06,0.1
 2022,Osh,Female,KG06,0.4
+2023,Osh,Female,KG06,0.4
 2008,Osh,Male,KG06,0.2
 2009,Osh,Male,KG06,0.5
 2011,Osh,Male,KG06,0.2
@@ -202,6 +214,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Osh,Male,KG06,0.3
 2021,Osh,Male,KG06,0.8
 2022,Osh,Male,KG06,0.4
+2023,Osh,Male,KG06,0.4
 2008,Talas,,KG07,0.9
 2009,Talas,,KG07,0.4
 2013,Talas,,KG07,0.4
@@ -237,6 +250,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Chui,,KG08,1.7
 2021,Chui,,KG08,2.2
 2022,Chui,,KG08,1.0
+2023,Chui,,KG08,0.9
 2007,Chui,Female,KG08,2.5
 2008,Chui,Female,KG08,4.4
 2009,Chui,Female,KG08,2.4
@@ -253,6 +267,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Chui,Female,KG08,1.2
 2021,Chui,Female,KG08,1.0
 2022,Chui,Female,KG08,0.4
+2023,Chui,Female,KG08,1.1
 2007,Chui,Male,KG08,5.9
 2008,Chui,Male,KG08,7.9
 2009,Chui,Male,KG08,3.5
@@ -269,6 +284,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Chui,Male,KG08,2.1
 2021,Chui,Male,KG08,3.5
 2022,Chui,Male,KG08,1.7
+2023,Chui,Male,KG08,0.7
 2007,Bishkek (city),,KG11,3.2
 2008,Bishkek (city),,KG11,3.4
 2009,Bishkek (city),,KG11,1.8
@@ -285,6 +301,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Bishkek (city),,KG11,0.6
 2021,Bishkek (city),,KG11,0.8
 2022,Bishkek (city),,KG11,0.3
+2023,Bishkek (city),,KG11,0.5
 2007,Bishkek (city),Female,KG11,2.3
 2008,Bishkek (city),Female,KG11,2.7
 2009,Bishkek (city),Female,KG11,1.1
@@ -300,6 +317,7 @@ Year,Reference area,Sex,GeoCode,Value
 2019,Bishkek (city),Female,KG11,0.2
 2021,Bishkek (city),Female,KG11,0.2
 2022,Bishkek (city),Female,KG11,0.0
+2023,Bishkek (city),Female,KG11,1.0
 2007,Bishkek (city),Male,KG11,4.2
 2008,Bishkek (city),Male,KG11,4.2
 2009,Bishkek (city),Male,KG11,2.6
@@ -316,6 +334,7 @@ Year,Reference area,Sex,GeoCode,Value
 2020,Bishkek (city),Male,KG11,1.2
 2021,Bishkek (city),Male,KG11,1.6
 2022,Bishkek (city),Male,KG11,0.6
+2023,Bishkek (city),Male,KG11,0.2
 2007,Osh (city),,KG21,0.4
 2011,Osh (city),,KG21,0.4
 2012,Osh (city),,KG21,1.2
