@@ -74,7 +74,8 @@ schema_file: _prose.yml
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
 reporting_status_extra_fields: []
-
+    disaggregation_indicator_count_label: indicators in scope
+    
 # Data and metadata alterations
 # -----------------------------
 # If you would like to perform any data and metadata alterations, you will need
