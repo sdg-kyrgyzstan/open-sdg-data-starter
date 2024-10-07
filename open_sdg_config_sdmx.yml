@@ -100,3 +100,6 @@ map_layers:
     filename_prefix: indicator_
 
 ignore_out_of_scope_disaggregation_stats: true
+
+reporting_status:
+    disaggregation_indicator_count_label: indicators in scope
