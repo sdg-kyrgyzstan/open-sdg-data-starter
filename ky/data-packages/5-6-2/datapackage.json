@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-6-2",
+  "title": "15 жаштан улуу аялдар менен эркектердин жыныстык жана репродуктивдүү саламаттыкты сактоого, маалыматка жана билим алууга толук жана тең жеткиликтүүлүгүнө кепилдик берген мыйзамдары жана эрежелери бар өлкөлөрдүн саны"
+}

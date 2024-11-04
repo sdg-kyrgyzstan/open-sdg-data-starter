@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-19-2",
+  "title": "(а) акыркы 10 жылда, жок эле дегенде, бир калктын жана турак жай санагын жүргүзгөн өлкөлөрдүн үлүшү; жана (б) төрөттү каттоонун 100 пайызын жана өлүмдү каттоонун 80 пайызын жетишти"
+}

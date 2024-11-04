@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-3-2",
+  "title": "Ылайыкташтырууну, жеңилдетүүнү жана технологияларды которууну, өнүктүрүү иш-аракеттерин ишке ашыруу үчүн институционалдык, системалык жана жеке жөндөмдүүлүктөрдү курууну бекемдөө жөнүндө кабарлаган өлкөлөрдүн саны"
+}

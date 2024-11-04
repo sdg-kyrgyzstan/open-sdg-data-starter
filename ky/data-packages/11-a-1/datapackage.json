@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-a-1",
+  "title": "Калктын динамикасына (а) жооп берген улуттук шаар саясаты же регионалдык өнүктүрүү пландары бар өлкөлөрдүн саны; (б) тең салмактуу аумақтық өнүгүүнү камсыз кылуу; жана (с) жергиликтүү фискалдык мейкиндикти көбөйтүү"
+}

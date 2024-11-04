@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-2",
+  "title": "Мурунку 12 ай ичинде жакын өнөктөштөн башка адамдар тарабынан жыныстык зордук-зомбулукка дуушар болгон 15 жаштан улуу аялдар менен кыздардын үлүшү жаш курагы жана пайда болгон жери боюнча"
+}

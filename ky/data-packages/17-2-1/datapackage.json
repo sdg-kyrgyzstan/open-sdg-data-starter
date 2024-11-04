@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-2-1",
+  "title": "Экономикалык кызматташтык жана өнүктүрүү уюмунун (ЭЫДҰ) өнүктүрүүгө көмөк көрсөтүү комитетинин донорлорунун жалпы улуттук кирешесинин (ГНИ) үлүшү катары өнүктүрүү боюнча таза расмий жардам, жалпы жана эң аз өнүккөн өлкөлөр"
+}
