@@ -50,7 +50,7 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.3.0
+    tag: 2.3.2
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputCsv
