@@ -35,6 +35,18 @@
             "title": "REF_AREA"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
