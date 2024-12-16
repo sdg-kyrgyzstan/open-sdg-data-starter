@@ -7772,6 +7772,40 @@
       "title": "global_indicators.10-7-2-title"
     },
     {
+      "path": "1-5-4/data.csv",
+      "name": "1-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Показатель",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Число местных органов власти",
+                "Доля местных органов власти, принявших и осуществляющих местные стратегии снижения риска бедствий",
+                "Число местных органов власти, принявших и осуществляющих местные DRR стратегии по снижению риска бедствий в соответствии с национальными стратегиями",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.1-5-4-title"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -10478,28 +10512,6 @@
         ]
       },
       "title": "global_indicators.6-4-1-title"
-    },
-    {
-      "path": "1-5-4/data.csv",
-      "name": "1-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-5-4-title"
     },
     {
       "path": "5-a-1/data.csv",
