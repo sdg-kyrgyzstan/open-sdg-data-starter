@@ -930,7 +930,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4504,17 +4504,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014.",
-                "According to Multiple Indicator Cluster Survey, 2018",
-                ""
-              ]
-            }
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -4604,7 +4593,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

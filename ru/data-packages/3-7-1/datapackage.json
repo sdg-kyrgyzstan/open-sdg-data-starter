@@ -16,18 +16,6 @@
             "title": "Год"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014.",
-                "According to Multiple Indicator Cluster Survey, 2018",
-                ""
-              ]
-            },
-            "title": "Сноски на уровне наблюдения"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -124,7 +112,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
