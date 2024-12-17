@@ -16,19 +16,6 @@
             "title": "Жыл"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014",
-                "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
@@ -121,6 +108,17 @@
               ]
             },
             "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "GeoCode",

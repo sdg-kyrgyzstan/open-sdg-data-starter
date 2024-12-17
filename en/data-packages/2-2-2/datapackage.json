@@ -16,19 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014",
-                "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -121,6 +108,17 @@
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",

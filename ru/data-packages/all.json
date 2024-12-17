@@ -3870,19 +3870,6 @@
             "title": "Год"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey,2014",
-                "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother",
-                ""
-              ]
-            },
-            "title": "Сноски на уровне наблюдения"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -3972,6 +3959,17 @@
               ]
             },
             "title": "Уровень образования"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
           },
           {
             "name": "GeoCode",
@@ -4343,19 +4341,6 @@
             "title": "Год"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014",
-                "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother",
-                ""
-              ]
-            },
-            "title": "Сноски на уровне наблюдения"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "Ряды ЦУР"
@@ -4448,6 +4433,17 @@
               ]
             },
             "title": "Уровень образования"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
           },
           {
             "name": "GeoCode",

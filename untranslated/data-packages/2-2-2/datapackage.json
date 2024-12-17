@@ -15,18 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014",
-                "According to Multiple Indicator Cluster Survey, 2018.",
-                "Education of mother",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -109,6 +97,16 @@
                 "ISCED11_3",
                 "ISCED11_4",
                 "ISCED11_5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
                 ""
               ]
             }
