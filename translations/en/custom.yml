@@ -1,5 +1,6 @@
-frontpage_heading: Kyrgyzstan data for Sustainable Development Goal indicators
-frontpage_instructions: Click on each goal, or <span id="jump-to-search"><a>search</a></span>, for Kyrgyzstan statistics for Sustainable Development Goal global indicators.
+heading: Indicators of the Sustainable Development Goals of the Kyrgyz Republic
+instructions: Click on each goal, or <span id="jump-to-search"><a>search</a></span> for statistics on the global Sustainable Development Goals (SDGs). 
+To obtain data on the SDG indicators, select a goal or enter the name of the indicator in the "Search" field.
 national: National
 concepts: Concepts
 rationale_and_interpretation: Rationale and interpretation
@@ -25,3 +26,4 @@ data_reporter_blurb: This table provides information about the supplier of the d
 meta_link_text: United Nations Sustainable Development Goals Metadata
 download_publication: Download publication
 noncommunicable_diseases: Noncommunicable diseases
+news: News
