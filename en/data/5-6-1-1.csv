@@ -1,13 +1,37 @@
 Year,Reference area,Degree of urbanisation,GeoCode,Value
+2014,,,,99.6
 2018,,,,99.7
+2023,,,,99.4
+2014,,Urban,,99.8
 2018,,Urban,,99.8
+2023,,Urban,,99.1
+2014,,Rural,,99.5
 2018,,Rural,,99.6
+2023,,Rural,,99.5
+2014,Batken,,KG05,99.6
 2018,Batken,,KG05,99.7
+2023,Batken,,KG05,98.9
+2014,Jalal-Abad,,KG03,100.0
 2018,Jalal-Abad,,KG03,99.4
+2023,Jalal-Abad,,KG03,99.4
+2014,Issyk-Kul,,KG02,99.4
 2018,Issyk-Kul,,KG02,100.0
+2023,Issyk-Kul,,KG02,99.7
+2014,Naryn,,KG04,99.8
 2018,Naryn,,KG04,99.7
+2023,Naryn,,KG04,100.0
+2014,Osh,,KG06,99.9
 2018,Osh,,KG06,99.8
+2023,Osh,,KG06,99.4
+2014,Talas,,KG07,98.7
 2018,Talas,,KG07,100.0
+2023,Talas,,KG07,100.0
+2014,Chui,,KG08,99.1
 2018,Chui,,KG08,99.5
+2023,Chui,,KG08,99.4
+2014,Bishkek (city),,KG11,100.0
 2018,Bishkek (city),,KG11,99.9
+2023,Bishkek (city),,KG11,100.0
+2014,Osh (city),,KG21,98.5
 2018,Osh (city),,KG21,99.5
+2023,Osh (city),,KG21,97.4
