@@ -1,9 +1,27 @@
-name: Test PRs
+# ****************************************************************************
+# NOTES:
+#
+# In order for this to work, you must replace STAGING_ORGANISATION below
+# with the name of your staging GitHub organisation, in line 53.
+# You must also replace STAGING_SITE_REPOSITORY below with the name of your
+# staging site repository.
+#
+# For example, if your staging organisation is "my-sdg-staging-org", and your
+# staging site repository is "open-sdg-site-starter", then use:
+#
+# curl -X POST https://api.github.com/repos/my-sdg-staging-org/open-sdg-site-starter/dispatches
+#
+# ****************************************************************************
 
-on: [pull_request]
+name: Deploy to staging
+
+on:
+  push:
+    branches:
+      - develop
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
@@ -20,3 +38,19 @@ jobs:
     - name: Build data
       run: |
         python scripts/build_data.py
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
+    - name: Waiting 4 minutes for staging data deployment
+      run: |
+        sleep 240
+    - name: Rebuild staging
+      run: |
+        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'
