@@ -58,6 +58,7 @@
               "enum": [
                 "Y0T17",
                 "Y18T29",
+                "Y30T39",
                 "Y_GE70",
                 ""
               ]
@@ -76,7 +77,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

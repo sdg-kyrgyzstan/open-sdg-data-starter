@@ -19,8 +19,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "According to Multiple Indicator Cluster Survey, 2014",
-                "According to Multiple Indicator Cluster Survey, 2018",
+                "743",
+                "755",
+                "730",
+                "769",
+                "731",
+                "468",
+                "655",
+                "809",
+                "740",
+                "744",
+                "799",
+                "835",
+                "805",
+                "856",
+                "553",
+                "712",
+                "794",
+                "788",
+                "709",
+                "706",
+                "814",
+                "774",
                 ""
               ]
             }
@@ -101,7 +121,6 @@
                 "_L_CHWD",
                 "_L_MD",
                 "_L_MWD",
-                "_U",
                 ""
               ]
             }
@@ -112,7 +131,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

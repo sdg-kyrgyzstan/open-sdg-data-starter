@@ -58,6 +58,7 @@
               "enum": [
                 "under 17 years old",
                 "18 to 29 years old",
+                "30 to 39 years old",
                 "70 years old and over",
                 ""
               ]
@@ -76,7 +77,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

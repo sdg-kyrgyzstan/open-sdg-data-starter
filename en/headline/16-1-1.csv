@@ -1,19 +1,21 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,5.5,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2015,5.2,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2016,4.4,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2017,4.2,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2018,3.2,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2019,2.7,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2020,2.6,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2021,2.6,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2022,2.7,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
-2014,320.0,,Number,Number of victims of intentional homicide
-2015,305.0,,Number,Number of victims of intentional homicide
-2016,267.0,,Number,Number of victims of intentional homicide
-2017,256.0,,Number,Number of victims of intentional homicide
-2018,203.0,,Number,Number of victims of intentional homicide
-2019,174.0,,Number,Number of victims of intentional homicide
-2020,172.0,,Number,Number of victims of intentional homicide
-2021,182.0,,Number,Number of victims of intentional homicide
-2022,191.0,,Number,Number of victims of intentional homicide
+2014,54,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2015,50,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2016,43,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2017,40,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2018,31,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2019,26,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2020,25,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2021,26,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2022,27,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2023,15,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2014,320,,Number,Number of victims of intentional homicide
+2015,305,,Number,Number of victims of intentional homicide
+2016,267,,Number,Number of victims of intentional homicide
+2017,256,,Number,Number of victims of intentional homicide
+2018,203,,Number,Number of victims of intentional homicide
+2019,174,,Number,Number of victims of intentional homicide
+2020,172,,Number,Number of victims of intentional homicide
+2021,182,,Number,Number of victims of intentional homicide
+2022,191,,Number,Number of victims of intentional homicide
+2023,106,,Number,Number of victims of intentional homicide

@@ -1,52 +1,51 @@
 Year,Observation-level footnotes,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Disability status,GeoCode,Value
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,,,,57.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,,,74.3
-2014,"According to Multiple Indicator Cluster Survey, 2014",,Male,,,,,,59.9
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Male,,,,,,75.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",,Female,,,,,,54.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,Female,,,,,,73.0
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,Urban,,,,60.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Urban,,,,76.9
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,Rural,,,,56.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,Rural,,,,73.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",Batken,,,,,,KG05,49.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",Batken,,,,,,KG05,46.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",Jalal-Abad,,,,,,KG03,42.9
-2018,"According to Multiple Indicator Cluster Survey, 2018",Jalal-Abad,,,,,,KG03,65.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",Issyk-Kul,,,,,,KG02,48.2
-2018,"According to Multiple Indicator Cluster Survey, 2018",Issyk-Kul,,,,,,KG02,80.9
-2014,"According to Multiple Indicator Cluster Survey, 2014",Naryn,,,,,,KG04,58.0
-2018,"According to Multiple Indicator Cluster Survey, 2018",Naryn,,,,,,KG04,74.0
-2014,"According to Multiple Indicator Cluster Survey, 2014",Osh,,,,,,KG06,57.8
-2018,"According to Multiple Indicator Cluster Survey, 2018",Osh,,,,,,KG06,74.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",Talas,,,,,,KG07,71.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",Talas,,,,,,KG07,79.9
-2014,"According to Multiple Indicator Cluster Survey, 2014",Chui,,,,,,KG08,66.8
-2018,"According to Multiple Indicator Cluster Survey, 2018",Chui,,,,,,KG08,83.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",Bishkek (city),,,,,,KG11,70.3
-2018,"According to Multiple Indicator Cluster Survey, 2018",Bishkek (city),,,,,,KG11,80.5
-2014,"According to Multiple Indicator Cluster Survey, 2014",Osh (city),,,,,,KG21,71.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",Osh (city),,,,,,KG21,85.6
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,1 to 2 years old,,,,,45.5
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,1 to 2 years old,,,,,55.3
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,3 to 4 years old,,,,,67.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,3 to 4 years old,,,,,71.2
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,5 to 9 years old,,,,,61.9
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,5 to 9 years old,,,,,79.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,10 to 14 years old,,,,,52.7
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,10 to 14 years old,,,,,78.8
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Child with disability,,83.7
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Child without disability,,75.6
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Mother with disability,,92.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,Mother without disability,,74.4
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,,No information,,69.8
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Quintile 1 (poorest),,,55.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Quintile 1 (poorest),,,70.9
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Quintile 2,,,58.1
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Quintile 2,,,70.6
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Quintile 3,,,54.7
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Quintile 3,,,73.1
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Quintile 4,,,56.5
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Quintile 4,,,81.4
-2014,"According to Multiple Indicator Cluster Survey, 2014",,,,,Quintile 5 (richest),,,62.5
-2018,"According to Multiple Indicator Cluster Survey, 2018",,,,,Quintile 5 (richest),,,77.4
+2014,743,,,,,,,,571
+2023,,,,,,,,,649
+2014,755,,Male,,,,,,599
+2023,,,Male,,,,,,690
+2014,730,,Female,,,,,,544
+2023,,,Female,,,,,,607
+2014,769,,,,Urban,,,,600
+2023,,,,,Urban,,,,650
+2014,731,,,,Rural,,,,560
+2023,,,,,Rural,,,,648
+2014,468,Batken,,,,,,KG05,494
+2023,,Batken,,,,,,KG05,634
+2014,655,Jalal-Abad,,,,,,KG03,429
+2023,,Jalal-Abad,,,,,,KG03,546
+2014,809,Issyk-Kul,,,,,,KG02,482
+2023,,Issyk-Kul,,,,,,KG02,522
+2014,740,Naryn,,,,,,KG04,580
+2023,,Naryn,,,,,,KG04,820
+2014,744,Osh,,,,,,KG06,578
+2023,,Osh,,,,,,KG06,707
+2014,799,Talas,,,,,,KG07,711
+2023,,Talas,,,,,,KG07,751
+2014,835,Chui,,,,,,KG08,668
+2023,,Chui,,,,,,KG08,625
+2014,805,Bishkek (city),,,,,,KG11,703
+2023,,Bishkek (city),,,,,,KG11,616
+2014,856,Osh (city),,,,,,KG21,711
+2023,,Osh (city),,,,,,KG21,828
+2014,553,,,1 to 2 years old,,,,,455
+2023,,,,1 to 2 years old,,,,,445
+2014,712,,,3 to 4 years old,,,,,671
+2023,,,,3 to 4 years old,,,,,637
+2014,794,,,5 to 9 years old,,,,,619
+2023,,,,5 to 9 years old,,,,,693
+2014,788,,,10 to 14 years old,,,,,527
+2023,,,,10 to 14 years old,,,,,677
+2023,,,,,,,Child with disability,,673
+2023,,,,,,,Child without disability,,668
+2023,,,,,,,Mother with disability,,687
+2023,,,,,,,Mother without disability,,662
+2014,709,,,,,Quintile 1 (poorest),,,551
+2023,,,,,,Quintile 1 (poorest),,,659
+2014,706,,,,,Quintile 2,,,581
+2023,,,,,,Quintile 2,,,666
+2014,731,,,,,Quintile 3,,,547
+2023,,,,,,Quintile 3,,,639
+2014,814,,,,,Quintile 4,,,565
+2023,,,,,,Quintile 4,,,647
+2014,774,,,,,Quintile 5 (richest),,,625
+2023,,,,,,Quintile 5 (richest),,,627
