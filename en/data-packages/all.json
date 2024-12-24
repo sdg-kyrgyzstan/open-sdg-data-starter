@@ -1101,7 +1101,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1145,6 +1145,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "5 to 17 years old",
                 "5 to 11 years old",
                 "12 to 14 years old",
                 "15 to 17 years old",
@@ -1218,6 +1219,17 @@
               ]
             },
             "title": "Disability status"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -1863,7 +1875,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household head education",
+                "Образование главы домохозяйства",
                 ""
               ]
             },
@@ -2985,7 +2997,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "until 2013 y. including Osh city",
+                "до 2013 г.включая г. Ош",
                 ""
               ]
             },

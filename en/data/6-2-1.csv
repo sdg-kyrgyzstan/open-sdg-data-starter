@@ -1,23 +1,67 @@
 Year,Reference area,Degree of urbanisation,Income or wealth quantile,Education level,Observation-level footnotes,GeoCode,Value
+2014,,,,,,,94.5
 2018,,,,,,,96.3
+2023,,,,,,,97.6
+2014,,Urban,,,,,96.8
 2018,,Urban,,,,,96.1
+2023,,Urban,,,,,96.7
+2014,,Rural,,,,,93.0
 2018,,Rural,,,,,96.5
+2023,,Rural,,,,,98.0
+2014,Batken,,,,,KG05,91.8
 2018,Batken,,,,,KG05,99.6
+2023,Batken,,,,,KG05,97.0
+2014,Jalal-Abad,,,,,KG03,93.0
 2018,Jalal-Abad,,,,,KG03,93.4
+2023,Jalal-Abad,,,,,KG03,98.1
+2014,Issyk-Kul,,,,,KG02,95.2
 2018,Issyk-Kul,,,,,KG02,99.1
+2023,Issyk-Kul,,,,,KG02,98.7
+2014,Naryn,,,,,KG04,97.3
 2018,Naryn,,,,,KG04,99.4
+2023,Naryn,,,,,KG04,99.5
+2014,Osh,,,,,KG06,94.3
 2018,Osh,,,,,KG06,99.1
+2023,Osh,,,,,KG06,97.3
+2014,Talas,,,,,KG07,91.0
 2018,Talas,,,,,KG07,99.8
+2023,Talas,,,,,KG07,97.1
+2014,Chui,,,,,KG08,92.7
 2018,Chui,,,,,KG08,91.6
+2023,Chui,,,,,KG08,99.1
+2014,Bishkek (city),,,,,KG11,99.1
 2018,Bishkek (city),,,,,KG11,95.7
+2023,Bishkek (city),,,,,KG11,97.8
+2014,Osh (city),,,,,KG21,92.4
 2018,Osh (city),,,,,KG21,96.8
-2018,,,,Primary education,household head education,,92.1
-2018,,,,Lower secondary education,household head education,,94.7
-2018,,,,Upper secondary education,household head education,,97.4
-2018,,,,Post-secondary non-tertiary education,household head education,,96.6
-2018,,,,Short-cycle tertiary education,household head education,,95.1
+2023,Osh (city),,,,,KG21,90.4
+2014,,,,Primary education,Образование главы домохозяйства,,95.1
+2018,,,,Primary education,Образование главы домохозяйства,,92.1
+2023,,,,Primary education,Образование главы домохозяйства,,91.1
+2014,,,,Lower secondary education,Образование главы домохозяйства,,90.6
+2018,,,,Lower secondary education,Образование главы домохозяйства,,94.7
+2023,,,,Lower secondary education,Образование главы домохозяйства,,97.5
+2014,,,,Upper secondary education,Образование главы домохозяйства,,93.6
+2018,,,,Upper secondary education,Образование главы домохозяйства,,97.4
+2023,,,,Upper secondary education,Образование главы домохозяйства,,97.6
+2014,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,95.6
+2018,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,96.6
+2023,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,97.9
+2014,,,,Short-cycle tertiary education,Образование главы домохозяйства,,97.4
+2018,,,,Short-cycle tertiary education,Образование главы домохозяйства,,95.1
+2023,,,,Short-cycle tertiary education,Образование главы домохозяйства,,98.0
+2014,,,Quintile 1 (poorest),,,,88.2
 2018,,,Quintile 1 (poorest),,,,97.2
+2023,,,Quintile 1 (poorest),,,,95.1
+2014,,,Quintile 2,,,,93.4
 2018,,,Quintile 2,,,,95.9
+2023,,,Quintile 2,,,,97.7
+2014,,,Quintile 3,,,,95.1
 2018,,,Quintile 3,,,,96.5
+2023,,,Quintile 3,,,,98.8
+2014,,,Quintile 4,,,,95.8
 2018,,,Quintile 4,,,,96.4
+2023,,,Quintile 4,,,,99.0
+2014,,,Quintile 5 (richest),,,,97.9
 2018,,,Quintile 5 (richest),,,,95.7
+2023,,,Quintile 5 (richest),,,,97.6

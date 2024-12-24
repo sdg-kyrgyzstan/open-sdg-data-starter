@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "until 2013 y. including Osh city",
+                "до 2013 г.включая г. Ош",
                 ""
               ]
             },

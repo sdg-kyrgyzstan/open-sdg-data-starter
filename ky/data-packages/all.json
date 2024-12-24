@@ -1145,6 +1145,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Y5T17",
                 "Y5T11",
                 "Y12T14",
                 "Y15T17",
@@ -1218,6 +1219,17 @@
               ]
             },
             "title": "DISABILITY_STATUS"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "GeoCode",
@@ -1863,7 +1875,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household head education",
+                "Образование главы домохозяйства",
                 ""
               ]
             },
@@ -2985,7 +2997,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "until 2013 y. including Osh city",
+                "до 2013 г.включая г. Ош",
                 ""
               ]
             },

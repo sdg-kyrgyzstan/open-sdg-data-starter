@@ -81,7 +81,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household head education",
+                "Образование главы домохозяйства",
                 ""
               ]
             },

@@ -1049,6 +1049,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Y5T17",
                 "Y5T11",
                 "Y12T14",
                 "Y15T17",
@@ -1113,6 +1114,16 @@
               "enum": [
                 "_L_CHD",
                 "_L_CHWD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Образование матери",
                 ""
               ]
             }
@@ -1706,7 +1717,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "household head education",
+                "Образование главы домохозяйства",
                 ""
               ]
             }
@@ -2736,7 +2747,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "until 2013 y. including Osh city",
+                "до 2013 г.включая г. Ош",
                 ""
               ]
             }

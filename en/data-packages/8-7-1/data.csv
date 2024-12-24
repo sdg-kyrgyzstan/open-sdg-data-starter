@@ -1,32 +1,90 @@
-Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,Disability status,GeoCode,Value
-2018,,,,,,,,,,26.7
-2018,,Male,,,,,,,,33.6
-2018,,Female,,,,,,,,19.0
-2018,,,,Urban,,,,,,11.9
-2018,,,,Rural,,,,,,33.6
-2018,Batken,,,,,,,,KG05,27.7
-2018,Jalal-Abad,,,,,,,,KG03,34.0
-2018,Issyk-Kul,,,,,,,,KG02,27.0
-2018,Naryn,,,,,,,,KG04,40.5
-2018,Osh,,,,,,,,KG06,33.3
-2018,Talas,,,,,,,,KG07,35.1
-2018,Chui,,,,,,,,KG08,24.5
-2018,Bishkek (city),,,,,,,,KG11,7.3
-2018,Osh (city),,,,,,,,KG21,6.1
-2018,,,5 to 11 years old,,,,,,,27.9
-2018,,,12 to 14 years old,,,,,,,23.3
-2018,,,15 to 17 years old,,,,,,,26.6
-2018,,,,,,,School attendance: Attends,,,27.0
-2018,,,,,,,School attendance: Not attends,,,21.6
-2018,,,,,,Primary education,,,,33.0
-2018,,,,,,Lower secondary education,,,,28.7
-2018,,,,,,Upper secondary education,,,,29.2
-2018,,,,,,Post-secondary non-tertiary education,,,,24.4
-2018,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,23.1
-2018,,,,,,,,Child with disability,,34.9
-2018,,,,,,,,Child without disability,,25.9
-2018,,,,,Quintile 1 (poorest),,,,,32.1
-2018,,,,,Quintile 2,,,,,30.6
-2018,,,,,Quintile 3,,,,,31.8
-2018,,,,,Quintile 4,,,,,28.0
-2018,,,,,Quintile 5 (richest),,,,,6.1
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,Disability status,Observation-level footnotes,GeoCode,Value
+2014,,,5 to 17 years old,,,,,,,,25.8
+2018,,,5 to 17 years old,,,,,,,,26.7
+2023,,,5 to 17 years old,,,,,,,,19.6
+2014,,Male,5 to 17 years old,,,,,,,,29.9
+2018,,Male,5 to 17 years old,,,,,,,,33.6
+2023,,Male,5 to 17 years old,,,,,,,,23.2
+2014,,Female,5 to 17 years old,,,,,,,,21.5
+2018,,Female,5 to 17 years old,,,,,,,,19.0
+2023,,Female,5 to 17 years old,,,,,,,,16.0
+2014,,,5 to 17 years old,Urban,,,,,,,12.3
+2018,,,5 to 17 years old,Urban,,,,,,,11.9
+2023,,,5 to 17 years old,Urban,,,,,,,14.1
+2014,,,5 to 17 years old,Rural,,,,,,,30.9
+2018,,,5 to 17 years old,Rural,,,,,,,33.6
+2023,,,5 to 17 years old,Rural,,,,,,,22.0
+2014,Batken,,5 to 17 years old,,,,,,,KG05,27.7
+2018,Batken,,5 to 17 years old,,,,,,,KG05,27.7
+2023,Batken,,5 to 17 years old,,,,,,,KG05,21.1
+2014,Jalal-Abad,,5 to 17 years old,,,,,,,KG03,21.4
+2018,Jalal-Abad,,5 to 17 years old,,,,,,,KG03,34.0
+2023,Jalal-Abad,,5 to 17 years old,,,,,,,KG03,24.1
+2014,Issyk-Kul,,5 to 17 years old,,,,,,,KG02,15.5
+2018,Issyk-Kul,,5 to 17 years old,,,,,,,KG02,27.0
+2023,Issyk-Kul,,5 to 17 years old,,,,,,,KG02,9.8
+2014,Naryn,,5 to 17 years old,,,,,,,KG04,20.8
+2018,Naryn,,5 to 17 years old,,,,,,,KG04,40.5
+2023,Naryn,,5 to 17 years old,,,,,,,KG04,30.8
+2014,Osh,,5 to 17 years old,,,,,,,KG06,34.7
+2018,Osh,,5 to 17 years old,,,,,,,KG06,33.3
+2023,Osh,,5 to 17 years old,,,,,,,KG06,27.5
+2014,Talas,,5 to 17 years old,,,,,,,KG07,22.3
+2018,Talas,,5 to 17 years old,,,,,,,KG07,35.1
+2023,Talas,,5 to 17 years old,,,,,,,KG07,8.0
+2014,Chui,,5 to 17 years old,,,,,,,KG08,42.6
+2018,Chui,,5 to 17 years old,,,,,,,KG08,24.5
+2023,Chui,,5 to 17 years old,,,,,,,KG08,14.2
+2014,Bishkek (city),,5 to 17 years old,,,,,,,KG11,4.5
+2018,Bishkek (city),,5 to 17 years old,,,,,,,KG11,7.3
+2023,Bishkek (city),,5 to 17 years old,,,,,,,KG11,4.5
+2014,Osh (city),,5 to 17 years old,,,,,,,KG21,12.0
+2018,Osh (city),,5 to 17 years old,,,,,,,KG21,6.1
+2023,Osh (city),,5 to 17 years old,,,,,,,KG21,15.8
+2014,,,5 to 11 years old,,,,,,,,24.5
+2018,,,5 to 11 years old,,,,,,,,27.9
+2023,,,5 to 11 years old,,,,,,,,28.0
+2014,,,12 to 14 years old,,,,,,,,25.0
+2018,,,12 to 14 years old,,,,,,,,23.3
+2023,,,12 to 14 years old,,,,,,,,11.0
+2014,,,15 to 17 years old,,,,,,,,30.4
+2018,,,15 to 17 years old,,,,,,,,26.6
+2023,,,15 to 17 years old,,,,,,,,0.3
+2014,,,5 to 17 years old,,,,School attendance: Attends,,,,27.5
+2018,,,5 to 17 years old,,,,School attendance: Attends,,,,27.0
+2023,,,5 to 17 years old,,,,School attendance: Attends,,,,20.2
+2014,,,5 to 17 years old,,,,School attendance: Not attends,,,,14.4
+2018,,,5 to 17 years old,,,,School attendance: Not attends,,,,21.6
+2023,,,5 to 17 years old,,,,School attendance: Not attends,,,,12.6
+2014,,,5 to 17 years old,,,Primary education,,,Образование матери,,36.1
+2014,,,5 to 17 years old,,,Lower secondary education,,,Образование матери,,23.7
+2018,,,5 to 17 years old,,,Lower secondary education,,,Образование матери,,28.7
+2023,,,5 to 17 years old,,,Lower secondary education,,,Образование матери,,19.9
+2014,,,5 to 17 years old,,,Upper secondary education,,,Образование матери,,27.4
+2018,,,5 to 17 years old,,,Upper secondary education,,,Образование матери,,29.2
+2023,,,5 to 17 years old,,,Upper secondary education,,,Образование матери,,21.6
+2014,,,5 to 17 years old,,,Post-secondary non-tertiary education,,,Образование матери,,28.3
+2018,,,5 to 17 years old,,,Post-secondary non-tertiary education,,,Образование матери,,24.4
+2023,,,5 to 17 years old,,,Post-secondary non-tertiary education,,,Образование матери,,21.0
+2014,,,5 to 17 years old,,,Tertiary education (Bachelor’s and Master's or equivalent),,,Образование матери,,18.7
+2018,,,5 to 17 years old,,,Tertiary education (Bachelor’s and Master's or equivalent),,,Образование матери,,23.1
+2023,,,5 to 17 years old,,,Tertiary education (Bachelor’s and Master's or equivalent),,,Образование матери,,15.5
+2018,,,5 to 17 years old,,,,,Child with disability,,,34.9
+2023,,,5 to 17 years old,,,,,Child with disability,,,19.4
+2018,,,5 to 17 years old,,,,,Child without disability,,,25.9
+2023,,,5 to 17 years old,,,,,Child without disability,,,19.7
+2014,,,5 to 17 years old,,Quintile 1 (poorest),,,,,,26.3
+2018,,,5 to 17 years old,,Quintile 1 (poorest),,,,,,32.1
+2023,,,5 to 17 years old,,Quintile 1 (poorest),,,,,,26.1
+2014,,,5 to 17 years old,,Quintile 2,,,,,,28.8
+2018,,,5 to 17 years old,,Quintile 2,,,,,,30.6
+2023,,,5 to 17 years old,,Quintile 2,,,,,,23.8
+2014,,,5 to 17 years old,,Quintile 3,,,,,,32.9
+2018,,,5 to 17 years old,,Quintile 3,,,,,,31.8
+2023,,,5 to 17 years old,,Quintile 3,,,,,,20.9
+2014,,,5 to 17 years old,,Quintile 4,,,,,,27.1
+2018,,,5 to 17 years old,,Quintile 4,,,,,,28.0
+2023,,,5 to 17 years old,,Quintile 4,,,,,,16.9
+2014,,,5 to 17 years old,,Quintile 5 (richest),,,,,,11.0
+2018,,,5 to 17 years old,,Quintile 5 (richest),,,,,,6.1
+2023,,,5 to 17 years old,,Quintile 5 (richest),,,,,,8.3
