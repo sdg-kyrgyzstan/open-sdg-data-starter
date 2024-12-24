@@ -33,17 +33,6 @@
             "title": "Reference area"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "По данным лесоустройства 2022 года Лесной службы при Министерстве чрезвычайных ситуаций КР",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
