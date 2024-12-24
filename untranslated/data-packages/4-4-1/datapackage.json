@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "Навык",
+            "name": "Разбивка",
             "type": "string",
             "constraints": {
               "enum": [
