@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1735117241303</message:ID>
+    <message:ID>IREF1735036307367</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2024-12-25T09:00:41Z</message:Prepared>
+    <message:Prepared>2024-12-24T10:31:47Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -17,7 +17,7 @@
     <message:DataSetID>SDG</message:DataSetID>
   </message:Header>
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_11" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_11" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2008" OBS_VALUE="29.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2009" OBS_VALUE="36.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2009" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2010" OBS_VALUE="27.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2010" SOURCE_DETAIL="*по данным НБКР"></Obs>
@@ -35,7 +35,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="49.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="50" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*по данным НБКР"></Obs>
   </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_12" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_12" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2007" OBS_VALUE="16.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2008" OBS_VALUE="15.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2009" OBS_VALUE="19.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2009" SOURCE_DETAIL="*по данным НБКР"></Obs>
@@ -54,7 +54,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="34.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="35.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*по данным НБКР"></Obs>
   </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_13" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_13" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2007" OBS_VALUE="14.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2008" OBS_VALUE="13.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2008" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2009" OBS_VALUE="12.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2009" SOURCE_DETAIL="*по данным НБКР"></Obs>
