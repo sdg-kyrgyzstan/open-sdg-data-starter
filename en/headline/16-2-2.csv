@@ -1,13 +1,22 @@
-Year,Value,GeoCode
-2011,5,
-2012,6,
-2013,9,
-2014,19,
-2015,8,
-2016,10,
-2017,5,
-2018,8,
-2019,5,
-2020,2,
-2021,2,
-2022,1,
+Year,Value,GeoCode,SERIES
+2010,21,,Detected victims of human trafficking (number)
+2011,5,,Detected victims of human trafficking (number)
+2012,6,,Detected victims of human trafficking (number)
+2013,9,,Detected victims of human trafficking (number)
+2014,19,,Detected victims of human trafficking (number)
+2015,8,,Detected victims of human trafficking (number)
+2016,10,,Detected victims of human trafficking (number)
+2017,5,,Detected victims of human trafficking (number)
+2018,7,,Detected victims of human trafficking (number)
+2019,11,,Detected victims of human trafficking (number)
+2020,9,,Detected victims of human trafficking (number)
+2021,6,,Detected victims of human trafficking (number)
+2022,3,,Detected victims of human trafficking (number)
+2023,17,,Detected victims of human trafficking (number)
+2019,1,,"Detected victims of human trafficking for forced labour, servitude and slavery (number)"
+2020,3,,"Detected victims of human trafficking for forced labour, servitude and slavery (number)"
+2021,1,,"Detected victims of human trafficking for forced labour, servitude and slavery (number)"
+2023,13,,"Detected victims of human trafficking for forced labour, servitude and slavery (number)"
+2021,2,,Detected victims of human trafficking for sexual exploitaton (number)
+2022,1,,Detected victims of human trafficking for sexual exploitaton (number)
+2021,2,,Detected victims of human trafficking for other purposes (number)

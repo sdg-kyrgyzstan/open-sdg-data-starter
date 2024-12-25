@@ -1549,6 +1549,10 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -1558,10 +1562,33 @@
                 "KG02",
                 "KG04",
                 "KG06",
-                "KG07",
                 "KG08",
                 "KG11",
                 "KG21",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                "_U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T17",
+                "Y18T29",
+                "Y30T39",
                 ""
               ]
             }

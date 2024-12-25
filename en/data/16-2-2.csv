@@ -1,50 +1,94 @@
-Year,Reference area,GeoCode,Value
-2011,,,5
-2012,,,6
-2013,,,9
-2014,,,19
-2015,,,8
-2016,,,10
-2017,,,5
-2018,,,8
-2019,,,5
-2020,,,2
-2021,,,2
-2022,,,1
-2012,Batken,KG05,1
-2013,Batken,KG05,2
-2014,Batken,KG05,1
-2013,Jalal-Abad,KG03,1
-2014,Jalal-Abad,KG03,1
-2015,Jalal-Abad,KG03,1
-2021,Jalal-Abad,KG03,1
-2013,Issyk-Kul,KG02,1
-2014,Issyk-Kul,KG02,1
-2015,Naryn,KG04,1
-2019,Naryn,KG04,1
-2013,Osh,KG06,1
-2014,Osh,KG06,6
-2017,Osh,KG06,2
-2018,Osh,KG06,1
-2020,Osh,KG06,1
-2019,Talas,KG07,1
-2012,Chui,KG08,2
-2013,Chui,KG08,3
-2014,Chui,KG08,3
-2015,Chui,KG08,3
-2016,Chui,KG08,6
-2017,Chui,KG08,3
-2021,Chui,KG08,1
-2022,Chui,KG08,1
-2012,Bishkek (city),KG11,3
-2014,Bishkek (city),KG11,2
-2015,Bishkek (city),KG11,1
-2016,Bishkek (city),KG11,4
-2018,Bishkek (city),KG11,7
-2019,Bishkek (city),KG11,2
-2020,Bishkek (city),KG11,1
-2011,Osh (city),KG21,5
-2013,Osh (city),KG21,1
-2014,Osh (city),KG21,5
-2015,Osh (city),KG21,2
-2019,Osh (city),KG21,1
+Year,SERIES,Reference area,Sex,Age,GeoCode,Value
+2010,Detected victims of human trafficking (number),,,,,21
+2011,Detected victims of human trafficking (number),,,,,5
+2012,Detected victims of human trafficking (number),,,,,6
+2013,Detected victims of human trafficking (number),,,,,9
+2014,Detected victims of human trafficking (number),,,,,19
+2015,Detected victims of human trafficking (number),,,,,8
+2016,Detected victims of human trafficking (number),,,,,10
+2017,Detected victims of human trafficking (number),,,,,5
+2018,Detected victims of human trafficking (number),,,,,7
+2019,Detected victims of human trafficking (number),,,,,11
+2020,Detected victims of human trafficking (number),,,,,9
+2021,Detected victims of human trafficking (number),,,,,6
+2022,Detected victims of human trafficking (number),,,,,3
+2023,Detected victims of human trafficking (number),,,,,17
+2018,Detected victims of human trafficking (number),,Male,,,1
+2019,Detected victims of human trafficking (number),,Male,,,1
+2020,Detected victims of human trafficking (number),,Male,,,4
+2021,Detected victims of human trafficking (number),,Male,,,1
+2022,Detected victims of human trafficking (number),,Male,,,1
+2023,Detected victims of human trafficking (number),,Male,,,13
+2018,Detected victims of human trafficking (number),,Female,,,3
+2019,Detected victims of human trafficking (number),,Female,,,6
+2021,Detected victims of human trafficking (number),,Female,,,4
+2022,Detected victims of human trafficking (number),,Female,,,2
+2023,Detected victims of human trafficking (number),,Female,,,4
+2018,Detected victims of human trafficking (number),,Unknown,,,3
+2019,Detected victims of human trafficking (number),,Unknown,,,4
+2020,Detected victims of human trafficking (number),,Unknown,,,5
+2021,Detected victims of human trafficking (number),,Unknown,,,1
+2012,Detected victims of human trafficking (number),Batken,,,KG05,1
+2013,Detected victims of human trafficking (number),Batken,,,KG05,2
+2014,Detected victims of human trafficking (number),Batken,,,KG05,1
+2013,Detected victims of human trafficking (number),Jalal-Abad,,,KG03,1
+2014,Detected victims of human trafficking (number),Jalal-Abad,,,KG03,1
+2015,Detected victims of human trafficking (number),Jalal-Abad,,,KG03,1
+2021,Detected victims of human trafficking (number),Jalal-Abad,,,KG03,1
+2022,Detected victims of human trafficking (number),Jalal-Abad,,,KG03,1
+2013,Detected victims of human trafficking (number),Issyk-Kul,,,KG02,1
+2014,Detected victims of human trafficking (number),Issyk-Kul,,,KG02,1
+2019,Detected victims of human trafficking (number),Issyk-Kul,,,KG02,1
+2015,Detected victims of human trafficking (number),Naryn,,,KG04,1
+2019,Detected victims of human trafficking (number),Naryn,,,KG04,1
+2010,Detected victims of human trafficking (number),Osh,,,KG06,5
+2013,Detected victims of human trafficking (number),Osh,,,KG06,1
+2014,Detected victims of human trafficking (number),Osh,,,KG06,6
+2017,Detected victims of human trafficking (number),Osh,,,KG06,2
+2018,Detected victims of human trafficking (number),Osh,,,KG06,1
+2019,Detected victims of human trafficking (number),Osh,,,KG06,2
+2020,Detected victims of human trafficking (number),Osh,,,KG06,1
+2010,Detected victims of human trafficking (number),Chui,,,KG08,2
+2012,Detected victims of human trafficking (number),Chui,,,KG08,2
+2013,Detected victims of human trafficking (number),Chui,,,KG08,3
+2014,Detected victims of human trafficking (number),Chui,,,KG08,3
+2015,Detected victims of human trafficking (number),Chui,,,KG08,3
+2016,Detected victims of human trafficking (number),Chui,,,KG08,6
+2017,Detected victims of human trafficking (number),Chui,,,KG08,3
+2021,Detected victims of human trafficking (number),Chui,,,KG08,2
+2023,Detected victims of human trafficking (number),Chui,,,KG08,15
+2010,Detected victims of human trafficking (number),Bishkek (city),,,KG11,1
+2012,Detected victims of human trafficking (number),Bishkek (city),,,KG11,3
+2014,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
+2015,Detected victims of human trafficking (number),Bishkek (city),,,KG11,1
+2016,Detected victims of human trafficking (number),Bishkek (city),,,KG11,4
+2018,Detected victims of human trafficking (number),Bishkek (city),,,KG11,6
+2019,Detected victims of human trafficking (number),Bishkek (city),,,KG11,5
+2020,Detected victims of human trafficking (number),Bishkek (city),,,KG11,8
+2021,Detected victims of human trafficking (number),Bishkek (city),,,KG11,3
+2022,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
+2023,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
+2010,Detected victims of human trafficking (number),Osh (city),,,KG21,13
+2011,Detected victims of human trafficking (number),Osh (city),,,KG21,5
+2013,Detected victims of human trafficking (number),Osh (city),,,KG21,1
+2014,Detected victims of human trafficking (number),Osh (city),,,KG21,5
+2015,Detected victims of human trafficking (number),Osh (city),,,KG21,2
+2019,Detected victims of human trafficking (number),Osh (city),,,KG21,2
+2018,Detected victims of human trafficking (number),,,under 17 years old,,7
+2019,Detected victims of human trafficking (number),,,under 17 years old,,8
+2020,Detected victims of human trafficking (number),,,under 17 years old,,5
+2021,Detected victims of human trafficking (number),,,under 17 years old,,1
+2022,Detected victims of human trafficking (number),,,under 17 years old,,2
+2023,Detected victims of human trafficking (number),,,under 17 years old,,5
+2019,Detected victims of human trafficking (number),,,18 to 29 years old,,1
+2021,Detected victims of human trafficking (number),,,18 to 29 years old,,4
+2022,Detected victims of human trafficking (number),,,18 to 29 years old,,1
+2023,Detected victims of human trafficking (number),,,18 to 29 years old,,12
+2020,Detected victims of human trafficking (number),,,30 to 39 years old,,3
+2019,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,1
+2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,3
+2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,1
+2023,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,13
+2021,Detected victims of human trafficking for sexual exploitaton (number),,,,,2
+2022,Detected victims of human trafficking for sexual exploitaton (number),,,,,1
+2021,Detected victims of human trafficking for other purposes (number),,,,,2
