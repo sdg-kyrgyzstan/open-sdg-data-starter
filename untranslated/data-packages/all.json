@@ -1635,7 +1635,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2468,7 +2468,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3344,7 +3344,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -4097,7 +4097,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6462,7 +6462,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -6874,37 +6874,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "743",
-                "755",
-                "730",
-                "769",
-                "731",
-                "468",
-                "655",
-                "809",
-                "740",
-                "744",
-                "799",
-                "835",
-                "805",
-                "856",
-                "553",
-                "712",
-                "794",
-                "788",
-                "709",
-                "706",
-                "814",
-                "774",
-                ""
-              ]
-            }
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -6980,6 +6949,7 @@
                 "_L_CHWD",
                 "_L_MD",
                 "_L_MWD",
+                "_U",
                 ""
               ]
             }
@@ -6990,7 +6960,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

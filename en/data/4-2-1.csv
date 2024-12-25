@@ -1,64 +1,64 @@
 Year,Reference area,Sex,Income or wealth quantile,Education level,Observation-level footnotes,GeoCode,Value
-2014,,,,,,,783
-2018,,,,,,,717
-2023,,,,,,,701
-2014,Batken,,,,,KG05,812
-2018,Batken,,,,,KG05,833
-2023,Batken,,,,,KG05,711
-2014,Jalal-Abad,,,,,KG03,871
-2018,Jalal-Abad,,,,,KG03,639
-2023,Jalal-Abad,,,,,KG03,631
-2014,Issyk-Kul,,,,,KG02,816
-2018,Issyk-Kul,,,,,KG02,798
-2023,Issyk-Kul,,,,,KG02,382
-2014,Naryn,,,,,KG04,806
-2018,Naryn,,,,,KG04,724
-2023,Naryn,,,,,KG04,688
-2014,Osh,,,,,KG06,696
-2018,Osh,,,,,KG06,658
-2023,Osh,,,,,KG06,812
-2014,Talas,,,,,KG07,849
-2018,Talas,,,,,KG07,651
-2023,Talas,,,,,KG07,842
-2014,Chui,,,,,KG08,735
-2018,Chui,,,,,KG08,720
-2023,Chui,,,,,KG08,659
-2014,Bishkek (city),,,,,KG11,874
-2018,Bishkek (city),,,,,KG11,813
-2023,Bishkek (city),,,,,KG11,762
-2014,Osh (city),,,,,KG21,520
-2018,Osh (city),,,,,KG21,715
-2023,Osh (city),,,,,KG21,657
-2014,,Male,,,,,761
-2018,,Male,,,,,682
-2023,,Male,,,,,696
-2014,,Female,,,,,806
-2018,,Female,,,,,750
-2023,,Female,,,,,703
-2014,,,,Lower secondary education,Образование матери,,701
-2018,,,,Lower secondary education,Образование матери,,710
-2023,,,,Lower secondary education,Образование матери,,654
-2014,,,,Upper secondary education,Образование матери,,772
-2018,,,,Upper secondary education,Образование матери,,738
-2023,,,,Upper secondary education,Образование матери,,689
-2014,,,,Post-secondary non-tertiary education,Образование матери,,808
-2018,,,,Post-secondary non-tertiary education,Образование матери,,706
-2023,,,,Post-secondary non-tertiary education,Образование матери,,694
-2014,,,,Short-cycle tertiary education,Образование матери,,818
-2018,,,,Short-cycle tertiary education,Образование матери,,696
-2023,,,,Short-cycle tertiary education,Образование матери,,746
-2014,,,Quintile 1 (poorest),,,,765
-2018,,,Quintile 1 (poorest),,,,725
-2023,,,Quintile 1 (poorest),,,,626
-2014,,,Quintile 2,,,,803
-2018,,,Quintile 2,,,,706
-2023,,,Quintile 2,,,,736
-2014,,,Quintile 3,,,,730
-2018,,,Quintile 3,,,,672
-2023,,,Quintile 3,,,,740
-2014,,,Quintile 4,,,,793
-2018,,,Quintile 4,,,,710
-2023,,,Quintile 4,,,,684
-2014,,,Quintile 5 (richest),,,,843
-2018,,,Quintile 5 (richest),,,,780
-2023,,,Quintile 5 (richest),,,,739
+2014,,,,,,,78.3
+2018,,,,,,,71.7
+2023,,,,,,,70.1
+2014,Batken,,,,,KG05,81.2
+2018,Batken,,,,,KG05,83.3
+2023,Batken,,,,,KG05,71.1
+2014,Jalal-Abad,,,,,KG03,87.1
+2018,Jalal-Abad,,,,,KG03,63.9
+2023,Jalal-Abad,,,,,KG03,63.1
+2014,Issyk-Kul,,,,,KG02,81.6
+2018,Issyk-Kul,,,,,KG02,79.8
+2023,Issyk-Kul,,,,,KG02,38.2
+2014,Naryn,,,,,KG04,80.6
+2018,Naryn,,,,,KG04,72.4
+2023,Naryn,,,,,KG04,68.8
+2014,Osh,,,,,KG06,69.6
+2018,Osh,,,,,KG06,65.8
+2023,Osh,,,,,KG06,81.2
+2014,Talas,,,,,KG07,84.9
+2018,Talas,,,,,KG07,65.1
+2023,Talas,,,,,KG07,84.2
+2014,Chui,,,,,KG08,73.5
+2018,Chui,,,,,KG08,72.0
+2023,Chui,,,,,KG08,65.9
+2014,Bishkek (city),,,,,KG11,87.4
+2018,Bishkek (city),,,,,KG11,81.3
+2023,Bishkek (city),,,,,KG11,76.2
+2014,Osh (city),,,,,KG21,52.0
+2018,Osh (city),,,,,KG21,71.5
+2023,Osh (city),,,,,KG21,65.7
+2014,,Male,,,,,76.1
+2018,,Male,,,,,68.2
+2023,,Male,,,,,69.6
+2014,,Female,,,,,80.6
+2018,,Female,,,,,75.0
+2023,,Female,,,,,70.3
+2014,,,,Lower secondary education,Образование матери,,70.1
+2018,,,,Lower secondary education,Образование матери,,71.0
+2023,,,,Lower secondary education,Образование матери,,65.4
+2014,,,,Upper secondary education,Образование матери,,77.2
+2018,,,,Upper secondary education,Образование матери,,73.8
+2023,,,,Upper secondary education,Образование матери,,68.9
+2014,,,,Post-secondary non-tertiary education,Образование матери,,80.8
+2018,,,,Post-secondary non-tertiary education,Образование матери,,70.6
+2023,,,,Post-secondary non-tertiary education,Образование матери,,69.4
+2014,,,,Short-cycle tertiary education,Образование матери,,81.8
+2018,,,,Short-cycle tertiary education,Образование матери,,69.6
+2023,,,,Short-cycle tertiary education,Образование матери,,74.6
+2014,,,Quintile 1 (poorest),,,,76.5
+2018,,,Quintile 1 (poorest),,,,72.5
+2023,,,Quintile 1 (poorest),,,,62.6
+2014,,,Quintile 2,,,,80.3
+2018,,,Quintile 2,,,,70.6
+2023,,,Quintile 2,,,,73.6
+2014,,,Quintile 3,,,,73.0
+2018,,,Quintile 3,,,,67.2
+2023,,,Quintile 3,,,,74.0
+2014,,,Quintile 4,,,,79.3
+2018,,,Quintile 4,,,,71.0
+2023,,,Quintile 4,,,,68.4
+2014,,,Quintile 5 (richest),,,,84.3
+2018,,,Quintile 5 (richest),,,,78.0
+2023,,,Quintile 5 (richest),,,,73.9

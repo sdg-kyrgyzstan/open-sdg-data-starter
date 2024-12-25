@@ -1787,7 +1787,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2694,7 +2694,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -3647,7 +3647,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4466,7 +4466,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7051,7 +7051,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -7502,38 +7502,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "743",
-                "755",
-                "730",
-                "769",
-                "731",
-                "468",
-                "655",
-                "809",
-                "740",
-                "744",
-                "799",
-                "835",
-                "805",
-                "856",
-                "553",
-                "712",
-                "794",
-                "788",
-                "709",
-                "706",
-                "814",
-                "774",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -7614,6 +7582,7 @@
                 "Child without disability",
                 "Mother with disability",
                 "Mother without disability",
+                "No information",
                 ""
               ]
             },
@@ -7626,7 +7595,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
