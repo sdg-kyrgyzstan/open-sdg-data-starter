@@ -155,31 +155,19 @@
             "title": "Year"
           },
           {
-            "name": "FREQ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual",
-                "Half-yearly, semester",
-                ""
-              ]
-            },
-            "title": "Frequency of observation"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "Batken",
-                "Bishkek (city)",
-                "Chui",
-                "Issyk-Kul",
                 "Jalal-Abad",
+                "Issyk-Kul",
                 "Naryn",
                 "Osh",
-                "Osh (city)",
                 "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
                 ""
               ]
             },
@@ -192,7 +180,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
