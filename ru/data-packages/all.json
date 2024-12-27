@@ -5554,43 +5554,6 @@
       "title": "Заболеваемость малярией на 1000 человек"
     },
     {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
-                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
-                "Скорость интернета: 10 Мбит / с или выше",
-                ""
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
-    },
-    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
