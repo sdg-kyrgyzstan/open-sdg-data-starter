@@ -12,23 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Income: Tax revenues",
-                "Income: Contributions / deductions for social needs",
-                "Income: Received official transfers",
-                "Income: Non-tax revenues",
-                "Income: Income from sale of non-financial assets",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
           },
           {
             "name": "Value",
