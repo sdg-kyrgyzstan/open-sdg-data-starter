@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_INC_TAX",
+                "_L_INC_CONT_DED",
+                "_L_INC_OFF_TRANS",
+                "_L_INC_NON_TAX",
+                "_L_INC_NON_FIN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
