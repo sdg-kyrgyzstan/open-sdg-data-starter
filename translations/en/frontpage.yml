@@ -1,0 +1,9 @@
+instructions_short: Click on each goal for %country.name Sustainable Development Goal global indicator data.
+instructions_shorter: Select each goal for indicator data.
+heading: Indicators of the Sustainable Development Goals of the Kyrgyz Republic
+instructions: Click on each goal, or <span id="jump-to-search"><a>search</a></span> for statistics on the global Sustainable Development Goals (SDGs). 
+  To obtain data on the SDG indicators, select a goal or enter the name of the indicator in the "Search" field.
+heading_short: "%country.name data for the Sustainable Development Goals"
+download_all: Download all data (.zip)
+zip_file: ZIP file
+file_size: Size
