@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-ACTIVITY,5,22
+ACTIVITY,6,22
 AGE,28,64
 COMPOSITE_BREAKDOWN,20,100
 DISABILITY_STATUS,6,7
@@ -20,6 +20,7 @@ URBANISATION,32,2
 Образование,1,4
 Показатель,7,14
 Пол,3,4
+Политика доменов,1,7
 Территория,6,12
 Функциональные трудности (возраст: 18-49лет),1,2
 Функциональные трудности у матери,2,3

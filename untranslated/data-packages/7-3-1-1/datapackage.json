@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_B",
+                "ISIC4_D",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Electricity, gas, steam and air conditioning supply",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

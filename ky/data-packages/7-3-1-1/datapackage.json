@@ -16,6 +16,19 @@
             "title": "Жыл"
           },
           {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_B",
+                "ISIC4_D",
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

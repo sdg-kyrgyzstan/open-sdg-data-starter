@@ -15,6 +15,7 @@ Year,Unit multiplier,SERIES,Economic activity,UNIT_MEASURE,Value
 2020,Units,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,24.080779
 2021,Units,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,19.336932
 2022,Units,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,13.600366
+2023,Units,Power intensity of GDP by indusry,,Kilowatt-hours per 1mn som,10.376388
 2007,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,20.5
 2008,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.0
 2009,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,15.6
@@ -31,6 +32,7 @@ Year,Unit multiplier,SERIES,Economic activity,UNIT_MEASURE,Value
 2020,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,13.073459
 2021,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,10.464141
 2022,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,9.274241
+2023,Thousands,Power intensity of GDP by indusry,"Agriculture, forestry and fishing",Thousands kilowatt-hours per 1mn som,9.606062
 2007,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,71.8
 2008,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,46.0
 2009,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,40.1
@@ -47,6 +49,7 @@ Year,Unit multiplier,SERIES,Economic activity,UNIT_MEASURE,Value
 2020,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,21.941291
 2021,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,21.694378
 2022,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,17.303524
+2023,Thousands,Power intensity of GDP by indusry,Industry (total),Thousands kilowatt-hours per 1mn som,17.548016
 2007,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,158.9
 2008,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,146.9
 2009,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,168.8
@@ -63,3 +66,4 @@ Year,Unit multiplier,SERIES,Economic activity,UNIT_MEASURE,Value
 2020,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,196.6
 2021,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,206.4
 2022,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,205.5
+2023,Millions,Power generation at small hydroelecric plant,,Kilowatt-hours,196.7
