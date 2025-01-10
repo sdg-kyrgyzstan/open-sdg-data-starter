@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.7):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1736506072350</message:ID>
+    <message:ID>IREF1736508617769</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-01-10T10:47:52Z</message:Prepared>
+    <message:Prepared>2025-01-10T11:30:17Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -18,20 +18,20 @@
   </message:Header>
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_7" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="NV_IND_SSIS" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2010" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2010"></Obs>
-    <Obs TIME_PERIOD="2011" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2011"></Obs>
-    <Obs TIME_PERIOD="2012" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2012"></Obs>
-    <Obs TIME_PERIOD="2013" OBS_VALUE="14" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2013"></Obs>
-    <Obs TIME_PERIOD="2014" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2014"></Obs>
-    <Obs TIME_PERIOD="2015" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2015"></Obs>
-    <Obs TIME_PERIOD="2016" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2016"></Obs>
-    <Obs TIME_PERIOD="2017" OBS_VALUE="17" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2017"></Obs>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="16" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2018"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2019"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="29" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2020"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2021"></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="15" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2022"></Obs>
-    <Obs TIME_PERIOD="2023" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2023"></Obs>
+    <Obs TIME_PERIOD="2010" OBS_VALUE="1.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2010"></Obs>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2011"></Obs>
+    <Obs TIME_PERIOD="2012" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2012"></Obs>
+    <Obs TIME_PERIOD="2013" OBS_VALUE="1.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2013"></Obs>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2014"></Obs>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2015"></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2016"></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2017"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2018"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2019"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="2.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2020"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2021"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2022"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="1.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="1 Данные с 2019 года рассчитаны по международному стандарту Системы Национальных Счетов 2008 года" TIME_DETAIL="2023"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
