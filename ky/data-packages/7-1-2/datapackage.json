@@ -93,7 +93,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Education of head houshold",
+                "Образование главы домохозяйства",
                 ""
               ]
             },

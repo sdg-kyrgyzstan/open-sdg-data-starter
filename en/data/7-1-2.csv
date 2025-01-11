@@ -81,23 +81,63 @@ Year,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,Educati
 2021,Osh (city),,,,,,KG21,31.366
 2022,Osh (city),,,,,,KG21,33.802493
 2023,Osh (city),,,,,,KG21,30.425502
-2018,,,,,Primary education,Education of head houshold,,6.8
-2023,,,,,Primary education,Education of head houshold,,14.976208
-2018,,,,,Lower secondary education,Education of head houshold,,10.5
-2023,,,,,Lower secondary education,Education of head houshold,,17.392665
-2018,,,,,Upper secondary education,Education of head houshold,,11.4
-2023,,,,,Upper secondary education,Education of head houshold,,20.618935
-2018,,,,,Post-secondary non-tertiary education,Education of head houshold,,19.7
-2023,,,,,Post-secondary non-tertiary education,Education of head houshold,,22.148259
-2018,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Education of head houshold,,38.9
-2023,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Education of head houshold,,21.800265
-2018,,,,Quintile 1 (poorest),,,,1.0
-2023,,,,Quintile 1 (poorest),,,,15.1
+2018,,,,,Primary education,Образование главы домохозяйства,,6.8
+2019,,,,,Primary education,Образование главы домохозяйства,,20.788716
+2020,,,,,Primary education,Образование главы домохозяйства,,19.887519
+2021,,,,,Primary education,Образование главы домохозяйства,,19.269932
+2022,,,,,Primary education,Образование главы домохозяйства,,18.990956
+2023,,,,,Primary education,Образование главы домохозяйства,,14.976208
+2018,,,,,Lower secondary education,Образование главы домохозяйства,,10.5
+2019,,,,,Lower secondary education,Образование главы домохозяйства,,14.480702
+2020,,,,,Lower secondary education,Образование главы домохозяйства,,15.941415
+2021,,,,,Lower secondary education,Образование главы домохозяйства,,14.268643
+2022,,,,,Lower secondary education,Образование главы домохозяйства,,16.56969
+2023,,,,,Lower secondary education,Образование главы домохозяйства,,17.392665
+2018,,,,,Upper secondary education,Образование главы домохозяйства,,11.4
+2019,,,,,Upper secondary education,Образование главы домохозяйства,,16.393354
+2020,,,,,Upper secondary education,Образование главы домохозяйства,,17.072533
+2021,,,,,Upper secondary education,Образование главы домохозяйства,,14.552442
+2022,,,,,Upper secondary education,Образование главы домохозяйства,,15.870421
+2023,,,,,Upper secondary education,Образование главы домохозяйства,,20.618935
+2018,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,19.7
+2019,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,28.63316
+2020,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,26.911668
+2021,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,25.664207
+2022,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,27.049901
+2023,,,,,Post-secondary non-tertiary education,Образование главы домохозяйства,,22.148259
+2018,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,38.9
+2019,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,43.47959
+2020,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,43.203737
+2021,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,42.28483
+2022,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,44.103777
+2023,,,,,Tertiary education (Bachelor’s and Master's or equivalent),Образование главы домохозяйства,,21.800265
+2018,,,,Quintile 1 (poorest),,,,10.0
+2019,,,,Quintile 1 (poorest),,,,161.0
+2020,,,,Quintile 1 (poorest),,,,178.0
+2021,,,,Quintile 1 (poorest),,,,176.0
+2022,,,,Quintile 1 (poorest),,,,168.0
+2023,,,,Quintile 1 (poorest),,,,151.0
 2018,,,,Quintile 2,,,,2.6
+2019,,,,Quintile 2,,,,19.894537
+2020,,,,Quintile 2,,,,19.792564
+2021,,,,Quintile 2,,,,19.024458
+2022,,,,Quintile 2,,,,20.29754
 2023,,,,Quintile 2,,,,17.066945
 2018,,,,Quintile 3,,,,6.1
+2019,,,,Quintile 3,,,,23.388382
+2020,,,,Quintile 3,,,,25.632521
+2021,,,,Quintile 3,,,,20.90386
+2022,,,,Quintile 3,,,,20.462653
 2023,,,,Quintile 3,,,,17.117857
 2018,,,,Quintile 4,,,,9.3
+2019,,,,Quintile 4,,,,28.436681
+2020,,,,Quintile 4,,,,25.947289
+2021,,,,Quintile 4,,,,25.414722
+2022,,,,Quintile 4,,,,29.734732
 2023,,,,Quintile 4,,,,22.725888
 2018,,,,Quintile 5 (richest),,,,76.9
+2019,,,,Quintile 5 (richest),,,,29.400431
+2020,,,,Quintile 5 (richest),,,,26.109187
+2021,,,,Quintile 5 (richest),,,,23.244428
+2022,,,,Quintile 5 (richest),,,,24.710164
 2023,,,,Quintile 5 (richest),,,,27.767655
