@@ -2413,13 +2413,25 @@
             "title": "Территория"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -3518,13 +3530,25 @@
             "title": "Территория"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
