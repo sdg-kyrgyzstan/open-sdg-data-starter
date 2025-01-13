@@ -1604,7 +1604,6 @@
                 "Jalal-Abad",
                 "Issyk-Kul",
                 "Naryn",
-                "Osh",
                 "Talas",
                 "Chui",
                 "Bishkek (city)",
@@ -1619,8 +1618,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
+                "Female",
                 ""
               ]
             },
