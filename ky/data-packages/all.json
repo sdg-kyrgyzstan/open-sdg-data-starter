@@ -3091,7 +3091,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "REF_AREA",
                 "KG05",
                 "KG03",
                 "KG02",
