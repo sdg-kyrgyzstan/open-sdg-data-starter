@@ -6,17 +6,17 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-2,"REF_AREA, SEX, AGE, URBANISATION",4
 #1-3-1,REF_AREA,1
 #1-3-1-1e,SEX,1
-#1-4-1,"Показатель, Территория, Местность, Образование главы домохозяйства, Квинтиль благосостояния",5
-#1-5-1,"Территория, Пол",2
+#1-4-1,"Показатель, Местность, Территория, Образование главы домохозяйства, Квинтиль благосостояния",5
+#1-5-1,"Пол, Территория",2
 #1-5-2,REF_AREA,1
 #1-5-4,Показатель,1
 #1-b-1-1,COMPOSITE_BREAKDOWN,1
 #10-1-1,INCOME_WEALTH_QUANTILE,1
 #10-2-1,"REF_AREA, SEX, AGE, URBANISATION, INCOME_WEALTH_QUANTILE",5
-#10-3-1,"Территория, Местность, Квинтиль благосостояния, Возраст, Образование, Функциональные трудности (возраст: 18-49лет)",6
+#10-3-1,"Местность, Территория, Возраст, Квинтиль благосостояния, Образование, Функциональные трудности (возраст: 18-49лет)",6
 #10-7-2,Политика доменов,1
 #11-2-1,"REF_AREA, SEX, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
-#11-5-1,"Территория, Пол",2
+#11-5-1,"Пол, Территория",2
 #11-5-2,REF_AREA,1
 #11-6-1-1a,COMPOSITE_BREAKDOWN,1
 #11-7-1-1a,REF_AREA,1
@@ -79,10 +79,10 @@ Indicator,Disaggregations,Number of disaggregations
 #3-a-1,"REF_AREA, SEX, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #3-b-1,REF_AREA,1
 #3-c-1,"REF_AREA, SEX",2
-#4-1-1,"Показатель, Территория, Местность, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",8
+#4-1-1,"Показатель, Местность, Территория, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния, Возраст, Функциональные трудности у ребенка",8
 #4-1-1-1a,"SEX, COMPOSITE_BREAKDOWN",2
 #4-1-1-1b,REF_AREA,1
-#4-1-2,"Показатель, Территория, Местность, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния, Пол",7
+#4-1-2,"Показатель, Местность, Пол, Территория, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния",7
 #4-2-1,"REF_AREA, SEX, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",4
 #4-2-2-1a,"REF_AREA, URBANISATION",2
 #4-3-1-1,"SEX, AGE, EDUCATION_LEV",3
@@ -105,14 +105,14 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-1,"REF_AREA, SEX, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #7-1-2,"REF_AREA, SEX, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",5
 #7-3-1-1,ACTIVITY,1
-#7-3-1-2,"ACTIVITY, UNIT_MULT",2
+#7-3-1-2,"UNIT_MULT, ACTIVITY",2
 #8-10-2,"REF_AREA, SEX, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #8-10-2-2,UNIT_MULT,1
 #8-3-1-1,"SEX, AGE, URBANISATION, ACTIVITY",4
 #8-5-1-1,"SEX, ACTIVITY",2
 #8-5-2,"REF_AREA, SEX, AGE",3
 #8-6-1,SEX,1
-#8-7-1,"REF_AREA, SEX, AGE, URBANISATION, COMPOSITE_BREAKDOWN, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS",8
+#8-7-1,"REF_AREA, SEX, AGE, COMPOSITE_BREAKDOWN, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS",8
 #8-8-1,"REF_AREA, SEX",2
 #9-1-2,"COMPOSITE_BREAKDOWN, UNIT_MULT",2
 #9-2-1,UNIT_MULT,1
