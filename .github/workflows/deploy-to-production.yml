@@ -47,13 +47,13 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        repository-name: sustainabledevelopment-kyrgyzstan/sdg-data
-        token: ${{ secrets.token }}
-        branch: gh-pages
-        folder: _site
-        clean: true
+        REPOSITORY_NAME: sustainabledevelopment-kyrgyzstan/sdg-data
+        ACCESS_TOKEN: ${{ secrets.token }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
     - name: Waiting 4 minutes for production data deployment
       run: |
         sleep 240
