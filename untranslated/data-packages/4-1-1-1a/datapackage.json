@@ -12,46 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_CSE_MATDIFF",
-                "_L_CSE_PARENTS",
-                "_L_CSE_NODOC",
-                "_L_CSE_DOM",
-                "_L_CSE_UNWILL",
-                "_L_CSE_FAMILY",
-                "_L_CSE_NOLANG",
-                "_L_CSE_MARR",
-                "_L_CSE_WORK",
-                "_L_CSE_TRANSPORT",
-                "_L_CSE_SEASWORK",
-                "_L_CSE_AGE",
-                "_L_CSE_SICK",
-                "_L_CSE_DISAB",
-                "_L_CSE_OTHER",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

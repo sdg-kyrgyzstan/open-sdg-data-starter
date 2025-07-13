@@ -90,8 +90,8 @@
       "title": "The agriculture orientation index for government expenditures"
     },
     {
-      "path": "5-2-1-1a/data.csv",
-      "name": "5-2-1-1a",
+      "path": "5-2-1-2/data.csv",
+      "name": "5-2-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -116,7 +116,7 @@
           }
         ]
       },
-      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
+      "title": "Number of women reporting to health services due to domestic violence"
     },
     {
       "path": "3-1-2/data.csv",
@@ -442,8 +442,8 @@
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
-      "path": "16-1-4-1a/data.csv",
-      "name": "16-1-4-1a",
+      "path": "16-1-4-1/data.csv",
+      "name": "16-1-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -487,7 +487,7 @@
           }
         ]
       },
-      "title": "Доля совершенных преступлений в общественных местах и на улицах от общего количества зарегистрированных преступлений"
+      "title": "Proportion of crimes committed in public places and on the streets out of total registered crimes"
     },
     {
       "path": "11-6-1-1/data.csv",
@@ -896,8 +896,8 @@
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
-      "path": "8-10-2-2/data.csv",
-      "name": "8-10-2-2",
+      "path": "8-10-2-a/data.csv",
+      "name": "8-10-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -939,7 +939,7 @@
           }
         ]
       },
-      "title": "Финансовые показатели страховых компаний"
+      "title": "Financial indicators of insurance companies"
     },
     {
       "path": "6-a-1-1/data.csv",
@@ -1113,8 +1113,8 @@
       "title": "Suicide mortality rate"
     },
     {
-      "path": "15-b-1-1/data.csv",
-      "name": "15-b-1-1",
+      "path": "15-a-1-1/data.csv",
+      "name": "15-a-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1155,7 +1155,7 @@
           }
         ]
       },
-      "title": "Объем государственных средств, выделяемых на охрану окружающей среды"
+      "title": "Government expenditure on environmental protection"
     },
     {
       "path": "16-9-1/data.csv",
@@ -1758,8 +1758,8 @@
       "title": "Neonatal mortality rate"
     },
     {
-      "path": "16-7-1-1/data.csv",
-      "name": "16-7-1-1",
+      "path": "16-7-1-a/data.csv",
+      "name": "16-7-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1796,7 +1796,7 @@
           }
         ]
       },
-      "title": "Доля должностей  в государственных учреждениях"
+      "title": "Proportion of positions in public institutions"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1924,8 +1924,8 @@
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
-      "path": "2-3-3-1c/data.csv",
-      "name": "2-3-3-1c",
+      "path": "2-3-2-b/data.csv",
+      "name": "2-3-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1945,7 +1945,7 @@
           }
         ]
       },
-      "title": "Баланс потребления рыбной продукции на душу населения"
+      "title": "Fish consumption balance"
     },
     {
       "path": "16-4-2-1/data.csv",
@@ -2107,8 +2107,8 @@
       "title": "Смертность от токсического действия окиси углерода на 100 000 населения"
     },
     {
-      "path": "17-3-1-1a/data.csv",
-      "name": "17-3-1-1a",
+      "path": "17-3-1-1/data.csv",
+      "name": "17-3-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2156,7 +2156,7 @@
           }
         ]
       },
-      "title": "Поступление прямых иностранных инвестиций из-за рубежа в разбивке по  видам экономической деятельности"
+      "title": "Inflow of foreign direct investment by country and economic activity"
     },
     {
       "path": "16-1-3/data.csv",
@@ -2497,8 +2497,8 @@
       "title": "Доля возобновляемых источников энергии в общем объеме энергопотребления"
     },
     {
-      "path": "1-3-1-1c/data.csv",
-      "name": "1-3-1-1c",
+      "path": "1-3-1-a/data.csv",
+      "name": "1-3-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2512,9 +2512,28 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population receiving monthly allowance for low-income families/'uy-bulogo komok' as percentage of total population"
+    },
+    {
+      "path": "1-3-1-b/data.csv",
+      "name": "1-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -2523,7 +2542,7 @@
           }
         ]
       },
-      "title": "Доля населения, получающих ЕПМС, социальные пособия и пенсии"
+      "title": "Proportion of population receiving social benefits as percentage of total population"
     },
     {
       "path": "4-3-1-1/data.csv",
@@ -2756,8 +2775,8 @@
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
-      "path": "16-5-1-1b/data.csv",
-      "name": "16-5-1-1b",
+      "path": "16-5-1-2/data.csv",
+      "name": "16-5-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2794,7 +2813,7 @@
           }
         ]
       },
-      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
+      "title": "Number of persons convicted of official misconduct, including corruption and bribery"
     },
     {
       "path": "1-1-1/data.csv",
@@ -2882,8 +2901,8 @@
       "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
-      "path": "4-1-1-1a/data.csv",
-      "name": "4-1-1-1a",
+      "path": "4-1-1-a/data.csv",
+      "name": "4-1-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2940,11 +2959,11 @@
           }
         ]
       },
-      "title": "Численность детей и подростков 7-17 лет (1-11классов), не приступивших  к занятиям  в общеобразовательные организации по причинам,  по полу"
+      "title": "Number of children and adolescents aged 7–17 (grades 1–11) not enrolled in general education institutions"
     },
     {
-      "path": "4-4-1-1a/data.csv",
-      "name": "4-4-1-1a",
+      "path": "4-4-1-1/data.csv",
+      "name": "4-4-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2989,11 +3008,11 @@
           }
         ]
       },
-      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
+      "title": "Number of students enrolled in ICT programs within initial vocational, secondary vocational, and higher education"
     },
     {
-      "path": "2-1-1-1e/data.csv",
-      "name": "2-1-1-1e",
+      "path": "2-1-1-1/data.csv",
+      "name": "2-1-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3033,7 +3052,7 @@
           }
         ]
       },
-      "title": "Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления"
+      "title": "Per capita consumption of main food products as a percentage of recommended dietary intake"
     },
     {
       "path": "16-1-1/data.csv",
@@ -3204,8 +3223,8 @@
       "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
-      "path": "1-3-1-1e/data.csv",
-      "name": "1-3-1-1e",
+      "path": "8-5-2-1/data.csv",
+      "name": "8-5-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3237,7 +3256,7 @@
           }
         ]
       },
-      "title": "Уровень официально зарегистрированных безработных"
+      "title": "Registered unemployment rate"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3530,8 +3549,8 @@
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "5-2-1-1b/data.csv",
-      "name": "5-2-1-1b",
+      "path": "5-2-1-3/data.csv",
+      "name": "5-2-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3607,11 +3626,11 @@
           }
         ]
       },
-      "title": "Число пострадавших от семейного насилия"
+      "title": "Number of victims of domestic violence, by sex"
     },
     {
-      "path": "7-b-1-1a/data.csv",
-      "name": "7-b-1-1a",
+      "path": "7-b-1-1/data.csv",
+      "name": "7-b-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3631,7 +3650,7 @@
           }
         ]
       },
-      "title": "Поступление прямых иностранных инвестиций на цели расширения энергетической инфраструктуры и модернизации технологий к общему объему, поступивших прямых иностранных инвестиции"
+      "title": "Foreign direct investment inflows in energy infrastructure and technology upgrading"
     },
     {
       "path": "8-6-1/data.csv",
@@ -3864,8 +3883,8 @@
       "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
-      "path": "6-4-1-2/data.csv",
-      "name": "6-4-1-2",
+      "path": "6-4-1-1/data.csv",
+      "name": "6-4-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3919,7 +3938,7 @@
           }
         ]
       },
-      "title": "Потери воды при транспортировке"
+      "title": "Water losses during transport"
     },
     {
       "path": "3-b-1/data.csv",
@@ -4075,8 +4094,8 @@
       "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
-      "path": "1-3-1-1g/data.csv",
-      "name": "1-3-1-1g",
+      "path": "1-3-1-d/data.csv",
+      "name": "1-3-1-d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4101,7 +4120,7 @@
           }
         ]
       },
-      "title": "Доля пенсионеров по возрасту, получающих пенсии ниже ПМП"
+      "title": "Proportion of pensioners receiving pensions below subsistence minimum as percentage of total population"
     },
     {
       "path": "13-1-1/data.csv",
@@ -4304,8 +4323,8 @@
       "title": "Debt service as a proportion of exports of goods and services"
     },
     {
-      "path": "16-6-2-1a/data.csv",
-      "name": "16-6-2-1a",
+      "path": "16-6-2-1/data.csv",
+      "name": "16-6-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4349,7 +4368,7 @@
           }
         ]
       },
-      "title": "Индекс оценки деятельности к государственным органам исполнительной власти"
+      "title": "Index of performance assessment of central and local government bodies"
     },
     {
       "path": "13-1-3/data.csv",
@@ -4502,8 +4521,8 @@
       "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
-      "path": "16-5-1-1a/data.csv",
-      "name": "16-5-1-1a",
+      "path": "16-5-1-1/data.csv",
+      "name": "16-5-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4547,7 +4566,7 @@
           }
         ]
       },
-      "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\" (по результатам II полугодия)"
+      "title": "Index of personal perception of corruption in central executive and local self-government bodies"
     },
     {
       "path": "16-1-1-1/data.csv",
@@ -4627,8 +4646,8 @@
       "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
-      "path": "2-3-2-1/data.csv",
-      "name": "2-3-2-1",
+      "path": "2-3-2-a/data.csv",
+      "name": "2-3-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4660,11 +4679,11 @@
           }
         ]
       },
-      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
+      "title": "Share of agricultural production by cooperatives in total agricultural production in the country"
     },
     {
-      "path": "2-c-1-1b/data.csv",
-      "name": "2-c-1-1b",
+      "path": "2-с-1-1/data.csv",
+      "name": "2-с-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4708,11 +4727,11 @@
           }
         ]
       },
-      "title": "Индекс потребительских цен на продовольственные товары"
+      "title": "Consumer price index for food products"
     },
     {
-      "path": "8-3-1-2/data.csv",
-      "name": "8-3-1-2",
+      "path": "8-3-1-a/data.csv",
+      "name": "8-3-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4737,7 +4756,7 @@
           }
         ]
       },
-      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
+      "title": "Proportion of employed in small and medium-sized enterprises in total employment"
     },
     {
       "path": "8-9-1-1/data.csv",
@@ -5065,8 +5084,8 @@
       "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
-      "path": "11-7-1-1a/data.csv",
-      "name": "11-7-1-1a",
+      "path": "11-7-1-a/data.csv",
+      "name": "11-7-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5110,7 +5129,7 @@
           }
         ]
       },
-      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
+      "title": "Area of green spaces and plantations in settlements per 1,000 inhabitants (hectares)"
     },
     {
       "path": "8-5-2/data.csv",
@@ -5518,8 +5537,8 @@
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
-      "path": "1-3-1-1f/data.csv",
-      "name": "1-3-1-1f",
+      "path": "1-3-1-c/data.csv",
+      "name": "1-3-1-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5533,23 +5552,13 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
+      "title": "Proportion of population receiving pensions and disability benefits as percentage of total population"
     },
     {
       "path": "8-2-1/data.csv",
@@ -5891,8 +5900,8 @@
       "title": "Энергоемкость ВВП"
     },
     {
-      "path": "17-11-1-1/data.csv",
-      "name": "17-11-1-1",
+      "path": "17-11-1-a/data.csv",
+      "name": "17-11-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5926,7 +5935,7 @@
           }
         ]
       },
-      "title": "Импорт и экспорт товаров ИКТ в процентах к совокупному объему импорта/экспорта товаров"
+      "title": "Imports of ICT goods as a percentage of total imports of goods"
     },
     {
       "path": "10-2-1/data.csv",
@@ -6054,8 +6063,8 @@
       "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
-      "path": "1-1-1-1a/data.csv",
-      "name": "1-1-1-1a",
+      "path": "1-1-1-1/data.csv",
+      "name": "1-1-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6134,7 +6143,7 @@
           }
         ]
       },
-      "title": "Уровень крайней бедности"
+      "title": "Extreme poverty rate"
     },
     {
       "path": "2-4-1-1/data.csv",
@@ -6166,8 +6175,8 @@
       "title": "Доля площади сельскохозяйственных культур удобренная i) минеральными удобрениями; ii) органическими удобрениями"
     },
     {
-      "path": "11-6-1-1a/data.csv",
-      "name": "11-6-1-1a",
+      "path": "11-6-1-2/data.csv",
+      "name": "11-6-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6202,7 +6211,7 @@
           }
         ]
       },
-      "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
+      "title": "Household disposal of municipal solid waste, by type"
     },
     {
       "path": "1-b-1-1/data.csv",
@@ -6495,8 +6504,8 @@
       "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
-      "path": "6-1-1-2b/data.csv",
-      "name": "6-1-1-2b",
+      "path": "6-1-1-1/data.csv",
+      "name": "6-1-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6521,7 +6530,7 @@
           }
         ]
       },
-      "title": "Доля проб воды, не отвечающих гигиеническим нормативам по санитарно-химическим и микробиологическим показателям"
+      "title": "Proportion of water samples not complying with water quality standards"
     },
     {
       "path": "3-3-2/data.csv",
@@ -6707,8 +6716,8 @@
       "title": "Total government revenue as a proportion of GDP, by source"
     },
     {
-      "path": "10-3-1-1a/data.csv",
-      "name": "10-3-1-1a",
+      "path": "10-3-1-1/data.csv",
+      "name": "10-3-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6733,7 +6742,7 @@
           }
         ]
       },
-      "title": "Количество обращений к Омбудсмену"
+      "title": "Number of communications to the Ombudsperson (written and oral)"
     },
     {
       "path": "7-3-1-2/data.csv",
@@ -6891,8 +6900,8 @@
       "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
-      "path": "4-2-2-1a/data.csv",
-      "name": "4-2-2-1a",
+      "path": "4-2-2-1/data.csv",
+      "name": "4-2-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6948,7 +6957,7 @@
           }
         ]
       },
-      "title": "Доля детей в возрасте до шести лет, которые получают дошкольное образование"
+      "title": "Proportion of children under six years receiving pre-primary education"
     },
     {
       "path": "16-2-2/data.csv",
@@ -7464,8 +7473,8 @@
       "title": "Labour share of GDP"
     },
     {
-      "path": "4-1-1-1b/data.csv",
-      "name": "4-1-1-1b",
+      "path": "4-1-2-a/data.csv",
+      "name": "4-1-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -7509,7 +7518,7 @@
           }
         ]
       },
-      "title": "Уровень завершения начального образования"
+      "title": "Primary education completion rate"
     },
     {
       "path": "8-8-1/data.csv",
@@ -7674,8 +7683,8 @@
       "title": "Доля видов диких животных, являющихся объектом браконьерства или незаконного оборота, от общего количества видов соответствующих систематических групп (классов)"
     },
     {
-      "path": "1-2-1-1a/data.csv",
-      "name": "1-2-1-1a",
+      "path": "1-2-1-1/data.csv",
+      "name": "1-2-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -7772,7 +7781,7 @@
           }
         ]
       },
-      "title": "Уровень бедности среди занятого населения"
+      "title": "Proportion of employed population living below the official poverty line"
     },
     {
       "path": "9-1-2/data.csv",
@@ -7995,8 +8004,8 @@
       "title": "Доля населения, имеющего устойчивый доступ к санитарным сооружениям"
     },
     {
-      "path": "2-1-2-1d/data.csv",
-      "name": "2-1-2-1d",
+      "path": "2-1-2-c/data.csv",
+      "name": "2-1-2-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -8037,7 +8046,7 @@
           }
         ]
       },
-      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
+      "title": "Ratio of agricultural imports to domestic agricultural production"
     },
     {
       "path": "5-6-1-1/data.csv",
@@ -9052,6 +9061,30 @@
       "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
+      "path": "1-3-1-1f/data.csv",
+      "name": "1-3-1-1f",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
+    },
+    {
       "path": "11-7-2/data.csv",
       "name": "11-7-2",
       "profile": "tabular-data-resource",
@@ -9218,6 +9251,30 @@
         ]
       },
       "title": "Degree of sustainable public procurement policies and action plan implementation"
+    },
+    {
+      "path": "6-4-1-2/data.csv",
+      "name": "6-4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Потери воды при транспортировке"
     },
     {
       "path": "15-5-1/data.csv",
@@ -9532,6 +9589,30 @@
       "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
     },
     {
+      "path": "4-1-1-1a/data.csv",
+      "name": "4-1-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Численность детей и подростков 7-17 лет (1-11классов), не приступивших  к занятиям  в общеобразовательные организации по причинам,  по полу"
+    },
+    {
       "path": "6-6-1/data.csv",
       "name": "6-6-1",
       "profile": "tabular-data-resource",
@@ -9580,6 +9661,30 @@
       "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
     },
     {
+      "path": "16-7-1-1/data.csv",
+      "name": "16-7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля должностей  в государственных учреждениях"
+    },
+    {
       "path": "17-13-1/data.csv",
       "name": "17-13-1",
       "profile": "tabular-data-resource",
@@ -9602,6 +9707,54 @@
         ]
       },
       "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "11-7-1-1a/data.csv",
+      "name": "11-7-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
+    },
+    {
+      "path": "2-1-2-1d/data.csv",
+      "name": "2-1-2-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
     },
     {
       "path": "12-3-1/data.csv",
@@ -9844,6 +9997,30 @@
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
+      "path": "16-6-2-1a/data.csv",
+      "name": "16-6-2-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс оценки деятельности к государственным органам исполнительной власти"
+    },
+    {
       "path": "17-5-1/data.csv",
       "name": "17-5-1",
       "profile": "tabular-data-resource",
@@ -9866,6 +10043,30 @@
         ]
       },
       "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
+    },
+    {
+      "path": "1-3-1-1c/data.csv",
+      "name": "1-3-1-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, получающих ЕПМС, социальные пособия и пенсии"
     },
     {
       "path": "2-b-1/data.csv",
@@ -10084,6 +10285,78 @@
       "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
+      "path": "1-2-1-1a/data.csv",
+      "name": "1-2-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень бедности среди занятого населения"
+    },
+    {
+      "path": "6-1-1-2b/data.csv",
+      "name": "6-1-1-2b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля проб воды, не отвечающих гигиеническим нормативам по санитарно-химическим и микробиологическим показателям"
+    },
+    {
+      "path": "10-3-1-1a/data.csv",
+      "name": "10-3-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Количество обращений к Омбудсмену"
+    },
+    {
       "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
@@ -10180,6 +10453,30 @@
       "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
+      "path": "17-11-1-1/data.csv",
+      "name": "17-11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Импорт и экспорт товаров ИКТ в процентах к совокупному объему импорта/экспорта товаров"
+    },
+    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
@@ -10274,6 +10571,30 @@
         ]
       },
       "title": "Energy intensity measured in terms of primary energy and GDP"
+    },
+    {
+      "path": "4-4-1-1a/data.csv",
+      "name": "4-4-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
     },
     {
       "path": "15-9-1/data.csv",
@@ -10466,6 +10787,30 @@
         ]
       },
       "title": "Proportion of agricultural area under productive and sustainable agriculture"
+    },
+    {
+      "path": "1-3-1-1e/data.csv",
+      "name": "1-3-1-1e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень официально зарегистрированных безработных"
     },
     {
       "path": "2-3-2/data.csv",
@@ -10684,6 +11029,30 @@
       "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
+      "path": "4-2-2-1a/data.csv",
+      "name": "4-2-2-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля детей в возрасте до шести лет, которые получают дошкольное образование"
+    },
+    {
       "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
@@ -10780,6 +11149,30 @@
       "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
+      "path": "8-3-1-2/data.csv",
+      "name": "8-3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
+    },
+    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -10826,6 +11219,150 @@
         ]
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+    },
+    {
+      "path": "16-5-1-1b/data.csv",
+      "name": "16-5-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
+    },
+    {
+      "path": "2-c-1-1b/data.csv",
+      "name": "2-c-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс потребительских цен на продовольственные товары"
+    },
+    {
+      "path": "2-3-3-1c/data.csv",
+      "name": "2-3-3-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Баланс потребления рыбной продукции на душу населения"
+    },
+    {
+      "path": "15-b-1-1/data.csv",
+      "name": "15-b-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Объем государственных средств, выделяемых на охрану окружающей среды"
+    },
+    {
+      "path": "4-1-1-1b/data.csv",
+      "name": "4-1-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень завершения начального образования"
+    },
+    {
+      "path": "17-3-1-1a/data.csv",
+      "name": "17-3-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Поступление прямых иностранных инвестиций из-за рубежа в разбивке по  видам экономической деятельности"
     },
     {
       "path": "11-1-1/data.csv",
@@ -10876,6 +11413,30 @@
       "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
+      "path": "5-2-1-1b/data.csv",
+      "name": "5-2-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число пострадавших от семейного насилия"
+    },
+    {
       "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
@@ -10924,6 +11485,30 @@
       "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
+      "path": "8-10-2-2/data.csv",
+      "name": "8-10-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Финансовые показатели страховых компаний"
+    },
+    {
       "path": "6-5-2/data.csv",
       "name": "6-5-2",
       "profile": "tabular-data-resource",
@@ -10946,6 +11531,30 @@
         ]
       },
       "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+    },
+    {
+      "path": "1-1-1-1a/data.csv",
+      "name": "1-1-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень крайней бедности"
     },
     {
       "path": "12-2-2/data.csv",
@@ -11116,6 +11725,30 @@
       "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
+      "path": "2-3-2-1/data.csv",
+      "name": "2-3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
+    },
+    {
       "path": "6-5-1/data.csv",
       "name": "6-5-1",
       "profile": "tabular-data-resource",
@@ -11212,6 +11845,30 @@
       "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
+      "path": "16-5-1-1a/data.csv",
+      "name": "16-5-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\" (по результатам II полугодия)"
+    },
+    {
       "path": "15-a-1/data.csv",
       "name": "15-a-1",
       "profile": "tabular-data-resource",
@@ -11258,6 +11915,30 @@
         ]
       },
       "title": "Number of companies publishing sustainability reports"
+    },
+    {
+      "path": "7-b-1-1a/data.csv",
+      "name": "7-b-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Поступление прямых иностранных инвестиций на цели расширения энергетической инфраструктуры и модернизации технологий к общему объему, поступивших прямых иностранных инвестиции"
     },
     {
       "path": "8-3-1/data.csv",
@@ -11714,6 +12395,30 @@
         ]
       },
       "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    },
+    {
+      "path": "11-6-1-1a/data.csv",
+      "name": "11-6-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
     },
     {
       "path": "5-1-1/data.csv",
@@ -12244,6 +12949,30 @@
       "title": "Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions"
     },
     {
+      "path": "1-3-1-1g/data.csv",
+      "name": "1-3-1-1g",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля пенсионеров по возрасту, получающих пенсии ниже ПМП"
+    },
+    {
       "path": "14-a-1/data.csv",
       "name": "14-a-1",
       "profile": "tabular-data-resource",
@@ -12388,6 +13117,30 @@
       "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
+      "path": "2-1-1-1e/data.csv",
+      "name": "2-1-1-1e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления"
+    },
+    {
       "path": "16-a-1/data.csv",
       "name": "16-a-1",
       "profile": "tabular-data-resource",
@@ -12410,6 +13163,54 @@
         ]
       },
       "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+    },
+    {
+      "path": "5-2-1-1a/data.csv",
+      "name": "5-2-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
+    },
+    {
+      "path": "16-1-4-1a/data.csv",
+      "name": "16-1-4-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля совершенных преступлений в общественных местах и на улицах от общего количества зарегистрированных преступлений"
     },
     {
       "path": "7-b-1/data.csv",

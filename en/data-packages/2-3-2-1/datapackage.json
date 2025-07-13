@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Share of crop production",
-                "Share of livestock production",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
           },
           {
             "name": "Value",

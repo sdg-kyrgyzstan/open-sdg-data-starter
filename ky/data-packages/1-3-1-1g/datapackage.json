@@ -12,13 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Жыл"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
           },
           {
             "name": "Value",

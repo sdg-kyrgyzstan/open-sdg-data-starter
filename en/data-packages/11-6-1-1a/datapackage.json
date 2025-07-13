@@ -12,23 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste removal: Garbage chute",
-                "Waste removal: Collection by truck, container",
-                "Waste removal: Dumping into garbage heaps",
-                "Waste removal: Burning",
-                "Waste removal: Burying",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
           },
           {
             "name": "Value",

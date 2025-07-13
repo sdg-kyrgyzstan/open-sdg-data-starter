@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_CROP_PROD",
-                "_L_LIVEST_PROD",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_CSE_MATDIFF",
+                "_L_CSE_PARENTS",
+                "_L_CSE_NODOC",
+                "_L_CSE_DOM",
+                "_L_CSE_UNWILL",
+                "_L_CSE_FAMILY",
+                "_L_CSE_NOLANG",
+                "_L_CSE_MARR",
+                "_L_CSE_WORK",
+                "_L_CSE_TRANSPORT",
+                "_L_CSE_SEASWORK",
+                "_L_CSE_AGE",
+                "_L_CSE_SICK",
+                "_L_CSE_DISAB",
+                "_L_CSE_OTHER",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1-a",
+  "title": "Number of children and adolescents aged 7–17 (grades 1–11) not enrolled in general education institutions"
+}

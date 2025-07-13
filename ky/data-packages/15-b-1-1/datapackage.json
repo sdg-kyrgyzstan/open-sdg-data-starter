@@ -12,29 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Жыл"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_EEX_POL",
-                "_L_EEX_NATRES",
-                "_L_EEX_PROTAN",
-                "_L_EEX_PROTTPLN",
-                "_L_EEX_EPIS",
-                "_L_EEX_VET",
-                "_L_EEX_CHARPLN",
-                "_L_EEX_OTHER_BIO",
-                "_L_EEX_RD",
-                "_L_EEX_NES",
-                "_L_EEX_OTHER",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

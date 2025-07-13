@@ -12,27 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_AGG_GRAIN_PROCESS",
-                "_L_AGG_WHEATS",
-                "_L_AGG_BERRIES_PROCESS",
-                "_L_AGG_POT_PROCESS",
-                "_L_AGG_VEGS_PROCESS",
-                "_L_AGG_MEATS",
-                "_L_AGG_DAIRY",
-                "_L_AGG_EGGS_PROCESS",
-                "_L_AGG_SUGAR",
-                "_L_AGG_VEGOILS",
-                "_L_AGG_FISH_PROCESS",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

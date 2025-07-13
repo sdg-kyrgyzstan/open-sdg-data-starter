@@ -12,11 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",

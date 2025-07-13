@@ -12,26 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_AGG_MEATS",
-                "_L_AGG_DAIRY",
-                "_L_AGG_EGGS",
-                "_L_AGG_SUGAR",
-                "_L_AGG_VEGOILS",
-                "_L_AGG_POTATO",
-                "_L_AGG_VEGS_GOURDS",
-                "_L_AGG_FRUITS_BERRIES",
-                "_L_AGG_WHEATS",
-                "_L_AGG_FISH",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

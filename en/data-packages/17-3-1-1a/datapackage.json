@@ -12,36 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "ACTIVITY",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Agriculture, forestry and fishing",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transportation and storage",
-                "Accommodation and food service activities",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
-                ""
-              ]
-            },
-            "title": "Economic activity"
           },
           {
             "name": "Value",

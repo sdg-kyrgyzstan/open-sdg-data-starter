@@ -1,0 +1,48 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_AGG_GRAIN_PROCESS",
+                "_L_AGG_WHEATS",
+                "_L_AGG_BERRIES_PROCESS",
+                "_L_AGG_POT_PROCESS",
+                "_L_AGG_VEGS_PROCESS",
+                "_L_AGG_MEATS",
+                "_L_AGG_DAIRY",
+                "_L_AGG_EGGS_PROCESS",
+                "_L_AGG_SUGAR",
+                "_L_AGG_VEGOILS",
+                "_L_AGG_FISH_PROCESS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-2-c",
+  "title": "Ratio of agricultural imports to domestic agricultural production"
+}
