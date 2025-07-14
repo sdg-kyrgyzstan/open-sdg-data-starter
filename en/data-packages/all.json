@@ -3419,7 +3419,7 @@
           }
         ]
       },
-      "title": "Number of students enrolled in ICT programs within initial vocational, secondary vocational, and higher education"
+      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
     },
     {
       "path": "3-3-4/data.csv",
@@ -10304,30 +10304,6 @@
       "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
-      "path": "4-4-1-1a/data.csv",
-      "name": "4-4-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
-    },
-    {
       "path": "15-9-1/data.csv",
       "name": "15-9-1",
       "profile": "tabular-data-resource",
@@ -12822,6 +12798,30 @@
         ]
       },
       "title": "15-b-1-1"
+    },
+    {
+      "path": "4-4-1-1a/data.csv",
+      "name": "4-4-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4-1-1a"
     }
   ]
 }
