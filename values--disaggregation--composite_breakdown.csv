@@ -1,4 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
+_L_ACS_NOWORK,1,1
+_L_ACS_RETIRED,1,1
+_L_ACS_STUDENT,1,1
+_L_ACS_WORK,1,1
 _L_ASS_GRANT,1,1
 _L_ASS_LOAN,1,1
 _L_ASS_LOAN_GRANT,1,1
@@ -39,6 +43,7 @@ _L_CSE_SICK,2,1
 _L_CSE_TRANSPORT,2,1
 _L_CSE_UNWILL,2,1
 _L_CSE_WORK,2,1
+_L_EDU_OTH,1,1
 _L_EEX_CHARPLN,1,1
 _L_EEX_EPIS,1,1
 _L_EEX_NATRES,1,1
