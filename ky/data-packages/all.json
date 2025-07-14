@@ -2638,47 +2638,6 @@
       "title": "Акы төлөнбөгөн үй-бүлөлүк жана камкордук иштерине, жыныстык мамилеге, жаш куракка жана жайгашуусуна жумшалган убакыттын үлүшү"
     },
     {
-      "path": "16-5-1-2/data.csv",
-      "name": "16-5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Жыл"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of persons convicted of official misconduct, including corruption and bribery"
-    },
-    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",

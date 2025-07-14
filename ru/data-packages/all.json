@@ -2638,47 +2638,6 @@
       "title": "Доля времени, затрачиваемого на неоплачиваемый труд по уходу и работу по дому, в разбивке по полу, возрасту и месту проживания"
     },
     {
-      "path": "16-5-1-2/data.csv",
-      "name": "16-5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Мужчины",
-                "Женщины",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of persons convicted of official misconduct, including corruption and bribery"
-    },
-    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
