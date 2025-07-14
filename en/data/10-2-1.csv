@@ -1,13 +1,13 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,GeoCode,Value
-2015,"Median value, som per month per capita",,,,,,,3390.2
-2016,"Median value, som per month per capita",,,,,,,3572.5
-2017,"Median value, som per month per capita",,,,,,,3991.9
-2018,"Median value, som per month per capita",,,,,,,4466.4
-2019,"Median value, som per month per capita",,,,,,,4774.194444
-2020,"Median value, som per month per capita",,,,,,,4700.5
-2021,"Median value, som per month per capita",,,,,,,5356.3
-2022,"Median value, som per month per capita",,,,,,,6512.5
-2023,"Median value, som per month per capita",,,,,,,8140.625
+2015,"Median monthly per capita income, in soms",,,,,,,3390.2
+2016,"Median monthly per capita income, in soms",,,,,,,3572.5
+2017,"Median monthly per capita income, in soms",,,,,,,3991.9
+2018,"Median monthly per capita income, in soms",,,,,,,4466.4
+2019,"Median monthly per capita income, in soms",,,,,,,4774.194444
+2020,"Median monthly per capita income, in soms",,,,,,,4700.5
+2021,"Median monthly per capita income, in soms",,,,,,,5356.3
+2022,"Median monthly per capita income, in soms",,,,,,,6512.5
+2023,"Median monthly per capita income, in soms",,,,,,,8140.625
 2015,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,,12.0
 2016,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,,11.6
 2017,Proportion of people living below 50 percent of median income,,,,,Bottom 50%,,11.0

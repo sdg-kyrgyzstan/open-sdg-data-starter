@@ -1,15 +1,15 @@
 Year,SERIES,Value
-2016,Number of firearms voluntarily surrendered,153
-2017,Number of firearms voluntarily surrendered,196
-2018,Number of firearms voluntarily surrendered,232
-2019,Number of firearms voluntarily surrendered,146
-2020,Number of firearms voluntarily surrendered,158
-2021,Number of firearms voluntarily surrendered,149
-2023,Number of firearms voluntarily surrendered,219
-2016,Number of firearms seized,217
-2017,Number of firearms seized,399
-2018,Number of firearms seized,296
-2019,Number of firearms seized,127
-2020,Number of firearms seized,397
-2021,Number of firearms seized,159
-2023,Number of firearms seized,171
+2016,Number of voluntarily surrendered firearms,153
+2017,Number of voluntarily surrendered firearms,196
+2018,Number of voluntarily surrendered firearms,232
+2019,Number of voluntarily surrendered firearms,146
+2020,Number of voluntarily surrendered firearms,158
+2021,Number of voluntarily surrendered firearms,149
+2023,Number of voluntarily surrendered firearms,219
+2016,Number of seized firearms,217
+2017,Number of seized firearms,399
+2018,Number of seized firearms,296
+2019,Number of seized firearms,127
+2020,Number of seized firearms,397
+2021,Number of seized firearms,159
+2023,Number of seized firearms,171

@@ -1,35 +1,35 @@
 Year,Value,Unit multiplier,UNIT_MEASURE,SERIES
-2007,87.7,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2008,59.8,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2009,49.9,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2010,47.7,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2011,43.3,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2012,43.7,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2013,38.5,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2014,36.9,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2015,31.5,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2016,27.9,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2017,26.9,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2018,26.3,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2019,23.111084,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2020,24.080779,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2021,19.336932,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2022,13.600366,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2023,10.376388,Units,Kilowatt-hours per 1mn som,Power intensity of GDP by indusry
-2007,158.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2008,146.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2009,168.8,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2010,180.5,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2011,174.7,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2012,155.2,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2013,160.3,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2014,130.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2015,207.6,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2016,248.3,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2017,260.3,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2018,202.9,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2019,200.5,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2020,196.6,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2021,206.4,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2022,205.5,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
-2023,196.7,Millions,Kilowatt-hours,Power generation at small hydroelecric plant
+2007,87.7,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2008,59.8,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2009,49.9,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2010,47.7,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2011,43.3,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2012,43.7,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2013,38.5,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2014,36.9,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2015,31.5,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2016,27.9,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2017,26.9,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2018,26.3,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2019,23.111084,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2020,24.080779,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2021,19.336932,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2022,13.600366,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2023,10.376388,Units,Kilowatt-hours per 1mn som,Electricity intensity of GDP
+2007,158.9,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2008,146.9,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2009,168.8,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2010,180.5,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2011,174.7,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2012,155.2,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2013,160.3,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2014,130.9,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2015,207.6,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2016,248.3,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2017,260.3,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2018,202.9,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2019,200.5,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2020,196.6,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2021,206.4,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2022,205.5,Millions,Kilowatt-hours,Electricity generation from small hydropower
+2023,196.7,Millions,Kilowatt-hours,Electricity generation from small hydropower
