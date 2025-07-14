@@ -6682,54 +6682,6 @@
       "title": "Доля доходов трудящихся в ВВП, в том числе заработная плата и выплаты по линии социальной защиты"
     },
     {
-      "path": "4-1-2-a/data.csv",
-      "name": "4-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Баткенская область",
-                "Джалал-Абадская область",
-                "Иссык-Кульская область",
-                "Нарынская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош",
-                ""
-              ]
-            },
-            "title": "Территория"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Primary education completion rate"
-    },
-    {
       "path": "8-8-1/data.csv",
       "name": "8-8-1",
       "profile": "tabular-data-resource",
