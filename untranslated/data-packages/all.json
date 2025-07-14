@@ -3616,39 +3616,6 @@
       "title": "global_indicators.1-a-2-title"
     },
     {
-      "path": "2-3-2-a/data.csv",
-      "name": "2-3-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_CROP_PROD",
-                "_L_LIVEST_PROD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Share of agricultural production by cooperatives in total agricultural production in the country"
-    },
-    {
       "path": "8-3-1-a/data.csv",
       "name": "8-3-1-a",
       "profile": "tabular-data-resource",
@@ -4654,41 +4621,6 @@
         ]
       },
       "title": "Энергоемкость ВВП"
-    },
-    {
-      "path": "17-11-1-a/data.csv",
-      "name": "17-11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_COMP_PER_EQUIP",
-                "_L_COMM_EQUIP",
-                "_L_COMM_ELECT",
-                "_L_OTHER_ELECT_COMP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Imports of ICT goods as a percentage of total imports of goods"
     },
     {
       "path": "10-2-1/data.csv",
