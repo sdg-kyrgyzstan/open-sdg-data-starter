@@ -9089,6 +9089,28 @@
       "title": "global_indicators.11-3-2-title"
     },
     {
+      "path": "1-1-1-1/data.csv",
+      "name": "1-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Уровень крайней бедности в процентах к общей численности населения"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -10363,28 +10385,6 @@
         ]
       },
       "title": "global_indicators.6-5-2-title"
-    },
-    {
-      "path": "1-1-1-1a/data.csv",
-      "name": "1-1-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Уровень крайней бедности"
     },
     {
       "path": "12-2-2/data.csv",
@@ -12057,6 +12057,28 @@
         ]
       },
       "title": "global_indicators.8-a-1-title"
+    },
+    {
+      "path": "1-1-1-1a/data.csv",
+      "name": "1-1-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-1-1-1a"
     }
   ]
 }

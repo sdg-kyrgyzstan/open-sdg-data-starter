@@ -9909,6 +9909,30 @@
       "title": "Үзгүлтүксүз жана демократиялык жол менен иш жүргүзгөн шаарларды пландаштырууда жана башкарууда жарандык коомго түздөн-түз катышуу түзүмү бар шаарлардын үлүшү"
     },
     {
+      "path": "1-1-1-1/data.csv",
+      "name": "1-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень крайней бедности в процентах к общей численности населения"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -11299,30 +11323,6 @@
         ]
       },
       "title": "Суу кызматташтыгы үчүн ыкчам чара менен транстынық бассейндик аймактын үлүшү"
-    },
-    {
-      "path": "1-1-1-1a/data.csv",
-      "name": "1-1-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень крайней бедности"
     },
     {
       "path": "12-2-2/data.csv",
@@ -13147,6 +13147,30 @@
         ]
       },
       "title": "Соода милдеттенмелерине жана төлөмдөргө көмөк көрсөтүү"
+    },
+    {
+      "path": "1-1-1-1a/data.csv",
+      "name": "1-1-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-1-1-1a"
     }
   ]
 }
