@@ -2090,6 +2090,54 @@
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
+      "path": "16-6-2-1/data.csv",
+      "name": "16-6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс \"Оценка деятельности государственных органов и органов местного самоуправления\""
+    },
+    {
       "path": "16-4-2-1/data.csv",
       "name": "16-4-2-1",
       "profile": "tabular-data-resource",
@@ -5370,6 +5418,58 @@
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
+      "path": "17-3-1-1/data.csv",
+      "name": "17-3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage",
+                "Accommodation and food service activities",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Inflow of foreign direct investment by country and economic activity"
+    },
+    {
       "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
@@ -5835,6 +5935,54 @@
       "title": "Энергоемкость ВВП"
     },
     {
+      "path": "16-5-1-1/data.csv",
+      "name": "16-5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\""
+    },
+    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -5958,6 +6106,47 @@
         ]
       },
       "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
+      "path": "16-5-1-2/data.csv",
+      "name": "16-5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
     },
     {
       "path": "5-2-1-3/data.csv",
@@ -7233,6 +7422,54 @@
         ]
       },
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
+      "path": "16-1-4-1/data.csv",
+      "name": "16-1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля совершенных преступлений в общественных местах и на улицах от общего количества зарегистрированных преступлений"
     },
     {
       "path": "8-5-1-1/data.csv",
@@ -8939,30 +9176,6 @@
       "title": "Потери воды при транспортировке"
     },
     {
-      "path": "16-5-1-2/data.csv",
-      "name": "16-5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
-    },
-    {
       "path": "15-5-1/data.csv",
       "name": "15-5-1",
       "profile": "tabular-data-resource",
@@ -9273,30 +9486,6 @@
         ]
       },
       "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
-    },
-    {
-      "path": "16-1-4-1/data.csv",
-      "name": "16-1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля совершенных преступлений в общественных местах и на улицах от общего количества зарегистрированных преступлений"
     },
     {
       "path": "4-1-1-1a/data.csv",
@@ -10137,30 +10326,6 @@
         ]
       },
       "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
-    },
-    {
-      "path": "16-5-1-1/data.csv",
-      "name": "16-5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\""
     },
     {
       "path": "7-3-1/data.csv",
@@ -11289,30 +11454,6 @@
         ]
       },
       "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
-    },
-    {
-      "path": "16-6-2-1/data.csv",
-      "name": "16-6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс \"Оценка деятельности государственных органов и органов местного самоуправления\""
     },
     {
       "path": "6-5-1/data.csv",

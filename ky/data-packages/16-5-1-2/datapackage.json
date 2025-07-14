@@ -12,12 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Жыл"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
