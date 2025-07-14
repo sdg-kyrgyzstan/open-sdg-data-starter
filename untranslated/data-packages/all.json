@@ -4755,7 +4755,7 @@
           }
         ]
       },
-      "title": "Share of agricultural production by cooperatives in total agricultural production in the country"
+      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
     },
     {
       "path": "6-2-1/data.csv",
@@ -10397,28 +10397,6 @@
         ]
       },
       "title": "global_indicators.7-a-1-title"
-    },
-    {
-      "path": "2-3-2-1/data.csv",
-      "name": "2-3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
     },
     {
       "path": "6-5-1/data.csv",

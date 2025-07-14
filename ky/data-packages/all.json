@@ -5181,7 +5181,7 @@
           }
         ]
       },
-      "title": "Share of agricultural production by cooperatives in total agricultural production in the country"
+      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
     },
     {
       "path": "6-2-1/data.csv",
@@ -11334,30 +11334,6 @@
         ]
       },
       "title": "Таза энергияны изилдөөнү жана иштеп чыгууну жана калыбына келтирилген энергияны өндүрүүнү, анын ичинде гибриддик системаларды колдоо үчүн өнүгүп келе жаткан өлкөлөргө эл аралык финансылык агымдар"
-    },
-    {
-      "path": "2-3-2-1/data.csv",
-      "name": "2-3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля произведенной продукции сельскохозяйственными кооперативами в общем объеме произведенной продукции в республике"
     },
     {
       "path": "6-5-1/data.csv",
