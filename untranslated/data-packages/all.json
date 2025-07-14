@@ -2428,51 +2428,6 @@
       "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
-      "path": "4-4-1-1/data.csv",
-      "name": "4-4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                "M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AGG_3_4",
-                "ISCED11_5",
-                "ISCED11_6_7",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Number of students enrolled in ICT programs within initial vocational, secondary vocational, and higher education"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
