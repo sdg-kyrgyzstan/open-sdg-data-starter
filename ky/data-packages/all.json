@@ -5440,7 +5440,7 @@
           }
         ]
       },
-      "title": "Number of women reporting to health services due to domestic violence"
+      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
     },
     {
       "path": "9-2-2/data.csv",
@@ -12582,30 +12582,6 @@
         ]
       },
       "title": "Париж принциптерине ылайык адам укуктары боюнча көз карандысыз улуттук институттардын болушу"
-    },
-    {
-      "path": "5-2-1-1a/data.csv",
-      "name": "5-2-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
     },
     {
       "path": "7-b-1/data.csv",
