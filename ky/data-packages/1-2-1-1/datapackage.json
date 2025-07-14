@@ -12,8 +12,85 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "Y50T54",
+                "Y55T59",
+                "Y60T64",
+                "Y65T69",
+                "Y_GE70",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_B",
+                "ISIC4_C",
+                "ISIC4_D",
+                "ISIC4_E",
+                "ISIC4_F",
+                "ISIC4_G",
+                "ISIC4_H",
+                "ISIC4_I",
+                "ISIC4_J",
+                "ISIC4_K",
+                "ISIC4_L",
+                "ISIC4_M",
+                "ISIC4_N",
+                "ISIC4_O",
+                "ISIC4_P",
+                "ISIC4_Q",
+                "ISIC4_R",
+                "ISIC4_S",
+                "ISIC4_T",
+                "ISIC4_U",
+                ""
+              ]
+            },
+            "title": "ACTIVITY"
           },
           {
             "name": "Value",

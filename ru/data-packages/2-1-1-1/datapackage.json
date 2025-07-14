@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мясо и мясопродукты в пересчете на мясо (включая сало и субпродукты)",
+                "Молоко и молочные продукты (в пересчете на молоко)",
+                "Яйца",
+                "Сахар",
+                "Растительное масло",
+                "Картофель",
+                "Овощи и бахчевые",
+                "Фрукты и ягоды",
+                " Пшеница и продукты ее переработки, в муке",
+                "Рыба и рыбопродукты",
+                ""
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-1-1",
+  "title": "Per capita consumption of main food products as a percentage of recommended dietary intake"
+}

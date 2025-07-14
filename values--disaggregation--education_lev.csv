@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-AGG_3_4,3,1
+AGG_3_4,4,2
 ISCED11_1,13,13
 ISCED11_2,20,18
 ISCED11_3,20,18
 ISCED11_4,20,18
-ISCED11_5,12,8
-ISCED11_6_7,13,11
+ISCED11_5,15,9
+ISCED11_6_7,16,12
