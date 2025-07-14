@@ -5902,71 +5902,6 @@
       "title": "100,000 калктын адам соодасынан жапа чеккендердин саны, жынысы, жаш курагы жана эксплуатация түрү боюнча"
     },
     {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Жыл"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KG05",
-                "KG03",
-                "KG02",
-                "KG04",
-                "KG06",
-                "KG07",
-                "KG08",
-                "KG11",
-                "KG21",
-                ""
-              ]
-            },
-            "title": "REF_AREA"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y0T14",
-                "Y_GE15",
-                ""
-              ]
-            },
-            "title": "AGE"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Кош бойлуулук абалы боюнча 15 жаштан 49 жашка чейинки аялдарда анемиянын кеңири таралышы (пайыз)"
-    },
-    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -8305,6 +8240,30 @@
         ]
       },
       "title": "Численность детей и подростков 7-17 лет (1-11классов), не приступивших  к занятиям  в общеобразовательные организации по причинам,  по полу"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Кош бойлуулук абалы боюнча 15 жаштан 49 жашка чейинки аялдарда анемиянын кеңири таралышы (пайыз)"
     },
     {
       "path": "6-6-1/data.csv",
