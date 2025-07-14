@@ -1758,47 +1758,6 @@
       "title": "Коэффициент неонатальной смертности"
     },
     {
-      "path": "16-7-1-a/data.csv",
-      "name": "16-7-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Мужчины",
-                "Женщины",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of positions in public institutions"
-    },
-    {
       "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
@@ -4969,54 +4928,6 @@
         ]
       },
       "title": "Доля населения, использующего в основном чистые виды топлива и технологии"
-    },
-    {
-      "path": "11-7-1-a/data.csv",
-      "name": "11-7-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Баткенская область",
-                "Джалал-Абадская область",
-                "Иссык-Кульская область",
-                "Нарынская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош",
-                ""
-              ]
-            },
-            "title": "Территория"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Area of green spaces and plantations in settlements per 1,000 inhabitants (hectares)"
     },
     {
       "path": "8-5-2/data.csv",
