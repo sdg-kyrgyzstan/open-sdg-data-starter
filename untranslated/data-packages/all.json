@@ -11829,28 +11829,6 @@
       "title": "4-1-1-1a"
     },
     {
-      "path": "16-6-2-1a/data.csv",
-      "name": "16-6-2-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "16-6-2-1a"
-    },
-    {
       "path": "2-c-1-1b/data.csv",
       "name": "2-c-1-1b",
       "profile": "tabular-data-resource",
@@ -11893,28 +11871,6 @@
         ]
       },
       "title": "15-b-1-1"
-    },
-    {
-      "path": "17-3-1-1a/data.csv",
-      "name": "17-3-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "17-3-1-1a"
     }
   ]
 }
