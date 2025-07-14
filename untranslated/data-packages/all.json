@@ -5598,7 +5598,7 @@
           }
         ]
       },
-      "title": "Proportion of employed in small and medium-sized enterprises in total employment"
+      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
     },
     {
       "path": "1-b-1-1/data.csv",
@@ -9804,28 +9804,6 @@
         ]
       },
       "title": "global_indicators.13-2-1-title"
-    },
-    {
-      "path": "8-3-1-2/data.csv",
-      "name": "8-3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
     },
     {
       "path": "15-3-1/data.csv",
