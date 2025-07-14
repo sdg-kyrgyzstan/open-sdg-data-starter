@@ -9195,28 +9195,6 @@
       "title": "global_indicators.15-8-1-title"
     },
     {
-      "path": "1-2-1-1a/data.csv",
-      "name": "1-2-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Уровень бедности среди занятого населения"
-    },
-    {
       "path": "6-1-1-2b/data.csv",
       "name": "6-1-1-2b",
       "profile": "tabular-data-resource",
@@ -9677,6 +9655,28 @@
         ]
       },
       "title": "Уровень официально зарегистрированных безработных"
+    },
+    {
+      "path": "1-2-1-1/data.csv",
+      "name": "1-2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Уровень бедности среди занятого населения"
     },
     {
       "path": "2-3-2/data.csv",
@@ -12031,6 +12031,28 @@
         ]
       },
       "title": "1-1-1-1a"
+    },
+    {
+      "path": "1-2-1-1a/data.csv",
+      "name": "1-2-1-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-2-1-1a"
     }
   ]
 }
