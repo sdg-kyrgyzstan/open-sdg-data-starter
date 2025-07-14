@@ -437,6 +437,71 @@
       "title": "Объем вывезенных твердых бытовых отходов в расчете на 1 человека"
     },
     {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
+                ""
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 14 лет",
+                "15 лет и старше",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
+    },
+    {
       "path": "16-6-1/data.csv",
       "name": "16-6-1",
       "profile": "tabular-data-resource",
@@ -2480,6 +2545,30 @@
       "title": "Доля населения, имеющего удобный доступ к общественному транспорту, в разбивке по полу, возрасту и признаку инвалидности"
     },
     {
+      "path": "2-3-2-b/data.csv",
+      "name": "2-3-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fish consumption balance"
+    },
+    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -2892,6 +2981,30 @@
         ]
       },
       "title": "Заболеваемость малярией на 1000 человек"
+    },
+    {
+      "path": "1-3-1-c/data.csv",
+      "name": "1-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3867,6 +3980,35 @@
       "title": "Доля людей, имеющих мобильный телефон, в разбивке по полу"
     },
     {
+      "path": "1-3-1-d/data.csv",
+      "name": "1-3-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля пенсионеров по возрасту, получающих пенсии ниже ПМП"
+    },
+    {
       "path": "16-1-1-1/data.csv",
       "name": "16-1-1-1",
       "profile": "tabular-data-resource",
@@ -4571,6 +4713,42 @@
         ]
       },
       "title": "Доля мужчин, женщин и детей всех возрастов, живущих в нищете во всех ее проявлениях, согласно национальным определениям"
+    },
+    {
+      "path": "2-3-2-a/data.csv",
+      "name": "2-3-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Доля произведенной продукции растениеводства",
+                "Доля произведенной продукции животноводства",
+                ""
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of agricultural production by cooperatives in total agricultural production in the country"
     },
     {
       "path": "6-2-1/data.csv",
@@ -5436,6 +5614,54 @@
         ]
       },
       "title": "Стандартизированная по возрасту распространенность употребления табака лицами в возрасте 15 лет и старше"
+    },
+    {
+      "path": "1-3-1-a/data.csv",
+      "name": "1-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, получающих ЕПМС/«үй-бүлөгө көмөк», социальные пособия и пенсии"
+    },
+    {
+      "path": "1-3-1-b/data.csv",
+      "name": "1-3-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population receiving social benefits as percentage of total population"
     },
     {
       "path": "3-9-2/data.csv",
@@ -7858,6 +8084,30 @@
       "title": "Потери воды при транспортировке"
     },
     {
+      "path": "16-5-1-2/data.csv",
+      "name": "16-5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
+    },
+    {
       "path": "15-5-1/data.csv",
       "name": "15-5-1",
       "profile": "tabular-data-resource",
@@ -8240,30 +8490,6 @@
         ]
       },
       "title": "Численность детей и подростков 7-17 лет (1-11классов), не приступивших  к занятиям  в общеобразовательные организации по причинам,  по полу"
-    },
-    {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)"
     },
     {
       "path": "6-6-1/data.csv",
@@ -9730,30 +9956,6 @@
       "title": "Непосредственный  вклад туризма в совокупный ВВП и в темпы роста"
     },
     {
-      "path": "1-3-1-c/data.csv",
-      "name": "1-3-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
-    },
-    {
       "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
@@ -9872,30 +10074,6 @@
         ]
       },
       "title": "Число стран, имеющих национальный план действий по переходу к рациональным моделям потребления и производства или включивших рациональное потребление и производство в качестве приоритета или задачи в национальную стратегию"
-    },
-    {
-      "path": "16-5-1-1b/data.csv",
-      "name": "16-5-1-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число осужденных за должностные преступления, в том числе за коррупцию и взяточничество"
     },
     {
       "path": "2-c-1-1b/data.csv",
@@ -11050,30 +11228,6 @@
       "title": "Наличие или отсутствие нормативно-правовой базы для  поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области"
     },
     {
-      "path": "1-3-1-d/data.csv",
-      "name": "1-3-1-d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля пенсионеров по возрасту, получающих пенсии ниже ПМП"
-    },
-    {
       "path": "16-10-1/data.csv",
       "name": "16-10-1",
       "profile": "tabular-data-resource",
@@ -11962,30 +12116,6 @@
       "title": "Объем обязательств и выплат в рамках инициативы «Помощь в торговле»"
     },
     {
-      "path": "1-3-1-a/data.csv",
-      "name": "1-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля населения, получающих ЕПМС/«үй-бүлөгө көмөк», социальные пособия и пенсии"
-    },
-    {
       "path": "11-6-1-1a/data.csv",
       "name": "11-6-1-1a",
       "profile": "tabular-data-resource",
@@ -12176,6 +12306,30 @@
         ]
       },
       "title": "16-1-4-1a"
+    },
+    {
+      "path": "16-5-1-1b/data.csv",
+      "name": "16-5-1-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-5-1-1b"
     },
     {
       "path": "10-3-1-1a/data.csv",
