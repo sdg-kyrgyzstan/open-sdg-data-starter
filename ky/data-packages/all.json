@@ -5871,7 +5871,7 @@
           }
         ]
       },
-      "title": "Per capita consumption of main food products as a percentage of recommended dietary intake"
+      "title": "Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления"
     },
     {
       "path": "9-3-2/data.csv",
@@ -12728,30 +12728,6 @@
       "title": "Үй чарбалардын жана айлана-чөйрөнүн абанын булганышына байланыштуу өлүмдүн деңгээли"
     },
     {
-      "path": "2-1-1-1e/data.csv",
-      "name": "2-1-1-1e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Среднедушевое потребление основных продуктов питания по отношению к среднефизиологическим нормам потребления"
-    },
-    {
       "path": "16-a-1/data.csv",
       "name": "16-a-1",
       "profile": "tabular-data-resource",
@@ -12990,6 +12966,30 @@
         ]
       },
       "title": "11-6-1-1a"
+    },
+    {
+      "path": "2-1-1-1e/data.csv",
+      "name": "2-1-1-1e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "2-1-1-1e"
     },
     {
       "path": "11-7-1-1a/data.csv",
