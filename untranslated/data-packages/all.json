@@ -2644,7 +2644,7 @@
           }
         ]
       },
-      "title": "Fish consumption balance"
+      "title": "Баланс потребления рыбной продукции"
     },
     {
       "path": "4-1-1-a/data.csv",
@@ -10067,28 +10067,6 @@
         ]
       },
       "title": "Индекс потребительских цен на продовольственные товары"
-    },
-    {
-      "path": "2-3-3-1c/data.csv",
-      "name": "2-3-3-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Баланс потребления рыбной продукции на душу населения"
     },
     {
       "path": "4-1-1-1b/data.csv",
