@@ -4238,7 +4238,7 @@
           }
         ]
       },
-      "title": "Ratio of agricultural imports to domestic agricultural production"
+      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
     },
     {
       "path": "1-a-2/data.csv",
@@ -8791,28 +8791,6 @@
         ]
       },
       "title": "global_indicators.17-13-1-title"
-    },
-    {
-      "path": "2-1-2-1d/data.csv",
-      "name": "2-1-2-1d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
     },
     {
       "path": "12-3-1/data.csv",
