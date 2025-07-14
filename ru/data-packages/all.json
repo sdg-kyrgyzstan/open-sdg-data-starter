@@ -694,6 +694,47 @@
       "title": "Доля  лиц, которые считают, что в их районе находиться на улице в одиночестве безопасно"
     },
     {
+      "path": "16-7-1-a/data.csv",
+      "name": "16-7-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of positions in public institutions"
+    },
+    {
       "path": "17-8-1/data.csv",
       "name": "17-8-1",
       "profile": "tabular-data-resource",
@@ -808,6 +849,54 @@
         ]
       },
       "title": "Доля населения, пользующегося Интернетом"
+    },
+    {
+      "path": "2-с-1-1/data.csv",
+      "name": "2-с-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
+                ""
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumer price index for food products"
     },
     {
       "path": "3-4-1/data.csv",
@@ -2569,6 +2658,67 @@
       "title": "Fish consumption balance"
     },
     {
+      "path": "4-1-1-a/data.csv",
+      "name": "4-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Мужчины",
+                "Женщины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Причина: материальные трудности",
+                "Причина: нежелание родителей",
+                "Причина: отсутствие необходимых документов (свидетельства о рождении, прописки)",
+                "Причина: по семейным обстоятельствам",
+                "Причина: нет желания учиться",
+                "Причина: неблагополучные семьи",
+                "Причина: не владеют языком ",
+                "Причина: состоит в браке, беременна, стали родителями (матерью, отцом)",
+                "Причина: работают",
+                "Причина: отсутствие транспорта (школа расположена далеко от дома)",
+                "Причина: временные сезонные работы (с/х работы, выпас скота на пастбище)",
+                "Причина: не соответствие возраста данному классу",
+                "Причина: по болезни",
+                "Причина: дети с ограниченными возможностями здоровья",
+                "Причина: по другим причинам",
+                ""
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of children and adolescents aged 7–17 (grades 1–11) not enrolled in general education institutions"
+    },
+    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -2789,6 +2939,42 @@
         ]
       },
       "title": "Число  жертв умышленных убийств на 100 000 человек в разбивке по полу и возрасту"
+    },
+    {
+      "path": "8-5-2-1/data.csv",
+      "name": "8-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Женщины",
+                "Мужчины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень официально зарегистрированных безработных"
     },
     {
       "path": "3-5-2-1/data.csv",
@@ -4055,6 +4241,51 @@
         ]
       },
       "title": "Смертность от нападений на 100 000 человек"
+    },
+    {
+      "path": "2-1-2-c/data.csv",
+      "name": "2-1-2-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Зерно и продукты их переработки",
+                " Пшеница и продукты ее переработки, в муке",
+                "Плоды-ягоды и продукты их переработки ",
+                "Картофель и продукты их переработки ",
+                "Овощебахчевые и продукты их переработки",
+                "Мясо и мясопродукты в пересчете на мясо (включая сало и субпродукты)",
+                "Молоко и молочные продукты (в пересчете на молоко)",
+                "Яйца  и продукты их переработки",
+                "Сахар",
+                "Растительное масло",
+                "Рыба и продукты их переработки",
+                ""
+              ]
+            },
+            "title": "Тип продукта"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ratio of agricultural imports to domestic agricultural production"
     },
     {
       "path": "1-a-2/data.csv",
@@ -5893,6 +6124,54 @@
         ]
       },
       "title": "Общий объем государственных доходов в процентном отношении к ВВП в разбивке по источникам"
+    },
+    {
+      "path": "4-1-2-a/data.csv",
+      "name": "4-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
+                ""
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary education completion rate"
     },
     {
       "path": "7-3-1-2/data.csv",
@@ -10266,30 +10545,6 @@
         ]
       },
       "title": "Число стран, принявших и осуществляющих национальные стратегии снижения риска бедствий в соответствии с Сендайской рамочной программой по снижению риска бедствий на 2015–2030 годы"
-    },
-    {
-      "path": "8-5-2-1/data.csv",
-      "name": "8-5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень официально зарегистрированных безработных"
     },
     {
       "path": "6-a-1/data.csv",

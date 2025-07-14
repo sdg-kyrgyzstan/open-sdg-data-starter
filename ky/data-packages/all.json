@@ -694,6 +694,47 @@
       "title": "Өздөрү жашаган аймакта жалгыз жүргөндө өздөрүн коопсуз сезген калктын үлүшү"
     },
     {
+      "path": "16-7-1-a/data.csv",
+      "name": "16-7-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of positions in public institutions"
+    },
+    {
       "path": "17-8-1/data.csv",
       "name": "17-8-1",
       "profile": "tabular-data-resource",
@@ -808,6 +849,54 @@
         ]
       },
       "title": "Интернетти колдонгон адамдардын үлүшү"
+    },
+    {
+      "path": "2-с-1-1/data.csv",
+      "name": "2-с-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Consumer price index for food products"
     },
     {
       "path": "3-4-1/data.csv",
@@ -2569,6 +2658,67 @@
       "title": "Fish consumption balance"
     },
     {
+      "path": "4-1-1-a/data.csv",
+      "name": "4-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_CSE_MATDIFF",
+                "_L_CSE_PARENTS",
+                "_L_CSE_NODOC",
+                "_L_CSE_DOM",
+                "_L_CSE_UNWILL",
+                "_L_CSE_FAMILY",
+                "_L_CSE_NOLANG",
+                "_L_CSE_MARR",
+                "_L_CSE_WORK",
+                "_L_CSE_TRANSPORT",
+                "_L_CSE_SEASWORK",
+                "_L_CSE_AGE",
+                "_L_CSE_SICK",
+                "_L_CSE_DISAB",
+                "_L_CSE_OTHER",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of children and adolescents aged 7–17 (grades 1–11) not enrolled in general education institutions"
+    },
+    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -2789,6 +2939,42 @@
         ]
       },
       "title": "100 000 калктын атайылап киши өлтүрүүсүнөн жапа чеккендердин саны жыныстык жана жаш курак боюнча"
+    },
+    {
+      "path": "8-5-2-1/data.csv",
+      "name": "8-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень официально зарегистрированных безработных"
     },
     {
       "path": "3-5-2-1/data.csv",
@@ -4055,6 +4241,51 @@
         ]
       },
       "title": "Смертность от нападений на 100 000 человек"
+    },
+    {
+      "path": "2-1-2-c/data.csv",
+      "name": "2-1-2-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_AGG_GRAIN_PROCESS",
+                "_L_AGG_WHEATS",
+                "_L_AGG_BERRIES_PROCESS",
+                "_L_AGG_POT_PROCESS",
+                "_L_AGG_VEGS_PROCESS",
+                "_L_AGG_MEATS",
+                "_L_AGG_DAIRY",
+                "_L_AGG_EGGS_PROCESS",
+                "_L_AGG_SUGAR",
+                "_L_AGG_VEGOILS",
+                "_L_AGG_FISH_PROCESS",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ratio of agricultural imports to domestic agricultural production"
     },
     {
       "path": "1-a-2/data.csv",
@@ -5893,6 +6124,54 @@
         ]
       },
       "title": "ИДПнын үлүшү катары мамлекеттик кирешелердин жалпы көлөмү, булак боюнча"
+    },
+    {
+      "path": "4-1-2-a/data.csv",
+      "name": "4-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary education completion rate"
     },
     {
       "path": "7-3-1-2/data.csv",
@@ -10266,30 +10545,6 @@
         ]
       },
       "title": "Табигый кырсыктардын тобокелдигин азайтуу боюнча Сендай базасына ылайык табигый кырсыктардын тобокелдигин азайтуу боюнча улуттук стратегияларды кабыл алган жана ишке ашырган өлкөлөрдүн саны 2015–2030"
-    },
-    {
-      "path": "8-5-2-1/data.csv",
-      "name": "8-5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень официально зарегистрированных безработных"
     },
     {
       "path": "6-a-1/data.csv",

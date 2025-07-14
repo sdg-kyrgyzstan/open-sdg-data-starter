@@ -31,6 +31,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-2,"REF_AREA, AGE, SEX",3
 #16-3-1,URBANISATION,1
 #16-6-1,COMPOSITE_BREAKDOWN,1
+#16-7-1-a,SEX,1
 #16-9-1,"REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS, SEX",7
 #16-b-1,"REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS",6
 #17-1-1,COMPOSITE_BREAKDOWN,1
@@ -39,10 +40,12 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1,"REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, SEX",6
 #2-1-1,"REF_AREA, URBANISATION",2
 #2-1-2,"REF_AREA, URBANISATION",2
+#2-1-2-c,PRODUCT,1
 #2-2-1,"REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, SEX",6
 #2-2-2,"REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, SEX",6
 #2-2-3,"REF_AREA, AGE",2
 #2-3-2-a,COMPOSITE_BREAKDOWN,1
+#2-с-1-1,REF_AREA,1
 #3-1-1,REF_AREA,1
 #3-1-2,REF_AREA,1
 #3-2-1,"REF_AREA, SEX",2
@@ -65,7 +68,9 @@ Indicator,Disaggregations,Number of disaggregations
 #3-b-1,REF_AREA,1
 #3-c-1,"REF_AREA, SEX",2
 #4-1-1,"Показатель, Территория, Местность, Возраст, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния, Функциональные трудности у ребенка",8
+#4-1-1-a,"COMPOSITE_BREAKDOWN, SEX",2
 #4-1-2,"Показатель, Территория, Местность, Пол, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния",7
+#4-1-2-a,REF_AREA,1
 #4-2-1,"REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, SEX",4
 #4-3-1-1,"AGE, EDUCATION_LEV, SEX",3
 #4-4-1,"Показатель, Навык",2
@@ -91,6 +96,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-3-1-1,"AGE, URBANISATION, SEX, ACTIVITY",4
 #8-5-1-1,"SEX, ACTIVITY",2
 #8-5-2,"REF_AREA, AGE, SEX",3
+#8-5-2-1,SEX,1
 #8-6-1,SEX,1
 #8-7-1,"COMPOSITE_BREAKDOWN, REF_AREA, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, EDUCATION_LEV, DISABILITY_STATUS, SEX",8
 #8-8-1,"REF_AREA, SEX",2
