@@ -90,35 +90,6 @@
       "title": "The agriculture orientation index for government expenditures"
     },
     {
-      "path": "5-2-1-2/data.csv",
-      "name": "5-2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of women reporting to health services due to domestic violence"
-    },
-    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
