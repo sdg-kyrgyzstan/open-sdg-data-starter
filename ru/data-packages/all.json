@@ -8672,30 +8672,6 @@
       "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота, среди видов, которыми ведется торговля"
     },
     {
-      "path": "1-3-1-1f/data.csv",
-      "name": "1-3-1-1f",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
-    },
-    {
       "path": "11-7-2/data.csv",
       "name": "11-7-2",
       "profile": "tabular-data-resource",
@@ -10686,6 +10662,30 @@
         ]
       },
       "title": "Непосредственный  вклад туризма в совокупный ВВП и в темпы роста"
+    },
+    {
+      "path": "1-3-1-c/data.csv",
+      "name": "1-3-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, получающих пенсии и пособия по инвалидности к общей численности населения"
     },
     {
       "path": "5-2-1/data.csv",
@@ -12990,6 +12990,30 @@
         ]
       },
       "title": "Доля населения, получающих ЕПМС/«үй-бүлөгө көмөк», социальные пособия и пенсии"
+    },
+    {
+      "path": "1-3-1-1f/data.csv",
+      "name": "1-3-1-1f",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-3-1-1f"
     },
     {
       "path": "1-1-1-1a/data.csv",
