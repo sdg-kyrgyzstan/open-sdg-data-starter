@@ -2087,7 +2087,7 @@
           }
         ]
       },
-      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
+      "title": "Area of green spaces and plantations in settlements per 1,000 inhabitants (hectares)"
     },
     {
       "path": "6-4-2-1/data.csv",
@@ -10048,6 +10048,28 @@
       "title": "global_indicators.11-6-2-title"
     },
     {
+      "path": "11-7-1a/data.csv",
+      "name": "11-7-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
+    },
+    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -11610,8 +11632,8 @@
       "title": "8-1-1-2"
     },
     {
-      "path": "11-3-1-a/data.csv",
-      "name": "11-3-1-a",
+      "path": "11-3-1-а/data.csv",
+      "name": "11-3-1-а",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -11629,7 +11651,51 @@
           }
         ]
       },
-      "title": "11-3-1-a"
+      "title": "11-3-1-а"
+    },
+    {
+      "path": "4-c-1-1/data.csv",
+      "name": "4-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-c-1-1"
+    },
+    {
+      "path": "8-3-4-1/data.csv",
+      "name": "8-3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "8-3-4-1"
     },
     {
       "path": "8-1-1-1/data.csv",
@@ -11652,6 +11718,28 @@
         ]
       },
       "title": "8-1-1-1"
+    },
+    {
+      "path": "8-10-2-а/data.csv",
+      "name": "8-10-2-а",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "8-10-2-а"
     }
   ]
 }
