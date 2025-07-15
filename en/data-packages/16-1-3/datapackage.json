@@ -12,78 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to 49 years old",
-                "15 to 19 years old",
-                "15 to 17 years old",
-                "18 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
