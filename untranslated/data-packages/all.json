@@ -2087,7 +2087,7 @@
           }
         ]
       },
-      "title": "Area of green spaces and plantations in settlements per 1,000 inhabitants (hectares)"
+      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
       "path": "6-4-2-1/data.csv",
@@ -10046,28 +10046,6 @@
         ]
       },
       "title": "global_indicators.11-6-2-title"
-    },
-    {
-      "path": "11-7-1a/data.csv",
-      "name": "11-7-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
       "path": "11-b-1/data.csv",
