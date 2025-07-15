@@ -2626,8 +2626,8 @@
       "title": "global_indicators.1-1-1-title"
     },
     {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2657,7 +2657,7 @@
           }
         ]
       },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+      "title": "global_indicators.17-6-1-title"
     },
     {
       "path": "16-1-1/data.csv",
@@ -10882,28 +10882,6 @@
         ]
       },
       "title": "global_indicators.3-8-2-title"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-6-1-title"
     },
     {
       "path": "9-a-1/data.csv",
