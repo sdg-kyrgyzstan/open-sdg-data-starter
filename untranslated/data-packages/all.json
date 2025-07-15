@@ -11632,8 +11632,8 @@
       "title": "8-1-1-2"
     },
     {
-      "path": "11-3-1-а/data.csv",
-      "name": "11-3-1-а",
+      "path": "11-3-1-a/data.csv",
+      "name": "11-3-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -11651,7 +11651,7 @@
           }
         ]
       },
-      "title": "11-3-1-а"
+      "title": "11-3-1-a"
     },
     {
       "path": "8-1-1-1/data.csv",
