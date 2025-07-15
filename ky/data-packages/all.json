@@ -4024,6 +4024,45 @@
       "title": "Банкта же башка финансылык мекемеде же мобилдик-акча-тейлөө провайдеринде эсеби бар чоңдордун (15 жаштан улуу) үлүшү"
     },
     {
+      "path": "11-6-1-2/data.csv",
+      "name": "11-6-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_WR_GAR_CH",
+                "_L_WR_COL_TR",
+                "_L_WR_DUM_GAR",
+                "_L_WR_BURN",
+                "_L_WR_BURYING",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
+    },
+    {
       "path": "17-4-1/data.csv",
       "name": "17-4-1",
       "profile": "tabular-data-resource",
@@ -9776,30 +9815,6 @@
         ]
       },
       "title": "Үзгүлтүксүз жана демократиялык жол менен иш жүргүзгөн шаарларды пландаштырууда жана башкарууда жарандык коомго түздөн-түз катышуу түзүмү бар шаарлардын үлүшү"
-    },
-    {
-      "path": "11-6-1-2/data.csv",
-      "name": "11-6-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Избавление от твердых бытовых отходов домашними хозяйствами по видам"
     },
     {
       "path": "15-4-2/data.csv",

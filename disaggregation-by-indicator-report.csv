@@ -17,6 +17,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-2-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #11-5-1,"Территория, Пол",2
 #11-5-2,REF_AREA,1
+#11-6-1-2,COMPOSITE_BREAKDOWN,1
 #11-7-1-a,REF_AREA,1
 #11-b-2,Показатель,1
 #13-1-1,"SEX, REF_AREA",2

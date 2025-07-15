@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_WR_GAR_CH",
+                "_L_WR_COL_TR",
+                "_L_WR_DUM_GAR",
+                "_L_WR_BURN",
+                "_L_WR_BURYING",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
