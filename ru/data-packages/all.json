@@ -39,7 +39,7 @@
           }
         ]
       },
-      "title": "Объем загрязняющих веществ, отходящих от стационарных источников на 1 кв.км"
+      "title": "Объем выбросов загрязняющих веществ, отходящих от стационарных источников на 1 кв. км"
     },
     {
       "path": "1-2-1-1/data.csv",
@@ -1108,7 +1108,7 @@
           }
         ]
       },
-      "title": "Объем официальной помощи в целях развития, выделенной на водоснабжение и санитарию в рамках координируемой государственной программы расходов"
+      "title": "Объем официальной помощи в целях развития, выделенной на водоснабжение и санитарию в рамках координируемой государственной программы расходов, по национальным данным"
     },
     {
       "path": "9-4-1/data.csv",
@@ -1243,51 +1243,6 @@
         ]
       },
       "title": "Смертность от самоубийств"
-    },
-    {
-      "path": "15-a-1-1/data.csv",
-      "name": "15-a-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Расходы на борьбу с загрязнением окружающей среды",
-                "Расходы на природные заповедники и природные парки ",
-                "Расходы на охрану животных ",
-                "Расходы на охрану растений",
-                "Расходы на противоэпизоотические мероприятия",
-                "Расходы на ветеринарную диагностику",
-                "Расходы на химизацию, защиты и карантин растений",
-                "Расходы на прочие услуги по защите биоразнообразия и охране ландшафта",
-                "Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",
-                "Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",
-                "Расходы на другие услуги по охране окружающей среды",
-                ""
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Объем государственных средств, выделяемых на охрану окружающей среды"
     },
     {
       "path": "16-9-1/data.csv",
@@ -1976,7 +1931,7 @@
           }
         ]
       },
-      "title": "Proportion of water samples not complying with water quality standards"
+      "title": "Доля проб воды, не отвечающих гигиеническим нормативам по санитарно-химическим и микробиологическим показателям"
     },
     {
       "path": "2-1-2/data.csv",
@@ -2249,100 +2204,6 @@
         ]
       },
       "title": "Смертность от токсического действия окиси углерода на 100 000 населения"
-    },
-    {
-      "path": "16-1-3/data.csv",
-      "name": "16-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Баткенская область",
-                "Джалал-Абадская область",
-                "Иссык-Кульская область",
-                "Нарынская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош",
-                ""
-              ]
-            },
-            "title": "Территория"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "от 15 до 49 лет ",
-                "от 15 до 19 лет ",
-                "от 15 до 17 лет ",
-                "от 18 до 19 лет ",
-                "от 20 до 24 лет",
-                "от 25 до 29 лет",
-                "от 30 до 34 лет ",
-                "от 35 до 39 лет",
-                "от 40 до 44 лет ",
-                "от 45 до 49 лет ",
-                ""
-              ]
-            },
-            "title": "Возраст"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Городская",
-                "Сельская",
-                ""
-              ]
-            },
-            "title": "Тип местности"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Первый этап среднего образования",
-                "Второй этап среднего образования",
-                "Послесреднее нетретичное образование",
-                "Высшее образование (бакалавриат и магистратура или эквиваленты)",
-                ""
-              ]
-            },
-            "title": "Уровень образования"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля населения, в последние 12 месяцев подвергшегося a) физическому, b) психологическому и c) сексуальному насилию"
     },
     {
       "path": "4-2-2/data.csv",
@@ -3419,7 +3280,7 @@
           }
         ]
       },
-      "title": "Number of students enrolled in ICT programs within initial vocational, secondary vocational, and higher education"
+      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
     },
     {
       "path": "3-3-4/data.csv",
@@ -4244,7 +4105,7 @@
           }
         ]
       },
-      "title": "Proportion of children under six years receiving pre-primary education"
+      "title": "Доля детей в возрасте до шести лет, которые получают дошкольное образование"
     },
     {
       "path": "13-1-3/data.csv",
@@ -4424,6 +4285,51 @@
         ]
       },
       "title": "Доля пенсионеров по возрасту, получающих пенсии ниже ПМП"
+    },
+    {
+      "path": "15-a-1-1/data.csv",
+      "name": "15-a-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Расходы на борьбу с загрязнением окружающей среды",
+                "Расходы на природные заповедники и природные парки ",
+                "Расходы на охрану животных ",
+                "Расходы на охрану растений",
+                "Расходы на противоэпизоотические мероприятия",
+                "Расходы на ветеринарную диагностику",
+                "Расходы на химизацию, защиты и карантин растений",
+                "Расходы на прочие услуги по защите биоразнообразия и охране ландшафта",
+                "Расходы на научно-исследовательские и опытно-конструкторские  разработки, связанные с охраной окружающей среды ",
+                "Расходы на вопросы охраны окружающей среды, не отнесенные к другим категориям",
+                "Расходы на другие услуги по охране окружающей среды",
+                ""
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Объем государственных средств, выделяемых на охрану окружающей среды"
     },
     {
       "path": "16-1-1-1/data.csv",
@@ -5387,7 +5293,7 @@
           }
         ]
       },
-      "title": "Foreign direct investment inflows in energy infrastructure and technology upgrading"
+      "title": "Поступление прямых иностранных инвестиций, поступающих на цели расширения энергетической инфраструктуры и модернизации технологий"
     },
     {
       "path": "8-2-1/data.csv",
@@ -5440,7 +5346,7 @@
           }
         ]
       },
-      "title": "Number of women reporting to health services due to domestic violence"
+      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
     },
     {
       "path": "9-2-2/data.csv",
@@ -5994,7 +5900,7 @@
           }
         ]
       },
-      "title": "Financial indicators of insurance companies"
+      "title": "Финансовые показатели страховых компаний"
     },
     {
       "path": "17-1-2/data.csv",
@@ -6139,7 +6045,7 @@
           }
         ]
       },
-      "title": "Number of victims of domestic violence, by sex"
+      "title": "Число пострадавших от семейного насилия"
     },
     {
       "path": "2-4-1-1/data.csv",
@@ -6197,7 +6103,7 @@
           }
         ]
       },
-      "title": "Proportion of employed in small and medium-sized enterprises in total employment"
+      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
     },
     {
       "path": "1-b-1-1/data.csv",
@@ -6442,54 +6348,6 @@
       "title": "Стандартизированная по возрасту распространенность употребления табака лицами в возрасте 15 лет и старше"
     },
     {
-      "path": "1-3-1-a/data.csv",
-      "name": "1-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля населения, получающих ЕПМС/«үй-бүлөгө көмөк», социальные пособия и пенсии"
-    },
-    {
-      "path": "1-3-1-b/data.csv",
-      "name": "1-3-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population receiving social benefits as percentage of total population"
-    },
-    {
       "path": "6-4-1-1/data.csv",
       "name": "6-4-1-1",
       "profile": "tabular-data-resource",
@@ -6545,7 +6403,7 @@
           }
         ]
       },
-      "title": "Water losses during transport"
+      "title": "Потери воды при транспортировке"
     },
     {
       "path": "3-9-2/data.csv",
@@ -6907,7 +6765,7 @@
           }
         ]
       },
-      "title": "Primary education completion rate"
+      "title": "Уровень завершения начального образования"
     },
     {
       "path": "7-3-1-2/data.csv",
@@ -9152,30 +9010,6 @@
       "title": "Число стран, осуществляющих стратегии и планы действий по экологизации государственных закупок"
     },
     {
-      "path": "6-4-1-2/data.csv",
-      "name": "6-4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Потери воды при транспортировке"
-    },
-    {
       "path": "15-5-1/data.csv",
       "name": "15-5-1",
       "profile": "tabular-data-resource",
@@ -10088,30 +9922,6 @@
       "title": "Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов"
     },
     {
-      "path": "6-1-1-2b/data.csv",
-      "name": "6-1-1-2b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля проб воды, не отвечающих гигиеническим нормативам по санитарно-химическим и микробиологическим показателям"
-    },
-    {
       "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
@@ -10302,30 +10112,6 @@
         ]
       },
       "title": "Энергоемкость, рассчитываемая как отношение расхода первичной энергии к ВВП"
-    },
-    {
-      "path": "4-4-1-1a/data.csv",
-      "name": "4-4-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Численность студентов, обучающихся по направлению ИКТ в системе начального профессионального, среднего профессионального и высшего профессионального образования"
     },
     {
       "path": "15-9-1/data.csv",
@@ -10736,30 +10522,6 @@
       "title": "Доля  женщин и девочек в возрасте 15 лет и старше, подвергавшихся сексуальному насилию со стороны кого-либо, кроме интимных партнеров, в последние 12 месяцев, в разбивке по возрасту и месту происшествия"
     },
     {
-      "path": "4-2-2-1a/data.csv",
-      "name": "4-2-2-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля детей в возрасте до шести лет, которые получают дошкольное образование"
-    },
-    {
       "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
@@ -10782,6 +10544,30 @@
         ]
       },
       "title": "Доля коммерческих компаний, которые в предыдущие 12 месяцев хотя бы один раз имели контакт с государственным должностным лицом и которые заплатили взятку государственному должностному лицу или от которых это государственное должностное лицо требовало взятку"
+    },
+    {
+      "path": "16-1-3/data.csv",
+      "name": "16-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля населения, в последние 12 месяцев подвергшегося a) физическому, b) психологическому и c) сексуальному насилию"
     },
     {
       "path": "8-9-1/data.csv",
@@ -10856,30 +10642,6 @@
       "title": "Число стран с определяемыми на национальном уровне вкладами, долгосрочными стратегиями, национальными адаптационными планами, стратегиями в соответствии с информацией, которая предоставляется в сообщениях по вопросам адаптации и национальных сообщениях (с небольшими изменениями повторяется в приведенной далее предлагаемой замене показателя 13.b.1)"
     },
     {
-      "path": "8-3-1-2/data.csv",
-      "name": "8-3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля занятых в малых и средних предприятиях от всего занятого населения в экономике"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -10926,30 +10688,6 @@
         ]
       },
       "title": "Число стран, имеющих национальный план действий по переходу к рациональным моделям потребления и производства или включивших рациональное потребление и производство в качестве приоритета или задачи в национальную стратегию"
-    },
-    {
-      "path": "4-1-1-1b/data.csv",
-      "name": "4-1-1-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень завершения начального образования"
     },
     {
       "path": "11-1-1/data.csv",
@@ -11000,30 +10738,6 @@
       "title": "Число стран, сообщающих о прогрессе в деле применения механизмов контроля за эффективностью развития с участием многих заинтересованных сторон, которые служат подспорьем в достижении целей устойчивого развития"
     },
     {
-      "path": "5-2-1-1b/data.csv",
-      "name": "5-2-1-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число пострадавших от семейного насилия"
-    },
-    {
       "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
@@ -11070,30 +10784,6 @@
         ]
       },
       "title": "Объем официальной помощи в целях развития, выделенной на водоснабжение и санитарию в рамках координируемой государственной программы расходов"
-    },
-    {
-      "path": "8-10-2-2/data.csv",
-      "name": "8-10-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Финансовые показатели страховых компаний"
     },
     {
       "path": "6-5-2/data.csv",
@@ -11454,30 +11144,6 @@
         ]
       },
       "title": "Число компаний, публикующих отчеты о рациональном использовании ресурсов"
-    },
-    {
-      "path": "7-b-1-1a/data.csv",
-      "name": "7-b-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Поступление прямых иностранных инвестиций на цели расширения энергетической инфраструктуры и модернизации технологий к общему объему, поступивших прямых иностранных инвестиции"
     },
     {
       "path": "8-3-1/data.csv",
@@ -12656,30 +12322,6 @@
       "title": "Наличие независимых национальных правозащитных институтов, действующих в соответствии с Парижскими принципами"
     },
     {
-      "path": "5-2-1-1a/data.csv",
-      "name": "5-2-1-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число женщин, обратившихся в органы здравоохранения от семейного насилия"
-    },
-    {
       "path": "7-b-1/data.csv",
       "name": "7-b-1",
       "profile": "tabular-data-resource",
@@ -12848,8 +12490,8 @@
       "title": "Объем обязательств и выплат в рамках инициативы «Помощь в торговле»"
     },
     {
-      "path": "2-1-1-1e/data.csv",
-      "name": "2-1-1-1e",
+      "path": "1-3-1-a/data.csv",
+      "name": "1-3-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12869,11 +12511,11 @@
           }
         ]
       },
-      "title": "2-1-1-1e"
+      "title": "Доля населения, получающих ЕПМС/«үй-бүлөгө көмөк», социальные пособия и пенсии"
     },
     {
-      "path": "4-1-1-1a/data.csv",
-      "name": "4-1-1-1a",
+      "path": "15-c-1-1/data.csv",
+      "name": "15-c-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12893,11 +12535,11 @@
           }
         ]
       },
-      "title": "4-1-1-1a"
+      "title": "15-c-1-1"
     },
     {
-      "path": "2-c-1-1b/data.csv",
-      "name": "2-c-1-1b",
+      "path": "3-2-2-1/data.csv",
+      "name": "3-2-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12917,11 +12559,11 @@
           }
         ]
       },
-      "title": "2-c-1-1b"
+      "title": "3-2-2-1"
     },
     {
-      "path": "15-b-1-1/data.csv",
-      "name": "15-b-1-1",
+      "path": "1-3-1-а/data.csv",
+      "name": "1-3-1-а",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12941,11 +12583,11 @@
           }
         ]
       },
-      "title": "15-b-1-1"
+      "title": "1-3-1-а"
     },
     {
-      "path": "17-3-1-1a/data.csv",
-      "name": "17-3-1-1a",
+      "path": "8-5-2-2/data.csv",
+      "name": "8-5-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12965,7 +12607,223 @@
           }
         ]
       },
-      "title": "17-3-1-1a"
+      "title": "8-5-2-2"
+    },
+    {
+      "path": "16-1-3-1/data.csv",
+      "name": "16-1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1-3-1"
+    },
+    {
+      "path": "4-1-2-а/data.csv",
+      "name": "4-1-2-а",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-1-2-а"
+    },
+    {
+      "path": "8-1-1-2/data.csv",
+      "name": "8-1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-1-1-2"
+    },
+    {
+      "path": "11-3-1-а/data.csv",
+      "name": "11-3-1-а",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "11-3-1-а"
+    },
+    {
+      "path": "4-c-1-1/data.csv",
+      "name": "4-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-c-1-1"
+    },
+    {
+      "path": "8-3-4-1/data.csv",
+      "name": "8-3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-3-4-1"
+    },
+    {
+      "path": "8-1-1-1/data.csv",
+      "name": "8-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-1-1-1"
+    },
+    {
+      "path": "3-4-1-а/data.csv",
+      "name": "3-4-1-а",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-4-1-а"
+    },
+    {
+      "path": "8-10-2-а/data.csv",
+      "name": "8-10-2-а",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-10-2-а"
     }
   ]
 }
