@@ -553,7 +553,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-3-title"
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
       "path": "16-6-1/data.csv",
@@ -9914,6 +9914,28 @@
         ]
       },
       "title": "global_indicators.1-5-3-title"
+    },
+    {
+      "path": "2-2-3-1/data.csv",
+      "name": "2-2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-3-title"
     },
     {
       "path": "6-a-1/data.csv",
