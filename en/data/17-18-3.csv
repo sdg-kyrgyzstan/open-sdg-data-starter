@@ -1,1 +1,31 @@
-Year,Value
+Year,Nature of data points,Observation-level footnotes,SERIES,Value
+2019,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),1
+2020,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),1
+2021,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),1
+2022,Not Available,Data not available,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),NaN
+2023,Not Available,Data not available,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),NaN
+2024,Not Available,Data not available,Countries with national statistical plans with funding from donors (1 = YES; 0 = NO),NaN
+2019,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),1
+2020,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),1
+2021,Country Adjusted,Observation value represents the number of countries with national statistical plans with funding from donors,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),1
+2022,Not Available,Data not available,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),NaN
+2023,Not Available,Data not available,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),NaN
+2024,Not Available,Data not available,Countries with national statistical plans with funding from Government (1 = YES; 0 = NO),NaN
+2019,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2020,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2021,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2022,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2023,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2024,Not Available,Data not available,Countries with national statistical plans with funding from others (1 = YES; 0 = NO),NaN
+2019,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2020,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2021,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2022,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2023,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2024,Country Adjusted,Observation value represents the number of countries with national statistical plans that are fully funded,Countries with national statistical plans that are fully funded (1 = YES; 0 = NO),1
+2019,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
+2020,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
+2021,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
+2022,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
+2023,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
+2024,Country Adjusted,Observation value represents the number of countries with national statistical plans that are under implementation,Countries with national statistical plans that are under implementation (1 = YES; 0 = NO),1
