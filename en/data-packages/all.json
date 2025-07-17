@@ -5335,6 +5335,92 @@
       "title": "Поступление прямых иностранных инвестиций, поступающих на цели расширения энергетической инфраструктуры и модернизации технологий"
     },
     {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                "15 to 49 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: ICT Skill: Copying or moving a file or folder",
+                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
+                "Skill: ICT Skill: Sending e-mails with attached files",
+                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
+                "Skill: ICT Skill: connecting and installing new devices",
+                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
+                "Skill: ICT Skill: Creating electronic presentations with presentation software",
+                "Skill: ICT Skill: Transferring files between a computer and other devices",
+                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Показатель",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Процентная доля женщин в возрасте 15-49 лет, в последние 3 месяца выполнявших указанные действия с компьютером",
+                "Процентная доля женщин в возрасте 15-24 лет, в последние 3 месяца выполнявших указанные действия с компьютером",
+                ""
+              ]
+            },
+            "title": "Показатель"
+          },
+          {
+            "name": "Навык",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "копировали или перемещали файл или папку",
+                "пользовались функцией копирование - вставка для копирования или перемещения информации внутри документа",
+                "отправляли электронное письмо с вложенным файлом, например, с документом, изображением или видео",
+                "пользовались базовой арифметической формулой в электронной таблице",
+                "подключали и устанавливали новое устройство, например, модем, камеру или принтер",
+                "отыскивали, загружали, устанавливали и настраивали программное обеспечение",
+                "создавали электронную презентацию при помощи программы для создания презентаций, включающую в себя текст, изображения, аудио, видео или графики",
+                "переносили файл между компьютером и другим устройством",
+                "писали компьютерную программу на каком-нибудь языке программирования",
+                ""
+              ]
+            },
+            "title": "Навык"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -8703,61 +8789,6 @@
         ]
       },
       "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Показатель",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Процентная доля женщин в возрасте 15-49 лет, в последние 3 месяца выполнявших указанные действия с компьютером",
-                "Процентная доля женщин в возрасте 15-24 лет, в последние 3 месяца выполнявших указанные действия с компьютером",
-                ""
-              ]
-            },
-            "title": "Показатель"
-          },
-          {
-            "name": "Навык",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "копировали или перемещали файл или папку",
-                "пользовались функцией копирование - вставка для копирования или перемещения информации внутри документа",
-                "отправляли электронное письмо с вложенным файлом, например, с документом, изображением или видео",
-                "пользовались базовой арифметической формулой в электронной таблице",
-                "подключали и устанавливали новое устройство, например, модем, камеру или принтер",
-                "отыскивали, загружали, устанавливали и настраивали программное обеспечение",
-                "создавали электронную презентацию при помощи программы для создания презентаций, включающую в себя текст, изображения, аудио, видео или графики",
-                "переносили файл между компьютером и другим устройством",
-                "писали компьютерную программу на каком-нибудь языке программирования",
-                ""
-              ]
-            },
-            "title": "Навык"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "10-7-2/data.csv",

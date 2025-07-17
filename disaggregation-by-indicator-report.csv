@@ -83,7 +83,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2-1,"SEX, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",4
 #4-2-2-1,"URBANISATION, REF_AREA",2
 #4-3-1-1,"SEX, AGE, EDUCATION_LEV",3
-#4-4-1,"Показатель, Навык",2
+#4-4-1,"COMPOSITE_BREAKDOWN, AGE, Показатель, Навык",4
 #4-4-1-1,"SEX, EDUCATION_LEV",2
 #4-b-1-1,COMPOSITE_BREAKDOWN,1
 #4-c-1,COMPOSITE_BREAKDOWN,1

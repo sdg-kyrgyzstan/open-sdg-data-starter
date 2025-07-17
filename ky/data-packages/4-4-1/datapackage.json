@@ -16,6 +16,37 @@
             "title": "Жыл"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                "Y15T49",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_ICTCMFL",
+                "SKILL_ICTCPT",
+                "SKILL_ICTATCH",
+                "SKILL_ICTSSHT",
+                "SKILL_ICTCDV",
+                "SKILL_ICTSFWR",
+                "SKILL_ICTPST",
+                "SKILL_ICTTRFF",
+                "SKILL_ICTPRGM",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Показатель",
             "type": "string",
             "constraints": {
