@@ -1,1 +1,37 @@
-Year,Value
+Year,COMMENT_OBS,SERIES,Value
+2006,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,82.7481
+2007,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,146.108
+2008,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,81.8271
+2009,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,140.606
+2010,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,171.132
+2011,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,221.873
+2012,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,175.972
+2013,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,149.658
+2014,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,300.499
+2015,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,288.534
+2016,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,355.42
+2017,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,194.508
+2018,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,269.007
+2019,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,391.454
+2020,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,178.699
+2021,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,187.387
+2022,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,259.717
+2023,"Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDCML,242.927
+2006,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,71.9639
+2007,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,56.0376
+2008,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,56.4075
+2009,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,64.8419
+2010,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,84.3848
+2011,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,128.595
+2012,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,131.313
+2013,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,158.231
+2014,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,151.809
+2015,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,175.128
+2016,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,133.831
+2017,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,149.043
+2018,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,131.515
+2019,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,176.598
+2020,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,115.599
+2021,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,177.216
+2022,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,212.956
+2023,"Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",DC_TOF_TRDDBML,239.716
