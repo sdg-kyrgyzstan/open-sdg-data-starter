@@ -1,19 +1,3 @@
-Year,Nature of data points,SERIES,DATA_LAST_UPDATE,Value
-2016,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,60.65
-2017,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,58.65
-2018,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,60.575
-2019,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,60.575
-2020,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,56.38333
-2021,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,64.71667
-2022,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,70.78333
-2023,Global monitoring data,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],2025-05-19T00:00:00,66.61667
-2016,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,85.0
-2017,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,85.0
-2018,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,70.0
-2019,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,85.0
-2020,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,85.0
-2021,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,80.0
-2022,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,80.0
-2023,Global monitoring data,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],2025-05-19T00:00:00,85.0
-2022,Estimated,Open Data Inventory (ODIN) Coverage Index [17.18.1],2025-04-29T00:00:00,60.1
-2024,Estimated,Open Data Inventory (ODIN) Coverage Index [17.18.1],2025-04-29T00:00:00,66.6
+Year,Value
+2018,46
+2019,54

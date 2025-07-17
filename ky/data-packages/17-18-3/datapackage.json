@@ -12,43 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Жыл"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CA",
-                "_X",
-                ""
-              ]
-            },
-            "title": "NATURE"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Observation value represents the number of countries with national statistical plans with funding from donors",
-                "Data not available",
-                "Observation value represents the number of countries with national statistical plans that are fully funded",
-                "Observation value represents the number of countries with national statistical plans that are under implementation",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

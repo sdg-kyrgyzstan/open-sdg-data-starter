@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "International Organisation: Asian Development Bank",
-                "International Organisation: UN Economic and Social Council",
-                "International Organisation: International Bank for Reconstruction and Development",
-                "International Organisation: International Finance Corporation",
-                "International Organisation: International Monetary Fund",
-                "International Organisation: UN General Assembly",
-                "International Organisation: World Trade Organisation",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
           },
           {
             "name": "Value",

@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
-                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

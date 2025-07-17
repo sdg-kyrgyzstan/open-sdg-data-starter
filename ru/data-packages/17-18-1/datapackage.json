@@ -16,30 +16,8 @@
             "title": "Год"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Данные на основе глобального мониторинга",
-                "Оценочные данные",
-                ""
-              ]
-            },
-            "title": "Характер данных"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "Дата последних изменений"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

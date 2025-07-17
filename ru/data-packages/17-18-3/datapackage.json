@@ -12,43 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Год"
           },
           {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Данные скорректированы страной",
-                "Данные отсутствуют",
-                ""
-              ]
-            },
-            "title": "Характер данных"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Observation value represents the number of countries with national statistical plans with funding from donors",
-                "Data not available",
-                "Observation value represents the number of countries with national statistical plans that are fully funded",
-                "Observation value represents the number of countries with national statistical plans that are under implementation",
-                ""
-              ]
-            },
-            "title": "Сноски на уровне наблюдения"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
