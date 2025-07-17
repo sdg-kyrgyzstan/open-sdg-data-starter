@@ -16,6 +16,22 @@
             "title": "Жыл"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_1",
+                "PD_2",
+                "PD_3",
+                "PD_4",
+                "PD_5",
+                "PD_6",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
             "name": "Политика доменов",
             "type": "string",
             "constraints": {

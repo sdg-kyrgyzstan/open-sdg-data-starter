@@ -396,6 +396,28 @@
       "title": "global_indicators.3-7-1-title"
     },
     {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.10-b-1-title"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -1421,6 +1443,89 @@
         ]
       },
       "title": "Доля детей в возрасте от 1 года до 14 лет, в последний месяц подвергшихся любому физическому наказанию и/или психологической агрессии со стороны тех, кто обеспечивает уход за ними"
+    },
+    {
+      "path": "3-d-1/data.csv",
+      "name": "3-d-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "From 2010 – 2017, States Parties used the IHR monitoring questionnaire. The report is available in the e-SPAR platform (https://extranet.who.int/e-spar/ ).",
+                "In 2021, the SPAR tool was revised and further improved, taking account of the initial experience of countries with the COVID-19 pandemic. The second edition of SPAR (2021) contains 15 capacities and 35 indicators compared to 13 capacities and 24 indicators in the first edition.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IHR_01",
+                "IHR_02",
+                "IHR_03",
+                "IHR_04",
+                "IHR_05",
+                "IHR_06",
+                "IHR_07",
+                "IHR_08",
+                "IHR_09",
+                "IHR_10",
+                "IHR_11",
+                "IHR_12",
+                "IHR_13",
+                "SPAR_01",
+                "SPAR_02",
+                "SPAR_03",
+                "SPAR_04",
+                "SPAR_05",
+                "SPAR_06",
+                "SPAR_07",
+                "SPAR_08",
+                "SPAR_09",
+                "SPAR_10",
+                "SPAR_11",
+                "SPAR_12",
+                "SPAR_13",
+                "SPAR2_C01",
+                "SPAR2_C02",
+                "SPAR2_C03",
+                "SPAR2_C04",
+                "SPAR2_C05",
+                "SPAR2_C06",
+                "SPAR2_C07",
+                "SPAR2_C08",
+                "SPAR2_C09",
+                "SPAR2_C10",
+                "SPAR2_C11",
+                "SPAR2_C12",
+                "SPAR2_C13",
+                "SPAR2_C14",
+                "SPAR2_C15",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.3-d-1-title"
     },
     {
       "path": "8-7-1/data.csv",
@@ -2807,6 +2912,59 @@
       "title": "Уровень официально зарегистрированных безработных"
     },
     {
+      "path": "10-7-2/data.csv",
+      "name": "10-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_1",
+                "PD_2",
+                "PD_3",
+                "PD_4",
+                "PD_5",
+                "PD_6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Политика доменов",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Общий",
+                "Домен 1. Права мигрантов",
+                "Домен 2. Общегосударственная/ основанная на фактических данных политика",
+                "Домен 3. Сотрудничество и партнерство",
+                "Домен 4. Социально-экономическое благополучие",
+                "Домен 5. Оперативность измерения кризисов",
+                "Домен 6. Безопасная, упорядоченная и регулярная миграция",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.10-7-2-title"
+    },
+    {
       "path": "3-5-2-1/data.csv",
       "name": "3-5-2-1",
       "profile": "tabular-data-resource",
@@ -4168,6 +4326,39 @@
       "title": "Отношение объема импорта продукции сельского хозяйства к объему производства в республике"
     },
     {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.6-a-1-title"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -4871,6 +5062,39 @@
       "title": "global_indicators.6-2-1-title"
     },
     {
+      "path": "9-a-1/data.csv",
+      "name": "9-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.9-a-1-title"
+    },
+    {
       "path": "17-3-1-1/data.csv",
       "name": "17-3-1-1",
       "profile": "tabular-data-resource",
@@ -5219,6 +5443,48 @@
         ]
       },
       "title": "global_indicators.1-3-1-title"
+    },
+    {
+      "path": "16-8-1/data.csv",
+      "name": "16-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IO_ADB",
+                "IO_ECOSOC",
+                "IO_IBRD",
+                "IO_IFC",
+                "IO_IMF",
+                "IO_UNGA",
+                "IO_WTO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-8-1-title"
     },
     {
       "path": "7-1-1/data.csv",
@@ -6760,6 +7026,28 @@
       "title": "global_indicators.2-a-2-title"
     },
     {
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-b-1-title"
+    },
+    {
       "path": "15-5-1-1/data.csv",
       "name": "15-5-1-1",
       "profile": "tabular-data-resource",
@@ -6795,6 +7083,43 @@
         ]
       },
       "title": "Доля краснокнижных видов от всех видов соответствующих систематических групп (классов)"
+    },
+    {
+      "path": "8-a-1/data.csv",
+      "name": "8-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.8-a-1-title"
     },
     {
       "path": "4-b-1-1/data.csv",
@@ -7524,6 +7849,28 @@
       "title": "global_indicators.8-10-1-title"
     },
     {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the population who are refugees, by country of origin"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -8169,44 +8516,6 @@
       "title": "global_indicators.4-1-1-title"
     },
     {
-      "path": "10-7-2/data.csv",
-      "name": "10-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Политика доменов",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Общий",
-                "Домен 1. Права мигрантов",
-                "Домен 2. Общегосударственная/ основанная на фактических данных политика",
-                "Домен 3. Сотрудничество и партнерство",
-                "Домен 4. Социально-экономическое благополучие",
-                "Домен 5. Оперативность измерения кризисов",
-                "Домен 6. Безопасная, упорядоченная и регулярная миграция",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.10-7-2-title"
-    },
-    {
       "path": "11-5-1/data.csv",
       "name": "11-5-1",
       "profile": "tabular-data-resource",
@@ -8501,28 +8810,6 @@
       "title": "global_indicators.15-5-1-title"
     },
     {
-      "path": "16-8-1/data.csv",
-      "name": "16-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-8-1-title"
-    },
-    {
       "path": "3-3-5/data.csv",
       "name": "3-3-5",
       "profile": "tabular-data-resource",
@@ -8697,28 +8984,6 @@
         ]
       },
       "title": "global_indicators.17-3-1-title"
-    },
-    {
-      "path": "3-d-1/data.csv",
-      "name": "3-d-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-d-1-title"
     },
     {
       "path": "12-a-1/data.csv",
@@ -9205,28 +9470,6 @@
       "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
     },
     {
-      "path": "4-b-1/data.csv",
-      "name": "4-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-b-1-title"
-    },
-    {
       "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
@@ -9667,28 +9910,6 @@
       "title": "global_indicators.8-8-2-title"
     },
     {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-b-1-title"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -10039,28 +10260,6 @@
         ]
       },
       "title": "global_indicators.1-5-3-title"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-a-1-title"
     },
     {
       "path": "6-5-2/data.csv",
@@ -11009,28 +11208,6 @@
       "title": "global_indicators.3-8-2-title"
     },
     {
-      "path": "9-a-1/data.csv",
-      "name": "9-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.9-a-1-title"
-    },
-    {
       "path": "16-7-2/data.csv",
       "name": "16-7-2",
       "profile": "tabular-data-resource",
@@ -11535,28 +11712,6 @@
         ]
       },
       "title": "global_indicators.4-6-1-title"
-    },
-    {
-      "path": "8-a-1/data.csv",
-      "name": "8-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.8-a-1-title"
     },
     {
       "path": "3-2-2-1/data.csv",

@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-1-1,INCOME_WEALTH_QUANTILE,1
 #10-2-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE",5
 #10-3-1,"Территория, Местность, Квинтиль благосостояния, Возраст, Образование, Функциональные трудности (возраст: 18-49лет)",6
-#10-7-2,Политика доменов,1
+#10-7-2,"COMPOSITE_BREAKDOWN, Политика доменов",2
 #11-2-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #11-5-1,"Территория, Пол",2
 #11-5-2,REF_AREA,1
@@ -76,6 +76,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-a-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #3-b-1,REF_AREA,1
 #3-c-1,"SEX, REF_AREA",2
+#3-d-1,COMPOSITE_BREAKDOWN,1
 #4-1-1,"Показатель, Территория, Местность, Возраст, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния, Функциональные трудности у ребенка",8
 #4-1-1-a,"COMPOSITE_BREAKDOWN, SEX",2
 #4-1-2,"Показатель, Территория, Местность, Пол, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния",7
