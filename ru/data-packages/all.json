@@ -952,8 +952,8 @@
       "title": "Доля населения, пользующегося Интернетом"
     },
     {
-      "path": "2-c-1-1/data.csv",
-      "name": "2-c-1-1",
+      "path": "2-с-1-1/data.csv",
+      "name": "2-с-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -997,7 +997,7 @@
           }
         ]
       },
-      "title": "Индекс потребительских цен на продовольственные товары"
+      "title": "Consumer price index for food products"
     },
     {
       "path": "3-4-1/data.csv",
@@ -2813,8 +2813,8 @@
       "title": "Доля населения, живущего за международной чертой бедности, в разбивке по полу, возрасту, статусу занятости и месту проживания (городское/сельское)"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2847,7 +2847,7 @@
           }
         ]
       },
-      "title": "Число стационарных абонентов широкополосного Интернета в разбивке по скорости"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "11-7-1-a/data.csv",
@@ -11456,6 +11456,30 @@
       "title": "Стоимость перевода в процентном отношении\nк переводимой сумме\n"
     },
     {
+      "path": "2-c-1-1/data.csv",
+      "name": "2-c-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс потребительских цен на продовольственные товары"
+    },
+    {
       "path": "17-7-1/data.csv",
       "name": "17-7-1",
       "profile": "tabular-data-resource",
@@ -11886,6 +11910,30 @@
         ]
       },
       "title": "Доля населения с большим удельным весом семейных расходов на медицинскую помощь в общем объеме расходов или доходов домохозяйств"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число стационарных абонентов широкополосного Интернета в разбивке по скорости"
     },
     {
       "path": "9-a-1/data.csv",

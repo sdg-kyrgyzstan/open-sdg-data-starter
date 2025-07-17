@@ -12,25 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Год"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Скорость интернета: от 256 кбит / с до менее 2 Мбит / с",
-                "Скорость интернета: от 2 Мбит / с до менее 10 Мбит / с",
-                "Скорость интернета: 10 Мбит / с или выше",
-                ""
-              ]
-            },
-            "title": "Составная разбивка"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
