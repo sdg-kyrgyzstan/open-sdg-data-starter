@@ -12,8 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Жыл"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Net disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "Value",

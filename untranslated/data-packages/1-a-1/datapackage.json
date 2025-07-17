@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Current USD million, As percentage of GNI",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Current USD million, As percentage of GNI",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

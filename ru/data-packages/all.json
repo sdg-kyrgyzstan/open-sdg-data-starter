@@ -1000,6 +1000,48 @@
       "title": "Consumer price index for food products"
     },
     {
+      "path": "3-b-2/data.csv",
+      "name": "3-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Net disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Общий чистый объем официальной помощи в целях развития, направленной на медицинские исследования и в основные отрасли здравоохранения"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -3076,6 +3118,42 @@
         ]
       },
       "title": "Заболеваемость алкогольной зависимостью на 100 000 населения"
+    },
+    {
+      "path": "1-a-1/data.csv",
+      "name": "1-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Current USD million, As percentage of GNI",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Current USD million, As percentage of GNI",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Суммарный объем субсидий на официальную помощь в целях развития, полученных от всех доноров и направляемых на искоренение нищеты, в качестве доли от валового национального дохода страны-получателя"
     },
     {
       "path": "15-4-1/data.csv",
@@ -7258,6 +7336,42 @@
       "title": "Площадь ООПТ от всей площади страны"
     },
     {
+      "path": "2-a-2/data.csv",
+      "name": "2-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                "Gross disbursements, Based on OECD, CRS database, 2025, Constant 2023 USD million",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Совокупный приток официальных средств (официальная помощь в целях развития плюс прочие потоки официальных средств) в сельское хозяйство"
+    },
+    {
       "path": "15-5-1-1/data.csv",
       "name": "15-5-1-1",
       "profile": "tabular-data-resource",
@@ -9728,30 +9842,6 @@
       "title": "Число стран, имеющих полностью обеспеченный финансовыми ресурсами и осуществляющийся национальный статистический план, в разбивке по источникам финансирования"
     },
     {
-      "path": "2-a-2/data.csv",
-      "name": "2-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Совокупный приток официальных средств (официальная помощь в целях развития плюс прочие потоки официальных средств) в сельское хозяйство"
-    },
-    {
       "path": "8-4-1/data.csv",
       "name": "8-4-1",
       "profile": "tabular-data-resource",
@@ -10302,30 +10392,6 @@
         ]
       },
       "title": "Доля местных пород, относимых к категории находящихся под угрозой исчезновения"
-    },
-    {
-      "path": "1-a-1/data.csv",
-      "name": "1-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Суммарный объем субсидий на официальную помощь в целях развития, полученных от всех доноров и направляемых на искоренение нищеты, в качестве доли от валового национального дохода страны-получателя"
     },
     {
       "path": "14-2-1/data.csv",
@@ -12078,30 +12144,6 @@
         ]
       },
       "title": "Доля женщин в возрасте от 15 до 49 лет, самостоятельно принимающих обдуманные решения о сексуальных отношениях, применении противозачаточных средств и обращении за услугами по охране репродуктивного здоровья"
-    },
-    {
-      "path": "3-b-2/data.csv",
-      "name": "3-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Общий чистый объем официальной помощи в целях развития, направленной на медицинские исследования и в основные отрасли здравоохранения"
     },
     {
       "path": "12-4-1/data.csv",
