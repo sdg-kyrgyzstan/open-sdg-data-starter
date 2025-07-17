@@ -44,15 +44,15 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2021,Area of unused arable land,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",1.0
 2022,Area of unused arable land,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.7
 2023,Area of unused arable land,"Cause of non-use: Prone to natural disasters (landslides, mudslides)",0.432
-2015,Area of unused arable land,Cause of non-use: Economic inexpediency,44.4
-2016,Area of unused arable land,Cause of non-use: Economic inexpediency,40.2
-2017,Area of unused arable land,Cause of non-use: Economic inexpediency,36.5
-2018,Area of unused arable land,Cause of non-use: Economic inexpediency,31.5
-2019,Area of unused arable land,Cause of non-use: Economic inexpediency,31.7
-2020,Area of unused arable land,Cause of non-use: Economic inexpediency,27.2
-2021,Area of unused arable land,Cause of non-use: Economic inexpediency,26.2
-2022,Area of unused arable land,Cause of non-use: Economic inexpediency,22.0
-2023,Area of unused arable land,Cause of non-use: Economic inexpediency,20.196
+2015,Area of unused arable land,_L_CSE_ECON_INEX,44.4
+2016,Area of unused arable land,_L_CSE_ECON_INEX,40.2
+2017,Area of unused arable land,_L_CSE_ECON_INEX,36.5
+2018,Area of unused arable land,_L_CSE_ECON_INEX,31.5
+2019,Area of unused arable land,_L_CSE_ECON_INEX,31.7
+2020,Area of unused arable land,_L_CSE_ECON_INEX,27.2
+2021,Area of unused arable land,_L_CSE_ECON_INEX,26.2
+2022,Area of unused arable land,_L_CSE_ECON_INEX,22.0
+2023,Area of unused arable land,_L_CSE_ECON_INEX,20.196
 2015,Area of unused arable land,Cause of non-use: Remoteness and stony,16.5
 2016,Area of unused arable land,Cause of non-use: Remoteness and stony,15.1
 2017,Area of unused arable land,Cause of non-use: Remoteness and stony,13.7
