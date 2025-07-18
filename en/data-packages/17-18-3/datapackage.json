@@ -12,12 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Adjusted",
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Observation value represents the number of countries with national statistical plans with funding from donors",
+                "Data not available",
+                "Observation value represents the number of countries with national statistical plans that are fully funded",
+                "Observation value represents the number of countries with national statistical plans that are under implementation",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

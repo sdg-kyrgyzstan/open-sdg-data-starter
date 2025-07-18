@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Нормальное значение",
+                "Оценочное значение",
+                ""
+              ]
+            },
+            "title": "Статус наблюдения"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Данные скорректированы страной",
+                "Оценочные данные",
+                ""
+              ]
+            },
+            "title": "Характер данных"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
           },
           {
             "name": "Value",

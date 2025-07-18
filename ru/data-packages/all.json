@@ -452,6 +452,61 @@
       "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-получателям и странам-донорам и видам потоков (например, официальная помощь в целях развития, прямые иностранные инвестиции и прочие финансовые потоки)"
     },
     {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Данные скорректированы страной",
+                "Данные отсутствуют",
+                ""
+              ]
+            },
+            "title": "Характер данных"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Observation value represents the number of countries with national statistical plans with funding from donors",
+                "Data not available",
+                "Observation value represents the number of countries with national statistical plans that are fully funded",
+                "Observation value represents the number of countries with national statistical plans that are under implementation",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Число стран, имеющих полностью обеспеченный финансовыми ресурсами и осуществляющийся национальный статистический план, в разбивке по источникам финансирования"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -1138,6 +1193,52 @@
         ]
       },
       "title": "Смертность от сердечно-сосудистых заболеваний, рака, диабета, хронических респираторных заболеваний"
+    },
+    {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Value \"1\" represents country's birth registration data are at least 90 per cent complete. \"0\" represents country's birth registration data are less than 90 per cent complete.",
+                "Value \"1\" represents country's death registration data are at least 75 per cent complete. \"0\" represents country's death registration data are less than 75 per cent complete.",
+                ""
+              ]
+            },
+            "title": "Сноски на уровне наблюдения"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Дата последних изменений"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля стран, которые a) провели хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет; и b) достигли цели регистрации рождений в 100 процентах случаев и регистрации смерти в 80 процентах случаев"
     },
     {
       "path": "6-a-1-1/data.csv",
@@ -3099,6 +3200,30 @@
       "title": "Площадь зеленых насаждений и массивов в населенных пунктах в расчете на 1000 человек"
     },
     {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Стоимость  всех ресурсов, выделенных на наращивание потенциала развивающихся стран в области статистики (в долларах США)"
+    },
+    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -4522,6 +4647,59 @@
       "title": "Доля детей в возрасте до шести лет, которые получают дошкольное образование"
     },
     {
+      "path": "17-11-1/data.csv",
+      "name": "17-11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Нормальное значение",
+                "Оценочное значение",
+                ""
+              ]
+            },
+            "title": "Статус наблюдения"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Данные скорректированы страной",
+                "Оценочные данные",
+                ""
+              ]
+            },
+            "title": "Характер данных"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля развивающихся стран и наименее развитых стран в мировом экспорте"
+    },
+    {
       "path": "13-1-3/data.csv",
       "name": "13-1-3",
       "profile": "tabular-data-resource",
@@ -5350,8 +5528,30 @@
             "title": "Год"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Данные на основе глобального мониторинга",
+                "Оценочные данные",
+                ""
+              ]
+            },
+            "title": "Характер данных"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "Ряды ЦУР"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Дата последних изменений"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -9813,54 +10013,6 @@
       "title": "Доля  лиц, задерживаемых до вынесения приговора, в общей численности заключенных"
     },
     {
-      "path": "17-19-1/data.csv",
-      "name": "17-19-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Стоимость  всех ресурсов, выделенных на наращивание потенциала развивающихся стран в области статистики (в долларах США)"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля стран, которые a) провели хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет; и b) достигли цели регистрации рождений в 100 процентах случаев и регистрации смерти в 80 процентах случаев"
-    },
-    {
       "path": "10-6-1/data.csv",
       "name": "10-6-1",
       "profile": "tabular-data-resource",
@@ -10269,30 +10421,6 @@
       "title": "Степень соблюдения международно-правовых документов по борьбе с незаконным, несообщаемым и нерегулируемым рыбным промыслом"
     },
     {
-      "path": "17-18-3/data.csv",
-      "name": "17-18-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Число стран, имеющих полностью обеспеченный финансовыми ресурсами и осуществляющийся национальный статистический план, в разбивке по источникам финансирования"
-    },
-    {
       "path": "8-4-1/data.csv",
       "name": "8-4-1",
       "profile": "tabular-data-resource",
@@ -10507,30 +10635,6 @@
         ]
       },
       "title": "Средняя кислотность (pH) морской воды, измеряемая в согласованной группе репрезентативных станций отбора проб"
-    },
-    {
-      "path": "17-11-1/data.csv",
-      "name": "17-11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля развивающихся стран и наименее развитых стран в мировом экспорте"
     },
     {
       "path": "15-8-1/data.csv",
