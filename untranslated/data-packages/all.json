@@ -9448,6 +9448,28 @@
       "title": "global_indicators.8-9-2-title"
     },
     {
+      "path": "3-4-1-a/data.csv",
+      "name": "3-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Ожидаемая продолжительность жизни в 15 лет, 45 лет, 65 лет"
+    },
+    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -11888,28 +11910,6 @@
         ]
       },
       "title": "global_indicators.4-6-1-title"
-    },
-    {
-      "path": "3-4-1-a/data.csv",
-      "name": "3-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-4-1-a"
     },
     {
       "path": "8-5-2-2/data.csv",
