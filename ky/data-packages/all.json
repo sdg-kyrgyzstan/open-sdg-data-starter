@@ -428,6 +428,30 @@
       "title": "Репродуктивдүү курактагы (15–49 жаштагы) үй-бүлөлүк пландаштырууга муктаж болгон аялдардын үлүшү заманбап ыкмаларга канааттандырылган"
     },
     {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Иштеп чыгуу үчүн ресурстардын жалпы агымы, алуучу жана донор өлкөлөр жана агымдын түрү боюнча (мисалы, өнүктүрүүгө расмий жардам, түздөн-түз чет өлкөлүк инвестициялар жана башка агымдар)"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -1885,6 +1909,30 @@
       "title": "Ички жана өнөр жай сарқынды суу агымдарынын үлүшү коопсуз тазаланат"
     },
     {
+      "path": "15-a-1/data.csv",
+      "name": "15-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(а) Биотүрдүүлүктү сактоо жана туруктуу пайдалануу боюнча өнүктүрүүгө расмий жардам; жана (б) биотүрдүүлүккө тиешелүү экономикалык инструменттерден алынган жана каржыланган кирешелер"
+    },
+    {
       "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
@@ -3147,6 +3195,63 @@
       "title": "Уровень официально зарегистрированных безработных"
     },
     {
+      "path": "10-7-2/data.csv",
+      "name": "10-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_1",
+                "PD_2",
+                "PD_3",
+                "PD_4",
+                "PD_5",
+                "PD_6",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Политика доменов",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Общий",
+                "Домен 1. Права мигрантов",
+                "Домен 2. Общегосударственная/ основанная на фактических данных политика",
+                "Домен 3. Сотрудничество и партнерство",
+                "Домен 4. Социально-экономическое благополучие",
+                "Домен 5. Оперативность измерения кризисов",
+                "Домен 6. Безопасная, упорядоченная и регулярная миграция",
+                ""
+              ]
+            },
+            "title": "Политика доменов"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Адамдардын тартиптүү, коопсуз, үзгүлтүксүз жана жоопкерчиликтүү миграциясына жана мобилдүүлүгүнө өбөлгө түзө турган миграциялык саясаты бар өлкөлөрдүн саны"
+    },
+    {
       "path": "3-5-2-1/data.csv",
       "name": "3-5-2-1",
       "profile": "tabular-data-resource",
@@ -4011,6 +4116,87 @@
         ]
       },
       "title": "Ден соолук, билим алуу жана психосоциалдык жыргалчылыгы боюнча 24-59 ай жаштагы балдардын үлүшү жыныстык жактан"
+    },
+    {
+      "path": "15-1-1/data.csv",
+      "name": "15-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "I",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Officially reported data",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Токой аянты жалпы жер аянтынын үлүшү катары"
     },
     {
       "path": "13-1-1/data.csv",
@@ -8476,6 +8662,30 @@
       "title": "(а) 100 000 чоң адамга коммерциялык банктын филиалдарынын саны жана (б) 100 000 чоң адамга автоматташтырылган кабарчы машиналардын (банкоматтардын) саны"
     },
     {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of the population who are refugees, by country of origin"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -9173,47 +9383,6 @@
         ]
       },
       "title": "2/3-класстардагы балдардын жана жаштардын (а) үлүшү; (б) баштапкы аягында; жана (с) төмөнкү орто окуунун аягында окуу жана (ii) математика боюнча, жок эле дегенде, минималдуу билим деңгээлине жетишүү, жыныстык мамиле боюнча"
-    },
-    {
-      "path": "10-7-2/data.csv",
-      "name": "10-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Жыл"
-          },
-          {
-            "name": "Политика доменов",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Общий",
-                "Домен 1. Права мигрантов",
-                "Домен 2. Общегосударственная/ основанная на фактических данных политика",
-                "Домен 3. Сотрудничество и партнерство",
-                "Домен 4. Социально-экономическое благополучие",
-                "Домен 5. Оперативность измерения кризисов",
-                "Домен 6. Безопасная, упорядоченная и регулярная миграция",
-                ""
-              ]
-            },
-            "title": "Политика доменов"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Адамдардын тартиптүү, коопсуз, үзгүлтүксүз жана жоопкерчиликтүү миграциясына жана мобилдүүлүгүнө өбөлгө түзө турган миграциялык саясаты бар өлкөлөрдүн саны"
     },
     {
       "path": "11-5-1/data.csv",
@@ -10736,30 +10905,6 @@
       "title": "Жыныстык жана мигрант статусу боюнча Эл аралык эмгек уюмунун (ИЛО) тексттик булактарына жана улуттук мыйзамдарына негизделген эмгек укуктарына (бирикме жана коллекциялык келишпестиктер эркиндиги) улуттук шайкештик деңгээли"
     },
     {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Иштеп чыгуу үчүн ресурстардын жалпы агымы, алуучу жана донор өлкөлөр жана агымдын түрү боюнча (мисалы, өнүктүрүүгө расмий жардам, түздөн-түз чет өлкөлүк инвестициялар жана башка агымдар)"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -11430,30 +11575,6 @@
         ]
       },
       "title": "Чакан масштабдагы балык уулоочулукка жеткиликтүүлүк укуктарын тааныган жана коргогон юридикалык/жөнгө салуучу/ саясат/институционалдык базаны колдонуу даражасы"
-    },
-    {
-      "path": "15-a-1/data.csv",
-      "name": "15-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(а) Биотүрдүүлүктү сактоо жана туруктуу пайдалануу боюнча өнүктүрүүгө расмий жардам; жана (б) биотүрдүүлүккө тиешелүү экономикалык инструменттерден алынган жана каржыланган кирешелер"
     },
     {
       "path": "12-6-1/data.csv",
@@ -12510,30 +12631,6 @@
         ]
       },
       "title": "Туризмдин туруктуулугунун экономикалык жана экологиялык аспектилерине мониторинг жүргүзүү үчүн бухгалтердик эсептин стандарттык инструменттерин ишке ашыруу"
-    },
-    {
-      "path": "15-1-1/data.csv",
-      "name": "15-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Токой аянты жалпы жер аянтынын үлүшү катары"
     },
     {
       "path": "3-9-1/data.csv",
