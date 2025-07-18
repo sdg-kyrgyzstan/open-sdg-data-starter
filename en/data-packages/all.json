@@ -26,7 +26,7 @@
                 "Pollutants: Gaseous and liquid",
                 "Pollutants: Sulphur dioxide",
                 "Pollutants: Carbon monoxide",
-                "Pollutants: Nitrogen oxide ",
+                "Pollutants: Nitrogen oxide",
                 ""
               ]
             },
@@ -701,7 +701,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: General public services\n\n\n",
+                "Sector: General public services",
                 "Sector: Economic affairs",
                 "Sector: Environmental protection",
                 "Sector: Housing and community amenities",
@@ -2996,7 +2996,7 @@
                 "Cause: lack of transportation (school too far from home)",
                 "Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",
                 "Cause: does not match the age of the given class",
-                "Cause: because of sickness ",
+                "Cause: because of sickness",
                 "Cause: Children with disabilities",
                 "Cause: other reasons",
                 ""
@@ -4907,7 +4907,7 @@
                 "Expenditure on Plant chemicals, protection and\nquarantine",
                 "Expenditure on Other services for the protection\nof biodiversity and landscape",
                 "Expenditure on Research and development work\nrelated to environmental protection",
-                "Expenditure on Environmental issues not classified elsewhere ",
+                "Expenditure on Environmental issues not classified elsewhere",
                 "Expenditure on Other services on environmental\nprotection",
                 ""
               ]
@@ -4993,7 +4993,7 @@
               "enum": [
                 "Grain and processed products",
                 "Wheat and wheat products in flour equivalent",
-                "Fruits-berries and processed products ",
+                "Fruits-berries and processed products",
                 "Potatoes and processed products",
                 "Vegetables and processed products",
                 "Meat and meat products in meat equivalent, including bacon and offal",
@@ -8148,7 +8148,7 @@
             "constraints": {
               "enum": [
                 "Country: Russian Federation",
-                "Country: Republic of Belarus ",
+                "Country: Republic of Belarus",
                 "Country: Republic of Kazakhstan",
                 "Country: Republic of Tajikistan",
                 "Country: People's Republic of China",

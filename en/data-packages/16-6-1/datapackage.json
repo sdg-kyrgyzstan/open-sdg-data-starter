@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sector: General public services\n\n\n",
+                "Sector: General public services",
                 "Sector: Economic affairs",
                 "Sector: Environmental protection",
                 "Sector: Housing and community amenities",
