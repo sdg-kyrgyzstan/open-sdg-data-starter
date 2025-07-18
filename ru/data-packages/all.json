@@ -1031,8 +1031,8 @@
       "title": "Доля населения, пользующегося Интернетом"
     },
     {
-      "path": "2-с-1-1/data.csv",
-      "name": "2-с-1-1",
+      "path": "2-c-1-1/data.csv",
+      "name": "2-c-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1076,7 +1076,7 @@
           }
         ]
       },
-      "title": "Consumer price index for food products"
+      "title": "Индекс потребительских цен на продовольственные товары"
     },
     {
       "path": "3-b-2/data.csv",
@@ -12243,30 +12243,6 @@
         ]
       },
       "title": "Стоимость перевода в процентном отношении\nк переводимой сумме\n"
-    },
-    {
-      "path": "2-c-1-1/data.csv",
-      "name": "2-c-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Год"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс потребительских цен на продовольственные товары"
     },
     {
       "path": "17-7-1/data.csv",
