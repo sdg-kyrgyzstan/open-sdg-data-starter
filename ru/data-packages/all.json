@@ -11789,6 +11789,30 @@
       "title": "Среднегодовой уровень содержания мелких твердых частиц (например, класса PM2.5 и PM10) в атмосфере городов (в пересчете на численность населения)"
     },
     {
+      "path": "17-15-1-a/data.csv",
+      "name": "17-15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс человеческого развития"
+    },
+    {
       "path": "8-5-2-2/data.csv",
       "name": "8-5-2-2",
       "profile": "tabular-data-resource",
