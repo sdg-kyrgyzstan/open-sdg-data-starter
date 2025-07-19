@@ -5294,6 +5294,66 @@
       "title": "Занятость в неформальном секторе  в разбивке по полу, возрасту, город-село и отраслям экономики"
     },
     {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global monitoring data",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).",
+                "Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).",
+                "Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).",
+                "Gross disbursements. ",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "Date of the most recent change of the series."
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
+    },
+    {
       "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
@@ -10131,30 +10191,6 @@
         ]
       },
       "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "12-a-1/data.csv",

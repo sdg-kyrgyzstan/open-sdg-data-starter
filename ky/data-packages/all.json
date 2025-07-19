@@ -5294,6 +5294,66 @@
       "title": "Занятость в неформальном секторе  в разбивке по полу, возрасту, город-село и отраслям экономики"
     },
     {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).",
+                "Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).",
+                "Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).",
+                "Gross disbursements. ",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string",
+            "title": "DATA_LAST_UPDATE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Жалпы улуттук кирешенин үлүшү катары түздөн-түз чет өлкөлүк инвестициялар, өнүктүрүүгө расмий жардам жана Түштүк-Түштүк кызматташтыгы"
+    },
+    {
       "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
@@ -10131,30 +10191,6 @@
         ]
       },
       "title": "Пайдаларды адилеттүү жана адилеттүү бөлүштүрүүнү камсыз кылуу үчүн мыйзамдуу, административдик жана саясат негиздерин кабыл алган өлкөлөрдүн саны"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Жалпы улуттук кирешенин үлүшү катары түздөн-түз чет өлкөлүк инвестициялар, өнүктүрүүгө расмий жардам жана Түштүк-Түштүк кызматташтыгы"
     },
     {
       "path": "12-a-1/data.csv",

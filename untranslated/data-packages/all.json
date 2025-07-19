@@ -4858,6 +4858,60 @@
       "title": "Занятость в неформальном секторе  в разбивке по полу, возрасту, город-село и отраслям экономики"
     },
     {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross disbursements. Data gaps linked to providers reporting grants to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg 2020-2022 and the World Bank).",
+                "Measured on a commitment basis. Data gaps linked to providers reporting mobilised private finance to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for Luxembourg, the European Bank for Reconstruction and Development and the World Bank).",
+                "Gross disbursements. Data gaps linked to providers reporting official concessional loans to the OECD DAC (Creditor Reporting System) but not to TOSSD have been estimated (i.e. for the World Bank).",
+                "Gross disbursements. ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "DATA_LAST_UPDATE",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.17-3-1-title"
+    },
+    {
       "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
@@ -9292,28 +9346,6 @@
         ]
       },
       "title": "global_indicators.15-6-1-title"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.17-3-1-title"
     },
     {
       "path": "12-a-1/data.csv",
