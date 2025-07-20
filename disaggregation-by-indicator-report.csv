@@ -14,6 +14,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-2-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE",5
 #10-3-1,"Территория, Местность, Квинтиль благосостояния, Возраст, Образование, Функциональные трудности (возраст: 18-49лет)",6
 #10-7-2,"COMPOSITE_BREAKDOWN, Политика доменов",2
+#10-b-1-1,COMPOSITE_BREAKDOWN,1
 #11-2-1,"SEX, AGE, URBANISATION, REF_AREA, INCOME_WEALTH_QUANTILE, EDUCATION_LEV",6
 #11-5-1,"Территория, Пол",2
 #11-5-2,REF_AREA,1
@@ -128,3 +129,4 @@ Indicator,Disaggregations,Number of disaggregations
 #9-2-1,UNIT_MULT,1
 #9-2-2,"SEX, REF_AREA",2
 #9-4-1-1,COMPOSITE_BREAKDOWN,1
+#9-5-2-1,COMPOSITE_BREAKDOWN,1
