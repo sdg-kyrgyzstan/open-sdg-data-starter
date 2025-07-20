@@ -898,30 +898,6 @@
       "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
-      "path": "17-13-1-a/data.csv",
-      "name": "17-13-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Глобальный индекс конкурентоспособности"
-    },
-    {
       "path": "16-7-1-a/data.csv",
       "name": "16-7-1-a",
       "profile": "tabular-data-resource",
@@ -4731,44 +4707,6 @@
       "title": "Debt service as a proportion of exports of goods and services"
     },
     {
-      "path": "17-11-1-b/data.csv",
-      "name": "17-11-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Computer and peripheral equipment",
-                "Communication equipment (telecommunication equipment)",
-                "Consumer electronics (audio and video equipment)",
-                "Other electronic components and ICT products",
-                ""
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
-    },
-    {
       "path": "4-2-2-1/data.csv",
       "name": "4-2-2-1",
       "profile": "tabular-data-resource",
@@ -8309,40 +8247,6 @@
         ]
       },
       "title": "Электроемкость ВВП"
-    },
-    {
-      "path": "17-15-1-a/data.csv",
-      "name": "17-15-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс человеческого развития"
     },
     {
       "path": "10-b-1-1/data.csv",
@@ -12365,6 +12269,30 @@
       "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
+      "path": "17-15-1-a/data.csv",
+      "name": "17-15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс человеческого развития"
+    },
+    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -12483,6 +12411,30 @@
         ]
       },
       "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+    },
+    {
+      "path": "17-13-1-a/data.csv",
+      "name": "17-13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Глобальный индекс конкурентоспособности"
     },
     {
       "path": "14-7-1/data.csv",
@@ -13179,6 +13131,30 @@
         ]
       },
       "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+    },
+    {
+      "path": "17-11-1-b/data.csv",
+      "name": "17-11-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
     },
     {
       "path": "16-7-2/data.csv",

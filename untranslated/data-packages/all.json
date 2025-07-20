@@ -827,28 +827,6 @@
       "title": "global_indicators.16-1-4-title"
     },
     {
-      "path": "17-13-1-a/data.csv",
-      "name": "17-13-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Глобальный индекс конкурентоспособности"
-    },
-    {
       "path": "16-7-1-a/data.csv",
       "name": "16-7-1-a",
       "profile": "tabular-data-resource",
@@ -4342,41 +4320,6 @@
       "title": "global_indicators.17-4-1-title"
     },
     {
-      "path": "17-11-1-b/data.csv",
-      "name": "17-11-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_COMP_PER_EQUIP",
-                "_L_COMM_EQUIP",
-                "_L_COMM_ELECT",
-                "_L_OTHER_ELECT_COMP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
-    },
-    {
       "path": "4-2-2-1/data.csv",
       "name": "4-2-2-1",
       "profile": "tabular-data-resource",
@@ -7619,36 +7562,6 @@
         ]
       },
       "title": "Электроемкость ВВП"
-    },
-    {
-      "path": "17-15-1-a/data.csv",
-      "name": "17-15-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Индекс человеческого развития"
     },
     {
       "path": "10-b-1-1/data.csv",
@@ -11341,6 +11254,28 @@
       "title": "global_indicators.11-6-2-title"
     },
     {
+      "path": "17-15-1-a/data.csv",
+      "name": "17-15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Индекс человеческого развития"
+    },
+    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -11449,6 +11384,28 @@
         ]
       },
       "title": "global_indicators.3-b-3-title"
+    },
+    {
+      "path": "17-13-1-a/data.csv",
+      "name": "17-13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Глобальный индекс конкурентоспособности"
     },
     {
       "path": "14-7-1/data.csv",
@@ -12087,6 +12044,28 @@
         ]
       },
       "title": "global_indicators.4-5-1-title"
+    },
+    {
+      "path": "17-11-1-b/data.csv",
+      "name": "17-11-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
     },
     {
       "path": "16-7-2/data.csv",
