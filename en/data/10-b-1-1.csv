@@ -1,1 +1,173 @@
-Year,Value
+Year,COMPOSITE_BREAKDOWN,Value
+2013,Sector: Agriculture,488.2
+2014,Sector: Agriculture,521.3
+2015,Sector: Agriculture,758.0
+2016,Sector: Agriculture,1034.8
+2017,Sector: Agriculture,1569.2
+2018,Sector: Agriculture,2283.9
+2019,Sector: Agriculture,1778.1
+2020,Sector: Agriculture,1333.83
+2021,Sector: Agriculture,1221.02
+2022,Sector: Agriculture,1497.61
+2023,Sector: Agriculture,1143.6
+2013,Sector: Transport,4295.0
+2014,Sector: Transport,9576.3
+2015,Sector: Transport,7552.8
+2016,Sector: Transport,10221.8
+2017,Sector: Transport,14436.4
+2018,Sector: Transport,5471.0
+2019,Sector: Transport,7926.56
+2020,Sector: Transport,4294.3
+2021,Sector: Transport,7544.6
+2022,Sector: Transport,12582.13
+2023,Sector: Transport,9428.8
+2013,Sector: Energy,9828.6
+2014,Sector: Energy,11570.1
+2015,Sector: Energy,1603.2
+2016,Sector: Energy,10411.7
+2017,Sector: Energy,8104.8
+2018,Sector: Energy,3356.2
+2019,Sector: Energy,4979.56
+2020,Sector: Energy,3625.55
+2021,Sector: Energy,8224.07
+2022,Sector: Energy,6466.32
+2023,Sector: Energy,8877.5
+2013,Sector: Health,129.8
+2014,Sector: Health,64.0
+2015,Sector: Health,77.7
+2016,Sector: Health,77.2
+2017,Sector: Health,383.9
+2018,Sector: Health,351.7
+2019,Sector: Health,123.42
+2020,Sector: Health,1187.05
+2021,Sector: Health,1833.14
+2022,Sector: Health,1609.9
+2023,Sector: Health,1236.6
+2013,Sector: Education,118.8
+2014,Sector: Education,224.9
+2015,Sector: Education,409.5
+2016,Sector: Education,555.7
+2017,Sector: Education,1129.0
+2018,Sector: Education,1129.2
+2019,Sector: Education,337.39
+2020,Sector: Education,190.48
+2021,Sector: Education,544.2
+2022,Sector: Education,1684.44
+2023,Sector: Education,1568.5
+2013,Sector: General public services,92.0
+2014,Sector: General public services,55.1
+2015,Sector: General public services,38.0
+2016,Sector: General public services,140.4
+2017,Sector: General public services,141.7
+2018,Sector: General public services,46.7
+2019,Sector: General public services,38.66
+2020,Sector: General public services,108.18
+2021,Sector: General public services,195.87
+2022,Sector: General public services,244.38
+2023,Sector: General public services,575.5
+2013,Sector: Infrastructure (water supply),887.8
+2014,Sector: Infrastructure (water supply),1398.3
+2015,Sector: Infrastructure (water supply),1393.5
+2016,Sector: Infrastructure (water supply),1602.5
+2017,Sector: Infrastructure (water supply),2023.3
+2018,Sector: Infrastructure (water supply),1960.2
+2019,Sector: Infrastructure (water supply),2237.15
+2020,Sector: Infrastructure (water supply),4041.45
+2021,Sector: Infrastructure (water supply),54353.83
+2022,Sector: Infrastructure (water supply),3943.41
+2023,Sector: Infrastructure (water supply),7084.6
+2013,Sector: Others,1600.3
+2014,Sector: Others,1082.5
+2015,Sector: Others,683.1
+2016,Sector: Others,127.1
+2017,Sector: Others,101.0
+2018,Sector: Others,225.7
+2019,Sector: Others,894.59
+2020,Sector: Others,910.72
+2021,Sector: Others,2514.42
+2022,Sector: Others,4337.31
+2023,Sector: Others,9681.5
+2013,Donor: Republic of China,10956.3
+2014,Donor: Republic of China,18162.9
+2015,Donor: Republic of China,3595.7
+2016,Donor: Republic of China,17189.8
+2017,Donor: Republic of China,16804.7
+2018,Donor: Republic of China,2995.2
+2019,Donor: Republic of China,6659.9
+2020,Donor: Republic of China,1057.74
+2021,Donor: Republic of China,2539.77
+2022,Donor: Republic of China,6119.3
+2023,Donor: Republic of China,1780.0
+2024,Donor: Republic of China,3620.0
+2013,Donor: Asian Development Bank,2128.1
+2014,Donor: Asian Development Bank,1630.3
+2015,Donor: Asian Development Bank,2598.3
+2016,Donor: Asian Development Bank,2191.5
+2017,Donor: Asian Development Bank,3406.5
+2018,Donor: Asian Development Bank,3512.9
+2019,Donor: Asian Development Bank,2475.69
+2020,Donor: Asian Development Bank,3049.11
+2021,Donor: Asian Development Bank,8561.59
+2022,Donor: Asian Development Bank,6253.1
+2023,Donor: Asian Development Bank,7332.0
+2024,Donor: Asian Development Bank,7842.8
+2013,Donor: World Bank,2304.9
+2014,Donor: World Bank,1821.8
+2015,Donor: World Bank,1041.4
+2016,Donor: World Bank,1704.0
+2017,Donor: World Bank,2906.4
+2018,Donor: World Bank,2312.8
+2019,Donor: World Bank,3725.49
+2020,Donor: World Bank,3338.56
+2021,Donor: World Bank,4777.6
+2022,Donor: World Bank,8997.7
+2023,Donor: World Bank,16842.1
+2024,Donor: World Bank,13537.5
+2013,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",487.3
+2014,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",384.5
+2015,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1006.7
+2016,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1254.3
+2017,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1402.4
+2018,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1209.5
+2019,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1537.08
+2020,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",3227.65
+2021,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",5113.6
+2022,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",3213.7
+2023,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",1240.1
+2024,"Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",5229.6
+2013,Donor: European Bank for Reconstruction and Development,585.2
+2014,Donor: European Bank for Reconstruction and Development,311.3
+2015,Donor: European Bank for Reconstruction and Development,325.3
+2016,Donor: European Bank for Reconstruction and Development,445.8
+2017,Donor: European Bank for Reconstruction and Development,1182.3
+2018,Donor: European Bank for Reconstruction and Development,972.4
+2019,Donor: European Bank for Reconstruction and Development,552.72
+2020,Donor: European Bank for Reconstruction and Development,492.95
+2021,Donor: European Bank for Reconstruction and Development,583.71
+2022,Donor: European Bank for Reconstruction and Development,1388.0
+2023,Donor: European Bank for Reconstruction and Development,2426.8
+2024,Donor: European Bank for Reconstruction and Development,722.2
+2013,Donor: German Development Bank KfW,755.4
+2014,Donor: German Development Bank KfW,1469.2
+2015,Donor: German Development Bank KfW,1008.7
+2016,Donor: German Development Bank KfW,397.0
+2017,Donor: German Development Bank KfW,757.2
+2018,Donor: German Development Bank KfW,500.0
+2019,Donor: German Development Bank KfW,460.76
+2020,Donor: German Development Bank KfW,530.53
+2021,Donor: German Development Bank KfW,945.23
+2022,Donor: German Development Bank KfW,728.2
+2023,Donor: German Development Bank KfW,1073.4
+2024,Donor: German Development Bank KfW,182.9
+2013,"Donor: Others (EDB, Switzerland, IFAD etc.)",223.3
+2014,"Donor: Others (EDB, Switzerland, IFAD etc.)",712.5
+2015,"Donor: Others (EDB, Switzerland, IFAD etc.)",2940.1
+2016,"Donor: Others (EDB, Switzerland, IFAD etc.)",988.9
+2017,"Donor: Others (EDB, Switzerland, IFAD etc.)",1430.0
+2018,"Donor: Others (EDB, Switzerland, IFAD etc.)",3321.8
+2019,"Donor: Others (EDB, Switzerland, IFAD etc.)",2903.78
+2020,"Donor: Others (EDB, Switzerland, IFAD etc.)",3995.01
+2021,"Donor: Others (EDB, Switzerland, IFAD etc.)",3655.83
+2022,"Donor: Others (EDB, Switzerland, IFAD etc.)",5665.5
+2023,"Donor: Others (EDB, Switzerland, IFAD etc.)",4444.5
+2024,"Donor: Others (EDB, Switzerland, IFAD etc.)",3827.4
