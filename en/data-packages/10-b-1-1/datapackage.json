@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sector: Agriculture",
+                "Sector: Transport",
+                "Sector: Energy",
+                "Sector: Health",
+                "Sector: Education",
+                "Sector: General public services",
+                "Sector: Infrastructure (water supply)",
+                "Sector: Others",
+                "Donor: Republic of China",
+                "Donor: Asian Development Bank",
+                "Donor: World Bank",
+                "Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",
+                "Donor: European Bank for Reconstruction and Development",
+                "Donor: German Development Bank KfW",
+                "Donor: Others (EDB, Switzerland, IFAD etc.)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",
