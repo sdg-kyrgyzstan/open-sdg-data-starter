@@ -50,7 +50,7 @@ jobs:
         sleep 240
     - name: Rebuild staging
       run: |
-        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/sdg_kyrgyzstan_token/dispatches \
+        curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
