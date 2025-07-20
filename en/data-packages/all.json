@@ -191,30 +191,6 @@
       "title": "The agriculture orientation index for government expenditures"
     },
     {
-      "path": "10-4-2-1/data.csv",
-      "name": "10-4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Коэффициент Джини (по доходам)"
-    },
-    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -1934,30 +1910,6 @@
       "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
-      "path": "11-3-1-a/data.csv",
-      "name": "11-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Численность постоянного населения по месту проживания"
-    },
-    {
       "path": "10-5-1-1/data.csv",
       "name": "10-5-1-1",
       "profile": "tabular-data-resource",
@@ -2776,30 +2728,6 @@
       "title": "Доля возобновляемых источников энергии в общем объеме энергопотребления"
     },
     {
-      "path": "16-5-1-a/data.csv",
-      "name": "16-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс восприятия коррупции Кыргызстан"
-    },
-    {
       "path": "17-3-2/data.csv",
       "name": "17-3-2",
       "profile": "tabular-data-resource",
@@ -3137,54 +3065,6 @@
         ]
       },
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
-    },
-    {
-      "path": "8-5-2-2/data.csv",
-      "name": "8-5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень занятости"
     },
     {
       "path": "1-1-1/data.csv",
@@ -5693,145 +5573,6 @@
       "title": "Progress towards sustainable forest management"
     },
     {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 6 years old",
-                "7 to 14 years old",
-                "15 to 28 years old",
-                "29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",
-                "58 years old and over (population over working age: women 58 years and older, men 63 years and older)",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)",
-                ""
-              ]
-            },
-            "title": "Income or wealth quantile"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Household type: without children",
-                "Household type: with children",
-                "Household type: without persons above working age",
-                "Household type: with persons above working age",
-                "Household type: only persons above working age",
-                "Household type: poor",
-                "Household type: extremely poor",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
-    },
-    {
       "path": "17-18-1/data.csv",
       "name": "17-18-1",
       "profile": "tabular-data-resource",
@@ -6387,30 +6128,6 @@
       "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
-      "path": "17-1-1-a/data.csv",
-      "name": "17-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля государственного внешнего долга к ВВП"
-    },
-    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -6832,42 +6549,6 @@
       "title": "Proportion of small-scale industries with a loan or line of credit"
     },
     {
-      "path": "3-2-2-1/data.csv",
-      "name": "3-2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cуммарный коэффициент рождаемости городского и сельского населения"
-    },
-    {
       "path": "7-3-1-1/data.csv",
       "name": "7-3-1-1",
       "profile": "tabular-data-resource",
@@ -6951,99 +6632,6 @@
         ]
       },
       "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\""
-    },
-    {
-      "path": "16-1-3-1/data.csv",
-      "name": "16-1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 to 19 years old",
-                "15 to 17 years old",
-                "18 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Lower secondary education",
-                "Upper secondary education",
-                "Post-secondary non-tertiary education",
-                "Tertiary education (Bachelor’s and Master's or equivalent)",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля женщин в возрасте 15-49 лет, в последние 12 месяцев, подвергшихся физического насилия (ограбления или нападения)"
     },
     {
       "path": "10-2-1/data.csv",
@@ -7292,54 +6880,6 @@
         ]
       },
       "title": "Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries"
-    },
-    {
-      "path": "8-1-1-2/data.csv",
-      "name": "8-1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Batken",
-                "Jalal-Abad",
-                "Issyk-Kul",
-                "Naryn",
-                "Osh",
-                "Talas",
-                "Chui",
-                "Bishkek (city)",
-                "Osh (city)",
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Валовой региональный продукт на душу населения (в тыс. сомах)"
     },
     {
       "path": "5-2-1-3/data.csv",
@@ -8249,55 +7789,6 @@
       "title": "Электроемкость ВВП"
     },
     {
-      "path": "10-b-1-1/data.csv",
-      "name": "10-b-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sector: Agriculture",
-                "Sector: Transport",
-                "Sector: Energy",
-                "Sector: Health",
-                "Sector: Education",
-                "Sector: General public services",
-                "Sector: Infrastructure (water supply)",
-                "Sector: Others",
-                "Donor: Republic of China",
-                "Donor: Asian Development Bank",
-                "Donor: World Bank",
-                "Donor: ACG (IBRD, IDA, OPEC Fund, AfDF, KFED)",
-                "Donor: European Bank for Reconstruction and Development",
-                "Donor: German Development Bank KfW",
-                "Donor: Others (EDB, Switzerland, IFAD etc.)",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-донорам и видам потоков"
-    },
-    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
@@ -8470,55 +7961,6 @@
         ]
       },
       "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
-    },
-    {
-      "path": "3-4-1-a/data.csv",
-      "name": "3-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 years old",
-                "45 years old",
-                "65 years old",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ожидаемая продолжительность жизни в 15 лет, 45 лет, 65 лет"
     },
     {
       "path": "3-2-1/data.csv",
@@ -8784,70 +8226,6 @@
         ]
       },
       "title": "Количество мест, предоставляемых Кыргызстану для подготовки кадров зарубежом за счет принимающей стороны в рамках официальных межправительственных и межгосударственных договоров и соглашений"
-    },
-    {
-      "path": "17-6-1-a/data.csv",
-      "name": "17-6-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "E-Government Development Index (EGDI)"
-    },
-    {
-      "path": "9-5-2-1/data.csv",
-      "name": "9-5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Intellectual property objects: utility models",
-                "Intellectual property objects: inventions",
-                "Intellectual property objects: industrial designs",
-                "Intellectual property objects: rationalization proposals",
-                "Intellectual property objects: computer programs",
-                "Intellectual property objects: databases",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Количество объектов интеллектуальной собственности, зарегистрированных в научно-технической сфере"
     },
     {
       "path": "5-3-1/data.csv",
@@ -9396,30 +8774,6 @@
       "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
-      "path": "8-1-1-1/data.csv",
-      "name": "8-1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Валовой внутренний продукт на душу населения (в долл. США)"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -9650,44 +9004,6 @@
         ]
       },
       "title": "Proportion of the population who are refugees, by country of origin"
-    },
-    {
-      "path": "17-11-1-a/data.csv",
-      "name": "17-11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Computer and peripheral equipment",
-                "Communication equipment (telecommunication equipment)",
-                "Consumer electronics (audio and video equipment)",
-                "Other electronic components and ICT products",
-                ""
-              ]
-            },
-            "title": "Type of product"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
     },
     {
       "path": "3-1-1/data.csv",
@@ -10637,6 +9953,30 @@
       "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
     },
     {
+      "path": "8-1-1-1/data.csv",
+      "name": "8-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Валовой внутренний продукт на душу населения (в долл. США)"
+    },
+    {
       "path": "14-1-1/data.csv",
       "name": "14-1-1",
       "profile": "tabular-data-resource",
@@ -10683,6 +10023,30 @@
         ]
       },
       "title": "Degree of sustainable public procurement policies and action plan implementation"
+    },
+    {
+      "path": "10-4-2-1/data.csv",
+      "name": "10-4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Коэффициент Джини (по доходам)"
     },
     {
       "path": "15-5-1/data.csv",
@@ -11021,6 +10385,30 @@
       "title": "Proportion of jobs in sustainable tourism industries out of total tourism jobs"
     },
     {
+      "path": "3-4-1-a/data.csv",
+      "name": "3-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ожидаемая продолжительность жизни в 15 лет, 45 лет, 65 лет"
+    },
+    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -11163,6 +10551,30 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
+    },
+    {
+      "path": "16-5-1-a/data.csv",
+      "name": "16-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс восприятия коррупции Кыргызстан"
     },
     {
       "path": "17-5-1/data.csv",
@@ -11309,6 +10721,30 @@
       "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
+      "path": "17-11-1-a/data.csv",
+      "name": "17-11-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
+    },
+    {
       "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
@@ -11403,6 +10839,30 @@
         ]
       },
       "title": "Proportion of bodies of water with good ambient water quality"
+    },
+    {
+      "path": "10-b-1-1/data.csv",
+      "name": "10-b-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-донорам и видам потоков"
     },
     {
       "path": "15-7-1/data.csv",
@@ -11765,6 +11225,30 @@
       "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
     },
     {
+      "path": "3-2-2-1/data.csv",
+      "name": "3-2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cуммарный коэффициент рождаемости городского и сельского населения"
+    },
+    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -12077,6 +11561,54 @@
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
     },
     {
+      "path": "9-5-2-1/data.csv",
+      "name": "9-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Количество объектов интеллектуальной собственности, зарегистрированных в научно-технической сфере"
+    },
+    {
+      "path": "17-1-1-a/data.csv",
+      "name": "17-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля государственного внешнего долга к ВВП"
+    },
+    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
@@ -12221,6 +11753,30 @@
       "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
     },
     {
+      "path": "8-1-1-2/data.csv",
+      "name": "8-1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Валовой внутренний продукт на душу населения (в тыс. сомах)"
+    },
+    {
       "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
@@ -12291,6 +11847,30 @@
         ]
       },
       "title": "Индекс человеческого развития"
+    },
+    {
+      "path": "8-5-2-2/data.csv",
+      "name": "8-5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень занятости"
     },
     {
       "path": "11-b-1/data.csv",
@@ -12411,6 +11991,30 @@
         ]
       },
       "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+    },
+    {
+      "path": "16-1-3-1/data.csv",
+      "name": "16-1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля женщин в возрасте 15-49 лет, в последние 12 месяцев, подвергшихся физического насилия (ограбления или нападения)"
     },
     {
       "path": "17-13-1-a/data.csv",
@@ -12579,6 +12183,30 @@
         ]
       },
       "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
+    },
+    {
+      "path": "11-3-1-a/data.csv",
+      "name": "11-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Численность постоянного населения по месту проживания"
     },
     {
       "path": "4-a-1/data.csv",
@@ -13155,6 +12783,30 @@
         ]
       },
       "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "16-7-2/data.csv",
