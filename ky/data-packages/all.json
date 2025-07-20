@@ -898,6 +898,30 @@
       "title": "Өздөрү жашаган аймакта жалгыз жүргөндө өздөрүн коопсуз сезген калктын үлүшү"
     },
     {
+      "path": "17-13-1-a/data.csv",
+      "name": "17-13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Глобальный индекс конкурентоспособности"
+    },
+    {
       "path": "16-7-1-a/data.csv",
       "name": "16-7-1-a",
       "profile": "tabular-data-resource",
@@ -4707,6 +4731,44 @@
       "title": "Товарлардын жана кызмат көрсөтүүлөрдүн экспортунун үлүшү катары карызга тейлөө"
     },
     {
+      "path": "17-11-1-b/data.csv",
+      "name": "17-11-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
+    },
+    {
       "path": "4-2-2-1/data.csv",
       "name": "4-2-2-1",
       "profile": "tabular-data-resource",
@@ -6385,6 +6447,30 @@
         ]
       },
       "title": "Маалыматтык-коммуникациялык технологиялар (АКТ) көндүмдөрү бар жаштардын жана чоңдордун үлүшү, жөндөмдүүлүк түрү боюнча"
+    },
+    {
+      "path": "17-1-1-a/data.csv",
+      "name": "17-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля государственного внешнего долга к ВВП"
     },
     {
       "path": "8-2-1/data.csv",
@@ -8225,6 +8311,40 @@
       "title": "Электроемкость ВВП"
     },
     {
+      "path": "17-15-1-a/data.csv",
+      "name": "17-15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс человеческого развития"
+    },
+    {
       "path": "10-b-1-1/data.csv",
       "name": "10-b-1-1",
       "profile": "tabular-data-resource",
@@ -8760,6 +8880,30 @@
         ]
       },
       "title": "Количество мест, предоставляемых Кыргызстану для подготовки кадров зарубежом за счет принимающей стороны в рамках официальных межправительственных и межгосударственных договоров и соглашений"
+    },
+    {
+      "path": "17-6-1-a/data.csv",
+      "name": "17-6-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "E-Government Development Index (EGDI)"
     },
     {
       "path": "9-5-2-1/data.csv",
@@ -9602,6 +9746,44 @@
         ]
       },
       "title": "Качкындар болгон калктын үлүшү, келип чыккан өлкө боюнча"
+    },
+    {
+      "path": "17-11-1-a/data.csv",
+      "name": "17-11-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
     },
     {
       "path": "3-1-1/data.csv",
@@ -11223,30 +11405,6 @@
       "title": "18 жашка чейинки жыныстык зордук - зомбулукка дуушар болгон 18–29 жаштагы жаш аялдар менен эркектердин үлүшү"
     },
     {
-      "path": "17-11-1-a/data.csv",
-      "name": "17-11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
-    },
-    {
       "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
@@ -12015,30 +12173,6 @@
       "title": "Туруктуу керектөөлөргө жана өндүрүшкө өтүүнү колдоого багытталган саясат инструменттерин иштеп чыгуучу, кабыл алган же ишке ашыруучу өлкөлөрдүн саны"
     },
     {
-      "path": "17-1-1-a/data.csv",
-      "name": "17-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля государственного внешнего долга к ВВП"
-    },
-    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
@@ -12231,30 +12365,6 @@
       "title": "Шаарларда (мисалы, ПМ2.5 жана ПМ10) майда бөлүкчөлөрдүн жылдык орто деңгээли (калктын салмагы)"
     },
     {
-      "path": "17-15-1-a/data.csv",
-      "name": "17-15-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс человеческого развития"
-    },
-    {
       "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
@@ -12373,30 +12483,6 @@
         ]
       },
       "title": "Туруктуу негизде жеткиликтүү жана жеткиликтүү тиешелүү зарыл дары-дармектердин негизги топтому бар саламаттык сактоо мекемелеринин үлүшү"
-    },
-    {
-      "path": "17-13-1-a/data.csv",
-      "name": "17-13-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Глобальный индекс конкурентоспособности"
     },
     {
       "path": "14-7-1/data.csv",
@@ -13093,30 +13179,6 @@
         ]
       },
       "title": "Бул тизмедеги билим берүүнүн бардык көрсөткүчтөрү үчүн тепе-теңдик индекстери (аял/эркек, айыл/шаар, төмөнкү/жогорку байлык квинтили жана майыптык абалы, жергиликтүү элдер жана конфликттен жабыр тарткан башка адамдар)"
-    },
-    {
-      "path": "17-11-1-b/data.csv",
-      "name": "17-11-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
     },
     {
       "path": "16-7-2/data.csv",
