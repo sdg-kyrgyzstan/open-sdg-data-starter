@@ -12,28 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Intellectual property objects: utility models",
-                "Intellectual property objects: inventions",
-                "Intellectual property objects: industrial designs",
-                "Intellectual property objects: rationalization proposals",
-                "Intellectual property objects: computer programs",
-                "Intellectual property objects: databases",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
