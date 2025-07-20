@@ -12,31 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_COFOG_GF042",
-                "_L_COFOG_GF045",
-                "_L_COFOG_GF043",
-                "_L_COFOG_GF07",
-                "_L_COFOG_GF09",
-                "_L_COFOG_GF01",
-                "_L_COFOG_GF063",
-                "_L_COFOG_GF_OTHER",
-                "_L_DON_CHI",
-                "_L_DON_ADB",
-                "_L_DON_WB",
-                "_L_DON_ACG",
-                "_L_DON_EBRD",
-                "_L_DON_GDB",
-                "_L_DON_OTH",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

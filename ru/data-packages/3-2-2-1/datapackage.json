@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Год"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Городская",
-                "Сельская",
-                ""
-              ]
-            },
-            "title": "Тип местности"
           },
           {
             "name": "Value",
