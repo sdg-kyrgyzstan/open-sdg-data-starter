@@ -12,28 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Жыл"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_INT_UT_MOD",
-                "_L_INT_INV",
-                "_L_INT_IND_DES",
-                "_L_INT_RAT_PROP",
-                "_L_INT_COMP_PROG",
-                "_L_INT_DATABASE",
-                ""
-              ]
-            },
-            "title": "COMPOSITE_BREAKDOWN"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
