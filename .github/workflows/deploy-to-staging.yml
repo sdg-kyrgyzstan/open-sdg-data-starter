@@ -45,7 +45,6 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
-        force: false
     - name: Waiting 4 minutes for staging data deployment
       run: |
         sleep 240
