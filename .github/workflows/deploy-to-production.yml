@@ -50,7 +50,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4.5.0
       with:
         repository-name: sustainabledevelopment-kyrgyzstan/sdg-data
-        token: ${{ secrets.TOKEN}}
+        token: ${{ secrets.TOKEN }}
         branch: gh-pages
         folder: _site
         clean: true
