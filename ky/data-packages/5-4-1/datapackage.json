@@ -16,11 +16,6 @@
             "title": "Жыл"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -43,6 +38,19 @@
               ]
             },
             "title": "URBANISATION"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UNP_DOM_WORK",
+                "_L_UNP_SUB_WORK",
+                "_L_UNP_CARE_CHILD",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

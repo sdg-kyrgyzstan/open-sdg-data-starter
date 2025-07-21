@@ -3125,11 +3125,6 @@
             "title": "Year"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -3152,6 +3147,19 @@
               ]
             },
             "title": "Degree of urbanisation"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unpaid domestic work",
+                "Unpaid subsistence work",
+                "Unpaid care for children",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

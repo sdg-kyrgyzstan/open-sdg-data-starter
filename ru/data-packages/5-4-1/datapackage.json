@@ -16,11 +16,6 @@
             "title": "Год"
           },
           {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -43,6 +38,19 @@
               ]
             },
             "title": "Тип местности"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ведение домашнего хозяйства",
+                "Работа на приусадебном, дачном, садовом участке",
+                "Воспитание детей",
+                ""
+              ]
+            },
+            "title": "Составная разбивка"
           },
           {
             "name": "Value",

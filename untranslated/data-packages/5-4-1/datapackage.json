@@ -15,10 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -36,6 +32,18 @@
               "enum": [
                 "U",
                 "R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UNP_DOM_WORK",
+                "_L_UNP_SUB_WORK",
+                "_L_UNP_CARE_CHILD",
                 ""
               ]
             }
