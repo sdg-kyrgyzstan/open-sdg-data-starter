@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "PRODUCT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_COMP_PER_EQUIP",
-                "_L_COMM_EQUIP",
-                "_L_COMM_ELECT",
-                "_L_OTHER_ELECT_COMP",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
