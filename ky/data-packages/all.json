@@ -191,6 +191,30 @@
       "title": "Мамлекеттик чыгымдар боюнча айыл чарба багытынын индекси"
     },
     {
+      "path": "10-4-2-1/data.csv",
+      "name": "10-4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Коэффициент Джини (по доходам)"
+    },
+    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
@@ -872,6 +896,30 @@
         ]
       },
       "title": "Өздөрү жашаган аймакта жалгыз жүргөндө өздөрүн коопсуз сезген калктын үлүшү"
+    },
+    {
+      "path": "17-13-1-a/data.csv",
+      "name": "17-13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Глобальный индекс конкурентоспособности"
     },
     {
       "path": "16-7-1-a/data.csv",
@@ -1910,6 +1958,30 @@
       "title": "Жыныстык жана жаш курак боюнча балдар эмгеги менен алектенген 5-17 жаштагы балдардын үлүшү жана саны"
     },
     {
+      "path": "11-3-1-a/data.csv",
+      "name": "11-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Численность постоянного населения по месту проживания"
+    },
+    {
       "path": "10-5-1-1/data.csv",
       "name": "10-5-1-1",
       "profile": "tabular-data-resource",
@@ -2728,6 +2800,30 @@
       "title": "Доля возобновляемых источников энергии в общем объеме энергопотребления"
     },
     {
+      "path": "16-5-1-a/data.csv",
+      "name": "16-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс восприятия коррупции Кыргызстан"
+    },
+    {
       "path": "17-3-2/data.csv",
       "name": "17-3-2",
       "profile": "tabular-data-resource",
@@ -3065,6 +3161,54 @@
         ]
       },
       "title": "Акы төлөнбөгөн үй-бүлөлүк жана камкордук иштерине, жыныстык мамилеге, жаш куракка жана жайгашуусуна жумшалган убакыттын үлүшү"
+    },
+    {
+      "path": "8-5-2-2/data.csv",
+      "name": "8-5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Уровень занятости"
     },
     {
       "path": "1-1-1/data.csv",
@@ -4587,6 +4731,44 @@
       "title": "Товарлардын жана кызмат көрсөтүүлөрдүн экспортунун үлүшү катары карызга тейлөө"
     },
     {
+      "path": "17-11-1-b/data.csv",
+      "name": "17-11-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
+    },
+    {
       "path": "4-2-2-1/data.csv",
       "name": "4-2-2-1",
       "profile": "tabular-data-resource",
@@ -5573,6 +5755,145 @@
       "title": "Токойлорду туруктуу башкаруу боюнча прогресс"
     },
     {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T5",
+                "Y7T14",
+                "Y15T28",
+                "Y29T62",
+                "Y_GE58",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
+                ""
+              ]
+            },
+            "title": "INCOME_WEALTH_QUANTILE"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_1",
+                "ISCED11_2",
+                "ISCED11_3",
+                "ISCED11_4",
+                "ISCED11_6_7",
+                ""
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_HOUS_WITHOUT_CHILD",
+                "_L_HOUS_WITH_CHILD",
+                "_L_HOUS_WITHOUT_PERS_WORK",
+                "_L_HOUS_WITH_PERS_WORK",
+                "_L_HOUS_ONL_PERS_WORK",
+                "_L_HOUS_POOR",
+                "_L_HOUS_EXTR_POOR",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Үй чарбалардын жалпы чыгымдарынын же кирешесинин үлүшү катары үй чарбалардын ден соолукка чоң чыгымдары бар калктын үлүшү"
+    },
+    {
       "path": "17-18-1/data.csv",
       "name": "17-18-1",
       "profile": "tabular-data-resource",
@@ -6128,6 +6449,30 @@
       "title": "Маалыматтык-коммуникациялык технологиялар (АКТ) көндүмдөрү бар жаштардын жана чоңдордун үлүшү, жөндөмдүүлүк түрү боюнча"
     },
     {
+      "path": "17-1-1-a/data.csv",
+      "name": "17-1-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля государственного внешнего долга к ВВП"
+    },
+    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -6549,6 +6894,42 @@
       "title": "Насыя же кредиттик линиясы бар чакан тармактардын үлүшү"
     },
     {
+      "path": "3-2-2-1/data.csv",
+      "name": "3-2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Cуммарный коэффициент рождаемости городского и сельского населения"
+    },
+    {
       "path": "7-3-1-1/data.csv",
       "name": "7-3-1-1",
       "profile": "tabular-data-resource",
@@ -6632,6 +7013,99 @@
         ]
       },
       "title": "Индекс \"Личное представление об уровне коррупции в государственных органах исполнительной власти и органах местного самоуправления\""
+    },
+    {
+      "path": "16-1-3-1/data.csv",
+      "name": "16-1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T19",
+                "Y15T17",
+                "Y18T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            },
+            "title": "URBANISATION"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_2",
+                "ISCED11_3",
+                "ISCED11_4",
+                "ISCED11_6_7",
+                ""
+              ]
+            },
+            "title": "EDUCATION_LEV"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Доля женщин в возрасте 15-49 лет, в последние 12 месяцев, подвергшихся физического насилия (ограбления или нападения)"
     },
     {
       "path": "10-2-1/data.csv",
@@ -6880,6 +7354,54 @@
         ]
       },
       "title": "Өнүгүп келе жаткан өлкөлөргө берилген финансылык-техникалык жардамдын долларлык наркы (анын ичинде Түндүк-Түштүк, Түштүк жана үч бурчтуу кызматташтык аркылуу)"
+    },
+    {
+      "path": "8-1-1-2/data.csv",
+      "name": "8-1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG05",
+                "KG03",
+                "KG02",
+                "KG04",
+                "KG06",
+                "KG07",
+                "KG08",
+                "KG11",
+                "KG21",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Валовой региональный продукт на душу населения (в тыс. сомах)"
     },
     {
       "path": "5-2-1-3/data.csv",
@@ -7789,6 +8311,89 @@
       "title": "Электроемкость ВВП"
     },
     {
+      "path": "17-15-1-a/data.csv",
+      "name": "17-15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "UNIT_MEASURE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс человеческого развития"
+    },
+    {
+      "path": "10-b-1-1/data.csv",
+      "name": "10-b-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COFOG_GF042",
+                "_L_COFOG_GF045",
+                "_L_COFOG_GF043",
+                "_L_COFOG_GF07",
+                "_L_COFOG_GF09",
+                "_L_COFOG_GF01",
+                "_L_COFOG_GF063",
+                "_L_COFOG_GF_OTHER",
+                "_L_DON_CHI",
+                "_L_DON_ADB",
+                "_L_DON_WB",
+                "_L_DON_ACG",
+                "_L_DON_EBRD",
+                "_L_DON_GDB",
+                "_L_DON_OTH",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-донорам и видам потоков"
+    },
+    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
@@ -7961,6 +8566,55 @@
         ]
       },
       "title": "100,000 калктын адам соодасынан жапа чеккендердин саны, жынысы, жаш курагы жана эксплуатация түрү боюнча"
+    },
+    {
+      "path": "3-4-1-a/data.csv",
+      "name": "3-4-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15",
+                "Y45",
+                "Y65",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ожидаемая продолжительность жизни в 15 лет, 45 лет, 65 лет"
     },
     {
       "path": "3-2-1/data.csv",
@@ -8226,6 +8880,70 @@
         ]
       },
       "title": "Количество мест, предоставляемых Кыргызстану для подготовки кадров зарубежом за счет принимающей стороны в рамках официальных межправительственных и межгосударственных договоров и соглашений"
+    },
+    {
+      "path": "17-6-1-a/data.csv",
+      "name": "17-6-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Индекс развития электронного правительства"
+    },
+    {
+      "path": "9-5-2-1/data.csv",
+      "name": "9-5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_INT_UT_MOD",
+                "_L_INT_INV",
+                "_L_INT_IND_DES",
+                "_L_INT_RAT_PROP",
+                "_L_INT_COMP_PROG",
+                "_L_INT_DATABASE",
+                ""
+              ]
+            },
+            "title": "COMPOSITE_BREAKDOWN"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Количество объектов интеллектуальной собственности, зарегистрированных в научно-технической сфере"
     },
     {
       "path": "5-3-1/data.csv",
@@ -8774,6 +9492,30 @@
       "title": "Эң аз талап кылынган квалификацияга ээ мугалимдердин үлүшү, билим деңгээли боюнча"
     },
     {
+      "path": "8-1-1-1/data.csv",
+      "name": "8-1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Валовой внутренний продукт на душу населения (в долл. США)"
+    },
+    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -9004,6 +9746,44 @@
         ]
       },
       "title": "Качкындар болгон калктын үлүшү, келип чыккан өлкө боюнча"
+    },
+    {
+      "path": "17-11-1-a/data.csv",
+      "name": "17-11-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Жыл"
+          },
+          {
+            "name": "PRODUCT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_COMP_PER_EQUIP",
+                "_L_COMM_EQUIP",
+                "_L_COMM_ELECT",
+                "_L_OTHER_ELECT_COMP",
+                ""
+              ]
+            },
+            "title": "PRODUCT"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
     },
     {
       "path": "3-1-1/data.csv",
@@ -9953,30 +10733,6 @@
       "title": "Өнүгүп келе жаткан өлкөлөрдүн, эң аз өнүккөн өлкөлөрдүн жана чакан аралдын өнүгүп келе жаткан мамлекеттеринин алдында турган салмактуу орточо тарифтер"
     },
     {
-      "path": "8-1-1-1/data.csv",
-      "name": "8-1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Валовой внутренний продукт на душу населения (в долл. США)"
-    },
-    {
       "path": "14-1-1/data.csv",
       "name": "14-1-1",
       "profile": "tabular-data-resource",
@@ -10023,30 +10779,6 @@
         ]
       },
       "title": "Мамлекеттик сатып алуулардын туруктуу саясатынын жана иш-чаралар планын ишке ашыруунун даражасы"
-    },
-    {
-      "path": "10-4-2-1/data.csv",
-      "name": "10-4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Коэффициент Джини (по доходам)"
     },
     {
       "path": "15-5-1/data.csv",
@@ -10385,30 +11117,6 @@
       "title": "Туризмдин жалпы жумуш орундарынын ичинен туруктуу туризм тармактарындагы жумуш орундарынын үлүшү"
     },
     {
-      "path": "3-4-1-a/data.csv",
-      "name": "3-4-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ожидаемая продолжительность жизни в 15 лет, 45 лет, 65 лет"
-    },
-    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -10551,30 +11259,6 @@
         ]
       },
       "title": "Материалдык изи, жан басына шаққандагы материалдык изи жана ЖІӨ-ге материалдык изи"
-    },
-    {
-      "path": "16-5-1-a/data.csv",
-      "name": "16-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс восприятия коррупции Кыргызстан"
     },
     {
       "path": "17-5-1/data.csv",
@@ -10721,30 +11405,6 @@
       "title": "18 жашка чейинки жыныстык зордук - зомбулукка дуушар болгон 18–29 жаштагы жаш аялдар менен эркектердин үлүшү"
     },
     {
-      "path": "17-11-1-a/data.csv",
-      "name": "17-11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Импорт товаров ИКТ в процентах к совокупному объему импорта товаров"
-    },
-    {
       "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
@@ -10839,30 +11499,6 @@
         ]
       },
       "title": "Айлана -чөйрөнүн жакшы сапаты бар суу денелеринин үлүшү"
-    },
-    {
-      "path": "10-b-1-1/data.csv",
-      "name": "10-b-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-донорам и видам потоков"
     },
     {
       "path": "15-7-1/data.csv",
@@ -11225,30 +11861,6 @@
       "title": "Жыныстык жана мигрант статусу боюнча Эл аралык эмгек уюмунун (ИЛО) тексттик булактарына жана улуттук мыйзамдарына негизделген эмгек укуктарына (бирикме жана коллекциялык келишпестиктер эркиндиги) улуттук шайкештик деңгээли"
     },
     {
-      "path": "3-2-2-1/data.csv",
-      "name": "3-2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Cуммарный коэффициент рождаемости городского и сельского населения"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -11561,54 +12173,6 @@
       "title": "Туруктуу керектөөлөргө жана өндүрүшкө өтүүнү колдоого багытталган саясат инструменттерин иштеп чыгуучу, кабыл алган же ишке ашыруучу өлкөлөрдүн саны"
     },
     {
-      "path": "9-5-2-1/data.csv",
-      "name": "9-5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Количество объектов интеллектуальной собственности, зарегистрированных в научно-технической сфере"
-    },
-    {
-      "path": "17-1-1-a/data.csv",
-      "name": "17-1-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля государственного внешнего долга к ВВП"
-    },
-    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
@@ -11753,30 +12317,6 @@
       "title": "Маалыматка коомдук жеткиликтүүлүк үчүн конституциялык, мыйзамдуу жана/же саясат кепилдиктерин кабыл алган жана ишке ашырган өлкөлөрдүн саны"
     },
     {
-      "path": "8-1-1-2/data.csv",
-      "name": "8-1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Валовой региональный продукт на душу населения (в тыс. сомах)"
-    },
-    {
       "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
@@ -11823,54 +12363,6 @@
         ]
       },
       "title": "Шаарларда (мисалы, ПМ2.5 жана ПМ10) майда бөлүкчөлөрдүн жылдык орто деңгээли (калктын салмагы)"
-    },
-    {
-      "path": "17-15-1-a/data.csv",
-      "name": "17-15-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Индекс человеческого развития"
-    },
-    {
-      "path": "8-5-2-2/data.csv",
-      "name": "8-5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Уровень занятости"
     },
     {
       "path": "11-b-1/data.csv",
@@ -11991,54 +12483,6 @@
         ]
       },
       "title": "Туруктуу негизде жеткиликтүү жана жеткиликтүү тиешелүү зарыл дары-дармектердин негизги топтому бар саламаттык сактоо мекемелеринин үлүшү"
-    },
-    {
-      "path": "16-1-3-1/data.csv",
-      "name": "16-1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Доля женщин в возрасте 15-49 лет, в последние 12 месяцев, подвергшихся физического насилия (ограбления или нападения)"
-    },
-    {
-      "path": "17-13-1-a/data.csv",
-      "name": "17-13-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Глобальный индекс конкурентоспособности"
     },
     {
       "path": "14-7-1/data.csv",
@@ -12183,30 +12627,6 @@
         ]
       },
       "title": "Гендердик теңдикке жана аялдардын күч-кубатына мамлекеттик бөлүштүрүүлөрдү байкоо жана жүргүзүү системалары бар өлкөлөрдүн үлүшү"
-    },
-    {
-      "path": "11-3-1-a/data.csv",
-      "name": "11-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Численность постоянного населения по месту проживания"
     },
     {
       "path": "4-a-1/data.csv",
@@ -12759,54 +13179,6 @@
         ]
       },
       "title": "Бул тизмедеги билим берүүнүн бардык көрсөткүчтөрү үчүн тепе-теңдик индекстери (аял/эркек, айыл/шаар, төмөнкү/жогорку байлык квинтили жана майыптык абалы, жергиликтүү элдер жана конфликттен жабыр тарткан башка адамдар)"
-    },
-    {
-      "path": "17-11-1-b/data.csv",
-      "name": "17-11-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Экспорт товаров ИКТ в процентах к совокупному объему экспорта товаров"
-    },
-    {
-      "path": "3-8-2/data.csv",
-      "name": "3-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Жыл"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Үй чарбалардын жалпы чыгымдарынын же кирешесинин үлүшү катары үй чарбалардын ден соолукка чоң чыгымдары бар калктын үлүшү"
     },
     {
       "path": "16-7-2/data.csv",

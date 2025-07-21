@@ -1,1 +1,51 @@
-Year,Value
+Year,Reference area,Age,Degree of urbanisation,Education level,GeoCode,Value
+2018,,,,,,2.2
+2023,,,,,,1.0
+2018,,,Urban,,,2.5
+2023,,,Urban,,,1.6
+2018,,,Rural,,,2.1
+2023,,,Rural,,,0.7
+2018,Batken,,,,KG05,0.0
+2023,Batken,,,,KG05,0.5
+2018,Jalal-Abad,,,,KG03,0.9
+2023,Jalal-Abad,,,,KG03,0.4
+2018,Issyk-Kul,,,,KG02,0.7
+2023,Issyk-Kul,,,,KG02,0.7
+2018,Naryn,,,,KG04,1.7
+2023,Naryn,,,,KG04,0.7
+2018,Osh,,,,KG06,1.1
+2023,Osh,,,,KG06,0.3
+2018,Talas,,,,KG07,1.2
+2023,Talas,,,,KG07,0.2
+2018,Chui,,,,KG08,6.3
+2023,Chui,,,,KG08,1.7
+2018,Bishkek (city),,,,KG11,3.1
+2023,Bishkek (city),,,,KG11,1.9
+2018,Osh (city),,,,KG21,1.7
+2023,Osh (city),,,,KG21,3.0
+2018,,15 to 19 years old,,,,1.7
+2023,,15 to 19 years old,,,,0.7
+2018,,15 to 17 years old,,,,1.1
+2023,,15 to 17 years old,,,,0.5
+2018,,18 to 19 years old,,,,3.0
+2023,,18 to 19 years old,,,,1.2
+2018,,20 to 24 years old,,,,2.3
+2023,,20 to 24 years old,,,,1.2
+2018,,25 to 29 years old,,,,2.6
+2023,,25 to 29 years old,,,,0.2
+2018,,30 to 34 years old,,,,2.3
+2023,,30 to 34 years old,,,,1.9
+2018,,35 to 39 years old,,,,2.4
+2023,,35 to 39 years old,,,,0.9
+2018,,40 to 44 years old,,,,2.3
+2023,,40 to 44 years old,,,,1.1
+2018,,45 to 49 years old,,,,1.9
+2023,,45 to 49 years old,,,,0.8
+2018,,,,Lower secondary education,,2.3
+2023,,,,Lower secondary education,,0.9
+2018,,,,Upper secondary education,,1.2
+2023,,,,Upper secondary education,,0.8
+2018,,,,Post-secondary non-tertiary education,,2.7
+2023,,,,Post-secondary non-tertiary education,,1.0
+2018,,,,Tertiary education (Bachelor’s and Master's or equivalent),,3.3
+2023,,,,Tertiary education (Bachelor’s and Master's or equivalent),,1.4
