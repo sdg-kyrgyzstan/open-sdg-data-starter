@@ -41,7 +41,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: jamesives/github-pages-deploy-action@v4
       with:
-        token: ${{ secrets.TOKEN11 }}
+        token: ${{ secrets.TOKEN }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
@@ -52,5 +52,5 @@ jobs:
       run: |
         curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.TOKEN11}}" \
+        -H "Authorization: token ${{secrets.TOKEN}}" \
         --data '{"event_type": "rebuild-staging"}'
