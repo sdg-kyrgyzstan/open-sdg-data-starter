@@ -16,6 +16,23 @@
             "title": "Год"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Доля обезвреженных опасных отходов",
+                "Доля захороненных опасных отходов",
+                ""
+              ]
+            },
+            "title": "Составная разбивка"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

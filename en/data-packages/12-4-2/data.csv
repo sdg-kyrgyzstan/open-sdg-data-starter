@@ -1,11 +1,29 @@
-Year,Value
-2014,23.205713
-2015,1736.99
-2016,2008.5
-2017,2015.49
-2018,1878.49
-2019,1720.426152
-2020,1739.648626
-2021,1673.350822
-2022,1800.784358
-2023,1963.948114
+Year,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2014,,Kilograms,23.2
+2015,,Kilograms,1737.0
+2016,,Kilograms,2008.5
+2017,,Kilograms,2015.5
+2018,,Kilograms,1878.5
+2019,,Kilograms,1720.4
+2020,,Kilograms,1739.6
+2021,,Kilograms,1673.4
+2022,,Kilograms,1800.8
+2023,,Kilograms,1963.9
+2015,Proportion of hazardous waste treated,Percent,46.7
+2016,Proportion of hazardous waste treated,Percent,32.9
+2017,Proportion of hazardous waste treated,Percent,40.2
+2018,Proportion of hazardous waste treated,Percent,38.9
+2019,Proportion of hazardous waste treated,Percent,53.8
+2020,Proportion of hazardous waste treated,Percent,56.2
+2021,Proportion of hazardous waste treated,Percent,57.0
+2022,Proportion of hazardous waste treated,Percent,51.3
+2023,Proportion of hazardous waste treated,Percent,46.2
+2015,Proportion of hazardous waste landfilled,Percent,0.1
+2016,Proportion of hazardous waste landfilled,Percent,0.1
+2017,Proportion of hazardous waste landfilled,Percent,0.0
+2018,Proportion of hazardous waste landfilled,Percent,0.1
+2019,Proportion of hazardous waste landfilled,Percent,0.1
+2020,Proportion of hazardous waste landfilled,Percent,0.0
+2021,Proportion of hazardous waste landfilled,Percent,0.1
+2022,Proportion of hazardous waste landfilled,Percent,0.1
+2023,Proportion of hazardous waste landfilled,Percent,0.0

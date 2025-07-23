@@ -1388,10 +1388,10 @@
             "constraints": {
               "enum": [
                 "Y0T4",
-                "Y0",
+                "M0T11",
                 "M12T23",
                 "M24T35",
-                "Y3T4",
+                "M36T47",
                 "M48T59",
                 "Y18T49",
                 ""
@@ -2240,6 +2240,21 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_HAZ_WASTE_TREAT",
+                "_L_HAZ_WASTE_LAND",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -52,10 +52,10 @@
             "constraints": {
               "enum": [
                 "under 5 years old",
-                "under 1 year old",
+                "0 to 11 months old",
                 "12 to 23 months old",
                 "24 to 35 months old",
-                "3 to 4 years old",
+                "36 to 47 months old",
                 "48 to 59 months old",
                 "18 to 49 years old",
                 ""

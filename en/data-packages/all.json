@@ -1511,10 +1511,10 @@
             "constraints": {
               "enum": [
                 "under 5 years old",
-                "under 1 year old",
+                "0 to 11 months old",
                 "12 to 23 months old",
                 "24 to 35 months old",
-                "3 to 4 years old",
+                "36 to 47 months old",
                 "48 to 59 months old",
                 "18 to 49 years old",
                 ""
@@ -2439,6 +2439,23 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of hazardous waste treated",
+                "Proportion of hazardous waste landfilled",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
