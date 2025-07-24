@@ -9467,18 +9467,6 @@
             "title": "Жыл"
           },
           {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6",
-                "3",
-                ""
-              ]
-            },
-            "title": "UNIT_MULT"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SERIES"
