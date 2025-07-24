@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "6",
-                "3",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
