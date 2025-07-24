@@ -9,7 +9,7 @@
 languages:
   - ru
   - en
-  - kg
+  - ky
 
 # Source directory
 # ----------------
@@ -26,7 +26,7 @@ inputs:
       REF_AREA|KG: ''
     drop_dimensions: 
       - SOURCE_DETAIL
-    dsd: SDG_DSD.KG_1.7.xml
+    dsd: SDG_DSD.KG_1.8.xml
     import_codes: true
   - class: InputCsvData
     path_pattern: data/*-*.csv
@@ -56,7 +56,7 @@ translations:
   - class: TranslationInputCsv
     source: translations
   - class: TranslationInputSdmx
-    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG_1.7.xml'
+    source: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.KG_1.8.xml'
 
 # Destination directory
 # ---------------------
@@ -100,3 +100,6 @@ map_layers:
     filename_prefix: indicator_
 
 ignore_out_of_scope_disaggregation_stats: true
+
+reporting_status:
+    disaggregation_indicator_count_label: indicators in scope
