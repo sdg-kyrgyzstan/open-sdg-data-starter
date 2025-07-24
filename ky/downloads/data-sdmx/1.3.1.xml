@@ -2,7 +2,7 @@
 <!--Created with SDMX Converter v11.4.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1753330168817</message:ID>
+    <message:ID>IREF1753330935082</message:ID>
     <message:Test>false</message:Test>
     <message:Prepared>2025-07-24T00:00:00Z</message:Prepared>
     <message:Sender id="KG_NSC"/>
@@ -33,6 +33,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="18" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="17.700522" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="16.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="16.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG05" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="2.109664" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -52,6 +53,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="1.748027" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.76102" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1.641448" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG03" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="4.616846" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -71,6 +73,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="4.11126" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="3.95893" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="3.733292" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="3.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG02" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="1.504927" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -90,6 +93,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="1.522574" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.485975" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1.414274" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG04" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="1.671366" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -109,6 +113,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="1.232652" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.194357" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1.122117" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG06" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="4.940158" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -128,6 +133,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="4.086539" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="3.915491" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="3.736545" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="3.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG07" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="0.73051" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -147,6 +153,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="0.848766" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="0.840002" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="0.787569" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="0.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG08" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="1.958299" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -166,6 +173,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="2.145666" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="2.139388" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="2.068317" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG11" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="1.509824" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -185,6 +193,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="1.821478" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.876285" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1.885866" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="2.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="KG21" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="0.492895" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2007"/>
@@ -204,6 +213,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="0.519895" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2021"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="0.529073" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2022"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="0.497102" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2023"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="0.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="excluding unemployed persons, pregnant women, newborns" TIME_DETAIL="2024"/>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
