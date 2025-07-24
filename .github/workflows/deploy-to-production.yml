@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
@@ -47,7 +47,7 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4.5.0
+      uses: jamesives/github-pages-deploy-action@v4
       with:
         repository-name: sustainabledevelopment-kyrgyzstan/sdg-data
         token: ${{ secrets.TOKEN }}
