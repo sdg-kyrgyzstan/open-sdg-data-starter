@@ -16,7 +16,6 @@ Year,Sex,Value
 2021,,19.1
 2022,,19.3
 2023,,18.6
-2024,,16.7
 2007,Male,10.7
 2008,Male,12.8
 2009,Male,12.3
@@ -34,7 +33,6 @@ Year,Sex,Value
 2021,Male,11.3
 2022,Male,11.2
 2023,Male,11.5
-2024,Male,9.8
 2007,Female,22.8
 2008,Female,21.3
 2009,Female,23.5
@@ -52,4 +50,3 @@ Year,Sex,Value
 2021,Female,27.3
 2022,Female,27.7
 2023,Female,25.9
-2024,Female,23.7
