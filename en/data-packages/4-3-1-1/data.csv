@@ -11,6 +11,7 @@ Year,Sex,Age,Education level,Value
 2021,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),10.8
 2022,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),9.224469
 2023,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),7.959115
+2024,,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),71.0
 2010,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.4
 2013,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),6.0
 2014,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.6
@@ -23,6 +24,7 @@ Year,Sex,Age,Education level,Value
 2021,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),5.2
 2022,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),4.606854
 2023,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),4.126282
+2024,Female,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),47.0
 2010,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.5
 2013,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.6
 2014,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),12.9
@@ -35,6 +37,7 @@ Year,Sex,Age,Education level,Value
 2021,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),16.2
 2022,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),13.54391
 2023,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),11.553674
+2024,Male,15 to 17 years old,Secondary and post-secondary non-tertiary education (intermediate),93.0
 2010,,17 to 20 years old,Short-cycle tertiary education,13.6
 2013,,17 to 20 years old,Short-cycle tertiary education,20.3
 2014,,17 to 20 years old,Short-cycle tertiary education,21.8
@@ -47,6 +50,7 @@ Year,Sex,Age,Education level,Value
 2021,,17 to 20 years old,Short-cycle tertiary education,24.2
 2022,,17 to 20 years old,Short-cycle tertiary education,24.703328
 2023,,17 to 20 years old,Short-cycle tertiary education,26.784013
+2024,,17 to 20 years old,Short-cycle tertiary education,278.0
 2010,Female,17 to 20 years old,Short-cycle tertiary education,16.0
 2013,Female,17 to 20 years old,Short-cycle tertiary education,23.8
 2014,Female,17 to 20 years old,Short-cycle tertiary education,24.3
@@ -59,6 +63,7 @@ Year,Sex,Age,Education level,Value
 2021,Female,17 to 20 years old,Short-cycle tertiary education,27.6
 2022,Female,17 to 20 years old,Short-cycle tertiary education,28.608474
 2023,Female,17 to 20 years old,Short-cycle tertiary education,31.703253
+2024,Female,17 to 20 years old,Short-cycle tertiary education,334.0
 2010,Male,17 to 20 years old,Short-cycle tertiary education,11.2
 2013,Male,17 to 20 years old,Short-cycle tertiary education,16.8
 2014,Male,17 to 20 years old,Short-cycle tertiary education,18.0
@@ -71,6 +76,7 @@ Year,Sex,Age,Education level,Value
 2021,Male,17 to 20 years old,Short-cycle tertiary education,20.9
 2022,Male,17 to 20 years old,Short-cycle tertiary education,20.904451
 2023,Male,17 to 20 years old,Short-cycle tertiary education,22.127283
+2024,Male,17 to 20 years old,Short-cycle tertiary education,225.0
 2010,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.3
 2013,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.3
 2014,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),23.8
@@ -83,6 +89,7 @@ Year,Sex,Age,Education level,Value
 2021,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),28.5
 2022,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.720095
 2023,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),25.785752
+2024,,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),260.0
 2010,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.3
 2013,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.7
 2014,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),26.5
@@ -95,6 +102,7 @@ Year,Sex,Age,Education level,Value
 2021,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),29.7
 2022,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),27.704327
 2023,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),27.26598
+2024,Female,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),287.0
 2010,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),22.4
 2013,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.8
 2014,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),21.2
@@ -107,3 +115,4 @@ Year,Sex,Age,Education level,Value
 2021,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),27.5
 2022,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),25.731792
 2023,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),24.322553
+2024,Male,17 to 24 years old,Tertiary education (Bachelor’s and Master's or equivalent),234.0
