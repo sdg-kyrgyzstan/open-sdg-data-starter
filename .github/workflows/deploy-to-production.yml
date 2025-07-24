@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
@@ -47,13 +47,13 @@ jobs:
       run: |
         python scripts/build_data.py
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         repository-name: sustainabledevelopment-kyrgyzstan/sdg-data
-        token: ${{ secrets.token }}
-        branch: gh-pages
-        folder: _site
-        clean: true
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: _site
+        CLEAN: true
     - name: Waiting 4 minutes for production data deployment
       run: |
         sleep 240
@@ -61,5 +61,5 @@ jobs:
       run: |
         curl -X POST https://api.github.com/repos/sdg-kyrgyzstan/open-sdg-site-starter/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
-        -H "Authorization: token ${{secrets.token}}" \
+        -H "Authorization: token ${{secrets.TOKEN}}" \
         --data '{"event_type": "rebuild-production"}'
