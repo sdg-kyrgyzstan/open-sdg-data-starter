@@ -1,210 +1,199 @@
-Year,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2007,Passenger volume (passenger kilometres),,Passenger kilometres,7037.4
-2008,Passenger volume (passenger kilometres),,Passenger kilometres,7541.0
-2009,Passenger volume (passenger kilometres),,Passenger kilometres,7834.7
-2010,Passenger volume (passenger kilometres),,Passenger kilometres,8122.4
-2011,Passenger volume (passenger kilometres),,Passenger kilometres,8862.6
-2012,Passenger volume (passenger kilometres),,Passenger kilometres,9620.7
-2013,Passenger volume (passenger kilometres),,Passenger kilometres,10378.1
-2014,Passenger volume (passenger kilometres),,Passenger kilometres,10776.8
-2015,Passenger volume (passenger kilometres),,Passenger kilometres,11012.5
-2016,Passenger volume (passenger kilometres),,Passenger kilometres,11333.6
-2017,Passenger volume (passenger kilometres),,Passenger kilometres,12279.3
-2018,Passenger volume (passenger kilometres),,Passenger kilometres,12516.2
-2019,Passenger volume (passenger kilometres),,Passenger kilometres,13135.1
-2020,Passenger volume (passenger kilometres),,Passenger kilometres,7381.8
-2021,Passenger volume (passenger kilometres),,Passenger kilometres,9090.7
-2022,Passenger volume (passenger kilometres),,Passenger kilometres,10444.2
-2023,Passenger volume (passenger kilometres),,Passenger kilometres,11350.7
-2024,Passenger volume (passenger kilometres),,Passenger kilometres,11802.3
-2007,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,59.9
-2008,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,90.2
-2009,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,106.1
-2010,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,98.7
-2011,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,82.8
-2012,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,75.8
-2013,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,55.5
-2014,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,42.9
-2015,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,40.8
-2016,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,40.8
-2017,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,43.4
-2018,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,35.0
-2019,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,37.1
-2020,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,6.8
-2021,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.0
-2022,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.7
-2023,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.6
-2024,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,25.4
-2007,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6162.6
-2008,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6508.6
-2009,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6806.8
-2010,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6810.0
-2011,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6925.5
-2012,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7466.2
-2013,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7717.7
-2014,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8000.0
-2015,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8410.4
-2016,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8839.3
-2017,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8931.5
-2018,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,9305.6
-2019,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,10490.2
-2020,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6035.6
-2021,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7066.7
-2022,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7361.6
-2023,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7996.3
-2024,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8495.8
-2007,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,101.3
-2008,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,71.1
-2009,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,84.9
-2010,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,100.9
-2011,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,97.7
-2012,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,79.9
-2013,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,77.8
-2014,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,82.5
-2015,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,95.6
-2016,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,106.1
-2017,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,120.1
-2018,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,137.1
-2019,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,148.8
-2020,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,89.5
-2021,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,126.0
-2022,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,143.1
-2023,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,145.4
-2024,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,82.3
-2007,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,204.3
-2008,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,235.8
-2009,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,265.0
-2010,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,298.6
-2011,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,356.2
-2012,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,397.2
-2013,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,427.7
-2014,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,471.4
-2015,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,499.6
-2016,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,546.0
-2017,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,569.1
-2018,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,642.4
-2019,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,752.0
-2020,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,712.2
-2021,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,787.0
-2022,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,844.2
-2023,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,1060.7
-2024,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,1223.7
-2007,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,509.3
-2008,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,635.3
-2009,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,571.9
-2010,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,814.2
-2011,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1400.4
-2012,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1601.6
-2013,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2099.4
-2014,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2180.0
-2015,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1966.1
-2016,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1801.4
-2017,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2615.2
-2018,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2396.1
-2019,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1707.0
-2020,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,537.7
-2021,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1090.0
-2022,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2073.5
-2023,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2126.7
-2024,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1975.2
-2007,Freight volume (tonne kilometres),,Tonne kilometres,2021.6
-2008,Freight volume (tonne kilometres),,Tonne kilometres,2338.3
-2009,Freight volume (tonne kilometres),,Tonne kilometres,2140.7
-2010,Freight volume (tonne kilometres),,Tonne kilometres,2178.1
-2011,Freight volume (tonne kilometres),,Tonne kilometres,2360.4
-2012,Freight volume (tonne kilometres),,Tonne kilometres,2604.4
-2013,Freight volume (tonne kilometres),,Tonne kilometres,2662.3
-2014,Freight volume (tonne kilometres),,Tonne kilometres,2497.1
-2015,Freight volume (tonne kilometres),,Tonne kilometres,2525.1
-2016,Freight volume (tonne kilometres),,Tonne kilometres,2466.4
-2017,Freight volume (tonne kilometres),,Tonne kilometres,2641.0
-2018,Freight volume (tonne kilometres),,Tonne kilometres,2777.3
-2019,Freight volume (tonne kilometres),,Tonne kilometres,2913.6
-2020,Freight volume (tonne kilometres),,Tonne kilometres,2434.5
-2021,Freight volume (tonne kilometres),,Tonne kilometres,2620.2
-2022,Freight volume (tonne kilometres),,Tonne kilometres,2756.0
-2023,Freight volume (tonne kilometres),,Tonne kilometres,2985.3
-2024,Freight volume (tonne kilometres),,Tonne kilometres,3180.0
-2007,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,848.9
-2008,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,945.5
-2009,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,744.5
-2010,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,737.7
-2011,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,798.3
-2012,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,922.7
-2013,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1001.7
-2014,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1010.0
-2015,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,917.8
-2016,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,807.0
-2017,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,937.3
-2018,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,950.7
-2019,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,870.4
-2020,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,937.5
-2021,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1003.1
-2022,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1013.8
-2023,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1085.6
-2024,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1075.5
-2007,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,902.5
-2008,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1113.9
-2009,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1256.4
-2010,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1281.5
-2011,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1302.8
-2012,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1371.5
-2013,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1392.0
-2014,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1264.7
-2015,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1401.7
-2016,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1501.3
-2017,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1527.1
-2018,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1624.0
-2019,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1841.9
-2020,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1281.2
-2021,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1348.4
-2022,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1451.1
-2023,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1403.6
-2024,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1531.2
-2007,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,218.3
-2008,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,211.5
-2009,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,90.0
-2010,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,91.5
-2011,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,146.3
-2012,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,208.8
-2013,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,156.7
-2014,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,135.2
-2015,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,145.9
-2016,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,140.7
-2017,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,163.5
-2018,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,192.8
-2019,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,192.8
-2020,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,208.6
-2021,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,248.0
-2022,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,273.4
-2023,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,265.0
-2024,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,320.7
-2007,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.8
-2008,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,8.0
-2009,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.4
-2010,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,3.0
-2011,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.0
-2012,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.2
-2013,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.0
-2014,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.8
-2015,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.3
-2016,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,0.5
-2017,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,0.0
-2007,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,47.1
-2008,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,59.4
-2009,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,45.4
-2010,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,64.4
-2011,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,111.0
-2012,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,99.2
-2013,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,109.9
-2014,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,83.4
-2015,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,57.4
-2016,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,16.9
-2017,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,13.1
-2018,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,9.8
-2019,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,8.5
-2020,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,7.2
-2021,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,20.7
-2022,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,17.7
-2023,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,231.1
-2024,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,252.5
+Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2007,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,7037.4
+2008,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,7541.0
+2009,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,7834.7
+2010,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,8122.4
+2011,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,8862.6
+2012,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,9620.7
+2013,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,10378.1
+2014,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,10776.8
+2015,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,11012.5
+2016,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,11333.6
+2017,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,12279.3
+2018,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,12516.2
+2019,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,13135.1
+2020,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,7381.8
+2021,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,9090.7
+2022,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,10444.2
+2023,Millions,Passenger volume (passenger kilometres),,Passenger kilometres,11350.7
+2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,59.9
+2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,90.2
+2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,106.1
+2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,98.7
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,82.8
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,75.8
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,55.5
+2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,42.9
+2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,40.8
+2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,40.8
+2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,43.4
+2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,35.0
+2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,37.1
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,6.8
+2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.7
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Rail,Passenger kilometres,21.6
+2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6162.6
+2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6508.6
+2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6806.8
+2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6810.0
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6925.5
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7466.2
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7717.7
+2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8000.0
+2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8410.4
+2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8839.3
+2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,8931.5
+2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,9305.6
+2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,10490.2
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,6035.6
+2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7066.7
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7361.6
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Bus,Passenger kilometres,7996.3
+2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,101.3
+2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,71.1
+2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,84.9
+2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,100.9
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,97.7
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,79.9
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,77.8
+2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,82.5
+2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,95.6
+2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,106.1
+2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,120.1
+2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,137.1
+2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,148.8
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,89.5
+2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,126.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,143.1
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Trolley bus,Passenger kilometres,145.4
+2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,204.3
+2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,235.8
+2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,265.0
+2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,298.6
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,356.2
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,397.2
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,427.7
+2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,471.4
+2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,499.6
+2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,546.0
+2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,569.1
+2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,642.4
+2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,752.0
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,712.2
+2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,787.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,844.2
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Taxi,Passenger kilometres,1060.7
+2007,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,509.3
+2008,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,635.3
+2009,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,571.9
+2010,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,814.2
+2011,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1400.4
+2012,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1601.6
+2013,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2099.4
+2014,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2180.0
+2015,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1966.1
+2016,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1801.4
+2017,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2615.2
+2018,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2396.1
+2019,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1707.0
+2020,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,537.7
+2021,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,1090.0
+2022,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2073.5
+2023,Millions,Passenger volume (passenger kilometres),Mode of Transport: Air,Passenger kilometres,2126.7
+2007,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2021.6
+2008,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2338.3
+2009,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2140.7
+2010,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2178.1
+2011,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2360.4
+2012,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2604.4
+2013,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2662.3
+2014,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2497.1
+2015,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2525.1
+2016,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2466.4
+2017,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2641.0
+2018,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2777.3
+2019,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2913.6
+2020,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2434.5
+2021,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2620.2
+2022,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2756.0
+2023,Millions,Freight volume (tonne kilometres),,Tonne kilometres,2985.3
+2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,848.9
+2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,945.5
+2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,744.5
+2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,737.7
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,798.3
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,922.7
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1001.7
+2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1010.0
+2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,917.8
+2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,807.0
+2017,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,937.3
+2018,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,950.7
+2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,870.4
+2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,937.5
+2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1003.1
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1013.8
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Rail,Tonne kilometres,1085.6
+2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,902.5
+2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1113.9
+2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1256.4
+2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1281.5
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1302.8
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1371.5
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1392.0
+2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1264.7
+2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1401.7
+2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1501.3
+2017,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1527.1
+2018,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1624.0
+2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1841.9
+2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1281.2
+2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1348.4
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1451.1
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Road,Tonne kilometres,1403.6
+2007,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,218.3
+2008,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,211.5
+2009,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,90.0
+2010,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,91.5
+2011,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,146.3
+2012,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,208.8
+2013,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,156.7
+2014,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,135.2
+2015,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,145.9
+2016,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,140.7
+2017,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,163.5
+2018,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,192.8
+2019,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,192.8
+2020,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,208.6
+2021,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,248.0
+2022,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,273.4
+2023,Millions,Freight volume (tonne kilometres),Mode of Transport: Pipeline,Tonne kilometres,265.0
+2007,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.8
+2008,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,8.0
+2009,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,4.4
+2010,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,3.0
+2011,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.0
+2012,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.2
+2013,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.0
+2014,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.8
+2015,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,2.3
+2016,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,0.5
+2017,Thousands,Freight volume (tonne kilometres),Mode of Transport: Water,Tonne kilometres,0.0
+2007,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,47.1
+2008,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,59.4
+2009,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,45.4
+2010,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,64.4
+2011,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,111.0
+2012,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,99.2
+2013,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,109.9
+2014,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,83.4
+2015,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,57.4
+2016,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,16.9
+2017,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,13.1
+2018,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,9.8
+2019,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,8.5
+2020,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,7.2
+2021,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,20.7
+2022,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,17.7
+2023,Thousands,Freight volume (tonne kilometres),Mode of Transport: Air,Tonne kilometres,231.1

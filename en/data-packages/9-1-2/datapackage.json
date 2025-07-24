@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions",
+                "Thousands",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"

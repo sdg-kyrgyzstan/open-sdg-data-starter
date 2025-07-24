@@ -16,6 +16,18 @@
             "title": "Год"
           },
           {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Миллионы",
+                "Тысячи",
+                ""
+              ]
+            },
+            "title": "Множитель"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "title": "Ряды ЦУР"
