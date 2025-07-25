@@ -16,6 +16,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,,,5.3
 2022,,,,,4.9
 2023,,,,,4.1
+2024,,,,,3.7
 2007,,Female,,,9.0
 2008,,Female,,,9.4
 2009,,Female,,,9.8
@@ -33,6 +34,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,Female,,,6.3
 2022,,Female,,,6.1
 2023,,Female,,,5.2
+2024,,Female,,,4.7
 2007,,Male,,,7.6
 2008,,Male,,,7.3
 2009,,Male,,,7.4
@@ -50,6 +52,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,Male,,,4.7
 2022,,Male,,,4.0
 2023,,Male,,,3.3
+2024,,Male,,,3.0
 2007,Batken,,,KG05,10.3
 2008,Batken,,,KG05,11.1
 2009,Batken,,,KG05,10.2
@@ -67,6 +70,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Batken,,,KG05,6.6
 2022,Batken,,,KG05,6.1
 2023,Batken,,,KG05,5.9
+2024,Batken,,,KG05,5.7
 2009,Batken,Female,,KG05,14.8
 2010,Batken,Female,,KG05,15.8
 2011,Batken,Female,,KG05,14.0
@@ -82,6 +86,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Batken,Female,,KG05,7.5
 2022,Batken,Female,,KG05,12.4
 2023,Batken,Female,,KG05,8.6
+2024,Batken,Female,,KG05,8.3
 2009,Batken,Male,,KG05,7.2
 2010,Batken,Male,,KG05,7.2
 2011,Batken,Male,,KG05,8.4
@@ -97,6 +102,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Batken,Male,,KG05,6.2
 2022,Batken,Male,,KG05,3.2
 2023,Batken,Male,,KG05,4.7
+2024,Batken,Male,,KG05,4.6
 2007,Jalal-Abad,,,KG03,6.8
 2008,Jalal-Abad,,,KG03,6.9
 2009,Jalal-Abad,,,KG03,7.0
@@ -114,6 +120,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Jalal-Abad,,,KG03,11.8
 2022,Jalal-Abad,,,KG03,10.8
 2023,Jalal-Abad,,,KG03,8.2
+2024,Jalal-Abad,,,KG03,7.1
 2009,Jalal-Abad,Female,,KG03,8.5
 2010,Jalal-Abad,Female,,KG03,8.9
 2011,Jalal-Abad,Female,,KG03,9.4
@@ -129,6 +136,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Jalal-Abad,Female,,KG03,15.5
 2022,Jalal-Abad,Female,,KG03,14.6
 2023,Jalal-Abad,Female,,KG03,14.2
+2024,Jalal-Abad,Female,,KG03,10.2
 2009,Jalal-Abad,Male,,KG03,5.9
 2010,Jalal-Abad,Male,,KG03,7.1
 2011,Jalal-Abad,Male,,KG03,7.3
@@ -144,6 +152,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Jalal-Abad,Male,,KG03,9.7
 2022,Jalal-Abad,Male,,KG03,8.5
 2023,Jalal-Abad,Male,,KG03,4.5
+2024,Jalal-Abad,Male,,KG03,5.3
 2007,Issyk-Kul,,,KG02,7.0
 2008,Issyk-Kul,,,KG02,7.2
 2009,Issyk-Kul,,,KG02,9.4
@@ -161,6 +170,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Issyk-Kul,,,KG02,6.3
 2022,Issyk-Kul,,,KG02,5.5
 2023,Issyk-Kul,,,KG02,5.1
+2024,Issyk-Kul,,,KG02,4.5
 2009,Issyk-Kul,Female,,KG02,11.1
 2010,Issyk-Kul,Female,,KG02,10.1
 2011,Issyk-Kul,Female,,KG02,10.8
@@ -176,6 +186,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Issyk-Kul,Female,,KG02,7.5
 2022,Issyk-Kul,Female,,KG02,7.1
 2023,Issyk-Kul,Female,,KG02,3.4
+2024,Issyk-Kul,Female,,KG02,4.6
 2009,Issyk-Kul,Male,,KG02,8.2
 2010,Issyk-Kul,Male,,KG02,10.3
 2011,Issyk-Kul,Male,,KG02,8.9
@@ -191,6 +202,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Issyk-Kul,Male,,KG02,5.6
 2022,Issyk-Kul,Male,,KG02,4.4
 2023,Issyk-Kul,Male,,KG02,6.1
+2024,Issyk-Kul,Male,,KG02,4.5
 2007,Naryn,,,KG04,11.1
 2008,Naryn,,,KG04,11.2
 2009,Naryn,,,KG04,10.0
@@ -208,6 +220,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Naryn,,,KG04,6.3
 2022,Naryn,,,KG04,5.8
 2023,Naryn,,,KG04,5.1
+2024,Naryn,,,KG04,4.8
 2009,Naryn,Female,,KG04,14.7
 2010,Naryn,Female,,KG04,14.7
 2011,Naryn,Female,,KG04,14.7
@@ -223,6 +236,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Naryn,Female,,KG04,10.8
 2022,Naryn,Female,,KG04,11.6
 2023,Naryn,Female,,KG04,10.8
+2024,Naryn,Female,,KG04,8.6
 2009,Naryn,Male,,KG04,7.6
 2010,Naryn,Male,,KG04,8.2
 2011,Naryn,Male,,KG04,8.1
@@ -238,6 +252,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Naryn,Male,,KG04,4.3
 2022,Naryn,Male,,KG04,3.1
 2023,Naryn,Male,,KG04,2.3
+2024,Naryn,Male,,KG04,2.8
 2007,Osh,,,KG06,5.4
 2008,Osh,,,KG06,5.5
 2009,Osh,,,KG06,6.6
@@ -255,6 +270,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh,,,KG06,1.9
 2022,Osh,,,KG06,1.5
 2023,Osh,,,KG06,1.4
+2024,Osh,,,KG06,0.9
 2009,Osh,Female,,KG06,8.1
 2010,Osh,Female,,KG06,7.8
 2011,Osh,Female,,KG06,7.8
@@ -270,6 +286,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh,Female,,KG06,3.1
 2022,Osh,Female,,KG06,2.3
 2023,Osh,Female,,KG06,2.1
+2024,Osh,Female,,KG06,1.6
 2009,Osh,Male,,KG06,5.7
 2010,Osh,Male,,KG06,5.9
 2011,Osh,Male,,KG06,5.8
@@ -285,6 +302,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh,Male,,KG06,1.1
 2022,Osh,Male,,KG06,1.0
 2023,Osh,Male,,KG06,1.0
+2024,Osh,Male,,KG06,0.5
 2007,Talas,,,KG07,5.1
 2008,Talas,,,KG07,5.4
 2009,Talas,,,KG07,4.9
@@ -302,6 +320,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Talas,,,KG07,2.6
 2022,Talas,,,KG07,2.3
 2023,Talas,,,KG07,2.0
+2024,Talas,,,KG07,2.0
 2009,Talas,Female,,KG07,5.7
 2010,Talas,Female,,KG07,5.2
 2011,Talas,Female,,KG07,5.9
@@ -317,6 +336,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Talas,Female,,KG07,3.8
 2022,Talas,Female,,KG07,3.3
 2023,Talas,Female,,KG07,3.2
+2024,Talas,Female,,KG07,2.9
 2009,Talas,Male,,KG07,4.2
 2010,Talas,Male,,KG07,4.9
 2011,Talas,Male,,KG07,4.4
@@ -332,6 +352,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Talas,Male,,KG07,1.7
 2022,Talas,Male,,KG07,1.6
 2023,Talas,Male,,KG07,1.1
+2024,Talas,Male,,KG07,1.2
 2007,Chui,,,KG08,13.0
 2008,Chui,,,KG08,12.7
 2009,Chui,,,KG08,10.3
@@ -349,6 +370,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Chui,,,KG08,5.3
 2022,Chui,,,KG08,4.6
 2023,Chui,,,KG08,4.1
+2024,Chui,,,KG08,3.7
 2009,Chui,Female,,KG08,11.3
 2010,Chui,Female,,KG08,11.4
 2011,Chui,Female,,KG08,10.5
@@ -364,6 +386,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Chui,Female,,KG08,6.2
 2022,Chui,Female,,KG08,4.4
 2023,Chui,Female,,KG08,4.5
+2024,Chui,Female,,KG08,4.8
 2009,Chui,Male,,KG08,9.6
 2010,Chui,Male,,KG08,9.3
 2011,Chui,Male,,KG08,9.5
@@ -379,6 +402,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Chui,Male,,KG08,4.8
 2022,Chui,Male,,KG08,4.7
 2023,Chui,Male,,KG08,3.9
+2024,Chui,Male,,KG08,3.0
 2007,Bishkek (city),,,KG11,8.7
 2008,Bishkek (city),,,KG11,8.6
 2009,Bishkek (city),,,KG11,10.2
@@ -396,6 +420,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Bishkek (city),,,KG11,4.1
 2022,Bishkek (city),,,KG11,4.0
 2023,Bishkek (city),,,KG11,3.5
+2024,Bishkek (city),,,KG11,3.5
 2009,Bishkek (city),Female,,KG11,9.6
 2010,Bishkek (city),Female,,KG11,10.6
 2011,Bishkek (city),Female,,KG11,10.6
@@ -411,6 +436,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Bishkek (city),Female,,KG11,3.3
 2022,Bishkek (city),Female,,KG11,3.2
 2023,Bishkek (city),Female,,KG11,2.6
+2024,Bishkek (city),Female,,KG11,3.3
 2009,Bishkek (city),Male,,KG11,10.7
 2010,Bishkek (city),Male,,KG11,9.5
 2011,Bishkek (city),Male,,KG11,8.7
@@ -426,6 +452,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Bishkek (city),Male,,KG11,4.9
 2022,Bishkek (city),Male,,KG11,4.7
 2023,Bishkek (city),Male,,KG11,4.4
+2024,Bishkek (city),Male,,KG11,3.6
 2013,Osh (city),,,KG21,4.6
 2014,Osh (city),,,KG21,4.2
 2015,Osh (city),,,KG21,3.9
@@ -437,6 +464,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh (city),,,KG21,2.8
 2022,Osh (city),,,KG21,2.6
 2023,Osh (city),,,KG21,2.1
+2024,Osh (city),,,KG21,1.9
 2013,Osh (city),Female,,KG21,3.8
 2014,Osh (city),Female,,KG21,5.2
 2015,Osh (city),Female,,KG21,5.6
@@ -448,6 +476,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh (city),Female,,KG21,3.4
 2022,Osh (city),Female,,KG21,3.3
 2023,Osh (city),Female,,KG21,2.7
+2024,Osh (city),Female,,KG21,3.4
 2013,Osh (city),Male,,KG21,5.0
 2014,Osh (city),Male,,KG21,3.8
 2015,Osh (city),Male,,KG21,3.1
@@ -459,6 +488,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,Osh (city),Male,,KG21,2.6
 2022,Osh (city),Male,,KG21,2.2
 2023,Osh (city),Male,,KG21,1.8
+2024,Osh (city),Male,,KG21,1.3
 2007,,,15 to 19 years old,,15.1
 2008,,,15 to 19 years old,,13.3
 2009,,,15 to 19 years old,,16.8
@@ -476,6 +506,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,15 to 19 years old,,15.7
 2022,,,15 to 19 years old,,13.2
 2023,,,15 to 19 years old,,6.7
+2024,,,15 to 19 years old,,8.1
 2007,,,20 to 29 years old,,10.2
 2008,,,20 to 29 years old,,11.4
 2009,,,20 to 29 years old,,12.7
@@ -493,6 +524,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,20 to 29 years old,,7.9
 2022,,,20 to 29 years old,,7.5
 2023,,,20 to 29 years old,,8.2
+2024,,,20 to 29 years old,,6.8
 2007,,,30 to 39 years old,,7.2
 2008,,,30 to 39 years old,,7.3
 2009,,,30 to 39 years old,,6.1
@@ -510,6 +542,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,30 to 39 years old,,4.5
 2022,,,30 to 39 years old,,4.1
 2023,,,30 to 39 years old,,3.4
+2024,,,30 to 39 years old,,3.3
 2007,,,40 to 49 years old,,6.2
 2008,,,40 to 49 years old,,6.2
 2009,,,40 to 49 years old,,5.2
@@ -527,6 +560,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,40 to 49 years old,,4.4
 2022,,,40 to 49 years old,,4.3
 2023,,,40 to 49 years old,,2.7
+2024,,,40 to 49 years old,,3.0
 2007,,,50 to 59 years old,,5.7
 2008,,,50 to 59 years old,,4.5
 2009,,,50 to 59 years old,,4.6
@@ -544,6 +578,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,50 to 59 years old,,2.9
 2022,,,50 to 59 years old,,2.6
 2023,,,50 to 59 years old,,1.8
+2024,,,50 to 59 years old,,1.4
 2007,,,60 to 69 years old,,2.9
 2008,,,60 to 69 years old,,0.8
 2009,,,60 to 69 years old,,1.5
@@ -561,6 +596,7 @@ Year,Reference area,Sex,Age,GeoCode,Value
 2021,,,60 to 69 years old,,1.4
 2022,,,60 to 69 years old,,1.0
 2023,,,60 to 69 years old,,1.0
+2024,,,60 to 69 years old,,0.3
 2010,,,70 years old and over,,0.561023
 2011,,,70 years old and over,,0.7
 2013,,,70 years old and over,,1.6
