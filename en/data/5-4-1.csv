@@ -29,3 +29,13 @@ Year,Sex,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
 2020,Male,,Unpaid care for children,1.2
 2015,Female,,Unpaid care for children,1.2
 2020,Female,,Unpaid care for children,2.8
+2015,,,Unpaid help to relatives and acquaintances,0.5
+2020,,,Unpaid help to relatives and acquaintances,0.3
+2015,,Urban,Unpaid help to relatives and acquaintances,0.4
+2020,,Urban,Unpaid help to relatives and acquaintances,0.3
+2015,,Rural,Unpaid help to relatives and acquaintances,0.6
+2020,,Rural,Unpaid help to relatives and acquaintances,0.3
+2015,Male,,Unpaid help to relatives and acquaintances,0.6
+2020,Male,,Unpaid help to relatives and acquaintances,0.3
+2015,Female,,Unpaid help to relatives and acquaintances,0.3
+2020,Female,,Unpaid help to relatives and acquaintances,0.3
