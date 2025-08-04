@@ -35,13 +35,47 @@
             "title": "Территория"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "от 15 до 19 лет",
+                "от 20 до 24 лет",
+                "от 25 до 29 лет",
+                "от 30 до 34 лет",
+                "от 35 до 39 лет",
+                "от 40 до 44 лет",
+                "от 45 до 49 лет",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Городская",
+                "Сельская",
+                ""
+              ]
+            },
+            "title": "Тип местности"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Единица измерения"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

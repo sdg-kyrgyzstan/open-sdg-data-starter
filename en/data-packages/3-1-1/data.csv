@@ -1,162 +1,174 @@
-Year,Reference area,GeoCode,Value
-2007,,,51.9
-2008,,,55.0
-2009,,,63.5
-2010,,,51.3
-2011,,,54.8
-2012,,,49.1
-2013,,,36.0
-2014,,,50.1
-2015,,,38.5
-2016,,,30.3
-2017,,,31.9
-2018,,,28.6
-2019,,,24.8
-2020,,,38.6
-2021,,,33.3
-2022,,,27.292395
-2023,,,22.606301
-2007,Batken,KG05,74.8
-2008,Batken,KG05,66.6
-2009,Batken,KG05,41.7
-2010,Batken,KG05,59.7
-2011,Batken,KG05,66.9
-2012,Batken,KG05,43.5
-2013,Batken,KG05,42.0
-2014,Batken,KG05,108.7
-2015,Batken,KG05,26.1
-2016,Batken,KG05,41.9
-2017,Batken,KG05,51.9
-2018,Batken,KG05,33.6
-2019,Batken,KG05,25.8
-2020,Batken,KG05,42.4
-2021,Batken,KG05,38.3
-2022,Batken,KG05,36.613943
-2023,Batken,KG05,13.621195
-2007,Jalal-Abad,KG03,32.8
-2008,Jalal-Abad,KG03,66.6
-2009,Jalal-Abad,KG03,40.3
-2010,Jalal-Abad,KG03,31.1
-2011,Jalal-Abad,KG03,36.5
-2012,Jalal-Abad,KG03,55.9
-2013,Jalal-Abad,KG03,33.0
-2014,Jalal-Abad,KG03,53.7
-2015,Jalal-Abad,KG03,53.3
-2016,Jalal-Abad,KG03,33.5
-2017,Jalal-Abad,KG03,53.6
-2018,Jalal-Abad,KG03,38.2
-2019,Jalal-Abad,KG03,37.2
-2020,Jalal-Abad,KG03,53.2
-2021,Jalal-Abad,KG03,31.7
-2022,Jalal-Abad,KG03,14.186913
-2023,Jalal-Abad,KG03,38.913029
-2007,Issyk-Kul,KG02,89.7
-2008,Issyk-Kul,KG02,122.9
-2009,Issyk-Kul,KG02,72.0
-2010,Issyk-Kul,KG02,70.4
-2011,Issyk-Kul,KG02,62.6
-2012,Issyk-Kul,KG02,97.2
-2013,Issyk-Kul,KG02,37.2
-2014,Issyk-Kul,KG02,55.3
-2015,Issyk-Kul,KG02,26.7
-2016,Issyk-Kul,KG02,34.7
-2017,Issyk-Kul,KG02,37.0
-2018,Issyk-Kul,KG02,71.2
-2019,Issyk-Kul,KG02,28.4
-2020,Issyk-Kul,KG02,90.6
-2021,Issyk-Kul,KG02,98.7
-2022,Issyk-Kul,KG02,55.377118
-2023,Issyk-Kul,KG02,19.215988
-2007,Naryn,KG04,62.3
-2008,Naryn,KG04,46.2
-2009,Naryn,KG04,105.5
-2010,Naryn,KG04,69.6
-2011,Naryn,KG04,83.3
-2012,Naryn,KG04,56.2
-2013,Naryn,KG04,29.0
-2014,Naryn,KG04,135.7
-2015,Naryn,KG04,30.6
-2016,Naryn,KG04,43.7
-2018,Naryn,KG04,105.7
-2019,Naryn,KG04,16.6
-2020,Naryn,KG04,52.6
-2021,Naryn,KG04,157.2
-2022,Naryn,KG04,42.247571
-2007,Osh,KG06,26.0
-2008,Osh,KG06,54.4
-2009,Osh,KG06,93.2
-2010,Osh,KG06,78.6
-2011,Osh,KG06,62.5
-2012,Osh,KG06,58.1
-2013,Osh,KG06,42.8
-2014,Osh,KG06,43.4
-2015,Osh,KG06,43.4
-2016,Osh,KG06,24.9
-2017,Osh,KG06,25.6
-2018,Osh,KG06,19.5
-2019,Osh,KG06,25.5
-2020,Osh,KG06,24.5
-2021,Osh,KG06,24.9
-2022,Osh,KG06,30.188173
-2023,Osh,KG06,19.928826
-2007,Talas,KG07,120.3
-2008,Talas,KG07,51.1
-2009,Talas,KG07,61.3
-2010,Talas,KG07,87.0
-2011,Talas,KG07,40.9
-2012,Talas,KG07,14.1
-2013,Talas,KG07,14.8
-2014,Talas,KG07,44.6
-2015,Talas,KG07,15.1
-2019,Talas,KG07,16.6
-2020,Talas,KG07,69.1
-2021,Talas,KG07,38.4
-2022,Talas,KG07,97.030856
-2023,Talas,KG07,48.820179
-2007,Chui,KG08,78.3
-2008,Chui,KG08,34.4
-2009,Chui,KG08,61.1
-2010,Chui,KG08,49.5
-2011,Chui,KG08,69.0
-2012,Chui,KG08,41.2
-2013,Chui,KG08,50.4
-2014,Chui,KG08,44.4
-2015,Chui,KG08,40.3
-2016,Chui,KG08,47.9
-2017,Chui,KG08,22.9
-2018,Chui,KG08,16.1
-2019,Chui,KG08,32.5
-2020,Chui,KG08,32.2
-2021,Chui,KG08,15.1
-2022,Chui,KG08,25.2
-2023,Chui,KG08,18.458699
-2007,Bishkek (city),KG11,17.3
-2008,Bishkek (city),KG11,22.0
-2009,Bishkek (city),KG11,20.4
-2010,Bishkek (city),KG11,19.4
-2011,Bishkek (city),KG11,43.3
-2012,Bishkek (city),KG11,18.0
-2013,Bishkek (city),KG11,26.1
-2014,Bishkek (city),KG11,16.4
-2015,Bishkek (city),KG11,30.5
-2016,Bishkek (city),KG11,17.6
-2017,Bishkek (city),KG11,13.4
-2018,Bishkek (city),KG11,18.0
-2019,Bishkek (city),KG11,16.9
-2020,Bishkek (city),KG11,19.1
-2021,Bishkek (city),KG11,14.6
-2022,Bishkek (city),KG11,21.849964
-2023,Bishkek (city),KG11,7.70416
-2007,Osh (city),KG21,100.6
-2008,Osh (city),KG21,38.6
-2009,Osh (city),KG21,168.4
-2011,Osh (city),KG21,35.7
-2012,Osh (city),KG21,60.3
-2013,Osh (city),KG21,15.0
-2015,Osh (city),KG21,40.9
-2016,Osh (city),KG21,13.5
-2017,Osh (city),KG21,64.9
-2018,Osh (city),KG21,8.3
-2020,Osh (city),KG21,25.2
-2021,Osh (city),KG21,21.7
-2023,Osh (city),KG21,29.19708
+Year,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2015,,,,"Per 100,000 live births",,385
+2016,,,,"Per 100,000 live births",,303
+2017,,,,"Per 100,000 live births",,312
+2018,,,,"Per 100,000 live births",,298
+2019,,,,"Per 100,000 live births",,248
+2020,,,,"Per 100,000 live births",,424
+2021,,,,"Per 100,000 live births",,371
+2022,,,,"Per 100,000 live births",,281
+2023,,,,"Per 100,000 live births",,260
+2024,,,,"Per 100,000 live births",,257
+2015,Batken,,,"Per 100,000 live births",KG05,326
+2016,Batken,,,"Per 100,000 live births",KG05,419
+2017,Batken,,,"Per 100,000 live births",KG05,594
+2018,Batken,,,"Per 100,000 live births",KG05,269
+2019,Batken,,,"Per 100,000 live births",KG05,323
+2020,Batken,,,"Per 100,000 live births",KG05,424
+2021,Batken,,,"Per 100,000 live births",KG05,457
+2022,Batken,,,"Per 100,000 live births",KG05,349
+2023,Batken,,,"Per 100,000 live births",KG05,145
+2024,Batken,,,"Per 100,000 live births",KG05,304
+2015,Jalal-Abad,,,"Per 100,000 live births",KG03,564
+2016,Jalal-Abad,,,"Per 100,000 live births",KG03,335
+2017,Jalal-Abad,,,"Per 100,000 live births",KG03,503
+2018,Jalal-Abad,,,"Per 100,000 live births",KG03,382
+2019,Jalal-Abad,,,"Per 100,000 live births",KG03,341
+2020,Jalal-Abad,,,"Per 100,000 live births",KG03,532
+2021,Jalal-Abad,,,"Per 100,000 live births",KG03,305
+2022,Jalal-Abad,,,"Per 100,000 live births",KG03,287
+2023,Jalal-Abad,,,"Per 100,000 live births",KG03,469
+2024,Jalal-Abad,,,"Per 100,000 live births",KG03,306
+2015,Issyk-Kul,,,"Per 100,000 live births",KG02,178
+2016,Issyk-Kul,,,"Per 100,000 live births",KG02,434
+2017,Issyk-Kul,,,"Per 100,000 live births",KG02,370
+2018,Issyk-Kul,,,"Per 100,000 live births",KG02,623
+2019,Issyk-Kul,,,"Per 100,000 live births",KG02,189
+2020,Issyk-Kul,,,"Per 100,000 live births",KG02,1006
+2021,Issyk-Kul,,,"Per 100,000 live births",KG02,1035
+2022,Issyk-Kul,,,"Per 100,000 live births",KG02,385
+2023,Issyk-Kul,,,"Per 100,000 live births",KG02,265
+2024,Issyk-Kul,,,"Per 100,000 live births",KG02,565
+2015,Naryn,,,"Per 100,000 live births",KG04,306
+2016,Naryn,,,"Per 100,000 live births",KG04,292
+2018,Naryn,,,"Per 100,000 live births",KG04,1359
+2019,Naryn,,,"Per 100,000 live births",KG04,331
+2020,Naryn,,,"Per 100,000 live births",KG04,526
+2021,Naryn,,,"Per 100,000 live births",KG04,1675
+2022,Naryn,,,"Per 100,000 live births",KG04,480
+2015,Osh,,,"Per 100,000 live births",KG06,306
+2016,Osh,,,"Per 100,000 live births",KG06,277
+2017,Osh,,,"Per 100,000 live births",KG06,256
+2018,Osh,,,"Per 100,000 live births",KG06,222
+2019,Osh,,,"Per 100,000 live births",KG06,255
+2020,Osh,,,"Per 100,000 live births",KG06,245
+2021,Osh,,,"Per 100,000 live births",KG06,333
+2022,Osh,,,"Per 100,000 live births",KG06,256
+2023,Osh,,,"Per 100,000 live births",KG06,302
+2024,Osh,,,"Per 100,000 live births",KG06,73
+2015,Talas,,,"Per 100,000 live births",KG07,151
+2019,Talas,,,"Per 100,000 live births",KG07,333
+2020,Talas,,,"Per 100,000 live births",KG07,519
+2021,Talas,,,"Per 100,000 live births",KG07,371
+2022,Talas,,,"Per 100,000 live births",KG07,1045
+2023,Talas,,,"Per 100,000 live births",KG07,639
+2024,Talas,,,"Per 100,000 live births",KG07,701
+2015,Chui,,,"Per 100,000 live births",KG08,492
+2016,Chui,,,"Per 100,000 live births",KG08,435
+2017,Chui,,,"Per 100,000 live births",KG08,229
+2018,Chui,,,"Per 100,000 live births",KG08,201
+2019,Chui,,,"Per 100,000 live births",KG08,366
+2020,Chui,,,"Per 100,000 live births",KG08,461
+2021,Chui,,,"Per 100,000 live births",KG08,325
+2022,Chui,,,"Per 100,000 live births",KG08,235
+2023,Chui,,,"Per 100,000 live births",KG08,281
+2024,Chui,,,"Per 100,000 live births",KG08,502
+2015,Bishkek (city),,,"Per 100,000 live births",KG11,305
+2016,Bishkek (city),,,"Per 100,000 live births",KG11,176
+2017,Bishkek (city),,,"Per 100,000 live births",KG11,134
+2018,Bishkek (city),,,"Per 100,000 live births",KG11,144
+2019,Bishkek (city),,,"Per 100,000 live births",KG11,101
+2020,Bishkek (city),,,"Per 100,000 live births",KG11,268
+2021,Bishkek (city),,,"Per 100,000 live births",KG11,193
+2022,Bishkek (city),,,"Per 100,000 live births",KG11,343
+2023,Bishkek (city),,,"Per 100,000 live births",KG11,135
+2024,Bishkek (city),,,"Per 100,000 live births",KG11,270
+2015,Osh (city),,,"Per 100,000 live births",KG21,681
+2016,Osh (city),,,"Per 100,000 live births",KG21,135
+2017,Osh (city),,,"Per 100,000 live births",KG21,519
+2018,Osh (city),,,"Per 100,000 live births",KG21,167
+2020,Osh (city),,,"Per 100,000 live births",KG21,336
+2021,Osh (city),,,"Per 100,000 live births",KG21,165
+2023,Osh (city),,,"Per 100,000 live births",KG21,140
+2024,Osh (city),,,"Per 100,000 live births",KG21,86
+2015,,,Urban,Number,,14
+2016,,,Urban,Number,,8
+2017,,,Urban,Number,,10
+2018,,,Urban,Number,,16
+2019,,,Urban,Number,,13
+2020,,,Urban,Number,,17
+2021,,,Urban,Number,,10
+2022,,,Urban,Number,,12
+2023,,,Urban,Number,,8
+2024,,,Urban,Number,,10
+2015,,,Rural,Number,,49
+2016,,,Rural,Number,,40
+2017,,,Rural,Number,,38
+2018,,,Rural,Number,,35
+2019,,,Rural,Number,,30
+2020,,,Rural,Number,,50
+2021,,,Rural,Number,,47
+2022,,,Rural,Number,,29
+2023,,,Rural,Number,,30
+2024,,,Rural,Number,,26
+2015,,15 to 19 years old,,Number,,5
+2016,,15 to 19 years old,,Number,,3
+2017,,15 to 19 years old,,Number,,1
+2018,,15 to 19 years old,,Number,,5
+2019,,15 to 19 years old,,Number,,1
+2020,,15 to 19 years old,,Number,,2
+2021,,15 to 19 years old,,Number,,6
+2023,,15 to 19 years old,,Number,,1
+2024,,15 to 19 years old,,Number,,1
+2015,,20 to 24 years old,,Number,,11
+2016,,20 to 24 years old,,Number,,8
+2017,,20 to 24 years old,,Number,,6
+2018,,20 to 24 years old,,Number,,16
+2019,,20 to 24 years old,,Number,,10
+2020,,20 to 24 years old,,Number,,13
+2021,,20 to 24 years old,,Number,,12
+2022,,20 to 24 years old,,Number,,12
+2023,,20 to 24 years old,,Number,,7
+2024,,20 to 24 years old,,Number,,11
+2015,,25 to 29 years old,,Number,,19
+2016,,25 to 29 years old,,Number,,11
+2017,,25 to 29 years old,,Number,,13
+2018,,25 to 29 years old,,Number,,7
+2019,,25 to 29 years old,,Number,,9
+2020,,25 to 29 years old,,Number,,16
+2021,,25 to 29 years old,,Number,,11
+2022,,25 to 29 years old,,Number,,6
+2023,,25 to 29 years old,,Number,,9
+2024,,25 to 29 years old,,Number,,3
+2015,,30 to 34 years old,,Number,,12
+2016,,30 to 34 years old,,Number,,11
+2017,,30 to 34 years old,,Number,,16
+2018,,30 to 34 years old,,Number,,11
+2019,,30 to 34 years old,,Number,,16
+2020,,30 to 34 years old,,Number,,9
+2021,,30 to 34 years old,,Number,,15
+2022,,30 to 34 years old,,Number,,18
+2023,,30 to 34 years old,,Number,,10
+2024,,30 to 34 years old,,Number,,7
+2015,,35 to 39 years old,,Number,,12
+2016,,35 to 39 years old,,Number,,13
+2017,,35 to 39 years old,,Number,,10
+2018,,35 to 39 years old,,Number,,9
+2019,,35 to 39 years old,,Number,,4
+2020,,35 to 39 years old,,Number,,16
+2021,,35 to 39 years old,,Number,,6
+2022,,35 to 39 years old,,Number,,4
+2023,,35 to 39 years old,,Number,,7
+2024,,35 to 39 years old,,Number,,10
+2015,,40 to 44 years old,,Number,,4
+2016,,40 to 44 years old,,Number,,1
+2017,,40 to 44 years old,,Number,,2
+2018,,40 to 44 years old,,Number,,3
+2019,,40 to 44 years old,,Number,,3
+2020,,40 to 44 years old,,Number,,10
+2021,,40 to 44 years old,,Number,,7
+2022,,40 to 44 years old,,Number,,1
+2023,,40 to 44 years old,,Number,,4
+2024,,40 to 44 years old,,Number,,4
+2016,,45 to 49 years old,,Number,,1
+2020,,45 to 49 years old,,Number,,1
