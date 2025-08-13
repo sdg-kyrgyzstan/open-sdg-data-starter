@@ -23,15 +23,15 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Internet speed: 2 Mbit/s to less than 10 Mbit/s,81079
 2022,Internet speed: 2 Mbit/s to less than 10 Mbit/s,82675
 2023,Internet speed: 2 Mbit/s to less than 10 Mbit/s,74710
-2012,Internet speed: 10 Mbit/s or above,19351
-2013,Internet speed: 10 Mbit/s or above,14065
-2014,Internet speed: 10 Mbit/s or above,14032
-2015,Internet speed: 10 Mbit/s or above,105739
-2016,Internet speed: 10 Mbit/s or above,115047
-2017,Internet speed: 10 Mbit/s or above,128799
-2018,Internet speed: 10 Mbit/s or above,69662
-2019,Internet speed: 10 Mbit/s or above,73547
-2020,Internet speed: 10 Mbit/s or above,181557
-2021,Internet speed: 10 Mbit/s or above,214139
-2022,Internet speed: 10 Mbit/s or above,300853
-2023,Internet speed: 10 Mbit/s or above,375715
+2012,IS_GE10M,19351
+2013,IS_GE10M,14065
+2014,IS_GE10M,14032
+2015,IS_GE10M,105739
+2016,IS_GE10M,115047
+2017,IS_GE10M,128799
+2018,IS_GE10M,69662
+2019,IS_GE10M,73547
+2020,IS_GE10M,181557
+2021,IS_GE10M,214139
+2022,IS_GE10M,300853
+2023,IS_GE10M,375715
