@@ -1,15 +1,8 @@
-Year,COMPOSITE_BREAKDOWN,Политика доменов,Value
-2019,,,3
-2019,Policy Domain 1. Migrant rights,,3
-2019,Policy Domain 2. Whole-of-government/ Evidence-based policies,,4
-2019,Policy Domain 3. Cooperation and partnerships,,4
-2019,Policy Domain 4. Socioeconomic well-being,,3
-2019,Policy Domain 5. Mobility dimensions of crises,,3
-2019,"Policy Domain 6. Safe, orderly and regular migration",,4
-2021,,Общий,3
-2021,,Домен 1. Права мигрантов,3
-2021,,Домен 2. Общегосударственная/ основанная на фактических данных политика,4
-2021,,Домен 3. Сотрудничество и партнерство,4
-2021,,Домен 4. Социально-экономическое благополучие,3
-2021,,Домен 5. Оперативность измерения кризисов,3
-2021,,"Домен 6. Безопасная, упорядоченная и регулярная миграция",4
+Year,COMPOSITE_BREAKDOWN,Value
+2019,,3
+2019,Policy Domain 1. Migrant rights,3
+2019,Policy Domain 2. Whole-of-government/ Evidence-based policies,4
+2019,Policy Domain 3. Cooperation and partnerships,4
+2019,Policy Domain 4. Socioeconomic well-being,3
+2019,Policy Domain 5. Mobility dimensions of crises,3
+2019,"Policy Domain 6. Safe, orderly and regular migration",4
