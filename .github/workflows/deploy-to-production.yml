@@ -35,6 +35,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
@@ -49,8 +51,8 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        repository-name: sustainabledevelopment-kyrgyzstan/sdg-data
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY_NAME: sustainabledevelopment-kyrgyzstan/sdg-data
+        ACCESS_TOKEN: ${{ secrets.token }}
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
