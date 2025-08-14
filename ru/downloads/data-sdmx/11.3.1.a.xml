@@ -1,14 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--Created with SDMX Converter v11.4.2-->
-<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<?xml version="1.0" ?>
+<!--Created with SDMX Converter v7.7.2-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1753073336080</message:ID>
+    <message:ID>IREF1755149997132</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-07-21T00:00:00Z</message:Prepared>
-    <message:Sender id="KG_NSC"/>
+    <message:Prepared>2025-08-14T05:39:57Z</message:Prepared>
+    <message:Sender id="KG_NSC">
+      <message:Contact></message:Contact>
+    </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_8" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
-        <Ref agencyID="KG_NSC" id="SDG" version="1.8"/>
+        <Ref agencyID="KG_NSC" id="SDG" version="1.8"></Ref>
       </common:Structure>
     </message:Structure>
     <message:DataSetAction>Information</message:DataSetAction>
@@ -16,13 +18,40 @@
   </message:Header>
   <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="KG_NSC_SDG_1_8" ss:action="Information">
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_110301_A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2017" OBS_VALUE="6140.2" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="6256.7" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="6389.5" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="6523.5" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="6636.8" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="6912.9" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
-    <Obs TIME_PERIOD="2023" OBS_VALUE="7037.6" OBS_STATUS="A" UNIT_MULT="3" NATURE="C"/>
+    <Obs TIME_PERIOD="2015" OBS_VALUE="61086" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="62421" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="63713" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="65168" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="66636" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="67896" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="69128" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="70376" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="71619" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="72818" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_110301_A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="U" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
+    <Obs TIME_PERIOD="2015" OBS_VALUE="20328" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="20776" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="21252" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="21782" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="22361" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="22881" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="23959" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="24537" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="29784" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="30373" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_110301_A" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="R" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
+    <Obs TIME_PERIOD="2015" OBS_VALUE="40758" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2016" OBS_VALUE="41645" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="42461" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="43386" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="44275" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="45015" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="45169" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="45839" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="41835" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="42445" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" SOURCE_DETAIL="Данные за 2023г. И за 2024г. пересчитаны с учетом изменений по итогам административно-территориальной реформы в Кыргызской Республике."></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
