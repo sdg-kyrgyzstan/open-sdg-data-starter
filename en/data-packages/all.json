@@ -1483,6 +1483,264 @@
       "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Batken",
+                "Jalal-Abad",
+                "Issyk-Kul",
+                "Naryn",
+                "Osh",
+                "Talas",
+                "Chui",
+                "Bishkek (city)",
+                "Osh (city)",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "8 years old",
+                "9 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower secondary education",
+                "Upper secondary education",
+                "Post-secondary non-tertiary education",
+                "Tertiary education (Bachelor’s and Master's or equivalent)",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At the age of attending grade 2/3",
+                "Attending grade 4",
+                "Attending grade 9",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Child with disability",
+                "Child without disability",
+                "Mother with disability",
+                "Mother without disability",
+                "No information",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Показатель",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",
+                "Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",
+                ""
+              ]
+            },
+            "title": "Показатель"
+          },
+          {
+            "name": "Местность",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Городская",
+                "Сельская",
+                ""
+              ]
+            },
+            "title": "Местность"
+          },
+          {
+            "name": "Территория",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Баткенская область",
+                "Джалал-Абадская область",
+                "Иссык-Кульская область",
+                "Нарынская область",
+                "Ошская область",
+                "Таласская область",
+                "Чуйская область",
+                "г. Бишкек",
+                "г. Ош",
+                ""
+              ]
+            },
+            "title": "Территория"
+          },
+          {
+            "name": "Возраст",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "В возрасте посещения 2-го/3-го класса",
+                "8 лет",
+                "9 лет",
+                "Посещающие 4-й класс",
+                "Посещающие 9-й класс",
+                ""
+              ]
+            },
+            "title": "Возраст"
+          },
+          {
+            "name": "Образование матери",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Основное общее",
+                "Среднее общее",
+                "Профессиональное начальное/среднее",
+                "Высшее",
+                ""
+              ]
+            },
+            "title": "Образование матери"
+          },
+          {
+            "name": "Функциональные трудности у ребенка",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Есть",
+                "Нет",
+                ""
+              ]
+            },
+            "title": "Функциональные трудности у ребенка"
+          },
+          {
+            "name": "Функциональные трудности у матери",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Есть",
+                "Нет",
+                "Нет информации",
+                ""
+              ]
+            },
+            "title": "Функциональные трудности у матери"
+          },
+          {
+            "name": "Квинтиль индекса благосостояния",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Беднейший",
+                "Второй",
+                "Средний",
+                "Четвертый",
+                "Богатейший",
+                ""
+              ]
+            },
+            "title": "Квинтиль индекса благосостояния"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+    },
+    {
       "path": "10-4-2-1/data.csv",
       "name": "10-4-2-1",
       "profile": "tabular-data-resource",
@@ -10102,142 +10360,6 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Показатель",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",
-                "Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",
-                ""
-              ]
-            },
-            "title": "Показатель"
-          },
-          {
-            "name": "Местность",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Городская",
-                "Сельская",
-                ""
-              ]
-            },
-            "title": "Местность"
-          },
-          {
-            "name": "Территория",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Баткенская область",
-                "Джалал-Абадская область",
-                "Иссык-Кульская область",
-                "Нарынская область",
-                "Ошская область",
-                "Таласская область",
-                "Чуйская область",
-                "г. Бишкек",
-                "г. Ош",
-                ""
-              ]
-            },
-            "title": "Территория"
-          },
-          {
-            "name": "Возраст",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "В возрасте посещения 2-го/3-го класса",
-                "8 лет",
-                "9 лет",
-                "Посещающие 4-й класс",
-                "Посещающие 9-й класс",
-                ""
-              ]
-            },
-            "title": "Возраст"
-          },
-          {
-            "name": "Образование матери",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Основное общее",
-                "Среднее общее",
-                "Профессиональное начальное/среднее",
-                "Высшее",
-                ""
-              ]
-            },
-            "title": "Образование матери"
-          },
-          {
-            "name": "Функциональные трудности у ребенка",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Есть",
-                "Нет",
-                ""
-              ]
-            },
-            "title": "Функциональные трудности у ребенка"
-          },
-          {
-            "name": "Функциональные трудности у матери",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Есть",
-                "Нет",
-                "Нет информации",
-                ""
-              ]
-            },
-            "title": "Функциональные трудности у матери"
-          },
-          {
-            "name": "Квинтиль индекса благосостояния",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Беднейший",
-                "Второй",
-                "Средний",
-                "Четвертый",
-                "Богатейший",
-                ""
-              ]
-            },
-            "title": "Квинтиль индекса благосостояния"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
       "path": "11-b-2/data.csv",
