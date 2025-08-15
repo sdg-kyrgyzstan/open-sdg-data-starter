@@ -13,6 +13,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,,689.0
 2022,,1188.7
 2023,,1781.0
+2024,,3024.2
 2010,Expenditure on Pollution control,39.2
 2011,Expenditure on Pollution control,41.2
 2012,Expenditure on Pollution control,28.2
@@ -27,6 +28,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Expenditure on Pollution control,94.1
 2022,Expenditure on Pollution control,263.9
 2023,Expenditure on Pollution control,409.1
+2024,Expenditure on Pollution control,443.1
 2010,Expenditure on Nature parks and reserves,69.1
 2011,Expenditure on Nature parks and reserves,68.5
 2012,Expenditure on Nature parks and reserves,73.2
@@ -41,6 +43,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Expenditure on Nature parks and reserves,147.1
 2022,Expenditure on Nature parks and reserves,263.2
 2023,Expenditure on Nature parks and reserves,435.2
+2024,Expenditure on Nature parks and reserves,709.4
 2010,Expenditure on Animal protection,3.6
 2011,Expenditure on Animal protection,6.8
 2012,Expenditure on Animal protection,4.9
@@ -55,6 +58,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Expenditure on Animal protection,10.1
 2022,Expenditure on Animal protection,12.4
 2023,Expenditure on Animal protection,27.9
+2024,Expenditure on Animal protection,25.3
 2010,Expenditure on Plant protection,1.4
 2011,Expenditure on Plant protection,1.3
 2012,Expenditure on Plant protection,1.3
@@ -76,6 +80,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Expenditure on Anti-epizootic measures,82.1
 2022,Expenditure on Anti-epizootic measures,93.0
 2023,Expenditure on Anti-epizootic measures,194.7
+2024,Expenditure on Anti-epizootic measures,261.0
 2010,Expenditure on Veterinary diagnostics,190.9
 2011,Expenditure on Veterinary diagnostics,190.1
 2012,Expenditure on Veterinary diagnostics,158.7
@@ -90,6 +95,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Expenditure on Veterinary diagnostics,145.3
 2022,Expenditure on Veterinary diagnostics,171.5
 2023,Expenditure on Veterinary diagnostics,265.1
+2024,Expenditure on Veterinary diagnostics,315.1
 2010,"Expenditure on Plant chemicals, protection and
 quarantine",72.3
 2011,"Expenditure on Plant chemicals, protection and
@@ -118,6 +124,8 @@ quarantine",98.8
 quarantine",220.6
 2023,"Expenditure on Plant chemicals, protection and
 quarantine",193.9
+2024,"Expenditure on Plant chemicals, protection and
+quarantine",238.7
 2010,"Expenditure on Other services for the protection
 of biodiversity and landscape",150.6
 2011,"Expenditure on Other services for the protection
@@ -146,6 +154,8 @@ of biodiversity and landscape",98.7
 of biodiversity and landscape",159.3
 2023,"Expenditure on Other services for the protection
 of biodiversity and landscape",251.9
+2024,"Expenditure on Other services for the protection
+of biodiversity and landscape",1009.8
 2010,"Expenditure on Research and development work
 related to environmental protection",2.9
 2011,"Expenditure on Research and development work
@@ -172,12 +182,15 @@ related to environmental protection",1.8
 related to environmental protection",1.7
 2023,"Expenditure on Research and development work
 related to environmental protection",1.7
+2024,"Expenditure on Research and development work
+related to environmental protection",1.3
 2010,Expenditure on Environmental issues not classified elsewhere,11.0
 2011,Expenditure on Environmental issues not classified elsewhere,11.2
 2012,Expenditure on Environmental issues not classified elsewhere,9.8
 2013,Expenditure on Environmental issues not classified elsewhere,11.2
 2014,Expenditure on Environmental issues not classified elsewhere,9.6
 2017,Expenditure on Environmental issues not classified elsewhere,163.5
+2024,Expenditure on Environmental issues not classified elsewhere,19.8
 2010,"Expenditure on Other services on environmental
 protection",6.3
 2011,"Expenditure on Other services on environmental
@@ -196,3 +209,5 @@ protection",10.9
 protection",3.1
 2023,"Expenditure on Other services on environmental
 protection",1.5
+2024,"Expenditure on Other services on environmental
+protection",0.7
