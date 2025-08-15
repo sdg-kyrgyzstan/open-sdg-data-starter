@@ -1,251 +1,131 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,Disability status,GeoCode,Показатель,Местность,Территория,Возраст,Образование матери,Функциональные трудности у ребенка,Функциональные трудности у матери,Квинтиль индекса благосостояния,Value
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,,,,,,,,,,,57.9
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,,,,,,,,,,,68.5
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Urban,,,,,,,,,,,,,,66.7
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Urban,,,,,,,,,,,,,,75.3
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Rural,,,,,,,,,,,,,,53.8
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Rural,,,,,,,,,,,,,,65.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Male,,,,,,,,,,,,,,,,55.8
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Male,,,,,,,,,,,,,,,,66.9
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Female,,,,,,,,,,,,,,,,60.1
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Female,,,,,,,,,,,,,,,,70.1
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Batken,,,,,,,,KG05,,,,,,,,,66.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Batken,,,,,,,,KG05,,,,,,,,,81.1
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Jalal-Abad,,,,,,,,KG03,,,,,,,,,50.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Jalal-Abad,,,,,,,,KG03,,,,,,,,,76.5
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Issyk-Kul,,,,,,,,KG02,,,,,,,,,65.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Issyk-Kul,,,,,,,,KG02,,,,,,,,,84.4
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Naryn,,,,,,,,KG04,,,,,,,,,39.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Naryn,,,,,,,,KG04,,,,,,,,,58.2
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh,,,,,,,,KG06,,,,,,,,,55.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh,,,,,,,,KG06,,,,,,,,,56.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Talas,,,,,,,,KG07,,,,,,,,,65.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Talas,,,,,,,,KG07,,,,,,,,,75.5
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Chui,,,,,,,,KG08,,,,,,,,,49.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Chui,,,,,,,,KG08,,,,,,,,,58.1
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Bishkek (city),,,,,,,,KG11,,,,,,,,,74.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Bishkek (city),,,,,,,,KG11,,,,,,,,,85.7
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh (city),,,,,,,,KG21,,,,,,,,,72.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh (city),,,,,,,,KG21,,,,,,,,,57.0
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,At the age of attending grade 2/3,,,,,,,,,,,47.4
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,At the age of attending grade 2/3,,,,,,,,,,,53.7
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,8 years old,,,,,,,,,,,,,,,43.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,8 years old,,,,,,,,,,,,,,,46.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,9 years old,,,,,,,,,,,,,,,52.3
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,9 years old,,,,,,,,,,,,,,,60.5
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 4,,,,,,,,,,,58.1
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 4,,,,,,,,,,,67.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 9,,,,,,,,,,,78.6
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 9,,,,,,,,,,,89.1
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Lower secondary education,,,,,,,,,,,,51.7
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Lower secondary education,,,,,,,,,,,,51.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Upper secondary education,,,,,,,,,,,,55.2
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Upper secondary education,,,,,,,,,,,,66.8
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Post-secondary non-tertiary education,,,,,,,,,,,,59.6
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Post-secondary non-tertiary education,,,,,,,,,,,,73.4
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,,,,,,,,,64.0
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,,,,,,,,,72.6
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child with disability,,,,,,,,,,42.3
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child with disability,,,,,,,,,,70.1
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child without disability,,,,,,,,,,59.4
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child without disability,,,,,,,,,,68.4
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother with disability,,,,,,,,,,43.4
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother with disability,,,,,,,,,,58.9
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother without disability,,,,,,,,,,57.8
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother without disability,,,,,,,,,,66.8
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,No information,,,,,,,,,,61.0
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 1 (poorest),,,,,,,,,,,,,53.1
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 1 (poorest),,,,,,,,,,,,,59.5
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 2,,,,,,,,,,,,,52.1
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 2,,,,,,,,,,,,,67.3
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 3,,,,,,,,,,,,,52.9
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 3,,,,,,,,,,,,,67.0
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 4,,,,,,,,,,,,,60.3
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 4,,,,,,,,,,,,,73.0
-2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 5 (richest),,,,,,,,,,,,,76.6
-2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 5 (richest),,,,,,,,,,,,,78.2
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,,,,,,,,,,,51.3
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,,,,,,,,,,,57.0
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Urban,,,,,,,,,,,,,,56.4
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Urban,,,,,,,,,,,,,,62.7
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Rural,,,,,,,,,,,,,,49.0
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Rural,,,,,,,,,,,,,,54.6
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Male,,,,,,,,,,,,,,,,49.3
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Male,,,,,,,,,,,,,,,,57.0
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Female,,,,,,,,,,,,,,,,53.5
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Female,,,,,,,,,,,,,,,,56.9
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Batken,,,,,,,,KG05,,,,,,,,,66.7
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Batken,,,,,,,,KG05,,,,,,,,,73.9
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Jalal-Abad,,,,,,,,KG03,,,,,,,,,42.9
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Jalal-Abad,,,,,,,,KG03,,,,,,,,,61.6
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Issyk-Kul,,,,,,,,KG02,,,,,,,,,54.5
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Issyk-Kul,,,,,,,,KG02,,,,,,,,,69.6
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Naryn,,,,,,,,KG04,,,,,,,,,41.4
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Naryn,,,,,,,,KG04,,,,,,,,,50.9
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh,,,,,,,,KG06,,,,,,,,,49.2
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh,,,,,,,,KG06,,,,,,,,,51.2
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Talas,,,,,,,,KG07,,,,,,,,,49.3
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Talas,,,,,,,,KG07,,,,,,,,,65.3
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Chui,,,,,,,,KG08,,,,,,,,,46.0
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Chui,,,,,,,,KG08,,,,,,,,,37.8
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Bishkek (city),,,,,,,,KG11,,,,,,,,,64.5
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Bishkek (city),,,,,,,,KG11,,,,,,,,,73.8
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh (city),,,,,,,,KG21,,,,,,,,,54.2
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh (city),,,,,,,,KG21,,,,,,,,,51.5
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,At the age of attending grade 2/3,,,,,,,,,,,41.8
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,At the age of attending grade 2/3,,,,,,,,,,,41.9
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,8 years old,,,,,,,,,,,,,,,32.6
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,8 years old,,,,,,,,,,,,,,,34.1
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,9 years old,,,,,,,,,,,,,,,52.0
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,9 years old,,,,,,,,,,,,,,,49.4
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 4,,,,,,,,,,,54.9
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 4,,,,,,,,,,,58.0
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 9,,,,,,,,,,,67.8
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 9,,,,,,,,,,,80.1
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Lower secondary education,,,,,,,,,,,,40.3
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Lower secondary education,,,,,,,,,,,,42.0
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Upper secondary education,,,,,,,,,,,,51.3
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Upper secondary education,,,,,,,,,,,,55.5
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Post-secondary non-tertiary education,,,,,,,,,,,,49.5
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Post-secondary non-tertiary education,,,,,,,,,,,,62.5
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,,,,,,,,,58.2
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,,,,,,,,,60.1
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child with disability,,,,,,,,,,39.0
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child with disability,,,,,,,,,,44.9
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child without disability,,,,,,,,,,52.6
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child without disability,,,,,,,,,,57.7
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother with disability,,,,,,,,,,47.9
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother with disability,,,,,,,,,,56.5
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother without disability,,,,,,,,,,52.0
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother without disability,,,,,,,,,,55.2
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,No information,,,,,,,,,,49.1
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 1 (poorest),,,,,,,,,,,,,50.8
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 1 (poorest),,,,,,,,,,,,,57.1
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 2,,,,,,,,,,,,,42.6
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 2,,,,,,,,,,,,,50.8
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 3,,,,,,,,,,,,,52.1
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 3,,,,,,,,,,,,,54.3
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 4,,,,,,,,,,,,,50.1
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 4,,,,,,,,,,,,,59.2
-2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 5 (richest),,,,,,,,,,,,,64.4
-2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 5 (richest),,,,,,,,,,,,,65.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,,57.9
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,,68.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",Городская,,,,,,,66.7
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",Городская,,,,,,,75.3
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",Сельская,,,,,,,53.8
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",Сельская,,,,,,,65.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Баткенская область,,,,,,66.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Баткенская область,,,,,,81.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Джалал-Абадская область,,,,,,50.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Джалал-Абадская область,,,,,,76.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Иссык-Кульская область,,,,,,65.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Иссык-Кульская область,,,,,,84.4
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Нарынская область,,,,,,39.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Нарынская область,,,,,,58.2
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Ошская область,,,,,,55.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Ошская область,,,,,,56.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Таласская область,,,,,,65.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Таласская область,,,,,,75.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Чуйская область,,,,,,49.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,Чуйская область,,,,,,58.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,г. Бишкек,,,,,,74.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,г. Бишкек,,,,,,85.7
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,г. Ош,,,,,,72.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,г. Ош,,,,,,57.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,В возрасте посещения 2-го/3-го класса,,,,,47.4
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,В возрасте посещения 2-го/3-го класса,,,,,53.7
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,8 лет,,,,,43.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,8 лет,,,,,46.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,9 лет,,,,,52.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,9 лет,,,,,60.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,Посещающие 4-й класс,,,,,58.1
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,Посещающие 4-й класс,,,,,67.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,Посещающие 9-й класс,,,,,78.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,Посещающие 9-й класс,,,,,89.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Основное общее,,,,51.7
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Основное общее,,,,51.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Среднее общее,,,,55.2
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Среднее общее,,,,66.8
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Профессиональное начальное/среднее,,,,59.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Профессиональное начальное/среднее,,,,73.4
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Высшее,,,,64.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,Высшее,,,,72.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,Есть,,,42.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,Есть,,,70.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,Нет,,,59.4
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,Нет,,,68.4
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,Есть,,43.4
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,Нет,,57.8
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,Нет,,66.8
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,Нет информации,,61.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Беднейший,53.1
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Беднейший,59.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Второй,52.1
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Второй,67.3
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Средний,52.9
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Средний,67.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Четвертый,60.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Четвертый,73.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Богатейший,76.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки чтения",,,,,,,Богатейший,78.2
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,,51.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,,57.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",Городская,,,,,,,56.4
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",Городская,,,,,,,62.7
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",Сельская,,,,,,,49.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",Сельская,,,,,,,54.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Баткенская область,,,,,,66.7
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Баткенская область,,,,,,73.9
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Джалал-Абадская область,,,,,,42.9
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Джалал-Абадская область,,,,,,61.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Иссык-Кульская область,,,,,,54.5
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Иссык-Кульская область,,,,,,69.6
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Нарынская область,,,,,,41.4
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Нарынская область,,,,,,50.9
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Ошская область,,,,,,49.2
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Ошская область,,,,,,51.2
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Таласская область,,,,,,49.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Таласская область,,,,,,65.3
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Чуйская область,,,,,,46.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,Чуйская область,,,,,,37.8
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,г. Бишкек,,,,,,64.5
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,г. Бишкек,,,,,,73.8
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,г. Ош,,,,,,54.2
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,г. Ош,,,,,,51.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,В возрасте посещения 2-го/3-го класса,,,,,41.8
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,В возрасте посещения 2-го/3-го класса,,,,,41.9
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,8 лет,,,,,32.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,8 лет,,,,,34.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,9 лет,,,,,52.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,9 лет,,,,,49.4
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,Посещающие 4-й класс,,,,,54.9
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,Посещающие 4-й класс,,,,,58.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,Посещающие 9-й класс,,,,,67.8
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,Посещающие 9-й класс,,,,,80.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Основное общее,,,,40.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Основное общее,,,,42.0
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Среднее общее,,,,51.3
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Среднее общее,,,,55.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Профессиональное начальное/среднее,,,,49.5
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Профессиональное начальное/среднее,,,,62.5
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Высшее,,,,58.2
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,Высшее,,,,60.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,Есть,,,39.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,Есть,,,44.9
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,Нет,,,52.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,Нет,,,57.7
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,Есть,,47.9
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,Нет,,52.0
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,Нет,,55.2
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,Нет информации,,49.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Беднейший,50.8
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Беднейший,57.1
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Второй,42.6
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Второй,50.8
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Средний,52.1
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Средний,54.3
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Четвертый,50.1
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Четвертый,59.2
-2018,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Богатейший,64.4
-2023,,,,,,,,,,,"Процентная доля детей в возрасте от 7 до 14 лет, кто успешно выполнил три задания на основополагающие умения и навыки счета",,,,,,,Богатейший,65.5
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,Disability status,GeoCode,Value
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,,,57.9
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,,,68.5
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Urban,,,,,,66.7
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Urban,,,,,,75.3
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Rural,,,,,,53.8
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,Rural,,,,,,65.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Male,,,,,,,,55.8
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Male,,,,,,,,66.9
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Female,,,,,,,,60.1
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,Female,,,,,,,,70.1
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Batken,,,,,,,,KG05,66.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Batken,,,,,,,,KG05,81.1
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Jalal-Abad,,,,,,,,KG03,50.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Jalal-Abad,,,,,,,,KG03,76.5
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Issyk-Kul,,,,,,,,KG02,65.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Issyk-Kul,,,,,,,,KG02,84.4
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Naryn,,,,,,,,KG04,39.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Naryn,,,,,,,,KG04,58.2
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh,,,,,,,,KG06,55.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh,,,,,,,,KG06,56.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Talas,,,,,,,,KG07,65.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Talas,,,,,,,,KG07,75.5
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Chui,,,,,,,,KG08,49.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Chui,,,,,,,,KG08,58.1
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Bishkek (city),,,,,,,,KG11,74.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Bishkek (city),,,,,,,,KG11,85.7
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh (city),,,,,,,,KG21,72.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,Osh (city),,,,,,,,KG21,57.0
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,At the age of attending grade 2/3,,,47.4
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,At the age of attending grade 2/3,,,53.7
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,8 years old,,,,,,,43.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,8 years old,,,,,,,46.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,9 years old,,,,,,,52.3
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,9 years old,,,,,,,60.5
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 4,,,58.1
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 4,,,67.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 9,,,78.6
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,Attending grade 9,,,89.1
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Lower secondary education,,,,51.7
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Lower secondary education,,,,51.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Upper secondary education,,,,55.2
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Upper secondary education,,,,66.8
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Post-secondary non-tertiary education,,,,59.6
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Post-secondary non-tertiary education,,,,73.4
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,64.0
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,72.6
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child with disability,,42.3
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child with disability,,70.1
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child without disability,,59.4
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Child without disability,,68.4
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother with disability,,43.4
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother with disability,,58.9
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother without disability,,57.8
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,Mother without disability,,66.8
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,,,,No information,,61.0
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 1 (poorest),,,,,53.1
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 1 (poorest),,,,,59.5
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 2,,,,,52.1
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 2,,,,,67.3
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 3,,,,,52.9
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 3,,,,,67.0
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 4,,,,,60.3
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 4,,,,,73.0
+2018,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 5 (richest),,,,,76.6
+2023,Proportion of children aged 7–14 years who have achieved minimum proficiency in reading by successfully completing three foundational reading tasks,,,,,Quintile 5 (richest),,,,,78.2
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,,,51.3
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,,,57.0
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Urban,,,,,,56.4
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Urban,,,,,,62.7
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Rural,,,,,,49.0
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,Rural,,,,,,54.6
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Male,,,,,,,,49.3
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Male,,,,,,,,57.0
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Female,,,,,,,,53.5
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,Female,,,,,,,,56.9
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Batken,,,,,,,,KG05,66.7
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Batken,,,,,,,,KG05,73.9
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Jalal-Abad,,,,,,,,KG03,42.9
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Jalal-Abad,,,,,,,,KG03,61.6
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Issyk-Kul,,,,,,,,KG02,54.5
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Issyk-Kul,,,,,,,,KG02,69.6
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Naryn,,,,,,,,KG04,41.4
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Naryn,,,,,,,,KG04,50.9
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh,,,,,,,,KG06,49.2
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh,,,,,,,,KG06,51.2
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Talas,,,,,,,,KG07,49.3
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Talas,,,,,,,,KG07,65.3
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Chui,,,,,,,,KG08,46.0
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Chui,,,,,,,,KG08,37.8
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Bishkek (city),,,,,,,,KG11,64.5
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Bishkek (city),,,,,,,,KG11,73.8
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh (city),,,,,,,,KG21,54.2
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,Osh (city),,,,,,,,KG21,51.5
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,At the age of attending grade 2/3,,,41.8
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,At the age of attending grade 2/3,,,41.9
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,8 years old,,,,,,,32.6
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,8 years old,,,,,,,34.1
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,9 years old,,,,,,,52.0
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,9 years old,,,,,,,49.4
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 4,,,54.9
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 4,,,58.0
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 9,,,67.8
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,Attending grade 9,,,80.1
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Lower secondary education,,,,40.3
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Lower secondary education,,,,42.0
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Upper secondary education,,,,51.3
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Upper secondary education,,,,55.5
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Post-secondary non-tertiary education,,,,49.5
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Post-secondary non-tertiary education,,,,62.5
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,58.2
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,,60.1
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child with disability,,39.0
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child with disability,,44.9
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child without disability,,52.6
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Child without disability,,57.7
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother with disability,,47.9
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother with disability,,56.5
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother without disability,,52.0
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,Mother without disability,,55.2
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,,,,No information,,49.1
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 1 (poorest),,,,,50.8
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 1 (poorest),,,,,57.1
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 2,,,,,42.6
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 2,,,,,50.8
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 3,,,,,52.1
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 3,,,,,54.3
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 4,,,,,50.1
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 4,,,,,59.2
+2018,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 5 (richest),,,,,64.4
+2023,Proportion of children aged 7–14 years who successfully completed three tasks measuring foundational numeracy skills,,,,,Quintile 5 (richest),,,,,65.5

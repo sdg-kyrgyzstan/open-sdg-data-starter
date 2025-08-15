@@ -92,9 +92,9 @@ Indicator,Disaggregations,Number of disaggregations
 #3-b-1,REF_AREA,1
 #3-c-1,"REF_AREA, SEX",2
 #3-d-1,COMPOSITE_BREAKDOWN,1
-#4-1-1,"REF_AREA, COMPOSITE_BREAKDOWN, SEX, EDUCATION_LEV, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, DISABILITY_STATUS, Показатель, Местность, Территория, Возраст, Образование матери, Функциональные трудности у ребенка, Функциональные трудности у матери, Квинтиль индекса благосостояния",16
+#4-1-1,"REF_AREA, COMPOSITE_BREAKDOWN, SEX, EDUCATION_LEV, AGE, URBANISATION, INCOME_WEALTH_QUANTILE, DISABILITY_STATUS",8
 #4-1-1-a,"COMPOSITE_BREAKDOWN, SEX",2
-#4-1-2,"Показатель, Местность, Территория, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния, Пол",7
+#4-1-2,"Показатель, Местность, Территория, Пол, Образование матери, Функциональные трудности у матери, Квинтиль индекса благосостояния",7
 #4-1-2-a,REF_AREA,1
 #4-2-1,"REF_AREA, SEX, EDUCATION_LEV, INCOME_WEALTH_QUANTILE",4
 #4-2-2-1,"REF_AREA, URBANISATION",2
