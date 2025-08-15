@@ -1,7 +1,91 @@
-Year,Degree of urbanisation,Value
-2018,,29.9
-2023,,19.5
-2018,Urban,22.1
-2023,Urban,15.9
-2018,Rural,34.8
-2023,Rural,21.3
+Year,Reference area,Age,Degree of urbanisation,Income or wealth quantile,Education level,Disability status,GeoCode,Value
+2014,,,,,,,,32.8
+2018,,,,,,,,29.9
+2023,,,,,,,,18.9
+2014,,,Urban,,,,,27.1
+2018,,,Urban,,,,,22.1
+2023,,,Urban,,,,,15.1
+2014,,,Rural,,,,,35.9
+2018,,,Rural,,,,,34.8
+2023,,,Rural,,,,,20.8
+2014,Batken,,,,,,KG05,50.7
+2018,Batken,,,,,,KG05,20.1
+2023,Batken,,,,,,KG05,24.4
+2014,Jalal-Abad,,,,,,KG03,15.5
+2018,Jalal-Abad,,,,,,KG03,30.4
+2023,Jalal-Abad,,,,,,KG03,17.1
+2014,Issyk-Kul,,,,,,KG02,37.5
+2018,Issyk-Kul,,,,,,KG02,18.7
+2023,Issyk-Kul,,,,,,KG02,11.8
+2014,Naryn,,,,,,KG04,34.8
+2018,Naryn,,,,,,KG04,31.4
+2023,Naryn,,,,,,KG04,17.6
+2014,Osh,,,,,,KG06,48.1
+2018,Osh,,,,,,KG06,43.1
+2023,Osh,,,,,,KG06,31.5
+2014,Talas,,,,,,KG07,36.5
+2018,Talas,,,,,,KG07,22.3
+2023,Talas,,,,,,KG07,12.4
+2014,Chui,,,,,,KG08,33.3
+2018,Chui,,,,,,KG08,41.2
+2023,Chui,,,,,,KG08,12.5
+2014,Bishkek (city),,,,,,KG11,18.2
+2018,Bishkek (city),,,,,,KG11,16.5
+2023,Bishkek (city),,,,,,KG11,12.6
+2014,Osh (city),,,,,,KG21,47.1
+2018,Osh (city),,,,,,KG21,31.8
+2023,Osh (city),,,,,,KG21,12.7
+2023,,15 to 17 years old,,,,,,9.4
+2014,,15 to 19 years old,,,,,,21.5
+2018,,15 to 19 years old,,,,,,24.1
+2023,,15 to 19 years old,,,,,,10.3
+2023,,18 to 19 years old,,,,,,12.7
+2014,,20 to 24 years old,,,,,,34.0
+2018,,20 to 24 years old,,,,,,33.1
+2023,,20 to 24 years old,,,,,,17.6
+2014,,25 to 29 years old,,,,,,36.7
+2018,,25 to 29 years old,,,,,,31.3
+2023,,25 to 29 years old,,,,,,21.3
+2014,,30 to 34 years old,,,,,,37.9
+2018,,30 to 34 years old,,,,,,32.4
+2023,,30 to 34 years old,,,,,,19.3
+2014,,35 to 39 years old,,,,,,34.6
+2018,,35 to 39 years old,,,,,,31.9
+2023,,35 to 39 years old,,,,,,21.4
+2014,,40 to 44 years old,,,,,,34.2
+2018,,40 to 44 years old,,,,,,27.2
+2023,,40 to 44 years old,,,,,,23.1
+2014,,45 to 49 years old,,,,,,32.2
+2018,,45 to 49 years old,,,,,,28.2
+2023,,45 to 49 years old,,,,,,19.1
+2014,,,,,Lower secondary education,,,34.9
+2018,,,,,Lower secondary education,,,48.1
+2023,,,,,Lower secondary education,,,29.6
+2014,,,,,Upper secondary education,,,38.0
+2018,,,,,Upper secondary education,,,33.8
+2023,,,,,Upper secondary education,,,24.0
+2014,,,,,Post-secondary non-tertiary education,,,29.5
+2018,,,,,Post-secondary non-tertiary education,,,27.2
+2023,,,,,Post-secondary non-tertiary education,,,14.5
+2014,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,24.8
+2018,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,19.6
+2023,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,10.5
+2018,,18 to 49 years old,,,,Persons with disability,,48.6
+2023,,18 to 49 years old,,,,Persons with disability,,37.2
+2018,,18 to 49 years old,,,,Persons without disability,,30.2
+2023,,18 to 49 years old,,,,Persons without disability,,19.7
+2014,,,,Quintile 1 (poorest),,,,40.5
+2018,,,,Quintile 1 (poorest),,,,37.9
+2023,,,,Quintile 1 (poorest),,,,27.6
+2014,,,,Quintile 2,,,,39.2
+2018,,,,Quintile 2,,,,34.4
+2023,,,,Quintile 2,,,,25.2
+2014,,,,Quintile 3,,,,36.5
+2018,,,,Quintile 3,,,,37.6
+2023,,,,Quintile 3,,,,18.9
+2014,,,,Quintile 4,,,,30.3
+2018,,,,Quintile 4,,,,26.6
+2023,,,,Quintile 4,,,,15.2
+2014,,,,Quintile 5 (richest),,,,20.5
+2018,,,,Quintile 5 (richest),,,,15.0
+2023,,,,Quintile 5 (richest),,,,9.1
