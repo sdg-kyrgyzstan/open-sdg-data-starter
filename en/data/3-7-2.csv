@@ -16,6 +16,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,,,,29.684645
 2022,,,,30.042887
 2023,,,,28.85
+2024,,,,26.38
 2007,,Urban,,23.732591
 2008,,Urban,,24.367892
 2009,,Urban,,27.880114
@@ -33,6 +34,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,,Urban,,36.9
 2022,,Urban,,31.1
 2023,,Urban,,21.49
+2024,,Urban,,22.97
 2007,,Rural,,30.733215
 2008,,Rural,,31.177474
 2009,,Rural,,33.00091
@@ -50,6 +52,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,,Rural,,26.6
 2022,,Rural,,29.5
 2023,,Rural,,32.29
+2024,,Rural,,28.43
 2007,Batken,,KG05,25.4
 2008,Batken,,KG05,27.2
 2009,Batken,,KG05,30.6
@@ -67,6 +70,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Batken,,KG05,24.273949
 2022,Batken,,KG05,26.095019
 2023,Batken,,KG05,28.4
+2024,Batken,,KG05,27.2
 2007,Jalal-Abad,,KG03,30.1
 2008,Jalal-Abad,,KG03,33.0
 2009,Jalal-Abad,,KG03,36.8
@@ -84,6 +88,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Jalal-Abad,,KG03,31.170325
 2022,Jalal-Abad,,KG03,34.83618
 2023,Jalal-Abad,,KG03,37.35
+2024,Jalal-Abad,,KG03,31.68
 2007,Issyk-Kul,,KG02,27.5
 2008,Issyk-Kul,,KG02,27.7
 2009,Issyk-Kul,,KG02,30.0
@@ -101,6 +106,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Issyk-Kul,,KG02,23.773042
 2022,Issyk-Kul,,KG02,15.761292
 2023,Issyk-Kul,,KG02,18.71
+2024,Issyk-Kul,,KG02,13.84
 2007,Naryn,,KG04,27.1
 2008,Naryn,,KG04,23.1
 2009,Naryn,,KG04,30.4
@@ -118,6 +124,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Naryn,,KG04,17.885951
 2022,Naryn,,KG04,12.708499
 2023,Naryn,,KG04,19.7
+2024,Naryn,,KG04,17.94
 2007,Osh,,KG06,27.1
 2008,Osh,,KG06,27.1
 2009,Osh,,KG06,30.4
@@ -135,6 +142,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Osh,,KG06,27.236017
 2022,Osh,,KG06,36.667303
 2023,Osh,,KG06,40.06
+2024,Osh,,KG06,36.65
 2007,Talas,,KG07,39.9
 2008,Talas,,KG07,38.9
 2009,Talas,,KG07,46.4
@@ -152,6 +160,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Talas,,KG07,24.736925
 2022,Talas,,KG07,21.147799
 2023,Talas,,KG07,23.27
+2024,Talas,,KG07,17.48
 2007,Chui,,KG08,38.4
 2008,Chui,,KG08,40.1
 2009,Chui,,KG08,39.3
@@ -169,6 +178,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Chui,,KG08,38.926975
 2022,Chui,,KG08,33.13903
 2023,Chui,,KG08,30.23
+2024,Chui,,KG08,27.7
 2007,Bishkek (city),,KG11,25.9
 2008,Bishkek (city),,KG11,24.8
 2009,Bishkek (city),,KG11,17.9
@@ -186,6 +196,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Bishkek (city),,KG11,23.305152
 2022,Bishkek (city),,KG11,22.347844
 2023,Bishkek (city),,KG11,6.48
+2024,Bishkek (city),,KG11,9.3
 2007,Osh (city),,KG21,24.2
 2008,Osh (city),,KG21,26.0
 2009,Osh (city),,KG21,23.9
@@ -203,3 +214,4 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Osh (city),,KG21,69.352892
 2022,Osh (city),,KG21,51.03746
 2023,Osh (city),,KG21,30.85
+2024,Osh (city),,KG21,39.97

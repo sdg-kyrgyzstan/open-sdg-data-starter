@@ -1,11 +1,11 @@
-Year,Value,GeoCode,UNIT_MEASURE
-2015,38.5,,"Per 100,000 live births"
-2016,30.3,,"Per 100,000 live births"
-2017,31.2,,"Per 100,000 live births"
-2018,29.8,,"Per 100,000 live births"
-2019,24.8,,"Per 100,000 live births"
-2020,42.4,,"Per 100,000 live births"
-2021,37.1,,"Per 100,000 live births"
-2022,28.1,,"Per 100,000 live births"
-2023,26.0,,"Per 100,000 live births"
-2024,25.7,,"Per 100,000 live births"
+Year,Value,GeoCode
+2015,38.5,
+2016,30.3,
+2017,31.2,
+2018,29.8,
+2019,24.8,
+2020,42.4,
+2021,37.1,
+2022,28.1,
+2023,26.0,
+2024,25.7,
