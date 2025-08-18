@@ -15,6 +15,7 @@ Year,SERIES,Value
 2021,Assets to GDP ratio,46.1
 2022,Assets to GDP ratio,47.2
 2023,Assets to GDP ratio,46.1
+2024,Assets to GDP ratio,53.5
 2007,Deposits to GDP ratio,16.5
 2008,Deposits to GDP ratio,15.7
 2009,Deposits to GDP ratio,19.7
@@ -32,6 +33,7 @@ Year,SERIES,Value
 2021,Deposits to GDP ratio,31.0
 2022,Deposits to GDP ratio,33.2
 2023,Deposits to GDP ratio,32.3
+2024,Deposits to GDP ratio,38.9
 2007,Loans to GDP ratio,14.7
 2008,Loans to GDP ratio,13.6
 2009,Loans to GDP ratio,12.5
@@ -49,3 +51,4 @@ Year,SERIES,Value
 2021,Loans to GDP ratio,23.2
 2022,Loans to GDP ratio,20.0
 2023,Loans to GDP ratio,19.3
+2024,Loans to GDP ratio,22.4
