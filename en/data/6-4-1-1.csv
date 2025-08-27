@@ -13,6 +13,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),,Million of cubic metres per annum,,2148.2
 2022,Water losses during transport (volume),,Million of cubic metres per annum,,2388.0
 2023,Water losses during transport (volume),,Million of cubic metres per annum,,2385.9
+2024,Water losses during transport (volume),,Million of cubic metres per annum,,2417.3
 2010,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,116.2
 2011,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,118.7
 2012,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,92.6
@@ -27,6 +28,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,109.5
 2022,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,103.2
 2023,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,112.1
+2024,Water losses during transport (volume),Batken,Million of cubic metres per annum,KG05,127.4
 2010,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,189.7
 2011,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,218.9
 2012,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,451.3
@@ -41,6 +43,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,210.1
 2022,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,231.7
 2023,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,267.9
+2024,Water losses during transport (volume),Jalal-Abad,Million of cubic metres per annum,KG03,237.2
 2010,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,164.6
 2011,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,155.0
 2012,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,181.6
@@ -55,6 +58,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,196.0
 2022,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,211.3
 2023,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,230.9
+2024,Water losses during transport (volume),Issyk-Kul,Million of cubic metres per annum,KG02,257.4
 2010,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,188.7
 2011,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,181.8
 2012,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,194.4
@@ -69,6 +73,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,209.0
 2022,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,226.9
 2023,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,249.7
+2024,Water losses during transport (volume),Naryn,Million of cubic metres per annum,KG04,275.9
 2010,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,227.7
 2011,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,206.6
 2012,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,386.2
@@ -83,6 +88,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,300.2
 2022,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,335.3
 2023,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,287.0
+2024,Water losses during transport (volume),Osh,Million of cubic metres per annum,KG06,304.8
 2010,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,228.9
 2011,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,253.9
 2012,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,263.7
@@ -97,6 +103,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,302.9
 2022,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,321.1
 2023,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,334.7
+2024,Water losses during transport (volume),Talas,Million of cubic metres per annum,KG07,347.6
 2010,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,627.5
 2011,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,717.2
 2012,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,836.3
@@ -111,6 +118,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,786.0
 2022,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,923.0
 2023,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,851.0
+2024,Water losses during transport (volume),Chui,Million of cubic metres per annum,KG08,813.5
 2010,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,24.7
 2011,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,25.0
 2013,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,24.2
@@ -124,12 +132,14 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,27.7
 2022,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,35.4
 2023,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,48.5
+2024,Water losses during transport (volume),Bishkek (city),Million of cubic metres per annum,KG11,49.9
 2017,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,6.8
 2018,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,6.8
 2019,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,6.8
 2020,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,6.8
 2021,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,6.8
 2023,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,4.2
+2024,Water losses during transport (volume),Osh (city),Million of cubic metres per annum,KG21,3.5
 2010,Water losses during transport as a percentage of total water withdrawal,,Percent,,23.4
 2011,Water losses during transport as a percentage of total water withdrawal,,Percent,,21.7
 2012,Water losses during transport as a percentage of total water withdrawal,,Percent,,21.7
@@ -144,6 +154,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,,Percent,,26.9
 2022,Water losses during transport as a percentage of total water withdrawal,,Percent,,27.3
 2023,Water losses during transport as a percentage of total water withdrawal,,Percent,,26.890546
+2024,Water losses during transport as a percentage of total water withdrawal,,Percent,,25.9
 2010,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,20.1
 2011,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,20.2
 2012,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,9.6
@@ -158,6 +169,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,15.9
 2022,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,15.1
 2023,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,15.490057
+2024,Water losses during transport as a percentage of total water withdrawal,Batken,Percent,KG05,16.1
 2010,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,27.3
 2011,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,18.3
 2012,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,63.0
@@ -172,6 +184,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,21.7
 2022,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,21.0
 2023,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,22.218388
+2024,Water losses during transport as a percentage of total water withdrawal,Jalal-Abad,Percent,KG03,18.4
 2010,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,29.7
 2011,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,17.1
 2012,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,18.8
@@ -186,6 +199,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,29.9
 2022,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,29.6
 2023,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,29.614328
+2024,Water losses during transport as a percentage of total water withdrawal,Issyk-Kul,Percent,KG02,29.9
 2010,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,31.9
 2011,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,30.8
 2012,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,30.5
@@ -200,6 +214,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,30.2
 2022,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,29.9
 2023,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,30.104452
+2024,Water losses during transport as a percentage of total water withdrawal,Naryn,Percent,KG04,30.6
 2010,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,17.1
 2011,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,17.8
 2012,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,26.8
@@ -214,6 +229,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,24.0
 2022,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,24.3
 2023,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,21.825967
+2024,Water losses during transport as a percentage of total water withdrawal,Osh,Percent,KG06,22.2
 2010,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,27.6
 2011,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,28.7
 2012,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,29.2
@@ -228,6 +244,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,31.6
 2022,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,31.4
 2023,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,32.351575
+2024,Water losses during transport as a percentage of total water withdrawal,Talas,Percent,KG07,29.7
 2010,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,22.4
 2011,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,22.9
 2012,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,26.1
@@ -242,6 +259,7 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,30.3
 2022,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,31.5
 2023,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,30.810022
+2024,Water losses during transport as a percentage of total water withdrawal,Chui,Percent,KG08,29.6
 2010,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,18.2
 2011,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,22.0
 2013,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,20.9
@@ -255,9 +273,11 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2021,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,20.7
 2022,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,23.8
 2023,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,29.193884
+2024,Water losses during transport as a percentage of total water withdrawal,Bishkek (city),Percent,KG11,28.0
 2017,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,12.0
 2018,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,12.0
 2019,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,11.9
 2020,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,11.6
 2021,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,12.0
 2023,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,7.436289
+2024,Water losses during transport as a percentage of total water withdrawal,Osh (city),Percent,KG21,6.3

@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "including Osh city",
+                "включая г.Ош",
                 ""
               ]
             }
