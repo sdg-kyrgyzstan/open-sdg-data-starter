@@ -1,361 +1,433 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Education level,COMPOSITE_BREAKDOWN,GeoCode,Value
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,5.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,5.3
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,4.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,4.1
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,4.6
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,4.7
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,4.2
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,4.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,4.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,3.8
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,4.2
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,6.0
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,5.7
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,5.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,4.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,4.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,4.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,4.0
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,4.9
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,4.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,4.6
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,3.7
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,4.3
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,4.4
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,5.4
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,5.6
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,5.0
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,4.4
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,4.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,5.0
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,4.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,4.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,1.5
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,1.7
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,1.5
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,2.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,3.0
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,1.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.0
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.2
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,2.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,3.0
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,2.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,2.0
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,2.6
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,2.7
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,1.9
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,10.5
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,9.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,8.2
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,8.6
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,5.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,9.6
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,5.2
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,6.4
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,6.0
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,4.8
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,6.5
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,3.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1.9
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1.0
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1.2
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1.7
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,10.4
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,11.9
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,12.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,10.3
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,10.6
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,10.9
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,2.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,3.0
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,5.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,3.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,4.1
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,3.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,7.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,8.6
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,4.1
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,5.5
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,5.4
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,13.3
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,4.2
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,4.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,3.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,3.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,3.6
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,4.0
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,4.3
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,3.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,3.5
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,3.1
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,3.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,3.4
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,4.0
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,4.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,3.6
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,2.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,3.6
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,3.5
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,4.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,4.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,4.0
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,3.6
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,3.7
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,4.4
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,11.6
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,12.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,12.9
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,10.9
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,10.9
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,10.4
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,4.4
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,3.9
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,3.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,3.4
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,3.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,3.7
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,5.9
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,7.1
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,7.2
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,5.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,5.9
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,6.7
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,5.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,4.6
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,3.7
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,3.4
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,4.3
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,4.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,7.3
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,9.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,7.9
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,6.5
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,6.5
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,7.8
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,4.9
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,5.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,6.4
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,5.0
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,4.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,4.8
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,2.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,2.7
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,2.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,2.7
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,4.1
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,3.6
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,4.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,4.5
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,5.0
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,3.6
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,3.8
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,5.4
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,5.2
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,5.1
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,5.2
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,3.7
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,4.4
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,5.8
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,7.8
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,7.9
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,4.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,5.1
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,5.4
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,3.8
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,5.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,6.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,7.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,5.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,5.2
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,5.1
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,9.2
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,9.8
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,10.6
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,8.0
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,7.6
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,11.1
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,4.4
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,4.4
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,3.7
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,3.3
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,4.0
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,3.5
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,3.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,3.2
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,2.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,2.1
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,2.5
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,3.2
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,9.1
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,9.1
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,8.2
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,7.1
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,7.9
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,7.1
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,22.6
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,26.6
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,31.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,26.7
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,22.3
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,21.9
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,2.4
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,2.1
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,2.8
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,1.2
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,1.4
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,2.0
-2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
-2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
-2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,6.3
-2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.6
-2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,1.2
-2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,1.2
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,0.9
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,0.8
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,0.7
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,0.6
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,0.3
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,0.7
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,1.0
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,1.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,0.9
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,0.8
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,0.9
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,0.9
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,0.8
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,0.5
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,0.6
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,0.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,0.4
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.3
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.0
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0.0
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,0.1
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,0.2
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,0.4
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,1.4
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,1.1
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,1.2
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,0.9
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,1.4
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,1.7
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,2.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,0.1
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0.0
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0.3
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0.0
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,1.1
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,1.4
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,1.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,2.2
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,1.2
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,0.3
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,0.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,0.5
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,0.3
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,2.5
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,0.7
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,1.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,0.5
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,0.8
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,0.7
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,0.3
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,0.7
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,0.7
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,0.6
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,0.2
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,0.5
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,0.3
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,0.7
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,0.5
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,0.8
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,0.6
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,0.5
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,1.9
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,2.1
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,1.6
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,1.9
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,0.6
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,0.8
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,0.6
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,0.4
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,1.5
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,1.9
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,1.7
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,1.1
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,0.7
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,0.8
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,0.8
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,1.1
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,1.1
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,0.9
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,1.2
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,0.9
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,0.6
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,0.4
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,0.4
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,0.5
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,0.4
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,0.1
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,0.4
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,0.2
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,0.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,0.7
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,0.2
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,0.4
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,0.3
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,1.3
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,1.2
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,1.9
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,0.6
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,1.9
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,2.0
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,1.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,1.1
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,1.6
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,1.2
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,1.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,2.3
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,0.7
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,0.8
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,0.7
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,0.3
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,0.5
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,0.6
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,0.4
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,0.8
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,1.4
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,1.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,1.0
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,7.0
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,4.9
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,3.2
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,5.7
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,0.5
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,0.1
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,0.1
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,0.1
-2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
-2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
-2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
-2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0.0
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,51
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,53
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,48
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,41
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,46
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,47
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,,,47
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,42
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,48
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,48
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,38
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,42
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,60
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Urban,,,,,54
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,57
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,55
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,48
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,42
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,48
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,40
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,Rural,,,,,41
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,49
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,48
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,46
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,37
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,43
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,44
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Male,,,,,,,43
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,54
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,56
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,50
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,44
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,48
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,50
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,Female,,,,,,,50
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,41
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,42
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,15
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,17
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,15
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,22
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Batken,,,,,,,KG05,25
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,30
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,15
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,3
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,2
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,22
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,26
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,30
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,28
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,20
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,26
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,27
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,19
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,29
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,105
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,95
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,82
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,86
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,58
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,96
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,78
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,52
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,64
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,60
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,48
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,65
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,32
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh,,,,,,,KG06,50
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,19
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,8
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,3
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,10
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,12
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,17
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Talas,,,,,,,KG07,1
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,104
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,119
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,123
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,103
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,106
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,109
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Chui,,,,,,,KG08,101
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,28
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,30
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,53
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,32
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,41
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,32
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,32
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,78
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,86
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,41
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,55
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,54
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,133
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,80
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,42
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,45
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,38
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,32
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,36
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,40
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,under 6 years old,,,,,,37
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,43
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,38
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,35
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,31
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,38
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,34
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,34
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,40
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,42
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,36
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,22
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,36
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,35
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,37
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,48
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,48
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,40
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,36
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,37
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,44
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,42
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,116
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,125
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,129
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,109
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,109
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,104
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,99
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,44
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,39
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,38
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,34
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,38
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,37
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Primary education,,,36
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,59
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,71
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,72
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,52
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,59
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,67
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,57
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,51
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,46
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,37
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,34
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,43
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,42
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,47
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,73
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,92
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,79
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,65
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,65
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,78
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,72
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,49
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,52
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,64
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,50
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,48
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,48
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,44
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,28
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,27
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,23
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,27
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,41
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,36
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,35
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,48
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,45
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,50
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,36
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,38
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,54
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 2,,,,47
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,52
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,51
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,52
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,37
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,44
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,58
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 3,,,,67
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,78
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,79
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,43
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,51
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,54
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,38
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 4,,,,43
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,51
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,62
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,73
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,52
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,52
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,51
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,41
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,92
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,98
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,106
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,80
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,76
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,111
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without children,,92
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,44
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,44
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,37
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,33
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,40
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,35
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with children,,37
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,31
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,32
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,28
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,21
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,25
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,32
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,30
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,91
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,91
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,82
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,71
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,79
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,71
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,70
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,226
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,266
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,313
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,267
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,223
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,219
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,197
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,24
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,21
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,28
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,12
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,14
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,20
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: poor,,31
+2018,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2019,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2020,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,63
+2021,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,6
+2022,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,12
+2023,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,12
+2024,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,26
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,9
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,8
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,7
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,6
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,3
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,7
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Urban,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,10
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,10
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,Rural,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,9
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,8
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Male,,,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,9
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,9
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,8
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,Female,,,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,5
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,6
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,1
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,4
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Batken,,,,,,,KG05,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,3
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Jalal-Abad,,,,,,,KG03,0
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,1
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,2
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,4
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Issyk-Kul,,,,,,,KG02,1
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,14
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,11
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,12
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,9
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Naryn,,,,,,,KG04,14
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,14
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,17
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,20
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,1
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh,,,,,,,KG06,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,3
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,10
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Talas,,,,,,,KG07,0
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,11
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,14
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,10
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,22
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Chui,,,,,,,KG08,18
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,12
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,3
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,1
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,5
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Bishkek (city),,,,,,,KG11,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,3
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,25
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,7
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,16
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,Osh (city),,,,,,,KG21,7
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,5
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,8
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,7
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,3
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,under 6 years old,,,,,,2
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,7
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,7
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,6
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,2
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,7 to 14 years old,,,,,,4
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,5
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,3
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,7
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,5
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,15 to 28 years old,,,,,,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,8
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,6
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,5
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,19
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,21
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,16
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,19
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,,13
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,6
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,8
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,6
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,4
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Primary education,,,4
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,15
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,19
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,17
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,11
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Lower secondary education,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,7
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,8
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,8
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Upper secondary education,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,11
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,11
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,9
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,12
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Post-secondary non-tertiary education,,,13
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,9
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,6
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,4
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,Tertiary education (Bachelor’s and Master's or equivalent),,,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,4
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,5
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,4
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,1
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 1 (poorest),,,,5
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,4
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,2
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,1
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,7
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 2,,,,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,2
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,4
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,3
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 3,,,,4
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,13
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,12
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,19
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,6
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 4,,,,7
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,19
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,20
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,11
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,11
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,Quintile 5 (richest),,,,7
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,16
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,12
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,10
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,23
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without children,,14
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,7
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,8
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,7
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,3
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with children,,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,5
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,6
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,4
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: without persons above working age,,4
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,8
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,14
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,11
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,10
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: with persons above working age,,7
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,70
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,49
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,32
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,57
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: only persons above working age,,40
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,5
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,1
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,1
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,1
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: poor,,3
+2020,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2021,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2022,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2023,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
+2024,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income,,,,,,,Household type: extremely poor,,0
