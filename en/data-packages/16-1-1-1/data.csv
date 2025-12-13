@@ -16,6 +16,7 @@ Year,Reference area,GeoCode,Value
 2021,,,2.5
 2022,,,2.6
 2023,,,0.5
+2024,,,4.0
 2007,Batken,KG05,1.9
 2008,Batken,KG05,1.9
 2009,Batken,KG05,2.1
@@ -50,6 +51,7 @@ Year,Reference area,GeoCode,Value
 2021,Jalal-Abad,KG03,1.6
 2022,Jalal-Abad,KG03,2.6
 2023,Jalal-Abad,KG03,0.4
+2024,Jalal-Abad,KG03,2.0
 2007,Issyk-Kul,KG02,8.3
 2008,Issyk-Kul,KG02,7.1
 2009,Issyk-Kul,KG02,7.3
@@ -84,6 +86,7 @@ Year,Reference area,GeoCode,Value
 2021,Naryn,KG04,5.8
 2022,Naryn,KG04,3.9
 2023,Naryn,KG04,3.2
+2024,Naryn,KG04,16.0
 2007,Osh,KG06,2.7
 2008,Osh,KG06,2.7
 2009,Osh,KG06,3.5
@@ -101,6 +104,7 @@ Year,Reference area,GeoCode,Value
 2021,Osh,KG06,1.1
 2022,Osh,KG06,3.2
 2023,Osh,KG06,0.6
+2024,Osh,KG06,8.0
 2007,Talas,KG07,2.2
 2008,Talas,KG07,6.7
 2009,Talas,KG07,3.1
@@ -117,6 +121,7 @@ Year,Reference area,GeoCode,Value
 2020,Talas,KG07,2.2
 2021,Talas,KG07,1.1
 2022,Talas,KG07,3.3
+2024,Talas,KG07,7.0
 2007,Chui,KG08,14.9
 2008,Chui,KG08,12.7
 2009,Chui,KG08,13.9
@@ -134,6 +139,7 @@ Year,Reference area,GeoCode,Value
 2021,Chui,KG08,5.1
 2022,Chui,KG08,2.5
 2023,Chui,KG08,0.6
+2024,Chui,KG08,1.0
 2007,Bishkek (city),KG11,8.1
 2008,Bishkek (city),KG11,7.0
 2009,Bishkek (city),KG11,7.9
@@ -151,6 +157,7 @@ Year,Reference area,GeoCode,Value
 2021,Bishkek (city),KG11,2.3
 2022,Bishkek (city),KG11,1.9
 2023,Bishkek (city),KG11,0.1
+2024,Bishkek (city),KG11,1.0
 2007,Osh (city),KG21,7.8
 2008,Osh (city),KG21,3.1
 2009,Osh (city),KG21,5.4
@@ -168,3 +175,4 @@ Year,Reference area,GeoCode,Value
 2021,Osh (city),KG21,2.1
 2022,Osh (city),KG21,2.5
 2023,Osh (city),KG21,0.5
+2024,Osh (city),KG21,9.0

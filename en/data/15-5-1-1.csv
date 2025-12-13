@@ -10,6 +10,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Plants and mushrooms,1.07
 2022,Species: Plants and mushrooms,1.07
 2023,Species: Plants and mushrooms,1.07
+2024,Species: Plants and mushrooms,1.07
 2013,Species: Mammals,25.3
 2014,Species: Mammals,25.3
 2015,Species: Mammals,25.3
@@ -21,6 +22,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Mammals,25.27
 2022,Species: Mammals,25.27
 2023,Species: Mammals,25.27
+2024,Species: Mammals,25.27
 2013,Species: Birds,14.0
 2014,Species: Birds,14.0
 2015,Species: Birds,14.0
@@ -32,6 +34,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Birds,14.0
 2022,Species: Birds,14.0
 2023,Species: Birds,14.0
+2024,Species: Birds,14.0
 2013,Species: Insects,0.12
 2014,Species: Insects,0.12
 2015,Species: Insects,0.12
@@ -43,6 +46,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Insects,0.12
 2022,Species: Insects,0.12
 2023,Species: Insects,0.12
+2024,Species: Insects,0.12
 2013,Species: Amphibians and Reptiles,21.7
 2014,Species: Amphibians and Reptiles,21.7
 2015,Species: Amphibians and Reptiles,21.7
@@ -54,6 +58,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Amphibians and Reptiles,21.74
 2022,Species: Amphibians and Reptiles,21.74
 2023,Species: Amphibians and Reptiles,21.74
+2024,Species: Amphibians and Reptiles,21.74
 2013,Species: Fish,9.5
 2014,Species: Fish,9.5
 2015,Species: Fish,9.5
@@ -65,3 +70,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Species: Fish,9.46
 2022,Species: Fish,9.46
 2023,Species: Fish,9.46
+2024,Species: Fish,9.46
