@@ -13,6 +13,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: General public services,109.6
 2022,Sector: General public services,119.0
 2023,Sector: General public services,101.9
+2024,Sector: General public services,100.0
 2010,Sector: Economic affairs,62.9
 2011,Sector: Economic affairs,98.4
 2012,Sector: Economic affairs,99.4
@@ -27,6 +28,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Economic affairs,69.0
 2022,Sector: Economic affairs,10.0
 2023,Sector: Economic affairs,68.6
+2024,Sector: Economic affairs,85.2
 2010,Sector: Environmental protection,94.5
 2011,Sector: Environmental protection,99.2
 2012,Sector: Environmental protection,99.9
@@ -41,6 +43,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Environmental protection,94.0
 2022,Sector: Environmental protection,104.0
 2023,Sector: Environmental protection,128.5
+2024,Sector: Environmental protection,168.4
 2010,Sector: Housing and community amenities,98.8
 2011,Sector: Housing and community amenities,96.3
 2012,Sector: Housing and community amenities,100.0
@@ -55,6 +58,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Housing and community amenities,110.3
 2022,Sector: Housing and community amenities,112.0
 2023,Sector: Housing and community amenities,227.7
+2024,Sector: Housing and community amenities,196.7
 2010,Sector: Health,99.8
 2011,Sector: Health,98.8
 2012,Sector: Health,99.6
@@ -69,6 +73,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Health,154.4
 2022,Sector: Health,99.0
 2023,Sector: Health,101.4
+2024,Sector: Health,239.0
 2010,"Sector: Recreation, culture and religion",99.0
 2011,"Sector: Recreation, culture and religion",97.8
 2012,"Sector: Recreation, culture and religion",99.1
@@ -83,6 +88,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,"Sector: Recreation, culture and religion",110.3
 2022,"Sector: Recreation, culture and religion",141.0
 2023,"Sector: Recreation, culture and religion",130.9
+2024,"Sector: Recreation, culture and religion",115.8
 2010,Sector: Education,98.6
 2011,Sector: Education,98.8
 2012,Sector: Education,99.5
@@ -97,6 +103,7 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Education,100.9
 2022,Sector: Education,149.0
 2023,Sector: Education,109.7
+2024,Sector: Education,107.3
 2010,Sector: Social protection,98.8
 2011,Sector: Social protection,98.7
 2012,Sector: Social protection,96.2
@@ -111,3 +118,4 @@ Year,COMPOSITE_BREAKDOWN,Value
 2021,Sector: Social protection,102.4
 2022,Sector: Social protection,116.0
 2023,Sector: Social protection,102.0
+2024,Sector: Social protection,96.3

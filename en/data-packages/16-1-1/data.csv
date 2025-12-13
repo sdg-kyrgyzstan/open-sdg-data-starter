@@ -9,6 +9,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,2.632778
 2022,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,2.713997
 2023,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,1.480052
+2024,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,1.4
 2014,Number of victims of intentional homicide,,,,Number,,320.0
 2015,Number of victims of intentional homicide,,,,Number,,305.0
 2016,Number of victims of intentional homicide,,,,Number,,267.0
@@ -19,6 +20,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,Number of victims of intentional homicide,,,,Number,,182.0
 2022,Number of victims of intentional homicide,,,,Number,,191.0
 2023,Number of victims of intentional homicide,,,,Number,,106.0
+2024,Number of victims of intentional homicide,,,,Number,,105.0
 2014,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,7.630608
 2015,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,7.488765
 2016,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,6.548343
@@ -29,6 +31,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,4.213794
 2022,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,4.252509
 2023,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,2.399181
+2024,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,2.2
 2014,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,3.142772
 2015,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,2.556008
 2016,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,2.058712
@@ -39,6 +42,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,1.087112
 2022,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,1.208785
 2023,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,0.580265
+2024,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,0.7
 2014,Number of victims of intentional homicide,,Male,,Number,,225.0
 2015,Number of victims of intentional homicide,,Male,,Number,,226.0
 2016,Number of victims of intentional homicide,,Male,,Number,,202.0
@@ -49,6 +53,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,Number of victims of intentional homicide,,Male,,Number,,144.0
 2022,Number of victims of intentional homicide,,Male,,Number,,148.0
 2023,Number of victims of intentional homicide,,Male,,Number,,85.0
+2024,Number of victims of intentional homicide,,Male,,Number,,80.0
 2014,Number of victims of intentional homicide,,Female,,Number,,95.0
 2015,Number of victims of intentional homicide,,Female,,Number,,79.0
 2016,Number of victims of intentional homicide,,Female,,Number,,65.0
@@ -59,6 +64,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2021,Number of victims of intentional homicide,,Female,,Number,,38.0
 2022,Number of victims of intentional homicide,,Female,,Number,,43.0
 2023,Number of victims of intentional homicide,,Female,,Number,,21.0
+2024,Number of victims of intentional homicide,,Female,,Number,,25.0
 2014,Number of victims of intentional homicide,Batken,,,Number,KG05,12.0
 2015,Number of victims of intentional homicide,Batken,,,Number,KG05,13.0
 2016,Number of victims of intentional homicide,Batken,,,Number,KG05,11.0

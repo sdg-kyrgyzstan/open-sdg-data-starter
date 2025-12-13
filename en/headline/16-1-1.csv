@@ -9,6 +9,7 @@ Year,Value,GeoCode,UNIT_MEASURE,SERIES
 2021,2.632778,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
 2022,2.713997,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
 2023,1.480052,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
+2024,1.4,,"Per 100,000 population","Number of victims of intentional homicide per 100,000 population"
 2014,320.0,,Number,Number of victims of intentional homicide
 2015,305.0,,Number,Number of victims of intentional homicide
 2016,267.0,,Number,Number of victims of intentional homicide
@@ -19,3 +20,4 @@ Year,Value,GeoCode,UNIT_MEASURE,SERIES
 2021,182.0,,Number,Number of victims of intentional homicide
 2022,191.0,,Number,Number of victims of intentional homicide
 2023,106.0,,Number,Number of victims of intentional homicide
+2024,105.0,,Number,Number of victims of intentional homicide
