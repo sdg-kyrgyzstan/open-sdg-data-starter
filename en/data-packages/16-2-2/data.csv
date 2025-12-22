@@ -13,17 +13,20 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2021,Detected victims of human trafficking (number),,,,,6
 2022,Detected victims of human trafficking (number),,,,,3
 2023,Detected victims of human trafficking (number),,,,,17
+2024,Detected victims of human trafficking (number),,,,,20
 2018,Detected victims of human trafficking (number),,Male,,,1
 2019,Detected victims of human trafficking (number),,Male,,,1
 2020,Detected victims of human trafficking (number),,Male,,,4
 2021,Detected victims of human trafficking (number),,Male,,,1
 2022,Detected victims of human trafficking (number),,Male,,,1
 2023,Detected victims of human trafficking (number),,Male,,,13
+2024,Detected victims of human trafficking (number),,Male,,,17
 2018,Detected victims of human trafficking (number),,Female,,,3
 2019,Detected victims of human trafficking (number),,Female,,,6
 2021,Detected victims of human trafficking (number),,Female,,,4
 2022,Detected victims of human trafficking (number),,Female,,,2
 2023,Detected victims of human trafficking (number),,Female,,,4
+2024,Detected victims of human trafficking (number),,Female,,,3
 2018,Detected victims of human trafficking (number),,Unknown,,,3
 2019,Detected victims of human trafficking (number),,Unknown,,,4
 2020,Detected victims of human trafficking (number),,Unknown,,,5
@@ -68,6 +71,7 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2021,Detected victims of human trafficking (number),Bishkek (city),,,KG11,3
 2022,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
 2023,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
+2024,Detected victims of human trafficking (number),Bishkek (city),,,KG11,20
 2010,Detected victims of human trafficking (number),Osh (city),,,KG21,13
 2011,Detected victims of human trafficking (number),Osh (city),,,KG21,5
 2013,Detected victims of human trafficking (number),Osh (city),,,KG21,1
@@ -80,15 +84,20 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2021,Detected victims of human trafficking (number),,,under 17 years old,,1
 2022,Detected victims of human trafficking (number),,,under 17 years old,,2
 2023,Detected victims of human trafficking (number),,,under 17 years old,,5
+2024,Detected victims of human trafficking (number),,,under 17 years old,,2
 2019,Detected victims of human trafficking (number),,,18 to 29 years old,,1
 2021,Detected victims of human trafficking (number),,,18 to 29 years old,,4
 2022,Detected victims of human trafficking (number),,,18 to 29 years old,,1
 2023,Detected victims of human trafficking (number),,,18 to 29 years old,,12
+2024,Detected victims of human trafficking (number),,,18 to 29 years old,,10
 2020,Detected victims of human trafficking (number),,,30 to 39 years old,,3
+2024,Detected victims of human trafficking (number),,,30 to 39 years old,,8
 2019,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,1
 2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,3
 2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,1
 2023,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",,,,,13
 2021,Detected victims of human trafficking for sexual exploitaton (number),,,,,2
 2022,Detected victims of human trafficking for sexual exploitaton (number),,,,,1
+2024,Detected victims of human trafficking for sexual exploitaton (number),,,,,17
 2021,Detected victims of human trafficking for other purposes (number),,,,,2
+2024,Detected victims of human trafficking for other purposes (number),,,,,1
