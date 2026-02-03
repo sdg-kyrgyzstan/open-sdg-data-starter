@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1765620909940</message:ID>
+    <message:ID>IREF1770110753111</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-12-13T10:15:09Z</message:Prepared>
+    <message:Prepared>2026-02-03T09:25:53Z</message:Prepared>
     <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -155,7 +155,7 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="40.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="*according to the MOF of the KR" TIME_DETAIL="2021"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="55.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="*according to the MOF of the KR" TIME_DETAIL="2022"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="51.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="*according to the MOF of the KR" TIME_DETAIL="2023"></Obs>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="583" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="*according to the MOF of the KR" TIME_DETAIL="2024"></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="58.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="*according to the MOF of the KR" TIME_DETAIL="2024"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

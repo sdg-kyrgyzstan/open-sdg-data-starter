@@ -14,6 +14,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2021,,,,,9038
 2022,,,,,8725
 2023,,,,,11357
+2024,,,,,14362
 2009,Female,,,,1927
 2010,Female,,,,1659
 2011,Female,,,,1714
@@ -29,6 +30,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2021,Female,,,,8587
 2022,Female,,,,8347
 2023,Female,,,,11002
+2024,Female,,,,13593
 2009,Male,,,,166
 2010,Male,,,,130
 2011,Male,,,,95
@@ -44,6 +46,7 @@ Year,Sex,Age,Education level,COMPOSITE_BREAKDOWN,Value
 2021,Male,,,,451
 2022,Male,,,,378
 2023,Male,,,,355
+2024,Male,,,,769
 2009,,under 20 years old,,,126
 2010,,under 20 years old,,,212
 2011,,under 20 years old,,,37

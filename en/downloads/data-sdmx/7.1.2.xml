@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1756283247421</message:ID>
+    <message:ID>IREF1770114925097</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-08-27T08:27:27Z</message:Prepared>
-    <message:Sender id="KG_NSC">
+    <message:Prepared>2026-02-03T10:35:25Z</message:Prepared>
+    <message:Sender id="NSC_KG">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_8" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -187,13 +187,13 @@
     <Obs TIME_PERIOD="2024" OBS_VALUE="47.583106" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" COMMENT_OBS="Образование главы домохозяйства" TIME_DETAIL="2024" SOURCE_DETAIL="average"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="EG_EGY_CLEAN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q1" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2018" OBS_VALUE="10" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="161" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="178" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="176" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="168" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2023" OBS_VALUE="151" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="average"></Obs>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="198" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="16.117734" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="17.769531" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="17.563842" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="16.845979" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="15.062507" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="average"></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="19.834842" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="average"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="EG_EGY_CLEAN" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="Q2" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2018" OBS_VALUE="2.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2018" SOURCE_DETAIL="average"></Obs>
