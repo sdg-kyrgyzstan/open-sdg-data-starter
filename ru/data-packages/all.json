@@ -4857,52 +4857,6 @@
       "title": "Количество обращений к Омбудсмену"
     },
     {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Год"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Данные на основе глобального мониторинга",
-                "Оценочные данные",
-                ""
-              ]
-            },
-            "title": "Характер данных"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "Ряды ЦУР"
-          },
-          {
-            "name": "DATA_LAST_UPDATE",
-            "type": "string",
-            "title": "Дата последних изменений"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Показатель потенциала в области статистики для отслеживания хода достижения целей в области устойчивого развития"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -12101,6 +12055,30 @@
         ]
       },
       "title": "Доля неформальной занятости от общей занятости в разбивке по сектору и полу"
+    },
+    {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Год"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Показатель потенциала в области статистики для отслеживания хода достижения целей в области устойчивого развития"
     },
     {
       "path": "11-a-1/data.csv",
