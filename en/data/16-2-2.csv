@@ -14,6 +14,7 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2022,Detected victims of human trafficking (number),,,,,3
 2023,Detected victims of human trafficking (number),,,,,17
 2024,Detected victims of human trafficking (number),,,,,20
+2025,Detected victims of human trafficking (number),,,,,1
 2018,Detected victims of human trafficking (number),,Male,,,1
 2019,Detected victims of human trafficking (number),,Male,,,1
 2020,Detected victims of human trafficking (number),,Male,,,4
@@ -21,6 +22,7 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2022,Detected victims of human trafficking (number),,Male,,,1
 2023,Detected victims of human trafficking (number),,Male,,,13
 2024,Detected victims of human trafficking (number),,Male,,,17
+2025,Detected victims of human trafficking (number),,Male,,,1
 2018,Detected victims of human trafficking (number),,Female,,,3
 2019,Detected victims of human trafficking (number),,Female,,,6
 2021,Detected victims of human trafficking (number),,Female,,,4
@@ -72,6 +74,7 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2022,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
 2023,Detected victims of human trafficking (number),Bishkek (city),,,KG11,2
 2024,Detected victims of human trafficking (number),Bishkek (city),,,KG11,20
+2025,Detected victims of human trafficking (number),Bishkek (city),,,KG11,1
 2010,Detected victims of human trafficking (number),Osh (city),,,KG21,13
 2011,Detected victims of human trafficking (number),Osh (city),,,KG21,5
 2013,Detected victims of human trafficking (number),Osh (city),,,KG21,1
@@ -85,6 +88,7 @@ Year,SERIES,Reference area,Sex,Age,GeoCode,Value
 2022,Detected victims of human trafficking (number),,,under 17 years old,,2
 2023,Detected victims of human trafficking (number),,,under 17 years old,,5
 2024,Detected victims of human trafficking (number),,,under 17 years old,,2
+2025,Detected victims of human trafficking (number),,,under 17 years old,,1
 2019,Detected victims of human trafficking (number),,,18 to 29 years old,,1
 2021,Detected victims of human trafficking (number),,,18 to 29 years old,,4
 2022,Detected victims of human trafficking (number),,,18 to 29 years old,,1

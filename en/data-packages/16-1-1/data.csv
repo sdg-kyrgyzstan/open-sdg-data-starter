@@ -10,6 +10,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,2.713997
 2023,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,1.480052
 2024,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,1.4
+2025,"Number of victims of intentional homicide per 100,000 population",,,,"Per 100,000 population",,1.5
 2014,Number of victims of intentional homicide,,,,Number,,320.0
 2015,Number of victims of intentional homicide,,,,Number,,305.0
 2016,Number of victims of intentional homicide,,,,Number,,267.0
@@ -21,6 +22,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,,,,Number,,191.0
 2023,Number of victims of intentional homicide,,,,Number,,106.0
 2024,Number of victims of intentional homicide,,,,Number,,105.0
+2025,Number of victims of intentional homicide,,,,Number,,113.0
 2014,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,7.630608
 2015,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,7.488765
 2016,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,6.548343
@@ -32,6 +34,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,4.252509
 2023,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,2.399181
 2024,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,2.2
+2025,"Number of victims of intentional homicide per 100,000 population",,Male,,"Per 100,000 population",,1.9
 2014,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,3.142772
 2015,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,2.556008
 2016,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,2.058712
@@ -43,6 +46,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,1.208785
 2023,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,0.580265
 2024,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,0.7
+2025,"Number of victims of intentional homicide per 100,000 population",,Female,,"Per 100,000 population",,1.2
 2014,Number of victims of intentional homicide,,Male,,Number,,225.0
 2015,Number of victims of intentional homicide,,Male,,Number,,226.0
 2016,Number of victims of intentional homicide,,Male,,Number,,202.0
@@ -54,6 +58,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,,Male,,Number,,148.0
 2023,Number of victims of intentional homicide,,Male,,Number,,85.0
 2024,Number of victims of intentional homicide,,Male,,Number,,80.0
+2025,Number of victims of intentional homicide,,Male,,Number,,70.0
 2014,Number of victims of intentional homicide,,Female,,Number,,95.0
 2015,Number of victims of intentional homicide,,Female,,Number,,79.0
 2016,Number of victims of intentional homicide,,Female,,Number,,65.0
@@ -65,6 +70,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,,Female,,Number,,43.0
 2023,Number of victims of intentional homicide,,Female,,Number,,21.0
 2024,Number of victims of intentional homicide,,Female,,Number,,25.0
+2025,Number of victims of intentional homicide,,Female,,Number,,43.0
 2014,Number of victims of intentional homicide,Batken,,,Number,KG05,12.0
 2015,Number of victims of intentional homicide,Batken,,,Number,KG05,13.0
 2016,Number of victims of intentional homicide,Batken,,,Number,KG05,11.0
@@ -76,6 +82,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Batken,,,Number,KG05,8.0
 2023,Number of victims of intentional homicide,Batken,,,Number,KG05,7.0
 2024,Number of victims of intentional homicide,Batken,,,Number,KG05,7.0
+2025,Number of victims of intentional homicide,Batken,,,Number,KG05,4.0
 2014,Number of victims of intentional homicide,Batken,Male,,Number,KG05,12.0
 2015,Number of victims of intentional homicide,Batken,Male,,Number,KG05,11.0
 2016,Number of victims of intentional homicide,Batken,Male,,Number,KG05,9.0
@@ -104,6 +111,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Jalal-Abad,,,Number,KG03,18.0
 2023,Number of victims of intentional homicide,Jalal-Abad,,,Number,KG03,11.0
 2024,Number of victims of intentional homicide,Jalal-Abad,,,Number,KG03,16.0
+2025,Number of victims of intentional homicide,Jalal-Abad,,,Number,KG03,10.0
 2014,Number of victims of intentional homicide,Jalal-Abad,Male,,Number,KG03,29.0
 2015,Number of victims of intentional homicide,Jalal-Abad,Male,,Number,KG03,31.0
 2016,Number of victims of intentional homicide,Jalal-Abad,Male,,Number,KG03,22.0
@@ -133,6 +141,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Issyk-Kul,,,Number,KG02,14.0
 2023,Number of victims of intentional homicide,Issyk-Kul,,,Number,KG02,10.0
 2024,Number of victims of intentional homicide,Issyk-Kul,,,Number,KG02,6.0
+2025,Number of victims of intentional homicide,Issyk-Kul,,,Number,KG02,11.0
 2014,Number of victims of intentional homicide,Issyk-Kul,Male,,Number,KG02,17.0
 2015,Number of victims of intentional homicide,Issyk-Kul,Male,,Number,KG02,19.0
 2016,Number of victims of intentional homicide,Issyk-Kul,Male,,Number,KG02,20.0
@@ -162,6 +171,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Naryn,,,Number,KG04,10.0
 2023,Number of victims of intentional homicide,Naryn,,,Number,KG04,2.0
 2024,Number of victims of intentional homicide,Naryn,,,Number,KG04,5.0
+2025,Number of victims of intentional homicide,Naryn,,,Number,KG04,2.0
 2014,Number of victims of intentional homicide,Naryn,Male,,Number,KG04,14.0
 2015,Number of victims of intentional homicide,Naryn,Male,,Number,KG04,7.0
 2016,Number of victims of intentional homicide,Naryn,Male,,Number,KG04,4.0
@@ -190,6 +200,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Osh,,,Number,KG06,19.0
 2023,Number of victims of intentional homicide,Osh,,,Number,KG06,9.0
 2024,Number of victims of intentional homicide,Osh,,,Number,KG06,9.0
+2025,Number of victims of intentional homicide,Osh,,,Number,KG06,13.0
 2014,Number of victims of intentional homicide,Osh,Male,,Number,KG06,13.0
 2015,Number of victims of intentional homicide,Osh,Male,,Number,KG06,21.0
 2016,Number of victims of intentional homicide,Osh,Male,,Number,KG06,16.0
@@ -219,6 +230,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Talas,,,Number,KG07,6.0
 2023,Number of victims of intentional homicide,Talas,,,Number,KG07,4.0
 2024,Number of victims of intentional homicide,Talas,,,Number,KG07,10.0
+2025,Number of victims of intentional homicide,Talas,,,Number,KG07,5.0
 2014,Number of victims of intentional homicide,Talas,Male,,Number,KG07,6.0
 2015,Number of victims of intentional homicide,Talas,Male,,Number,KG07,4.0
 2016,Number of victims of intentional homicide,Talas,Male,,Number,KG07,7.0
@@ -245,6 +257,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Chui,,,Number,KG08,62.0
 2023,Number of victims of intentional homicide,Chui,,,Number,KG08,35.0
 2024,Number of victims of intentional homicide,Chui,,,Number,KG08,27.0
+2025,Number of victims of intentional homicide,Chui,,,Number,KG08,30.0
 2014,Number of victims of intentional homicide,Chui,Male,,Number,KG08,68.0
 2015,Number of victims of intentional homicide,Chui,Male,,Number,KG08,82.0
 2016,Number of victims of intentional homicide,Chui,Male,,Number,KG08,71.0
@@ -274,6 +287,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Bishkek (city),,,Number,KG11,48.0
 2023,Number of victims of intentional homicide,Bishkek (city),,,Number,KG11,19.0
 2024,Number of victims of intentional homicide,Bishkek (city),,,Number,KG11,21.0
+2025,Number of victims of intentional homicide,Bishkek (city),,,Number,KG11,31.0
 2014,Number of victims of intentional homicide,Bishkek (city),Male,,Number,KG11,52.0
 2015,Number of victims of intentional homicide,Bishkek (city),Male,,Number,KG11,43.0
 2016,Number of victims of intentional homicide,Bishkek (city),Male,,Number,KG11,43.0
@@ -303,6 +317,7 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,Osh (city),,,Number,KG21,6.0
 2023,Number of victims of intentional homicide,Osh (city),,,Number,KG21,9.0
 2024,Number of victims of intentional homicide,Osh (city),,,Number,KG21,4.0
+2025,Number of victims of intentional homicide,Osh (city),,,Number,KG21,7.0
 2014,Number of victims of intentional homicide,Osh (city),Male,,Number,KG21,14.0
 2015,Number of victims of intentional homicide,Osh (city),Male,,Number,KG21,8.0
 2016,Number of victims of intentional homicide,Osh (city),Male,,Number,KG21,9.0
@@ -324,12 +339,16 @@ Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
 2022,Number of victims of intentional homicide,,,under 17 years old,Number,,4.0
 2023,Number of victims of intentional homicide,,,under 17 years old,Number,,7.0
 2024,Number of victims of intentional homicide,,,under 17 years old,Number,,8.0
+2025,Number of victims of intentional homicide,,,under 17 years old,Number,,8.0
 2022,Number of victims of intentional homicide,,,18 to 29 years old,Number,,34.0
 2023,Number of victims of intentional homicide,,,18 to 29 years old,Number,,14.0
 2024,Number of victims of intentional homicide,,,18 to 29 years old,Number,,13.0
+2025,Number of victims of intentional homicide,,,18 to 29 years old,Number,,14.0
 2022,Number of victims of intentional homicide,,,30 to 39 years old,Number,,109.0
 2023,Number of victims of intentional homicide,,,30 to 39 years old,Number,,65.0
 2024,Number of victims of intentional homicide,,,30 to 39 years old,Number,,50.0
+2025,Number of victims of intentional homicide,,,30 to 39 years old,Number,,29.0
 2022,Number of victims of intentional homicide,,,70 years old and over,Number,,7.0
 2023,Number of victims of intentional homicide,,,70 years old and over,Number,,2.0
 2024,Number of victims of intentional homicide,,,70 years old and over,Number,,3.0
+2025,Number of victims of intentional homicide,,,70 years old and over,Number,,4.0
