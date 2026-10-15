@@ -9,6 +9,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,,,28.1
 2023,,,,26.0
 2024,,,,25.7
+2025,,,,34.8
 2015,Batken,,KG05,32.6
 2016,Batken,,KG05,41.9
 2017,Batken,,KG05,59.4
@@ -19,6 +20,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Batken,,KG05,34.9
 2023,Batken,,KG05,14.5
 2024,Batken,,KG05,30.4
+2025,Batken,,KG05,64.4
 2015,Jalal-Abad,,KG03,56.4
 2016,Jalal-Abad,,KG03,33.5
 2017,Jalal-Abad,,KG03,50.3
@@ -29,6 +31,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Jalal-Abad,,KG03,28.7
 2023,Jalal-Abad,,KG03,46.9
 2024,Jalal-Abad,,KG03,30.6
+2025,Jalal-Abad,,KG03,34.0
 2015,Issyk-Kul,,KG02,17.8
 2016,Issyk-Kul,,KG02,43.4
 2017,Issyk-Kul,,KG02,37.0
@@ -39,6 +42,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Issyk-Kul,,KG02,38.5
 2023,Issyk-Kul,,KG02,26.5
 2024,Issyk-Kul,,KG02,56.5
+2025,Issyk-Kul,,KG02,59.6
 2015,Naryn,,KG04,30.6
 2016,Naryn,,KG04,29.2
 2018,Naryn,,KG04,135.9
@@ -56,6 +60,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Osh,,KG06,25.6
 2023,Osh,,KG06,30.2
 2024,Osh,,KG06,7.3
+2025,Osh,,KG06,43.5
 2015,Talas,,KG07,15.1
 2019,Talas,,KG07,33.3
 2020,Talas,,KG07,51.9
@@ -73,6 +78,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Chui,,KG08,23.5
 2023,Chui,,KG08,28.1
 2024,Chui,,KG08,50.2
+2025,Chui,,KG08,73.2
 2015,Bishkek (city),,KG11,30.5
 2016,Bishkek (city),,KG11,17.6
 2017,Bishkek (city),,KG11,13.4
@@ -83,6 +89,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Bishkek (city),,KG11,34.3
 2023,Bishkek (city),,KG11,13.5
 2024,Bishkek (city),,KG11,27.0
+2025,Bishkek (city),,KG11,30.5
 2015,Osh (city),,KG21,68.1
 2016,Osh (city),,KG21,13.5
 2017,Osh (city),,KG21,51.9
@@ -91,6 +98,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2021,Osh (city),,KG21,16.5
 2023,Osh (city),,KG21,14.0
 2024,Osh (city),,KG21,8.6
+2025,Osh (city),,KG21,5.6
 2015,,Urban,,26.678354
 2016,,Urban,,15.500872
 2017,,Urban,,18.928997
@@ -101,6 +109,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,Urban,,19.598556
 2023,,Urban,,19.821114
 2024,,Urban,,20.34588
+2025,,Urban,,11.6
 2015,,Rural,,44.154089
 2016,,Rural,,36.602534
 2017,,Rural,,37.701779
@@ -111,3 +120,4 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,Rural,,32.585734
 2023,,Rural,,28.404787
 2024,,Rural,,28.487219
+2025,,Rural,,23.2
