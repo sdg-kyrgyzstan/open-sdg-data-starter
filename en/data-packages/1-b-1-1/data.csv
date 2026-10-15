@@ -11,6 +11,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of current government expenditure by sectors,Sector: Total,72.2
 2023,Share of current government expenditure by sectors,Sector: Total,75.7
 2024,Share of current government expenditure by sectors,Sector: Total,74.9
+2025,Share of current government expenditure by sectors,Sector: Total,71.1
 2013,Share of capital government expenditures by sectors,Sector: Total,13.5
 2014,Share of capital government expenditures by sectors,Sector: Total,19.8
 2015,Share of capital government expenditures by sectors,Sector: Total,18.2
@@ -23,6 +24,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of capital government expenditures by sectors,Sector: Total,27.8
 2023,Share of capital government expenditures by sectors,Sector: Total,24.3
 2024,Share of capital government expenditures by sectors,Sector: Total,25.1
+2025,Share of capital government expenditures by sectors,Sector: Total,28.9
 2013,Share of current government expenditure by sectors,Sector: Economic affairs,29.3
 2014,Share of current government expenditure by sectors,Sector: Economic affairs,24.5
 2015,Share of current government expenditure by sectors,Sector: Economic affairs,29.2
@@ -35,6 +37,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of current government expenditure by sectors,Sector: Economic affairs,21.4
 2023,Share of current government expenditure by sectors,Sector: Economic affairs,31.1
 2024,Share of current government expenditure by sectors,Sector: Economic affairs,38.9
+2025,Share of current government expenditure by sectors,Sector: Economic affairs,56.7
 2013,Share of capital government expenditures by sectors,Sector: Economic affairs,70.7
 2014,Share of capital government expenditures by sectors,Sector: Economic affairs,75.5
 2015,Share of capital government expenditures by sectors,Sector: Economic affairs,70.8
@@ -47,6 +50,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of capital government expenditures by sectors,Sector: Economic affairs,78.6
 2023,Share of capital government expenditures by sectors,Sector: Economic affairs,68.9
 2024,Share of capital government expenditures by sectors,Sector: Economic affairs,61.1
+2025,Share of capital government expenditures by sectors,Sector: Economic affairs,43.3
 2013,Share of current government expenditure by sectors,Sector: Health,96.5
 2014,Share of current government expenditure by sectors,Sector: Health,97.6
 2015,Share of current government expenditure by sectors,Sector: Health,97.6
@@ -59,6 +63,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of current government expenditure by sectors,Sector: Health,72.8
 2023,Share of current government expenditure by sectors,Sector: Health,76.7
 2024,Share of current government expenditure by sectors,Sector: Health,92.6
+2025,Share of current government expenditure by sectors,Sector: Health,93.3
 2013,Share of capital government expenditures by sectors,Sector: Health,3.5
 2014,Share of capital government expenditures by sectors,Sector: Health,2.4
 2015,Share of capital government expenditures by sectors,Sector: Health,2.4
@@ -71,6 +76,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of capital government expenditures by sectors,Sector: Health,27.2
 2023,Share of capital government expenditures by sectors,Sector: Health,23.3
 2024,Share of capital government expenditures by sectors,Sector: Health,7.4
+2025,Share of capital government expenditures by sectors,Sector: Health,6.7
 2013,Share of current government expenditure by sectors,Sector: Education,92.2
 2014,Share of current government expenditure by sectors,Sector: Education,89.6
 2015,Share of current government expenditure by sectors,Sector: Education,90.6
@@ -83,6 +89,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of current government expenditure by sectors,Sector: Education,87.8
 2023,Share of current government expenditure by sectors,Sector: Education,89.0
 2024,Share of current government expenditure by sectors,Sector: Education,88.0
+2025,Share of current government expenditure by sectors,Sector: Education,81.4
 2013,Share of capital government expenditures by sectors,Sector: Education,7.8
 2014,Share of capital government expenditures by sectors,Sector: Education,10.4
 2015,Share of capital government expenditures by sectors,Sector: Education,9.4
@@ -95,6 +102,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of capital government expenditures by sectors,Sector: Education,12.2
 2023,Share of capital government expenditures by sectors,Sector: Education,11.0
 2024,Share of capital government expenditures by sectors,Sector: Education,12.0
+2025,Share of capital government expenditures by sectors,Sector: Education,18.6
 2013,Share of current government expenditure by sectors,Sector: Housing and community amenities,94.3
 2014,Share of current government expenditure by sectors,Sector: Housing and community amenities,89.4
 2015,Share of current government expenditure by sectors,Sector: Housing and community amenities,91.7
@@ -107,6 +115,7 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of current government expenditure by sectors,Sector: Housing and community amenities,44.9
 2023,Share of current government expenditure by sectors,Sector: Housing and community amenities,48.3
 2024,Share of current government expenditure by sectors,Sector: Housing and community amenities,41.7
+2025,Share of current government expenditure by sectors,Sector: Housing and community amenities,48.9
 2013,Share of capital government expenditures by sectors,Sector: Housing and community amenities,5.7
 2014,Share of capital government expenditures by sectors,Sector: Housing and community amenities,10.6
 2015,Share of capital government expenditures by sectors,Sector: Housing and community amenities,8.3
@@ -119,3 +128,4 @@ Year,SERIES,COMPOSITE_BREAKDOWN,Value
 2022,Share of capital government expenditures by sectors,Sector: Housing and community amenities,55.1
 2023,Share of capital government expenditures by sectors,Sector: Housing and community amenities,51.7
 2024,Share of capital government expenditures by sectors,Sector: Housing and community amenities,58.3
+2025,Share of capital government expenditures by sectors,Sector: Housing and community amenities,511.0
