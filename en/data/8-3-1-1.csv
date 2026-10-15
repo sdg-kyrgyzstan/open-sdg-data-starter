@@ -17,7 +17,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,,,1698.3
 2023,,,,,1754.6
 2024,,,,,1783.5
-2025,,,,,1708.4
 2007,Male,,,,928.9
 2008,Male,,,,936.1
 2009,Male,,,,983.6
@@ -36,7 +35,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,Male,,,,1109.0
 2023,Male,,,,1139.4
 2024,Male,,,,1162.5
-2025,Male,,,,1126.9
 2007,Female,,,,585.9
 2008,Female,,,,623.5
 2009,Female,,,,609.4
@@ -55,7 +53,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,Female,,,,589.4
 2023,Female,,,,615.2
 2024,Female,,,,621.0
-2025,Female,,,,581.5
 2007,,15 to 19 years old,,,129.7
 2008,,15 to 19 years old,,,130.2
 2009,,15 to 19 years old,,,139.2
@@ -74,7 +71,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,15 to 19 years old,,,72.2
 2023,,15 to 19 years old,,,72.4
 2024,,15 to 19 years old,,,74.7
-2025,,15 to 19 years old,,,65.581776
 2007,,20 to 29 years old,,,463.8
 2008,,20 to 29 years old,,,485.6
 2009,,20 to 29 years old,,,492.5
@@ -93,7 +89,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,20 to 29 years old,,,469.2
 2023,,20 to 29 years old,,,449.4
 2024,,20 to 29 years old,,,444.6
-2025,,20 to 29 years old,,,419.192175
 2007,,30 to 39 years old,,,408.9
 2008,,30 to 39 years old,,,416.3
 2009,,30 to 39 years old,,,408.1
@@ -112,7 +107,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,30 to 39 years old,,,511.1
 2023,,30 to 39 years old,,,504.8
 2024,,30 to 39 years old,,,511.2
-2025,,30 to 39 years old,,,487.904054
 2007,,40 to 49 years old,,,328.7
 2008,,40 to 49 years old,,,335.8
 2009,,40 to 49 years old,,,343.1
@@ -131,7 +125,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,40 to 49 years old,,,338.7
 2023,,40 to 49 years old,,,377.7
 2024,,40 to 49 years old,,,393.2
-2025,,40 to 49 years old,,,385.365236
 2007,,50 to 59 years old,,,149.3
 2008,,50 to 59 years old,,,154.0
 2009,,50 to 59 years old,,,168.4
@@ -150,26 +143,24 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,50 to 59 years old,,,229.2
 2023,,50 to 59 years old,,,258.8
 2024,,50 to 59 years old,,,263.7
-2025,,50 to 59 years old,,,252.948772
-2007,,60 to 69 years old,,,26.0
-2008,,60 to 69 years old,,,29.0
-2009,,60 to 69 years old,,,29.7
-2010,,60 to 69 years old,,,32.3
-2011,,60 to 69 years old,,,36.5
-2012,,60 to 69 years old,,,38.0
-2013,,60 to 69 years old,,,31.5
-2014,,60 to 69 years old,,,35.3
-2015,,60 to 69 years old,,,43.5
-2016,,60 to 69 years old,,,45.4
-2017,,60 to 69 years old,,,40.5
-2018,,60 to 69 years old,,,52.6
-2019,,60 to 69 years old,,,66.3
-2020,,60 to 69 years old,,,57.8
-2021,,60 to 69 years old,,,66.7
-2022,,60 to 69 years old,,,70.8
-2023,,60 to 69 years old,,,83.4
-2024,,60 to 69 years old,,,87.5
-2025,,60 to 69 years old,,,88.783626
+2007,,65 to 69 years old,,,26.0
+2008,,65 to 69 years old,,,29.0
+2009,,65 to 69 years old,,,29.7
+2010,,65 to 69 years old,,,32.3
+2011,,65 to 69 years old,,,36.5
+2012,,65 to 69 years old,,,38.0
+2013,,65 to 69 years old,,,31.5
+2014,,65 to 69 years old,,,35.3
+2015,,65 to 69 years old,,,43.5
+2016,,65 to 69 years old,,,45.4
+2017,,65 to 69 years old,,,40.5
+2018,,65 to 69 years old,,,52.6
+2019,,65 to 69 years old,,,66.3
+2020,,65 to 69 years old,,,57.8
+2021,,65 to 69 years old,,,66.7
+2022,,65 to 69 years old,,,70.8
+2023,,65 to 69 years old,,,83.4
+2024,,65 to 69 years old,,,87.5
 2007,,70 years old and over,,,8.5
 2008,,70 years old and over,,,8.7
 2009,,70 years old and over,,,11.8
@@ -188,7 +179,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,70 years old and over,,,7.1
 2023,,70 years old and over,,,8.0
 2024,,70 years old and over,,,8.6
-2025,,70 years old and over,,,8.634265
 2007,,,Urban,,396.7
 2008,,,Urban,,421.9
 2009,,,Urban,,431.7
@@ -207,7 +197,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,Urban,,601.3
 2023,,,Urban,,647.1
 2024,,,Urban,,657.1
-2025,,,Urban,,440.867851
 2007,,,Rural,,1118.1
 2008,,,Rural,,1137.7
 2009,,,Rural,,1161.2
@@ -226,7 +215,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,Rural,,1097.0
 2023,,,Rural,,1107.4
 2024,,,Rural,,1126.4
-2025,,,Rural,,1021.784623
 2007,,,,"Agriculture, forestry and fishing",755.3
 2008,,,,"Agriculture, forestry and fishing",767.0
 2009,,,,"Agriculture, forestry and fishing",740.5
@@ -245,7 +233,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,,"Agriculture, forestry and fishing",348.7
 2023,,,,"Agriculture, forestry and fishing",342.0
 2024,,,,"Agriculture, forestry and fishing",344.3
-2025,,,,"Agriculture, forestry and fishing",271.0
 2007,,,,Industry (total),106.6
 2008,,,,Industry (total),110.4
 2009,,,,Industry (total),114.7
@@ -264,7 +251,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,,Industry (total),235.9
 2023,,,,Industry (total),243.1
 2024,,,,Industry (total),247.9
-2025,,,,Industry (total),221.6
 2007,,,,Construction,172.5
 2008,,,,Construction,180.9
 2009,,,,Construction,204.7
@@ -283,7 +269,6 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,,Construction,302.1
 2023,,,,Construction,298.2
 2024,,,,Construction,304.8
-2025,,,,Construction,365.1
 2007,,,,Other service activities,480.4
 2008,,,,Other service activities,501.4
 2009,,,,Other service activities,533.1
@@ -302,4 +287,3 @@ Year,Sex,Age,Degree of urbanisation,Economic activity,Value
 2022,,,,Other service activities,811.7
 2023,,,,Other service activities,871.3
 2024,,,,Other service activities,886.6
-2025,,,,Other service activities,850.7

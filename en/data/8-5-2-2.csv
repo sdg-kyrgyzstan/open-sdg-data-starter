@@ -7,7 +7,6 @@ Year,Sex,Degree of urbanisation,Value
 2022,,,57.1
 2023,,,56.3
 2024,,,57.1
-2025,,,56.6
 2017,Female,,41.8
 2018,Female,,41.9
 2019,Female,,42.7
@@ -16,7 +15,6 @@ Year,Sex,Degree of urbanisation,Value
 2022,Female,,43.1
 2023,Female,,42.4
 2024,Female,,43.4
-2025,Female,,42.8
 2017,Male,,70.8
 2018,Male,,71.1
 2019,Male,,71.9
@@ -25,7 +23,6 @@ Year,Sex,Degree of urbanisation,Value
 2022,Male,,71.8
 2023,Male,,71.0
 2024,Male,,71.6
-2025,Male,,71.2
 2017,,Urban,57.4
 2018,,Urban,58.2
 2019,,Urban,58.6
@@ -34,7 +31,6 @@ Year,Sex,Degree of urbanisation,Value
 2022,,Urban,59.1
 2023,,Urban,57.5
 2024,,Urban,58.9
-2025,,Urban,55.8
 2017,,Rural,55.1
 2018,,Rural,55.0
 2019,,Rural,56.1
@@ -43,4 +39,3 @@ Year,Sex,Degree of urbanisation,Value
 2022,,Rural,56.0
 2023,,Rural,55.5
 2024,,Rural,56.0
-2025,,Rural,57.3

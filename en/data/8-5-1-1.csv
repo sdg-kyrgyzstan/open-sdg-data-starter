@@ -27,8 +27,6 @@ Year,Sex,Economic activity,Value
 2023,Male,,36693.0
 2024,Female,,30374.0
 2024,Male,,44011.3
-2025,Female,,33558.0
-2025,Male,,51096.0
 2011,Female,"Agriculture, forestry and fishing",4548.5
 2011,Male,"Agriculture, forestry and fishing",4561.6
 2012,Female,"Agriculture, forestry and fishing",4726.7
@@ -57,8 +55,6 @@ Year,Sex,Economic activity,Value
 2023,Male,"Agriculture, forestry and fishing",20989.0
 2024,Female,"Agriculture, forestry and fishing",21252.1
 2024,Male,"Agriculture, forestry and fishing",24218.5
-2025,Female,"Agriculture, forestry and fishing",27997.0
-2025,Male,"Agriculture, forestry and fishing",31030.0
 2011,Female,Mining and quarrying,10291.1
 2011,Male,Mining and quarrying,10478.8
 2012,Female,Mining and quarrying,13648.2
@@ -87,8 +83,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Mining and quarrying,53637.0
 2024,Female,Mining and quarrying,51832.4
 2024,Male,Mining and quarrying,62819.6
-2025,Female,Mining and quarrying,58109.0
-2025,Male,Mining and quarrying,73092.0
 2011,Female,Manufacturing,7779.9
 2011,Male,Manufacturing,10879.1
 2012,Female,Manufacturing,9583.2
@@ -117,8 +111,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Manufacturing,56425.0
 2024,Female,Manufacturing,40867.2
 2024,Male,Manufacturing,67573.0
-2025,Female,Manufacturing,47505.0
-2025,Male,Manufacturing,71877.0
 2011,Female,"Electricity, gas, steam and air conditioning supply",14160.1
 2011,Male,"Electricity, gas, steam and air conditioning supply",15121.5
 2012,Female,"Electricity, gas, steam and air conditioning supply",18564.4
@@ -147,8 +139,6 @@ Year,Sex,Economic activity,Value
 2023,Male,"Electricity, gas, steam and air conditioning supply",39870.0
 2024,Female,"Electricity, gas, steam and air conditioning supply",38459.3
 2024,Male,"Electricity, gas, steam and air conditioning supply",41987.3
-2025,Female,"Electricity, gas, steam and air conditioning supply",47717.0
-2025,Male,"Electricity, gas, steam and air conditioning supply",53674.0
 2011,Female,"Water supply; sewerage, waste management and remediation activities",7097.9
 2011,Male,"Water supply; sewerage, waste management and remediation activities",8512.1
 2012,Female,"Water supply; sewerage, waste management and remediation activities",7874.8
@@ -177,8 +167,6 @@ Year,Sex,Economic activity,Value
 2023,Male,"Water supply; sewerage, waste management and remediation activities",26975.0
 2024,Female,"Water supply; sewerage, waste management and remediation activities",26915.1
 2024,Male,"Water supply; sewerage, waste management and remediation activities",28914.3
-2025,Female,"Water supply; sewerage, waste management and remediation activities",29163.0
-2025,Male,"Water supply; sewerage, waste management and remediation activities",29099.0
 2011,Female,Construction,7461.7
 2011,Male,Construction,9692.9
 2012,Female,Construction,8708.8
@@ -207,8 +195,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Construction,34402.0
 2024,Female,Construction,39702.7
 2024,Male,Construction,45427.7
-2025,Female,Construction,47627.0
-2025,Male,Construction,55013.0
 2011,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,10848.1
 2011,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,13252.0
 2012,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,10912.9
@@ -237,8 +223,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,36608.0
 2024,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,40741.0
 2024,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,51058.5
-2025,Female,Wholesale and retail trade; repair of motor vehicles and motorcycles,42761.0
-2025,Male,Wholesale and retail trade; repair of motor vehicles and motorcycles,55271.0
 2011,Female,Transportation and storage,9395.1
 2011,Male,Transportation and storage,12164.4
 2012,Female,Transportation and storage,10325.0
@@ -267,8 +251,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Transportation and storage,40286.0
 2024,Female,Transportation and storage,29777.9
 2024,Male,Transportation and storage,51165.1
-2025,Female,Transportation and storage,35899.0
-2025,Male,Transportation and storage,59174.0
 2011,Female,Accommodation and food service activities,7487.3
 2011,Male,Accommodation and food service activities,10371.4
 2012,Female,Accommodation and food service activities,10012.7
@@ -297,8 +279,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Accommodation and food service activities,27814.0
 2024,Female,Accommodation and food service activities,32769.5
 2024,Male,Accommodation and food service activities,32148.6
-2025,Female,Accommodation and food service activities,33877.0
-2025,Male,Accommodation and food service activities,31575.0
 2011,Female,Information and communication,14988.1
 2011,Male,Information and communication,19715.7
 2012,Female,Information and communication,15828.9
@@ -327,8 +307,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Information and communication,62650.0
 2024,Female,Information and communication,58825.0
 2024,Male,Information and communication,80634.6
-2025,Female,Information and communication,69591.0
-2025,Male,Information and communication,77972.0
 2011,Female,Financial and insurance activities,18256.9
 2011,Male,Financial and insurance activities,23772.5
 2012,Female,Financial and insurance activities,19804.3
@@ -357,8 +335,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Financial and insurance activities,63489.0
 2024,Female,Financial and insurance activities,56362.6
 2024,Male,Financial and insurance activities,78084.1
-2025,Female,Financial and insurance activities,66504.0
-2025,Male,Financial and insurance activities,86909.0
 2011,Female,Real estate activities,6003.0
 2011,Male,Real estate activities,7571.4
 2012,Female,Real estate activities,7520.8
@@ -387,8 +363,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Real estate activities,25197.0
 2024,Female,Real estate activities,30917.9
 2024,Male,Real estate activities,38190.1
-2025,Female,Real estate activities,42302.0
-2025,Male,Real estate activities,39826.0
 2011,Female,"Professional, scientific and technical activities",10690.0
 2011,Male,"Professional, scientific and technical activities",15826.9
 2012,Female,"Professional, scientific and technical activities",12009.8
@@ -417,8 +391,6 @@ Year,Sex,Economic activity,Value
 2023,Male,"Professional, scientific and technical activities",40901.0
 2024,Female,"Professional, scientific and technical activities",39248.4
 2024,Male,"Professional, scientific and technical activities",48265.4
-2025,Female,"Professional, scientific and technical activities",45934.0
-2025,Male,"Professional, scientific and technical activities",62179.0
 2011,Female,Administrative and support service activities,6066.8
 2011,Male,Administrative and support service activities,7583.4
 2012,Female,Administrative and support service activities,6684.2
@@ -447,8 +419,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Administrative and support service activities,25598.0
 2024,Female,Administrative and support service activities,39197.5
 2024,Male,Administrative and support service activities,30448.1
-2025,Female,Administrative and support service activities,40600.0
-2025,Male,Administrative and support service activities,41245.0
 2011,Female,Public administration and defence; compulsory social security,6571.7
 2011,Male,Public administration and defence; compulsory social security,9048.7
 2012,Female,Public administration and defence; compulsory social security,8196.1
@@ -477,8 +447,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Public administration and defence; compulsory social security,41343.0
 2024,Female,Public administration and defence; compulsory social security,38793.1
 2024,Male,Public administration and defence; compulsory social security,46855.0
-2025,Female,Public administration and defence; compulsory social security,49824.0
-2025,Male,Public administration and defence; compulsory social security,62575.0
 2011,Female,Education,7361.5
 2011,Male,Education,8726.2
 2012,Female,Education,7317.6
@@ -507,8 +475,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Education,23868.0
 2024,Female,Education,25957.7
 2024,Male,Education,26106.0
-2025,Female,Education,27276.0
-2025,Male,Education,28321.0
 2011,Female,Human health and social work activities,9256.1
 2011,Male,Human health and social work activities,9584.5
 2012,Female,Human health and social work activities,8892.0
@@ -537,8 +503,6 @@ Year,Sex,Economic activity,Value
 2023,Male,Human health and social work activities,20809.0
 2024,Female,Human health and social work activities,26299.0
 2024,Male,Human health and social work activities,26442.0
-2025,Female,Human health and social work activities,27629.0
-2025,Male,Human health and social work activities,27912.0
 2011,Female,"Arts, entertainment and recreation",6350.6
 2011,Male,"Arts, entertainment and recreation",7746.8
 2012,Female,"Arts, entertainment and recreation",6399.4
@@ -567,8 +531,6 @@ Year,Sex,Economic activity,Value
 2023,Male,"Arts, entertainment and recreation",19200.0
 2024,Female,"Arts, entertainment and recreation",22124.2
 2024,Male,"Arts, entertainment and recreation",22332.2
-2025,Female,"Arts, entertainment and recreation",24994.0
-2025,Male,"Arts, entertainment and recreation",27055.0
 2011,Female,Other service activities,8458.9
 2011,Male,Other service activities,8192.8
 2012,Female,Other service activities,8608.0
@@ -597,5 +559,3 @@ Year,Sex,Economic activity,Value
 2023,Male,Other service activities,24642.0
 2024,Female,Other service activities,29465.4
 2024,Male,Other service activities,30161.3
-2025,Female,Other service activities,28855.0
-2025,Male,Other service activities,29747.0

@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1792033728900</message:ID>
+    <message:ID>IREF1756283966509</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2026-10-15T03:08:48Z</message:Prepared>
+    <message:Prepared>2025-08-27T08:39:26Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -34,7 +34,6 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="0.002" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="0.012" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023"></Obs>
     <Obs TIME_PERIOD="2024" OBS_VALUE="0.008" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024"></Obs>
-    <Obs TIME_PERIOD="2025" OBS_VALUE="0.002" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2025"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

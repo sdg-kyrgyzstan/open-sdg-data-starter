@@ -16,7 +16,6 @@ Year,Economic activity,Value
 2022,,1202599.0
 2023,,844895.7
 2024,,1029657.0
-2025,,1310783.5
 2008,"Agriculture, forestry and fishing",583.5904
 2009,"Agriculture, forestry and fishing",17.6
 2010,"Agriculture, forestry and fishing",2.7
@@ -33,7 +32,6 @@ Year,Economic activity,Value
 2022,"Agriculture, forestry and fishing",3358.2
 2023,"Agriculture, forestry and fishing",666.9
 2024,"Agriculture, forestry and fishing",550.2
-2025,"Agriculture, forestry and fishing",537.5
 2008,Mining and quarrying,7500.0
 2009,Mining and quarrying,6375.7
 2010,Mining and quarrying,1028.4
@@ -51,7 +49,6 @@ Year,Economic activity,Value
 2022,Mining and quarrying,499785.2
 2023,Mining and quarrying,220988.1
 2024,Mining and quarrying,109697.0
-2025,Mining and quarrying,246289.4
 2008,Manufacturing,237437.7
 2009,Manufacturing,153569.3
 2010,Manufacturing,331386.7
@@ -69,7 +66,6 @@ Year,Economic activity,Value
 2022,Manufacturing,340881.9
 2023,Manufacturing,233835.3
 2024,Manufacturing,342594.4
-2025,Manufacturing,618773.4
 2010,"Electricity, gas, steam and air conditioning supply",20.5
 2012,"Electricity, gas, steam and air conditioning supply",15.1
 2013,"Electricity, gas, steam and air conditioning supply",16200.5
@@ -84,7 +80,6 @@ Year,Economic activity,Value
 2022,"Electricity, gas, steam and air conditioning supply",1259.1
 2023,"Electricity, gas, steam and air conditioning supply",313.5
 2024,"Electricity, gas, steam and air conditioning supply",5813.7
-2025,"Electricity, gas, steam and air conditioning supply",2325.2
 2008,"Water supply; sewerage, waste management and remediation activities",1282.893
 2009,"Water supply; sewerage, waste management and remediation activities",311.0
 2010,"Water supply; sewerage, waste management and remediation activities",17.0
@@ -99,7 +94,6 @@ Year,Economic activity,Value
 2022,"Water supply; sewerage, waste management and remediation activities",48.6
 2023,"Water supply; sewerage, waste management and remediation activities",28.0
 2024,"Water supply; sewerage, waste management and remediation activities",18.3
-2025,"Water supply; sewerage, waste management and remediation activities",0.0
 2008,Construction,48949.5
 2009,Construction,21396.9
 2010,Construction,12908.2
@@ -117,7 +111,6 @@ Year,Economic activity,Value
 2022,Construction,8430.1
 2023,Construction,26939.8
 2024,Construction,37677.3
-2025,Construction,8072.0
 2008,Wholesale and retail trade; repair of motor vehicles and motorcycles,56200.3
 2009,Wholesale and retail trade; repair of motor vehicles and motorcycles,52960.3
 2010,Wholesale and retail trade; repair of motor vehicles and motorcycles,53484.3
@@ -135,7 +128,6 @@ Year,Economic activity,Value
 2022,Wholesale and retail trade; repair of motor vehicles and motorcycles,105738.4
 2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,119778.8
 2024,Wholesale and retail trade; repair of motor vehicles and motorcycles,256370.0
-2025,Wholesale and retail trade; repair of motor vehicles and motorcycles,116965.4
 2008,Transportation and storage,15126.3
 2009,Transportation and storage,8775.8
 2010,Transportation and storage,12167.0
@@ -153,7 +145,6 @@ Year,Economic activity,Value
 2022,Transportation and storage,15068.2
 2023,Transportation and storage,19295.9
 2024,Transportation and storage,3708.9
-2025,Transportation and storage,11691.2
 2008,Accommodation and food service activities,2386.663
 2009,Accommodation and food service activities,4782.8
 2010,Accommodation and food service activities,8158.1
@@ -171,7 +162,6 @@ Year,Economic activity,Value
 2022,Accommodation and food service activities,1372.9
 2023,Accommodation and food service activities,7382.2
 2024,Accommodation and food service activities,3904.7
-2025,Accommodation and food service activities,16472.8
 2008,Information and communication,2449.8
 2009,Information and communication,13580.1
 2010,Information and communication,922.5
@@ -189,7 +179,6 @@ Year,Economic activity,Value
 2022,Information and communication,35842.2
 2023,Information and communication,14998.5
 2024,Information and communication,7551.9
-2025,Information and communication,73581.4
 2008,Financial and insurance activities,347140.389
 2009,Financial and insurance activities,250155.9
 2010,Financial and insurance activities,34882.2
@@ -207,7 +196,6 @@ Year,Economic activity,Value
 2022,Financial and insurance activities,118699.1
 2023,Financial and insurance activities,158518.0
 2024,Financial and insurance activities,180693.5
-2025,Financial and insurance activities,142186.7
 2010,Real estate activities,314.1
 2011,Real estate activities,241.2
 2012,Real estate activities,3961.3
@@ -223,7 +211,6 @@ Year,Economic activity,Value
 2022,Real estate activities,6812.7
 2023,Real estate activities,10983.5
 2024,Real estate activities,12784.7
-2025,Real estate activities,8031.7
 2008,"Professional, scientific and technical activities",146708.1692
 2009,"Professional, scientific and technical activities",148003.4
 2010,"Professional, scientific and technical activities",210779.0
@@ -241,7 +228,6 @@ Year,Economic activity,Value
 2022,"Professional, scientific and technical activities",63357.3
 2023,"Professional, scientific and technical activities",22712.7
 2024,"Professional, scientific and technical activities",61731.7
-2025,"Professional, scientific and technical activities",50432.2
 2008,Administrative and support service activities,0.2841
 2009,Administrative and support service activities,9.3
 2010,Administrative and support service activities,2.4
@@ -259,7 +245,6 @@ Year,Economic activity,Value
 2022,Administrative and support service activities,733.7
 2023,Administrative and support service activities,4641.9
 2024,Administrative and support service activities,3303.9
-2025,Administrative and support service activities,4905.0
 2008,Education,0.3
 2009,Education,139.3
 2010,Education,12.9
@@ -274,7 +259,6 @@ Year,Economic activity,Value
 2022,Education,14.6
 2023,Education,1154.2
 2024,Education,70.4
-2025,Education,252.1
 2008,Human health and social work activities,397.7
 2009,Human health and social work activities,395.3
 2012,Human health and social work activities,127.2
@@ -286,7 +270,6 @@ Year,Economic activity,Value
 2022,Human health and social work activities,923.3
 2023,Human health and social work activities,2503.1
 2024,Human health and social work activities,3116.4
-2025,Human health and social work activities,10208.8
 2008,"Arts, entertainment and recreation",37.0393
 2009,"Arts, entertainment and recreation",476.6
 2011,"Arts, entertainment and recreation",33.1
@@ -299,7 +282,6 @@ Year,Economic activity,Value
 2022,"Arts, entertainment and recreation",125.9
 2023,"Arts, entertainment and recreation",69.9
 2024,"Arts, entertainment and recreation",16.3
-2025,"Arts, entertainment and recreation",36.9
 2013,Other service activities,0.1
 2018,Other service activities,50.4
 2019,Other service activities,57.8
@@ -308,4 +290,3 @@ Year,Economic activity,Value
 2022,Other service activities,147.6
 2023,Other service activities,85.4
 2024,Other service activities,53.7
-2025,Other service activities,21.8

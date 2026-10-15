@@ -9,7 +9,6 @@ Year,Degree of urbanisation,Value
 2022,,2.81
 2023,,2.71
 2024,,2.6
-2025,,2.57
 2015,Urban,2.8
 2016,Urban,2.76
 2017,Urban,2.84
@@ -20,7 +19,6 @@ Year,Degree of urbanisation,Value
 2022,Urban,2.93
 2023,Urban,1.91
 2024,Urban,1.98
-2025,Urban,1.99
 2015,Rural,3.44
 2016,Rural,3.26
 2017,Rural,3.05
@@ -31,4 +29,3 @@ Year,Degree of urbanisation,Value
 2022,Rural,2.73
 2023,Rural,3.23
 2024,Rural,3.13
-2025,Rural,3.07
