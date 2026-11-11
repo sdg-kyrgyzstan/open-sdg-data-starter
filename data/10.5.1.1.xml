@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1755503680952</message:ID>
+    <message:ID>IREF1792033965345</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-08-18T07:54:40Z</message:Prepared>
+    <message:Prepared>2026-10-15T03:12:45Z</message:Prepared>
     <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -34,7 +34,8 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="46.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="47.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="46.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*по данным НБКР"></Obs>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="53.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="51.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="61.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2025" SOURCE_DETAIL="*по данным НБКР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_12" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="16.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007" SOURCE_DETAIL="*по данным НБКР"></Obs>
@@ -54,7 +55,8 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="31" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="33.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="32.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*по данным НБКР"></Obs>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="38.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="37.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="43.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2025" SOURCE_DETAIL="*по данным НБКР"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_100501_13" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2007" OBS_VALUE="14.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2007" SOURCE_DETAIL="*по данным НБКР"></Obs>
@@ -74,7 +76,8 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="23.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2021" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2022" SOURCE_DETAIL="*по данным НБКР"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="19.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2023" SOURCE_DETAIL="*по данным НБКР"></Obs>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="22.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="21.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2024" SOURCE_DETAIL="*по данным НБКР"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="25.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2025" SOURCE_DETAIL="*по данным НБКР"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

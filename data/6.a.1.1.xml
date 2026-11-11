@@ -2,10 +2,10 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1765621217541</message:ID>
+    <message:ID>IREF1792033705277</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-12-13T10:20:17Z</message:Prepared>
-    <message:Sender id="NSC_KG">
+    <message:Prepared>2026-10-15T03:08:25Z</message:Prepared>
+    <message:Sender id="KG_NSC">
       <message:Contact></message:Contact>
     </message:Sender>
     <message:Structure structureID="KG_NSC_SDG_1_8" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.8):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
@@ -31,6 +31,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="25000" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2022"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="13010" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2023"></Obs>
     <Obs TIME_PERIOD="2024" OBS_VALUE="38819" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2024"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="285500" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2025"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_060A01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_ASS_GRANT" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="USD">
     <Obs TIME_PERIOD="2005" OBS_VALUE="7200" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2005"></Obs>
@@ -46,6 +47,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="23000" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2022"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="16390" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2023"></Obs>
     <Obs TIME_PERIOD="2024" OBS_VALUE="34524" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2024"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="153800" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2025"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KG_060A01_1" REF_AREA="KG" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_L_ASS_LOAN_GRANT" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="USD">
     <Obs TIME_PERIOD="2009" OBS_VALUE="10000" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2009"></Obs>
@@ -61,6 +63,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="48000" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2022"></Obs>
     <Obs TIME_PERIOD="2023" OBS_VALUE="29400" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2023"></Obs>
     <Obs TIME_PERIOD="2024" OBS_VALUE="73343" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2024"></Obs>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="439300" OBS_STATUS="A" UNIT_MULT="3" NATURE="C" TIME_DETAIL="2025"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>
