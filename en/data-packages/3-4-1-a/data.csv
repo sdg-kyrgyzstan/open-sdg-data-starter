@@ -9,6 +9,7 @@ Year,Sex,Age,Value
 2022,Male,15 years old,54.4
 2023,Male,15 years old,54.7
 2024,Male,15 years old,54.9
+2025,Male,15 years old,55.0
 2015,Male,45 years old,26.5
 2016,Male,45 years old,26.2
 2017,Male,45 years old,26.2
@@ -19,6 +20,7 @@ Year,Sex,Age,Value
 2022,Male,45 years old,26.3
 2023,Male,45 years old,26.5
 2024,Male,45 years old,26.6
+2025,Male,45 years old,26.8
 2015,Male,65 years old,11.7
 2016,Male,65 years old,10.9
 2017,Male,65 years old,11.0
@@ -29,6 +31,7 @@ Year,Sex,Age,Value
 2022,Male,65 years old,10.1
 2023,Male,65 years old,9.8
 2024,Male,65 years old,10.0
+2025,Male,65 years old,10.6
 2015,Female,15 years old,61.4
 2016,Female,15 years old,61.6
 2017,Female,15 years old,61.8
@@ -39,6 +42,7 @@ Year,Sex,Age,Value
 2022,Female,15 years old,62.6
 2023,Female,15 years old,62.9
 2024,Female,15 years old,62.8
+2025,Female,15 years old,63.0
 2015,Female,45 years old,32.8
 2016,Female,45 years old,33.0
 2017,Female,45 years old,33.0
@@ -49,6 +53,7 @@ Year,Sex,Age,Value
 2022,Female,45 years old,33.6
 2023,Female,45 years old,33.8
 2024,Female,45 years old,33.8
+2025,Female,45 years old,33.9
 2015,Female,65 years old,15.8
 2016,Female,65 years old,15.8
 2017,Female,65 years old,15.8
@@ -59,3 +64,4 @@ Year,Sex,Age,Value
 2022,Female,65 years old,15.9
 2023,Female,65 years old,16.0
 2024,Female,65 years old,16.0
+2025,Female,65 years old,16.0

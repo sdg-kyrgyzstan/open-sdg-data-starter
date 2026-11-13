@@ -6,6 +6,7 @@ Year,Type of product,Value
 2022,Grain and processed products,19.3
 2023,Grain and processed products,29.7
 2024,Grain and processed products,17.0
+2025,Grain and processed products,27.1
 2018,Wheat and wheat products in flour equivalent,26.1
 2019,Wheat and wheat products in flour equivalent,34.9
 2020,Wheat and wheat products in flour equivalent,28.0
@@ -13,6 +14,7 @@ Year,Type of product,Value
 2022,Wheat and wheat products in flour equivalent,37.5
 2023,Wheat and wheat products in flour equivalent,92.0
 2024,Wheat and wheat products in flour equivalent,53.8
+2025,Wheat and wheat products in flour equivalent,75.9
 2018,Fruits-berries and processed products,33.7
 2019,Fruits-berries and processed products,63.8
 2020,Fruits-berries and processed products,34.8
@@ -20,6 +22,7 @@ Year,Type of product,Value
 2022,Fruits-berries and processed products,41.5
 2023,Fruits-berries and processed products,47.1
 2024,Fruits-berries and processed products,46.8
+2025,Fruits-berries and processed products,30.0
 2018,Potatoes and processed products,0.2
 2019,Potatoes and processed products,0.1
 2020,Potatoes and processed products,0.3
@@ -27,6 +30,7 @@ Year,Type of product,Value
 2022,Potatoes and processed products,0.7
 2023,Potatoes and processed products,0.3
 2024,Potatoes and processed products,0.3
+2025,Potatoes and processed products,2.5
 2018,Vegetables and processed products,3.2
 2019,Vegetables and processed products,4.7
 2020,Vegetables and processed products,6.5
@@ -34,6 +38,7 @@ Year,Type of product,Value
 2022,Vegetables and processed products,9.9
 2023,Vegetables and processed products,7.2
 2024,Vegetables and processed products,6.8
+2025,Vegetables and processed products,10.9
 2018,"Meat and meat products in meat equivalent, including bacon and offal",15.1
 2019,"Meat and meat products in meat equivalent, including bacon and offal",19.4
 2020,"Meat and meat products in meat equivalent, including bacon and offal",16.6
@@ -41,6 +46,7 @@ Year,Type of product,Value
 2022,"Meat and meat products in meat equivalent, including bacon and offal",23.5
 2023,"Meat and meat products in meat equivalent, including bacon and offal",23.6
 2024,"Meat and meat products in meat equivalent, including bacon and offal",34.1
+2025,"Meat and meat products in meat equivalent, including bacon and offal",35.4
 2018,Milk and dairy products in milk equivalent,1.1
 2019,Milk and dairy products in milk equivalent,1.5
 2020,Milk and dairy products in milk equivalent,2.4
@@ -48,6 +54,7 @@ Year,Type of product,Value
 2022,Milk and dairy products in milk equivalent,1.8
 2023,Milk and dairy products in milk equivalent,3.2
 2024,Milk and dairy products in milk equivalent,3.1
+2025,Milk and dairy products in milk equivalent,0.3
 2018,Eggs and their processed products,0.623375
 2019,Eggs and their processed products,6.779139
 2020,Eggs and their processed products,11.599852
@@ -55,6 +62,7 @@ Year,Type of product,Value
 2022,Eggs and their processed products,29.2
 2023,Eggs and their processed products,34.0
 2024,Eggs and their processed products,6.0
+2025,Eggs and their processed products,1.7
 2018,Sugar,26.367347
 2019,Sugar,26.606426
 2020,Sugar,32.163743
@@ -62,6 +70,7 @@ Year,Type of product,Value
 2022,Sugar,71.6946
 2023,Sugar,52.450331
 2024,Sugar,54.147465
+2025,Sugar,47.4
 2018,Vegetable oils,396.581197
 2019,Vegetable oils,528.723404
 2020,Vegetable oils,897.4
@@ -69,6 +78,7 @@ Year,Type of product,Value
 2022,Vegetable oils,936.7
 2023,Vegetable oils,989.2
 2024,Vegetable oils,801.1
+2025,Vegetable oils,673.8
 2018,Fish and their processed products,157.692308
 2019,Fish and their processed products,106.666667
 2020,Fish and their processed products,82.352941
@@ -76,3 +86,4 @@ Year,Type of product,Value
 2022,Fish and their processed products,13.043478
 2023,Fish and their processed products,10.089021
 2024,Fish and their processed products,33.862434
+2025,Fish and their processed products,35.4

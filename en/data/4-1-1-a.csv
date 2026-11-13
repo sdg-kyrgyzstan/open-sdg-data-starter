@@ -19,6 +19,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,,1456
 2023,Male,,1332
 2024,Male,,1351
+2025,Male,,1340
 2005,Male,Cause: material difficulty,295
 2006,Male,Cause: material difficulty,151
 2007,Male,Cause: material difficulty,154
@@ -39,6 +40,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: material difficulty,45
 2023,Male,Cause: material difficulty,34
 2024,Male,Cause: material difficulty,22
+2025,Male,Cause: material difficulty,27
 2005,Male,Cause: unwillingness of parents,86
 2006,Male,Cause: unwillingness of parents,128
 2007,Male,Cause: unwillingness of parents,116
@@ -59,6 +61,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: unwillingness of parents,35
 2023,Male,Cause: unwillingness of parents,2
 2024,Male,Cause: unwillingness of parents,4
+2025,Male,Cause: unwillingness of parents,2
 2013,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",3
 2014,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",1
 2015,Male,"Cause: lack of the necessary documents ( birth certificates, registration)",8
@@ -85,6 +88,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: for domestic reasons,217
 2023,Male,Cause: for domestic reasons,163
 2024,Male,Cause: for domestic reasons,83
+2025,Male,Cause: for domestic reasons,147
 2005,Male,Cause: no wishes to learn,222
 2006,Male,Cause: no wishes to learn,142
 2007,Male,Cause: no wishes to learn,127
@@ -105,6 +109,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: no wishes to learn,22
 2023,Male,Cause: no wishes to learn,21
 2024,Male,Cause: no wishes to learn,14
+2025,Male,Cause: no wishes to learn,7
 2005,Male,Cause: troubled families,87
 2006,Male,Cause: troubled families,65
 2007,Male,Cause: troubled families,72
@@ -125,6 +130,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: troubled families,8
 2023,Male,Cause: troubled families,10
 2024,Male,Cause: troubled families,6
+2025,Male,Cause: troubled families,9
 2005,Male,Cause: lack knowledge of language,11
 2006,Male,Cause: lack knowledge of language,9
 2007,Male,Cause: lack knowledge of language,1
@@ -156,6 +162,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: working,57
 2023,Male,Cause: working,21
 2024,Male,Cause: working,26
+2025,Male,Cause: working,2
 2013,Male,Cause: lack of transportation (school too far from home),2
 2014,Male,Cause: lack of transportation (school too far from home),3
 2016,Male,Cause: lack of transportation (school too far from home),2
@@ -200,6 +207,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: because of sickness,46
 2023,Male,Cause: because of sickness,8
 2024,Male,Cause: because of sickness,27
+2025,Male,Cause: because of sickness,46
 2005,Male,Cause: Children with disabilities,908
 2006,Male,Cause: Children with disabilities,812
 2007,Male,Cause: Children with disabilities,756
@@ -220,6 +228,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Male,Cause: Children with disabilities,1021
 2023,Male,Cause: Children with disabilities,1063
 2024,Male,Cause: Children with disabilities,1085
+2025,Male,Cause: Children with disabilities,1100
 2005,Male,Cause: other reasons,102
 2006,Male,Cause: other reasons,147
 2007,Male,Cause: other reasons,144
@@ -248,6 +257,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,,1019
 2023,Female,,948
 2024,Female,,946
+2025,Female,,868
 2005,Female,Cause: material difficulty,137
 2006,Female,Cause: material difficulty,120
 2007,Female,Cause: material difficulty,101
@@ -268,6 +278,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: material difficulty,15
 2023,Female,Cause: material difficulty,16
 2024,Female,Cause: material difficulty,17
+2025,Female,Cause: material difficulty,15
 2005,Female,Cause: unwillingness of parents,41
 2006,Female,Cause: unwillingness of parents,86
 2007,Female,Cause: unwillingness of parents,64
@@ -287,6 +298,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2021,Female,Cause: unwillingness of parents,4
 2022,Female,Cause: unwillingness of parents,30
 2023,Female,Cause: unwillingness of parents,3
+2025,Female,Cause: unwillingness of parents,2
 2013,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",5
 2015,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",3
 2016,Female,"Cause: lack of the necessary documents ( birth certificates, registration)",6
@@ -311,6 +323,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: for domestic reasons,179
 2023,Female,Cause: for domestic reasons,111
 2024,Female,Cause: for domestic reasons,30
+2025,Female,Cause: for domestic reasons,74
 2005,Female,Cause: no wishes to learn,64
 2006,Female,Cause: no wishes to learn,75
 2007,Female,Cause: no wishes to learn,55
@@ -331,6 +344,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: no wishes to learn,16
 2023,Female,Cause: no wishes to learn,14
 2024,Female,Cause: no wishes to learn,11
+2025,Female,Cause: no wishes to learn,3
 2005,Female,Cause: troubled families,31
 2006,Female,Cause: troubled families,22
 2007,Female,Cause: troubled families,39
@@ -351,6 +365,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: troubled families,8
 2023,Female,Cause: troubled families,4
 2024,Female,Cause: troubled families,3
+2025,Female,Cause: troubled families,5
 2005,Female,Cause: lack knowledge of language,14
 2006,Female,Cause: lack knowledge of language,1
 2007,Female,Cause: lack knowledge of language,2
@@ -386,6 +401,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: working,46
 2023,Female,Cause: working,9
 2024,Female,Cause: working,18
+2025,Female,Cause: working,3
 2018,Female,Cause: lack of transportation (school too far from home),2
 2013,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",4
 2014,Female,"Cause: Temporary seasonal work ( with / x work , grazing in the pasture )",7
@@ -422,6 +438,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: because of sickness,25
 2023,Female,Cause: because of sickness,7
 2024,Female,Cause: because of sickness,21
+2025,Female,Cause: because of sickness,10
 2005,Female,Cause: Children with disabilities,658
 2006,Female,Cause: Children with disabilities,585
 2007,Female,Cause: Children with disabilities,535
@@ -442,6 +459,7 @@ Year,Sex,COMPOSITE_BREAKDOWN,Value
 2022,Female,Cause: Children with disabilities,699
 2023,Female,Cause: Children with disabilities,783
 2024,Female,Cause: Children with disabilities,780
+2025,Female,Cause: Children with disabilities,756
 2005,Female,Cause: other reasons,64
 2006,Female,Cause: other reasons,108
 2007,Female,Cause: other reasons,111
