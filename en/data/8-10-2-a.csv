@@ -14,6 +14,7 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2022,Units,Number of reporting insurance companies,Number,15.0
 2023,Units,Number of reporting insurance companies,Number,16.0
 2024,Units,Number of reporting insurance companies,Number,16.0
+2025,Units,Number of reporting insurance companies,Number,19.0
 2010,Millions,Insurance premium income,Local currency,477.2
 2011,Millions,Insurance premium income,Local currency,292.9
 2012,Millions,Insurance premium income,Local currency,337.8
@@ -29,3 +30,4 @@ Year,Unit multiplier,SERIES,UNIT_MEASURE,Value
 2022,Millions,Insurance premium income,Local currency,2130.4
 2023,Millions,Insurance premium income,Local currency,3031.4
 2024,Millions,Insurance premium income,Local currency,5200.5
+2025,Millions,Insurance premium income,Local currency,10206.1

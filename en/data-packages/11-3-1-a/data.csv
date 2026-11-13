@@ -9,6 +9,7 @@ Year,Degree of urbanisation,Value
 2022,,70376
 2023,,71619
 2024,,72818
+2025,,74043
 2015,Urban,20328
 2016,Urban,20776
 2017,Urban,21252
@@ -19,6 +20,7 @@ Year,Degree of urbanisation,Value
 2022,Urban,24537
 2023,Urban,29784
 2024,Urban,30373
+2025,Urban,31317
 2015,Rural,40758
 2016,Rural,41645
 2017,Rural,42461
@@ -29,3 +31,4 @@ Year,Degree of urbanisation,Value
 2022,Rural,45839
 2023,Rural,41835
 2024,Rural,42445
+2025,Rural,42726
