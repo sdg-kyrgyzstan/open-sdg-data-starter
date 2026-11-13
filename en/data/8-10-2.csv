@@ -6,6 +6,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,,,39.085887
 2023,,,15 years old and over,,,,,45.94958
 2024,,,15 years old and over,,,,,58.8
+2025,,,15 years old and over,,,,,64.6
 2018,,,15 years old and over,Urban,,,,28.1
 2019,,,15 years old and over,Urban,,,,36.797119
 2020,,,15 years old and over,Urban,,,,38.037471
@@ -13,6 +14,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,Urban,,,,44.724599
 2023,,,15 years old and over,Urban,,,,50.315129
 2024,,,15 years old and over,Urban,,,,62.1
+2025,,,15 years old and over,Urban,,,,71.6
 2018,,,15 years old and over,Rural,,,,22.2
 2019,,,15 years old and over,Rural,,,,29.421489
 2020,,,15 years old and over,Rural,,,,34.606561
@@ -20,6 +22,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,Rural,,,,35.518984
 2023,,,15 years old and over,Rural,,,,43.219999
 2024,,,15 years old and over,Rural,,,,56.0
+2025,,,15 years old and over,Rural,,,,58.9
 2018,,Male,15 years old and over,,,,,23.4
 2019,,Male,15 years old and over,,,,,30.211974
 2020,,Male,15 years old and over,,,,,33.229388
@@ -27,6 +30,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,Male,15 years old and over,,,,,36.217649
 2023,,Male,15 years old and over,,,,,44.415418
 2024,,Male,15 years old and over,,,,,58.0
+2025,,Male,15 years old and over,,,,,65.8
 2018,,Female,15 years old and over,,,,,25.2
 2019,,Female,15 years old and over,,,,,33.807908
 2020,,Female,15 years old and over,,,,,38.177301
@@ -34,6 +38,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,Female,15 years old and over,,,,,41.476188
 2023,,Female,15 years old and over,,,,,47.251391
 2024,,Female,15 years old and over,,,,,59.5
+2025,,Female,15 years old and over,,,,,63.6
 2018,Batken,,15 years old and over,,,,KG05,11.9
 2019,Batken,,15 years old and over,,,,KG05,20.274736
 2020,Batken,,15 years old and over,,,,KG05,26.775957
@@ -41,6 +46,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Batken,,15 years old and over,,,,KG05,32.430346
 2023,Batken,,15 years old and over,,,,KG05,41.66781
 2024,Batken,,15 years old and over,,,,KG05,52.7
+2025,Batken,,15 years old and over,,,,KG05,55.3
 2018,Jalal-Abad,,15 years old and over,,,,KG03,13.1
 2019,Jalal-Abad,,15 years old and over,,,,KG03,26.361287
 2020,Jalal-Abad,,15 years old and over,,,,KG03,26.539366
@@ -48,6 +54,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Jalal-Abad,,15 years old and over,,,,KG03,30.944932
 2023,Jalal-Abad,,15 years old and over,,,,KG03,41.486442
 2024,Jalal-Abad,,15 years old and over,,,,KG03,48.4
+2025,Jalal-Abad,,15 years old and over,,,,KG03,45.6
 2018,Issyk-Kul,,15 years old and over,,,,KG02,8.8
 2019,Issyk-Kul,,15 years old and over,,,,KG02,9.973074
 2020,Issyk-Kul,,15 years old and over,,,,KG02,27.245677
@@ -55,6 +62,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Issyk-Kul,,15 years old and over,,,,KG02,38.701564
 2023,Issyk-Kul,,15 years old and over,,,,KG02,52.909629
 2024,Issyk-Kul,,15 years old and over,,,,KG02,64.5
+2025,Issyk-Kul,,15 years old and over,,,,KG02,63.3
 2018,Naryn,,15 years old and over,,,,KG04,35.3
 2019,Naryn,,15 years old and over,,,,KG04,43.200634
 2020,Naryn,,15 years old and over,,,,KG04,40.824543
@@ -62,6 +70,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Naryn,,15 years old and over,,,,KG04,58.238267
 2023,Naryn,,15 years old and over,,,,KG04,62.57402
 2024,Naryn,,15 years old and over,,,,KG04,68.0
+2025,Naryn,,15 years old and over,,,,KG04,70.9
 2018,Osh,,15 years old and over,,,,KG06,30.7
 2019,Osh,,15 years old and over,,,,KG06,37.460737
 2020,Osh,,15 years old and over,,,,KG06,43.889458
@@ -69,6 +78,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Osh,,15 years old and over,,,,KG06,43.927782
 2023,Osh,,15 years old and over,,,,KG06,50.089747
 2024,Osh,,15 years old and over,,,,KG06,69.3
+2025,Osh,,15 years old and over,,,,KG06,64.9
 2018,Talas,,15 years old and over,,,,KG07,18.4
 2019,Talas,,15 years old and over,,,,KG07,32.044373
 2020,Talas,,15 years old and over,,,,KG07,33.277756
@@ -76,6 +86,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Talas,,15 years old and over,,,,KG07,40.137596
 2023,Talas,,15 years old and over,,,,KG07,44.864452
 2024,Talas,,15 years old and over,,,,KG07,58.8
+2025,Talas,,15 years old and over,,,,KG07,72.3
 2018,Chui,,15 years old and over,,,,KG08,35.9
 2019,Chui,,15 years old and over,,,,KG08,41.213464
 2020,Chui,,15 years old and over,,,,KG08,43.885818
@@ -83,6 +94,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Chui,,15 years old and over,,,,KG08,32.977038
 2023,Chui,,15 years old and over,,,,KG08,35.967163
 2024,Chui,,15 years old and over,,,,KG08,45.0
+2025,Chui,,15 years old and over,,,,KG08,56.5
 2018,Bishkek (city),,15 years old and over,,,,KG11,30.8
 2019,Bishkek (city),,15 years old and over,,,,KG11,34.961164
 2020,Bishkek (city),,15 years old and over,,,,KG11,38.853903
@@ -90,6 +102,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Bishkek (city),,15 years old and over,,,,KG11,44.695765
 2023,Bishkek (city),,15 years old and over,,,,KG11,47.242248
 2024,Bishkek (city),,15 years old and over,,,,KG11,62.2
+2025,Bishkek (city),,15 years old and over,,,,KG11,81.8
 2018,Osh (city),,15 years old and over,,,,KG21,23.3
 2019,Osh (city),,15 years old and over,,,,KG21,40.128114
 2020,Osh (city),,15 years old and over,,,,KG21,31.952317
@@ -97,6 +110,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,Osh (city),,15 years old and over,,,,KG21,44.154401
 2023,Osh (city),,15 years old and over,,,,KG21,57.053084
 2024,Osh (city),,15 years old and over,,,,KG21,73.5
+2025,Osh (city),,15 years old and over,,,,KG21,84.1
 2018,,,15 to 28 years old,,,,,12.7
 2019,,,15 to 28 years old,,,,,16.40832
 2020,,,15 to 28 years old,,,,,18.496814
@@ -104,6 +118,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 to 28 years old,,,,,17.375255
 2023,,,15 to 28 years old,,,,,23.872923
 2024,,,15 to 28 years old,,,,,32.8
+2025,,,15 to 28 years old,,,,,48.2
 2018,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,26.3
 2019,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,33.477733
 2020,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,37.033088
@@ -111,6 +126,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,40.007538
 2023,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,48.277417
 2024,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,63.2
+2025,,,"29 to 62 years old (working age population: women under 57 years old, men under 62 years old)",,,,,67.9
 2018,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,39.5
 2019,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,55.192244
 2020,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,59.619519
@@ -118,6 +134,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,67.680041
 2023,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,69.714657
 2024,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,80.4
+2025,,,"58 years old and over (population over working age: women 58 years and older, men 63 years and older)",,,,,79.5
 2018,,,15 years old and over,,,Primary education,,17.0
 2019,,,15 years old and over,,,Primary education,,25.253959
 2020,,,15 years old and over,,,Primary education,,24.636899
@@ -125,6 +142,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,Primary education,,23.074575
 2023,,,15 years old and over,,,Primary education,,21.777107
 2024,,,15 years old and over,,,Primary education,,27.0
+2025,,,15 years old and over,,,Primary education,,30.2
 2018,,,15 years old and over,,,Lower secondary education,,10.8
 2019,,,15 years old and over,,,Lower secondary education,,15.506281
 2020,,,15 years old and over,,,Lower secondary education,,18.134313
@@ -132,6 +150,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,Lower secondary education,,18.330539
 2023,,,15 years old and over,,,Lower secondary education,,24.75644
 2024,,,15 years old and over,,,Lower secondary education,,30.5
+2025,,,15 years old and over,,,Lower secondary education,,43.5
 2018,,,15 years old and over,,,Upper secondary education,,18.2
 2019,,,15 years old and over,,,Upper secondary education,,25.60731
 2020,,,15 years old and over,,,Upper secondary education,,29.738081
@@ -139,6 +158,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,Upper secondary education,,33.251389
 2023,,,15 years old and over,,,Upper secondary education,,41.781083
 2024,,,15 years old and over,,,Upper secondary education,,57.2
+2025,,,15 years old and over,,,Upper secondary education,,61.3
 2018,,,15 years old and over,,,Post-secondary non-tertiary education,,32.1
 2019,,,15 years old and over,,,Post-secondary non-tertiary education,,39.576314
 2020,,,15 years old and over,,,Post-secondary non-tertiary education,,44.647997
@@ -146,6 +166,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,Post-secondary non-tertiary education,,48.411721
 2023,,,15 years old and over,,,Post-secondary non-tertiary education,,55.952588
 2024,,,15 years old and over,,,Post-secondary non-tertiary education,,69.1
+2025,,,15 years old and over,,,Post-secondary non-tertiary education,,75.1
 2018,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,44.1
 2019,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,54.556962
 2020,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,57.646116
@@ -153,6 +174,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,62.32607
 2023,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,65.760348
 2024,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,77.3
+2025,,,15 years old and over,,,Tertiary education (Bachelor’s and Master's or equivalent),,82.7
 2018,,,15 years old and over,,Quintile 1 (poorest),,,12.285869
 2019,,,15 years old and over,,Quintile 1 (poorest),,,19.928329
 2020,,,15 years old and over,,Quintile 1 (poorest),,,23.264547
@@ -160,6 +182,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,Quintile 1 (poorest),,,28.434755
 2023,,,15 years old and over,,Quintile 1 (poorest),,,36.943115
 2024,,,15 years old and over,,Quintile 1 (poorest),,,48.5
+2025,,,15 years old and over,,Quintile 1 (poorest),,,49.2
 2018,,,15 years old and over,,Quintile 2,,,20.108219
 2019,,,15 years old and over,,Quintile 2,,,29.54173
 2020,,,15 years old and over,,Quintile 2,,,35.464543
@@ -167,6 +190,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,Quintile 2,,,36.417518
 2023,,,15 years old and over,,Quintile 2,,,43.758492
 2024,,,15 years old and over,,Quintile 2,,,55.8
+2025,,,15 years old and over,,Quintile 2,,,59.9
 2018,,,15 years old and over,,Quintile 3,,,23.688371
 2019,,,15 years old and over,,Quintile 3,,,31.242776
 2020,,,15 years old and over,,Quintile 3,,,39.252696
@@ -174,6 +198,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,Quintile 3,,,40.969805
 2023,,,15 years old and over,,Quintile 3,,,45.502117
 2024,,,15 years old and over,,Quintile 3,,,57.7
+2025,,,15 years old and over,,Quintile 3,,,66.1
 2018,,,15 years old and over,,Quintile 4,,,28.405545
 2019,,,15 years old and over,,Quintile 4,,,36.901646
 2020,,,15 years old and over,,Quintile 4,,,39.606036
@@ -181,6 +206,7 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,Quintile 4,,,42.296455
 2023,,,15 years old and over,,Quintile 4,,,47.369936
 2024,,,15 years old and over,,Quintile 4,,,62.3
+2025,,,15 years old and over,,Quintile 4,,,69.1
 2018,,,15 years old and over,,Quintile 5 (richest),,,32.674186
 2019,,,15 years old and over,,Quintile 5 (richest),,,38.816776
 2020,,,15 years old and over,,Quintile 5 (richest),,,46.669807
@@ -188,3 +214,4 @@ Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Edu
 2022,,,15 years old and over,,Quintile 5 (richest),,,51.345982
 2023,,,15 years old and over,,Quintile 5 (richest),,,52.665873
 2024,,,15 years old and over,,Quintile 5 (richest),,,65.3
+2025,,,15 years old and over,,Quintile 5 (richest),,,73.3
