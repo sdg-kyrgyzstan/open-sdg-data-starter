@@ -11,6 +11,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,,,24.6
 2023,,,,28.347848
 2024,,,,32.3
+2025,,,,34.7
 2013,,Urban,,31.6
 2014,,Urban,,32.3
 2015,,Urban,,31.1
@@ -23,6 +24,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,Urban,,40.7
 2023,,Urban,,39.999447
 2024,,Urban,,38.12291
+2025,,Urban,,41.0
 2013,,Rural,,10.8
 2014,,Rural,,13.2
 2015,,Rural,,14.2
@@ -35,6 +37,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,,Rural,,20.7
 2023,,Rural,,23.198557
 2024,,Rural,,28.781913
+2025,,Rural,,31.1
 2013,Batken,,KG05,16.1
 2014,Batken,,KG05,19.6
 2015,Batken,,KG05,20.6
@@ -47,6 +50,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Batken,,KG05,26.6
 2023,Batken,,KG05,27.597877
 2024,Batken,,KG05,31.083564
+2025,Batken,,KG05,34.1
 2013,Batken,Urban,KG05,33.3
 2014,Batken,Urban,KG05,33.1
 2015,Batken,Urban,KG05,30.5
@@ -59,6 +63,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Batken,Urban,KG05,44.5
 2023,Batken,Urban,KG05,47.175678
 2024,Batken,Urban,KG05,38.840239
+2025,Batken,Urban,KG05,42.1
 2013,Batken,Rural,KG05,10.2
 2014,Batken,Rural,KG05,14.6
 2015,Batken,Rural,KG05,16.7
@@ -71,6 +76,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Batken,Rural,KG05,21.9
 2023,Batken,Rural,KG05,22.175799
 2024,Batken,Rural,KG05,27.806512
+2025,Batken,Rural,KG05,31.0
 2013,Jalal-Abad,,KG03,15.2
 2014,Jalal-Abad,,KG03,15.5
 2015,Jalal-Abad,,KG03,16.1
@@ -83,6 +89,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Jalal-Abad,,KG03,21.9
 2023,Jalal-Abad,,KG03,24.100104
 2024,Jalal-Abad,,KG03,27.79338
+2025,Jalal-Abad,,KG03,30.4
 2013,Jalal-Abad,Urban,KG03,27.4
 2014,Jalal-Abad,Urban,KG03,28.5
 2015,Jalal-Abad,Urban,KG03,28.4
@@ -95,6 +102,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Jalal-Abad,Urban,KG03,35.3
 2023,Jalal-Abad,Urban,KG03,38.296288
 2024,Jalal-Abad,Urban,KG03,31.275528
+2025,Jalal-Abad,Urban,KG03,36.9
 2013,Jalal-Abad,Rural,KG03,10.3
 2014,Jalal-Abad,Rural,KG03,11.8
 2015,Jalal-Abad,Rural,KG03,12.6
@@ -107,6 +115,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Jalal-Abad,Rural,KG03,17.6
 2023,Jalal-Abad,Rural,KG03,19.41025
 2024,Jalal-Abad,Rural,KG03,26.039486
+2025,Jalal-Abad,Rural,KG03,27.5
 2013,Issyk-Kul,,KG02,17.4
 2014,Issyk-Kul,,KG02,18.8
 2015,Issyk-Kul,,KG02,20.9
@@ -119,6 +128,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Issyk-Kul,,KG02,28.0
 2023,Issyk-Kul,,KG02,30.400175
 2024,Issyk-Kul,,KG02,34.493449
+2025,Issyk-Kul,,KG02,37.8
 2013,Issyk-Kul,Urban,KG02,34.2
 2014,Issyk-Kul,Urban,KG02,33.3
 2015,Issyk-Kul,Urban,KG02,34.6
@@ -131,6 +141,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Issyk-Kul,Urban,KG02,44.9
 2023,Issyk-Kul,Urban,KG02,44.562135
 2024,Issyk-Kul,Urban,KG02,46.244641
+2025,Issyk-Kul,Urban,KG02,51.9
 2013,Issyk-Kul,Rural,KG02,9.4
 2014,Issyk-Kul,Rural,KG02,11.1
 2015,Issyk-Kul,Rural,KG02,12.8
@@ -143,6 +154,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Issyk-Kul,Rural,KG02,21.5
 2023,Issyk-Kul,Rural,KG02,24.612036
 2024,Issyk-Kul,Rural,KG02,28.681379
+2025,Issyk-Kul,Rural,KG02,31.6
 2013,Naryn,,KG04,19.6
 2014,Naryn,,KG04,25.7
 2015,Naryn,,KG04,22.3
@@ -155,6 +167,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Naryn,,KG04,36.2
 2023,Naryn,,KG04,39.266684
 2024,Naryn,,KG04,43.248912
+2025,Naryn,,KG04,45.3
 2013,Naryn,Urban,KG04,32.6
 2014,Naryn,Urban,KG04,36.8
 2015,Naryn,Urban,KG04,17.2
@@ -167,6 +180,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Naryn,Urban,KG04,53.1
 2023,Naryn,Urban,KG04,54.818496
 2024,Naryn,Urban,KG04,62.911684
+2025,Naryn,Urban,KG04,63.1
 2013,Naryn,Rural,KG04,17.5
 2014,Naryn,Rural,KG04,23.7
 2015,Naryn,Rural,KG04,9.8
@@ -179,6 +193,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Naryn,Rural,KG04,33.4
 2023,Naryn,Rural,KG04,36.591078
 2024,Naryn,Rural,KG04,39.799823
+2025,Naryn,Rural,KG04,42.4
 2013,Osh,,KG06,11.6
 2014,Osh,,KG06,13.1
 2015,Osh,,KG06,14.3
@@ -191,6 +206,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Osh,,KG06,20.2
 2023,Osh,,KG06,23.89052
 2024,Osh,,KG06,29.227268
+2025,Osh,,KG06,31.3
 2013,Osh,Urban,KG06,15.0
 2014,Osh,Urban,KG06,16.4
 2015,Osh,Urban,KG06,15.2
@@ -203,6 +219,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Osh,Urban,KG06,15.4
 2023,Osh,Urban,KG06,16.930852
 2024,Osh,Urban,KG06,16.299842
+2025,Osh,Urban,KG06,17.2
 2013,Osh,Rural,KG06,11.4
 2014,Osh,Rural,KG06,12.9
 2015,Osh,Rural,KG06,14.2
@@ -215,6 +232,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Osh,Rural,KG06,20.5
 2023,Osh,Rural,KG06,24.38698
 2024,Osh,Rural,KG06,30.615533
+2025,Osh,Rural,KG06,32.9
 2013,Talas,,KG07,14.4
 2014,Talas,,KG07,17.0
 2015,Talas,,KG07,20.6
@@ -227,6 +245,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Talas,,KG07,27.1
 2023,Talas,,KG07,28.9197
 2024,Talas,,KG07,33.185589
+2025,Talas,,KG07,35.2
 2013,Talas,Urban,KG07,49.4
 2014,Talas,Urban,KG07,58.4
 2015,Talas,Urban,KG07,66.1
@@ -239,6 +258,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Talas,Urban,KG07,36.1
 2023,Talas,Urban,KG07,37.932835
 2024,Talas,Urban,KG07,44.506937
+2025,Talas,Urban,KG07,47.3
 2013,Talas,Rural,KG07,10.3
 2014,Talas,Rural,KG07,12.3
 2015,Talas,Rural,KG07,15.8
@@ -251,6 +271,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Talas,Rural,KG07,25.2
 2023,Talas,Rural,KG07,26.985549
 2024,Talas,Rural,KG07,30.885266
+2025,Talas,Rural,KG07,33.1
 2013,Chui,,KG08,12.5
 2014,Chui,,KG08,16.0
 2015,Chui,,KG08,16.5
@@ -263,6 +284,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Chui,,KG08,24.2
 2023,Chui,,KG08,27.190144
 2024,Chui,,KG08,29.408126
+2025,Chui,,KG08,32.0
 2013,Chui,Urban,KG08,24.3
 2014,Chui,Urban,KG08,27.6
 2015,Chui,Urban,KG08,26.3
@@ -275,6 +297,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Chui,Urban,KG08,46.5
 2023,Chui,Urban,KG08,54.006769
 2024,Chui,Urban,KG08,48.11463
+2025,Chui,Urban,KG08,50.6
 2013,Chui,Rural,KG08,9.3
 2014,Chui,Rural,KG08,12.6
 2015,Chui,Rural,KG08,13.3
@@ -287,6 +310,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Chui,Rural,KG08,20.3
 2023,Chui,Rural,KG08,22.334625
 2024,Chui,Rural,KG08,25.085835
+2025,Chui,Rural,KG08,27.8
 2013,Bishkek (city),Urban,KG11,31.0
 2014,Bishkek (city),Urban,KG11,29.4
 2015,Bishkek (city),Urban,KG11,27.9
@@ -299,6 +323,7 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Bishkek (city),Urban,KG11,40.5
 2023,Bishkek (city),Urban,KG11,36.014616
 2024,Bishkek (city),Urban,KG11,39.199495
+2025,Bishkek (city),Urban,KG11,43.2
 2013,Osh (city),Urban,KG21,41.9
 2014,Osh (city),Urban,KG21,49.7
 2015,Osh (city),Urban,KG21,48.2
@@ -311,3 +336,4 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2022,Osh (city),Urban,KG21,44.5
 2023,Osh (city),Urban,KG21,42.081209
 2024,Osh (city),Urban,KG21,40.756672
+2025,Osh (city),Urban,KG21,40.0

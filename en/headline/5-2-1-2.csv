@@ -14,6 +14,7 @@ Year,Value,SERIES
 2022,1373,Number of women reporting domestic violence to forensic medical examination departments
 2023,1209,Number of women reporting domestic violence to forensic medical examination departments
 2024,1423,Number of women reporting domestic violence to forensic medical examination departments
+2025,1428,Number of women reporting domestic violence to forensic medical examination departments
 2010,68,Number of women reporting domestic violence to feldsher-midwife stations
 2011,155,Number of women reporting domestic violence to feldsher-midwife stations
 2012,16,Number of women reporting domestic violence to feldsher-midwife stations
@@ -40,6 +41,7 @@ Year,Value,SERIES
 2022,117,Number of women reporting domestic violence to primary health care organizations providing medical and preventive services (PHC)
 2023,373,Number of women reporting domestic violence to primary health care organizations providing medical and preventive services (PHC)
 2024,435,Number of women reporting domestic violence to primary health care organizations providing medical and preventive services (PHC)
+2025,272,Number of women reporting domestic violence to primary health care organizations providing medical and preventive services (PHC)
 2010,414,Number of women reporting domestic violence to emergency medical services (EMS)
 2011,320,Number of women reporting domestic violence to emergency medical services (EMS)
 2012,498,Number of women reporting domestic violence to emergency medical services (EMS)
@@ -55,6 +57,7 @@ Year,Value,SERIES
 2022,154,Number of women reporting domestic violence to emergency medical services (EMS)
 2023,115,Number of women reporting domestic violence to emergency medical services (EMS)
 2024,158,Number of women reporting domestic violence to emergency medical services (EMS)
+2025,163,Number of women reporting domestic violence to emergency medical services (EMS)
 2010,445,Number of women treated for health conditions (injuries) resulting from domestic violence
 2011,491,Number of women treated for health conditions (injuries) resulting from domestic violence
 2012,504,Number of women treated for health conditions (injuries) resulting from domestic violence
@@ -70,3 +73,4 @@ Year,Value,SERIES
 2022,885,Number of women treated for health conditions (injuries) resulting from domestic violence
 2023,781,Number of women treated for health conditions (injuries) resulting from domestic violence
 2024,925,Number of women treated for health conditions (injuries) resulting from domestic violence
+2025,930,Number of women treated for health conditions (injuries) resulting from domestic violence
