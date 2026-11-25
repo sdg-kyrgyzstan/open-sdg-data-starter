@@ -10,6 +10,7 @@ Year,SERIES,Value
 2021,Annual net change rate of forest area (hectares),212.1
 2022,Annual net change rate of forest area (hectares),723.8
 2023,Annual net change rate of forest area (hectares),583.5
+2025,Annual net change rate of forest area (hectares),383.19
 2013,Above-ground biomass in forest per hectare (tonnes per hectare),26.7
 2013,Proportion of forest area within legally established protected areas,5.7
 2014,Proportion of forest area within legally established protected areas,5.7
@@ -20,6 +21,8 @@ Year,SERIES,Value
 2019,Proportion of forest area within legally established protected areas,9.8
 2020,Proportion of forest area within legally established protected areas,9.8
 2021,Proportion of forest area within legally established protected areas,9.8
+2022,Proportion of forest area within legally established protected areas,9.8
+2023,Proportion of forest area within legally established protected areas,9.8
 2024,Proportion of forest area within legally established protected areas,9.8
 2025,Proportion of forest area within legally established protected areas,9.8
 2013,Proportion of forest area with a long-term management plan,74.6
@@ -33,3 +36,5 @@ Year,SERIES,Value
 2021,Proportion of forest area with a long-term management plan,64.0
 2022,Proportion of forest area with a long-term management plan,64.0
 2023,Proportion of forest area with a long-term management plan,64.08
+2024,Proportion of forest area with a long-term management plan,64.0
+2025,Proportion of forest area with a long-term management plan,64.0
